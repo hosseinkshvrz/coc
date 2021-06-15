@@ -1,0 +1,869 @@
+repository_url,user_login,user_name,user_location,pull_number,pull_current_state,pull_creation_date,pull_closing_date,pull_merged,pull_merge_date,pull_comment_count
+fsprojects/Fantomas,DedSec256,Alex Berezhnykh,Saint-Petersburg State University,1680,open,2021-04-26 11:02:37,,False,,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1379,open,2021-01-22 12:47:13,,False,,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1778,closed,2021-06-12 10:14:49,2021-06-12 10:31:17,True,2021-06-12 10:31:17,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1772,closed,2021-06-09 15:32:20,2021-06-09 15:42:36,True,2021-06-09 15:42:36,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1770,closed,2021-06-06 09:02:02,2021-06-06 09:11:52,True,2021-06-06 09:11:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1767,closed,2021-06-05 11:42:59,2021-06-05 12:02:39,True,2021-06-05 12:02:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1766,closed,2021-06-05 10:34:29,2021-06-05 10:51:28,True,2021-06-05 10:51:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1765,closed,2021-06-05 09:24:44,2021-06-05 09:37:15,True,2021-06-05 09:37:15,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1764,closed,2021-06-05 08:46:43,2021-06-05 09:10:26,True,2021-06-05 09:10:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1763,closed,2021-06-04 18:58:46,2021-06-05 08:14:16,True,2021-06-05 08:14:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1762,closed,2021-06-01 12:15:25,2021-06-01 13:58:18,True,2021-06-01 13:58:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1761,closed,2021-05-29 12:46:19,2021-05-29 12:59:49,True,2021-05-29 12:59:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1760,closed,2021-05-29 10:23:49,2021-05-29 11:36:07,True,2021-05-29 11:36:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1758,closed,2021-05-27 19:59:40,2021-05-27 20:13:28,True,2021-05-27 20:13:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1756,closed,2021-05-26 20:01:22,2021-05-26 20:08:11,True,2021-05-26 20:08:11,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1755,closed,2021-05-26 11:55:30,2021-05-26 12:02:44,True,2021-05-26 12:02:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1754,closed,2021-05-25 19:33:35,2021-05-25 19:43:47,True,2021-05-25 19:43:47,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1752,closed,2021-05-25 10:22:06,2021-05-25 10:30:08,True,2021-05-25 10:30:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1751,closed,2021-05-24 18:24:45,2021-05-26 19:57:14,True,2021-05-26 19:57:14,3
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1747,closed,2021-05-22 13:06:09,2021-05-22 13:18:54,True,2021-05-22 13:18:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1745,closed,2021-05-22 12:31:10,2021-05-22 12:40:05,True,2021-05-22 12:40:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1744,closed,2021-05-22 12:03:15,2021-05-22 12:12:07,True,2021-05-22 12:12:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1743,closed,2021-05-22 11:14:21,2021-05-22 11:21:21,True,2021-05-22 11:21:20,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1742,closed,2021-05-22 08:35:10,2021-05-22 08:43:06,True,2021-05-22 08:43:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1739,closed,2021-05-21 11:17:57,2021-05-21 11:35:54,True,2021-05-21 11:35:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1738,closed,2021-05-21 10:44:47,2021-05-21 10:51:48,True,2021-05-21 10:51:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1737,closed,2021-05-21 08:29:50,2021-05-21 08:38:52,True,2021-05-21 08:38:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1736,closed,2021-05-20 18:31:07,2021-05-21 09:12:12,True,2021-05-21 09:12:12,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1735,closed,2021-05-20 06:33:54,2021-05-20 06:41:19,True,2021-05-20 06:41:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1734,closed,2021-05-19 19:07:31,2021-05-19 19:33:52,True,2021-05-19 19:33:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1733,closed,2021-05-19 18:53:27,2021-05-19 19:00:32,True,2021-05-19 19:00:32,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1732,closed,2021-05-19 18:09:12,2021-05-19 18:48:08,True,2021-05-19 18:48:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1731,closed,2021-05-19 06:34:35,2021-05-19 06:42:34,True,2021-05-19 06:42:34,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1730,closed,2021-05-18 18:01:16,2021-05-18 19:55:04,True,2021-05-18 19:55:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1727,closed,2021-05-16 08:45:21,2021-05-16 17:45:17,True,2021-05-16 17:45:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1726,closed,2021-05-15 11:53:05,2021-05-15 11:59:08,True,2021-05-15 11:59:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1725,closed,2021-05-15 11:16:43,2021-05-15 11:21:48,True,2021-05-15 11:21:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1724,closed,2021-05-15 08:57:56,2021-05-15 11:11:05,True,2021-05-15 11:11:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1723,closed,2021-05-14 19:08:29,2021-05-15 07:00:11,True,2021-05-15 07:00:10,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1722,closed,2021-05-14 18:25:10,2021-05-14 18:38:33,True,2021-05-14 18:38:33,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1720,closed,2021-05-11 18:24:26,2021-05-11 19:40:31,True,2021-05-11 19:40:31,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1710,closed,2021-05-09 13:20:34,2021-05-09 13:45:11,True,2021-05-09 13:45:10,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1708,closed,2021-05-08 12:44:36,2021-05-08 12:51:41,True,2021-05-08 12:51:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1707,closed,2021-05-08 12:11:00,2021-05-08 12:22:29,True,2021-05-08 12:22:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1706,closed,2021-05-08 10:02:27,2021-05-08 10:08:52,True,2021-05-08 10:08:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1705,closed,2021-05-07 20:27:07,2021-05-07 20:32:45,True,2021-05-07 20:32:45,0
+fsprojects/Fantomas,pbiggar,Paul Biggar,New York,1703,closed,2021-05-06 16:10:35,2021-05-07 18:24:30,True,2021-05-07 18:24:30,0
+fsprojects/Fantomas,pbiggar,Paul Biggar,New York,1702,closed,2021-05-06 16:02:39,2021-05-08 20:14:38,True,2021-05-08 20:14:38,2
+fsprojects/Fantomas,pbiggar,Paul Biggar,New York,1701,closed,2021-05-06 15:33:14,2021-05-07 07:23:29,True,2021-05-07 07:23:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1699,closed,2021-05-05 19:46:43,2021-05-08 09:54:32,True,2021-05-08 09:54:32,2
+fsprojects/Fantomas,stanciuadrian,Adrian Stanciu,"Craiova, Romania",1697,closed,2021-05-05 16:54:24,2021-05-06 06:41:23,True,2021-05-06 06:41:23,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1694,closed,2021-05-01 14:19:52,2021-05-01 14:37:19,True,2021-05-01 14:37:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1693,closed,2021-04-30 16:21:50,2021-05-01 13:51:47,True,2021-05-01 13:51:47,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1692,closed,2021-04-30 15:19:52,2021-04-30 15:28:40,True,2021-04-30 15:28:40,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1691,closed,2021-04-30 14:56:18,2021-04-30 15:06:41,True,2021-04-30 15:06:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1690,closed,2021-04-30 10:00:27,2021-04-30 10:42:41,True,2021-04-30 10:42:40,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1689,closed,2021-04-30 09:20:30,2021-04-30 09:29:20,True,2021-04-30 09:29:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1688,closed,2021-04-30 08:40:34,2021-04-30 08:48:37,True,2021-04-30 08:48:36,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1684,closed,2021-04-27 12:31:23,2021-04-27 12:41:23,True,2021-04-27 12:41:23,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1683,closed,2021-04-27 11:12:06,2021-04-27 11:21:51,True,2021-04-27 11:21:51,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1682,closed,2021-04-27 08:56:13,2021-04-27 09:56:56,True,2021-04-27 09:56:56,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1679,closed,2021-04-23 15:09:02,2021-04-23 15:16:03,True,2021-04-23 15:16:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1678,closed,2021-04-23 14:52:33,2021-04-26 11:12:20,True,2021-04-26 11:12:20,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1675,closed,2021-04-23 12:28:45,2021-04-23 12:47:41,True,2021-04-23 12:47:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1674,closed,2021-04-23 06:53:40,2021-04-23 07:02:28,True,2021-04-23 07:02:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1672,closed,2021-04-22 12:47:36,2021-04-26 10:30:43,True,2021-04-26 10:30:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1670,closed,2021-04-21 15:14:34,2021-04-21 15:23:45,True,2021-04-21 15:23:45,0
+fsprojects/Fantomas,rehael,Marcin W. Dąbrowski,,1669,closed,2021-04-21 13:25:58,2021-04-21 13:41:33,True,2021-04-21 13:41:32,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1667,closed,2021-04-21 07:40:14,2021-04-21 08:47:28,True,2021-04-21 08:47:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1665,closed,2021-04-20 18:26:04,2021-04-20 18:32:18,True,2021-04-20 18:32:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1664,closed,2021-04-20 18:03:03,2021-04-20 18:10:27,True,2021-04-20 18:10:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1663,closed,2021-04-20 17:43:14,2021-04-20 17:50:56,True,2021-04-20 17:50:55,0
+fsprojects/Fantomas,cxa,Realazy Xian-an CHEN,"Nanning, Guangxi, China",1661,closed,2021-04-19 15:22:13,2021-04-19 19:37:56,True,2021-04-19 19:37:56,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1659,closed,2021-04-17 10:27:29,2021-04-17 11:23:36,True,2021-04-17 11:23:36,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1657,closed,2021-04-16 15:01:37,2021-04-16 15:13:07,True,2021-04-16 15:13:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1656,closed,2021-04-16 14:24:25,2021-04-26 10:01:16,True,2021-04-26 10:01:16,5
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1655,closed,2021-04-16 06:42:41,2021-04-16 06:53:16,True,2021-04-16 06:53:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1654,closed,2021-04-16 06:28:21,2021-04-16 06:37:02,True,2021-04-16 06:37:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1653,closed,2021-04-15 16:47:40,2021-04-15 17:03:11,True,2021-04-15 17:03:11,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1652,closed,2021-04-15 16:10:13,2021-04-15 16:19:12,True,2021-04-15 16:19:11,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1644,closed,2021-04-14 13:32:10,2021-04-14 13:41:07,True,2021-04-14 13:41:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1642,closed,2021-04-14 11:33:35,2021-04-14 11:39:17,True,2021-04-14 11:39:17,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1640,closed,2021-04-13 08:11:47,2021-04-14 11:27:53,True,2021-04-14 11:27:53,1
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1639,closed,2021-04-13 06:30:40,2021-04-13 06:38:47,True,2021-04-13 06:38:47,0
+fsprojects/Fantomas,piaste,,,1636,closed,2021-04-11 22:13:49,2021-04-13 06:51:52,True,2021-04-13 06:51:51,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1635,closed,2021-04-11 18:48:05,2021-04-11 18:54:45,True,2021-04-11 18:54:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1633,closed,2021-04-11 12:42:53,2021-04-11 18:37:38,True,2021-04-11 18:37:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1632,closed,2021-04-11 08:48:38,2021-04-11 08:57:53,True,2021-04-11 08:57:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1630,closed,2021-04-10 08:50:23,2021-04-10 08:58:47,True,2021-04-10 08:58:47,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1629,closed,2021-04-10 08:20:15,2021-04-10 08:28:41,True,2021-04-10 08:28:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1627,closed,2021-04-09 08:04:50,2021-04-09 08:14:41,True,2021-04-09 08:14:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1626,closed,2021-04-08 17:50:00,2021-04-08 17:55:21,True,2021-04-08 17:55:21,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1625,closed,2021-04-08 13:47:39,2021-04-08 13:59:59,True,2021-04-08 13:59:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1623,closed,2021-04-08 13:00:20,2021-04-08 13:11:06,True,2021-04-08 13:11:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1622,closed,2021-04-08 11:48:47,2021-04-08 11:57:36,True,2021-04-08 11:57:36,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1620,closed,2021-04-08 09:38:55,2021-04-08 09:45:39,True,2021-04-08 09:45:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1619,closed,2021-04-08 09:07:14,2021-04-08 09:16:10,True,2021-04-08 09:16:10,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1618,closed,2021-04-08 08:49:04,2021-04-08 08:54:28,True,2021-04-08 08:54:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1617,closed,2021-04-08 08:17:51,2021-04-08 08:27:44,True,2021-04-08 08:27:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1616,closed,2021-04-08 07:45:04,2021-04-08 07:50:04,True,2021-04-08 07:50:04,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1615,closed,2021-04-08 06:53:05,2021-04-08 06:58:38,True,2021-04-08 06:58:37,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1614,closed,2021-04-08 06:13:29,2021-04-08 06:22:09,True,2021-04-08 06:22:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1612,closed,2021-04-06 19:47:19,2021-04-06 19:55:50,True,2021-04-06 19:55:50,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1603,closed,2021-04-05 15:33:50,2021-04-05 16:09:35,True,2021-04-05 16:09:35,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1602,closed,2021-04-05 10:55:42,2021-04-05 13:08:48,True,2021-04-05 13:08:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1600,closed,2021-04-04 19:02:22,2021-04-04 19:08:46,True,2021-04-04 19:08:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1599,closed,2021-04-04 18:41:00,2021-04-04 18:50:26,True,2021-04-04 18:50:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1596,closed,2021-04-04 13:01:09,2021-04-04 13:15:54,True,2021-04-04 13:15:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1595,closed,2021-04-04 12:15:47,2021-04-04 12:21:07,True,2021-04-04 12:21:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1593,closed,2021-04-04 08:54:18,2021-04-04 09:09:37,True,2021-04-04 09:09:36,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1592,closed,2021-04-04 08:14:45,2021-04-04 08:26:51,True,2021-04-04 08:26:51,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1591,closed,2021-04-04 07:44:03,2021-04-04 07:52:04,True,2021-04-04 07:52:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1587,closed,2021-04-03 15:30:00,2021-04-05 15:28:25,True,2021-04-05 15:28:25,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1586,closed,2021-04-03 14:31:52,2021-04-03 14:38:21,True,2021-04-03 14:38:21,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1585,closed,2021-04-03 14:04:55,2021-04-03 14:10:52,True,2021-04-03 14:10:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1583,closed,2021-04-03 13:46:30,2021-04-03 13:52:32,True,2021-04-03 13:52:32,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1582,closed,2021-04-03 13:34:48,2021-04-03 13:42:13,True,2021-04-03 13:42:13,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1581,closed,2021-04-03 12:57:19,2021-04-03 13:03:50,True,2021-04-03 13:03:50,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1580,closed,2021-04-03 11:49:58,2021-04-03 11:56:07,True,2021-04-03 11:56:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1579,closed,2021-04-03 11:11:57,2021-04-03 11:17:18,True,2021-04-03 11:17:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1578,closed,2021-04-03 10:53:58,2021-04-03 11:02:24,True,2021-04-03 11:02:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1576,closed,2021-04-02 15:58:51,2021-04-02 16:11:44,True,2021-04-02 16:11:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1575,closed,2021-04-02 07:47:25,2021-04-02 11:36:19,True,2021-04-02 11:36:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1573,closed,2021-04-01 15:58:30,2021-04-01 16:22:31,True,2021-04-01 16:22:31,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1572,closed,2021-04-01 15:42:48,2021-04-01 15:56:59,True,2021-04-01 15:56:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1568,closed,2021-04-01 13:17:06,2021-04-01 13:51:57,True,2021-04-01 13:51:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1566,closed,2021-04-01 12:52:50,2021-04-01 13:17:29,True,2021-04-01 13:17:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1565,closed,2021-04-01 12:34:01,2021-04-01 15:53:28,True,2021-04-01 15:53:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1557,closed,2021-03-31 16:34:16,2021-03-31 17:12:00,True,2021-03-31 17:11:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1555,closed,2021-03-28 09:58:24,2021-03-28 10:08:08,True,2021-03-28 10:08:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1554,closed,2021-03-28 09:34:51,2021-03-28 09:40:48,True,2021-03-28 09:40:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1553,closed,2021-03-28 08:50:46,2021-03-28 08:57:22,True,2021-03-28 08:57:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1552,closed,2021-03-27 20:30:02,2021-03-27 20:36:23,True,2021-03-27 20:36:23,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1551,closed,2021-03-27 20:02:35,2021-03-27 20:08:12,True,2021-03-27 20:08:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1547,closed,2021-03-27 09:02:59,2021-03-27 09:09:43,True,2021-03-27 09:09:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1544,closed,2021-03-26 19:27:54,2021-03-26 19:41:58,True,2021-03-26 19:41:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1542,closed,2021-03-26 17:34:33,2021-03-26 17:43:48,True,2021-03-26 17:43:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1540,closed,2021-03-26 09:30:43,2021-03-26 09:37:21,True,2021-03-26 09:37:21,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1539,closed,2021-03-26 08:13:41,2021-03-26 08:28:10,True,2021-03-26 08:28:10,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1537,closed,2021-03-25 16:37:49,2021-03-25 16:56:07,True,2021-03-25 16:56:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1535,closed,2021-03-25 10:09:39,2021-03-25 11:11:36,True,2021-03-25 11:11:35,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1534,closed,2021-03-25 07:23:32,2021-03-25 07:32:24,True,2021-03-25 07:32:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1530,closed,2021-03-21 11:28:20,2021-03-21 11:39:41,True,2021-03-21 11:39:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1528,closed,2021-03-20 07:29:53,2021-03-20 08:42:06,True,2021-03-20 08:42:06,0
+fsprojects/Fantomas,auduchinok,Eugene Auduchinok,Saint Petersburg,1525,closed,2021-03-18 08:54:22,2021-03-18 09:01:39,True,2021-03-18 09:01:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1524,closed,2021-03-18 07:35:48,2021-03-18 07:47:24,True,2021-03-18 07:47:23,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1523,closed,2021-03-17 21:02:34,2021-03-18 07:19:56,True,2021-03-18 07:19:56,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1520,closed,2021-03-14 11:19:13,2021-03-15 19:22:44,True,2021-03-15 19:22:43,5
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1519,closed,2021-03-14 10:47:12,2021-03-14 11:15:03,True,2021-03-14 11:15:02,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1517,closed,2021-03-12 19:47:11,2021-03-12 19:54:43,True,2021-03-12 19:54:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1516,closed,2021-03-12 07:51:25,2021-03-12 08:39:20,True,2021-03-12 08:39:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1513,closed,2021-03-08 19:08:56,2021-03-08 19:16:36,True,2021-03-08 19:16:36,0
+fsprojects/Fantomas,vain0x,vain0x,Japan (Osaka/Kyoto/remote),1509,closed,2021-03-06 15:05:29,2021-03-06 17:13:59,True,2021-03-06 17:13:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1506,closed,2021-03-06 13:51:04,2021-03-06 14:01:36,True,2021-03-06 14:01:36,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1505,closed,2021-03-05 14:38:13,2021-03-05 14:51:07,True,2021-03-05 14:51:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1502,closed,2021-03-05 10:30:55,2021-03-22 19:47:45,True,2021-03-22 19:47:45,11
+fsprojects/Fantomas,svdijk,,,1500,closed,2021-03-05 08:27:41,2021-03-05 08:53:53,True,2021-03-05 08:53:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1497,closed,2021-02-27 18:43:56,2021-03-13 09:04:01,True,2021-03-13 09:04:01,9
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1496,closed,2021-02-27 10:15:25,2021-02-27 10:24:36,True,2021-02-27 10:24:36,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1495,closed,2021-02-27 10:00:54,2021-02-27 10:13:49,True,2021-02-27 10:13:49,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1493,closed,2021-02-26 15:33:19,2021-03-03 07:40:00,True,2021-03-03 07:40:00,7
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1492,closed,2021-02-26 15:15:22,2021-02-26 15:24:06,True,2021-02-26 15:24:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1491,closed,2021-02-26 15:00:52,2021-02-26 15:12:03,True,2021-02-26 15:12:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1490,closed,2021-02-26 14:51:36,2021-02-26 14:57:12,True,2021-02-26 14:57:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1489,closed,2021-02-26 14:33:48,2021-02-26 14:40:00,True,2021-02-26 14:39:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1487,closed,2021-02-26 14:10:54,2021-02-26 14:23:22,True,2021-02-26 14:23:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1486,closed,2021-02-26 13:53:58,2021-02-26 14:04:25,True,2021-02-26 14:04:25,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1485,closed,2021-02-26 13:42:58,2021-02-26 13:51:07,True,2021-02-26 13:51:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1482,closed,2021-02-26 09:45:41,2021-02-26 10:32:57,True,2021-02-26 10:32:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1480,closed,2021-02-26 08:05:40,2021-02-26 08:13:24,True,2021-02-26 08:13:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1479,closed,2021-02-26 07:13:55,2021-02-26 07:22:14,True,2021-02-26 07:22:14,0
+fsprojects/Fantomas,theothornhill,Theodor Thornhill,,1478,closed,2021-02-25 13:18:39,2021-02-25 13:38:25,True,2021-02-25 13:38:25,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1475,closed,2021-02-25 08:22:50,2021-02-25 08:33:57,True,2021-02-25 08:33:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1472,closed,2021-02-23 20:34:58,2021-02-23 20:41:59,True,2021-02-23 20:41:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1471,closed,2021-02-23 20:15:19,2021-02-23 20:34:09,True,2021-02-23 20:34:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1467,closed,2021-02-21 10:39:54,2021-02-21 10:50:23,True,2021-02-21 10:50:22,0
+fsprojects/Fantomas,theothornhill,Theodor Thornhill,,1466,closed,2021-02-20 21:20:54,2021-02-21 12:36:09,True,2021-02-21 12:36:09,2
+fsprojects/Fantomas,theothornhill,Theodor Thornhill,,1465,closed,2021-02-20 19:57:57,2021-02-20 20:08:39,True,2021-02-20 20:08:39,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1462,closed,2021-02-19 13:46:31,2021-02-19 13:56:09,True,2021-02-19 13:56:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1460,closed,2021-02-19 13:21:45,2021-02-19 13:34:42,True,2021-02-19 13:34:42,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1459,closed,2021-02-19 13:07:29,2021-02-19 13:15:01,True,2021-02-19 13:15:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1458,closed,2021-02-19 12:37:20,2021-02-19 12:58:29,True,2021-02-19 12:58:29,0
+fsprojects/Fantomas,ursenzler,Urs Enzler,Switzerland,1457,closed,2021-02-18 10:47:09,2021-02-23 07:45:18,True,2021-02-23 07:45:18,2
+fsprojects/Fantomas,josh-degraw,Josh DeGraw,"UT, USA",1456,closed,2021-02-17 21:41:10,2021-02-21 20:52:05,True,2021-02-21 20:52:04,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1454,closed,2021-02-16 19:32:07,2021-02-19 12:13:21,True,2021-02-19 12:13:20,0
+fsprojects/Fantomas,johlrich,Jonathan Ohlrich,,1452,closed,2021-02-13 16:52:41,2021-02-16 12:49:44,True,2021-02-16 12:49:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1450,closed,2021-02-12 19:59:12,2021-02-12 20:07:06,True,2021-02-12 20:07:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1449,closed,2021-02-12 16:00:04,2021-02-12 17:00:18,True,2021-02-12 17:00:17,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1446,closed,2021-02-12 15:04:30,2021-02-12 15:26:22,True,2021-02-12 15:26:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1444,closed,2021-02-12 08:28:43,2021-02-12 08:36:55,True,2021-02-12 08:36:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1443,closed,2021-02-12 07:57:51,2021-02-12 08:15:03,True,2021-02-12 08:15:03,0
+fsprojects/Fantomas,btzo,Mike Bottazzo,Worldwide,1441,closed,2021-02-11 12:45:32,2021-02-11 13:26:02,True,2021-02-11 13:26:02,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1439,closed,2021-02-09 19:43:13,2021-02-09 19:52:08,True,2021-02-09 19:52:07,0
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,1436,closed,2021-02-08 08:31:52,2021-02-26 07:21:38,False,,3
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1435,closed,2021-02-06 12:48:00,2021-02-12 07:36:57,True,2021-02-12 07:36:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1434,closed,2021-02-05 20:31:37,2021-02-05 20:39:25,True,2021-02-05 20:39:25,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1433,closed,2021-02-05 16:46:26,2021-02-05 16:56:35,True,2021-02-05 16:56:34,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1432,closed,2021-02-05 15:52:14,2021-02-05 16:00:19,True,2021-02-05 16:00:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1431,closed,2021-02-05 10:54:00,2021-02-05 11:03:53,True,2021-02-05 11:03:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1430,closed,2021-02-05 10:23:26,2021-02-05 10:29:39,True,2021-02-05 10:29:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1429,closed,2021-02-05 08:45:13,2021-02-05 08:54:12,True,2021-02-05 08:54:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1428,closed,2021-02-05 08:10:01,2021-02-05 08:17:07,True,2021-02-05 08:17:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1425,closed,2021-01-31 20:04:42,2021-01-31 20:14:09,True,2021-01-31 20:14:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1418,closed,2021-01-30 16:40:04,2021-01-30 16:48:55,True,2021-01-30 16:48:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1417,closed,2021-01-30 16:11:08,2021-01-30 16:22:16,True,2021-01-30 16:22:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1416,closed,2021-01-30 15:55:07,2021-01-30 16:04:04,True,2021-01-30 16:04:04,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1415,closed,2021-01-30 14:40:49,2021-01-30 15:05:20,True,2021-01-30 15:05:20,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1412,closed,2021-01-29 10:24:38,2021-01-29 10:31:36,True,2021-01-29 10:31:35,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1411,closed,2021-01-29 09:36:59,2021-01-29 10:00:25,True,2021-01-29 10:00:25,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1410,closed,2021-01-29 07:52:10,2021-01-29 07:59:40,True,2021-01-29 07:59:40,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1409,closed,2021-01-29 07:30:28,2021-01-29 07:42:35,True,2021-01-29 07:42:35,0
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,1398,closed,2021-01-27 06:54:17,2021-01-27 07:00:52,False,,0
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,1397,closed,2021-01-27 05:25:03,2021-01-27 06:49:33,True,2021-01-27 06:49:33,0
+fsprojects/Fantomas,HumbertoCortes,Humberto,,1393,closed,2021-01-25 20:13:59,2021-02-06 16:01:39,False,,9
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,1392,closed,2021-01-25 07:01:35,2021-01-27 07:36:20,True,2021-01-27 07:36:20,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1389,closed,2021-01-23 17:05:45,2021-01-23 17:11:49,True,2021-01-23 17:11:49,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1387,closed,2021-01-23 12:50:28,2021-01-23 16:39:34,True,2021-01-23 16:39:33,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1386,closed,2021-01-23 12:10:43,2021-01-23 12:17:05,True,2021-01-23 12:17:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1385,closed,2021-01-23 10:48:40,2021-01-23 11:07:33,True,2021-01-23 11:07:33,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1384,closed,2021-01-22 15:45:03,2021-01-22 15:51:43,True,2021-01-22 15:51:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1383,closed,2021-01-22 15:01:56,2021-01-22 15:07:51,True,2021-01-22 15:07:51,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1381,closed,2021-01-22 14:40:52,2021-01-22 14:51:45,True,2021-01-22 14:51:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1380,closed,2021-01-22 13:57:47,2021-01-22 14:08:57,True,2021-01-22 14:08:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1378,closed,2021-01-22 08:59:23,2021-01-22 09:07:01,True,2021-01-22 09:07:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1377,closed,2021-01-22 07:26:54,2021-01-22 07:33:15,True,2021-01-22 07:33:15,0
+fsprojects/Fantomas,btzo,Mike Bottazzo,Worldwide,1376,closed,2021-01-21 18:32:49,2021-01-22 14:38:42,True,2021-01-22 14:38:42,6
+fsprojects/Fantomas,vain0x,vain0x,Japan (Osaka/Kyoto/remote),1375,closed,2021-01-20 13:20:23,2021-01-20 13:40:22,True,2021-01-20 13:40:22,0
+fsprojects/Fantomas,HumbertoCortes,Humberto,,1373,closed,2021-01-19 14:43:35,2021-01-22 08:30:50,True,2021-01-22 08:30:50,3
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1371,closed,2021-01-17 11:21:54,2021-01-17 13:01:42,True,2021-01-17 13:01:42,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1369,closed,2021-01-15 15:50:24,2021-01-15 15:58:47,True,2021-01-15 15:58:47,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1368,closed,2021-01-15 12:34:04,2021-01-15 13:44:30,True,2021-01-15 13:44:30,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1367,closed,2021-01-15 08:33:59,2021-01-15 08:45:06,True,2021-01-15 08:45:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1366,closed,2021-01-15 08:03:51,2021-01-15 08:09:15,True,2021-01-15 08:09:14,0
+fsprojects/Fantomas,Evangelink,Amaury Levé,France,1365,closed,2021-01-13 10:03:42,2021-01-15 14:14:46,True,2021-01-15 14:14:46,12
+fsprojects/Fantomas,btzo,Mike Bottazzo,Worldwide,1360,closed,2021-01-11 17:36:28,2021-01-13 07:16:05,True,2021-01-13 07:16:05,2
+fsprojects/Fantomas,HumbertoCortes,Humberto,,1357,closed,2021-01-10 18:03:40,2021-01-15 07:36:55,True,2021-01-15 07:36:54,4
+fsprojects/Fantomas,suside,Maciej Filipiak,Poznań,1356,closed,2021-01-09 08:39:57,2021-01-09 08:58:27,True,2021-01-09 08:58:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1355,closed,2021-01-08 20:23:25,2021-01-08 20:30:03,True,2021-01-08 20:30:02,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1354,closed,2021-01-08 20:10:27,2021-01-08 20:20:34,True,2021-01-08 20:20:34,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1348,closed,2021-01-05 20:52:39,2021-01-05 21:00:19,True,2021-01-05 21:00:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1339,closed,2020-12-26 14:53:49,2020-12-26 15:00:24,True,2020-12-26 15:00:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1338,closed,2020-12-25 11:57:33,2020-12-26 14:40:15,True,2020-12-26 14:40:15,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1336,closed,2020-12-25 11:32:10,2020-12-25 11:41:01,True,2020-12-25 11:41:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1335,closed,2020-12-25 10:01:54,2020-12-25 10:11:42,True,2020-12-25 10:11:42,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1334,closed,2020-12-24 14:49:32,2020-12-25 09:53:24,True,2020-12-25 09:53:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1332,closed,2020-12-23 16:42:51,2020-12-23 16:50:06,True,2020-12-23 16:50:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1331,closed,2020-12-23 14:49:06,2020-12-23 14:59:15,True,2020-12-23 14:59:14,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1330,closed,2020-12-23 14:28:11,2020-12-23 14:37:38,True,2020-12-23 14:37:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1328,closed,2020-12-23 13:44:31,2020-12-23 13:54:45,True,2020-12-23 13:54:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1326,closed,2020-12-23 11:12:42,2020-12-23 11:44:02,True,2020-12-23 11:44:02,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1325,closed,2020-12-23 10:54:24,2020-12-23 11:01:33,True,2020-12-23 11:01:33,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1323,closed,2020-12-22 21:38:40,2020-12-22 21:45:09,True,2020-12-22 21:45:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1322,closed,2020-12-22 21:11:56,2020-12-22 21:20:35,True,2020-12-22 21:20:35,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1321,closed,2020-12-22 20:58:04,2020-12-22 21:05:35,True,2020-12-22 21:05:34,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1318,closed,2020-12-22 20:32:57,2020-12-22 20:45:16,True,2020-12-22 20:45:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1316,closed,2020-12-22 20:18:51,2020-12-22 20:24:39,True,2020-12-22 20:24:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1315,closed,2020-12-22 20:09:17,2020-12-22 20:17:59,True,2020-12-22 20:17:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1312,closed,2020-12-22 15:16:14,2020-12-22 15:26:57,True,2020-12-22 15:26:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1311,closed,2020-12-21 13:03:06,2020-12-21 13:14:33,True,2020-12-21 13:14:33,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1310,closed,2020-12-19 13:38:28,2020-12-19 15:51:03,True,2020-12-19 15:51:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1308,closed,2020-12-19 09:55:16,2020-12-22 14:59:05,True,2020-12-22 14:59:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1306,closed,2020-12-18 15:03:03,2020-12-18 15:13:04,True,2020-12-18 15:13:04,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1305,closed,2020-12-18 14:24:38,2020-12-18 14:33:48,True,2020-12-18 14:33:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1304,closed,2020-12-18 14:02:23,2020-12-18 14:10:31,True,2020-12-18 14:10:30,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1301,closed,2020-12-18 10:13:02,2020-12-18 10:30:37,True,2020-12-18 10:30:36,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1298,closed,2020-12-17 16:39:31,2020-12-17 16:49:58,True,2020-12-17 16:49:58,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1297,closed,2020-12-17 16:15:33,2020-12-17 16:39:59,True,2020-12-17 16:39:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1296,closed,2020-12-17 15:49:16,2020-12-18 10:03:41,True,2020-12-18 10:03:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1295,closed,2020-12-17 15:11:40,2020-12-17 15:20:03,True,2020-12-17 15:20:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1294,closed,2020-12-17 14:27:29,2020-12-17 14:35:38,True,2020-12-17 14:35:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1293,closed,2020-12-17 14:03:16,2020-12-17 15:03:05,False,,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1292,closed,2020-12-17 13:09:59,2020-12-17 13:49:15,True,2020-12-17 13:49:15,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1291,closed,2020-12-17 11:12:07,2020-12-17 12:57:01,True,2020-12-17 12:57:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1288,closed,2020-12-17 07:30:38,2020-12-17 07:38:07,True,2020-12-17 07:38:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1285,closed,2020-12-14 16:34:40,2020-12-14 16:48:18,True,2020-12-14 16:48:17,0
+fsprojects/Fantomas,samarsha,Sarah Marshall,Seattle,1283,closed,2020-12-14 02:29:57,2020-12-14 16:38:52,True,2020-12-14 16:38:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1282,closed,2020-12-13 20:02:05,2020-12-17 10:04:00,True,2020-12-17 10:04:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1280,closed,2020-12-11 14:15:25,2020-12-11 14:28:40,True,2020-12-11 14:28:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1278,closed,2020-12-11 13:37:11,2020-12-11 13:51:54,True,2020-12-11 13:51:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1277,closed,2020-12-11 13:25:09,2020-12-11 13:32:27,True,2020-12-11 13:32:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1274,closed,2020-12-08 21:32:30,2020-12-09 20:06:00,True,2020-12-09 20:06:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1273,closed,2020-12-07 08:29:00,2020-12-07 08:36:32,True,2020-12-07 08:36:32,0
+fsprojects/Fantomas,ThisFunctionalTom,Tomas Leko,,1270,closed,2020-11-25 20:00:22,2020-12-09 07:47:29,True,2020-12-09 07:47:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1268,closed,2020-11-21 20:05:18,2020-11-21 20:11:10,True,2020-11-21 20:11:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1266,closed,2020-11-21 18:57:12,2020-11-21 19:15:24,True,2020-11-21 19:15:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1264,closed,2020-11-21 11:03:57,2020-11-21 11:13:27,True,2020-11-21 11:13:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1263,closed,2020-11-20 20:26:24,2020-11-20 20:38:45,True,2020-11-20 20:38:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1262,closed,2020-11-20 20:00:02,2020-11-20 20:12:33,True,2020-11-20 20:12:32,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1256,closed,2020-11-15 14:52:04,2020-11-20 16:10:18,True,2020-11-20 16:10:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1255,closed,2020-11-14 09:39:34,2020-11-14 09:47:38,True,2020-11-14 09:47:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1253,closed,2020-11-13 18:33:47,2020-11-13 18:46:14,True,2020-11-13 18:46:14,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1251,closed,2020-11-13 17:26:25,2020-11-13 17:32:48,True,2020-11-13 17:32:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1249,closed,2020-11-13 17:02:31,2020-11-13 17:09:29,True,2020-11-13 17:09:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1248,closed,2020-11-13 14:59:46,2020-11-13 15:08:56,True,2020-11-13 15:08:56,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1246,closed,2020-11-13 08:06:26,2020-11-13 08:56:19,True,2020-11-13 08:56:19,0
+fsprojects/Fantomas,btzo,Mike Bottazzo,Worldwide,1245,closed,2020-11-12 21:04:01,2020-12-09 19:57:53,True,2020-12-09 19:57:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1244,closed,2020-11-12 20:35:51,2020-11-12 20:43:51,True,2020-11-12 20:43:51,0
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,1242,closed,2020-11-11 16:44:28,2020-11-16 18:04:11,True,2020-11-16 18:04:10,0
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,1240,closed,2020-11-10 23:23:10,2020-11-12 20:03:43,True,2020-11-12 20:03:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1239,closed,2020-11-10 18:48:00,2020-11-10 19:01:40,True,2020-11-10 19:01:40,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1232,closed,2020-11-09 22:27:24,2020-11-09 22:39:04,True,2020-11-09 22:39:04,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1230,closed,2020-11-08 11:02:59,2020-11-09 22:02:53,True,2020-11-09 22:02:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1229,closed,2020-11-07 08:44:39,2020-11-07 09:02:02,True,2020-11-07 09:02:02,0
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,1228,closed,2020-11-07 07:17:07,2020-11-07 08:49:19,True,2020-11-07 08:49:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1224,closed,2020-11-06 10:34:08,2020-11-20 18:45:57,True,2020-11-20 18:45:56,5
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1212,closed,2020-11-02 10:54:25,2020-11-02 11:33:24,True,2020-11-02 11:33:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1210,closed,2020-10-30 17:00:42,2020-10-30 19:07:09,True,2020-10-30 19:07:08,0
+fsprojects/Fantomas,WalternativE,Gregor Beyerle,Kufstein,1208,closed,2020-10-29 20:19:52,2020-11-09 21:15:38,True,2020-11-09 21:15:38,19
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1204,closed,2020-10-26 18:57:54,2020-10-26 19:07:05,True,2020-10-26 19:07:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1202,closed,2020-10-24 17:56:51,2020-10-26 18:48:20,True,2020-10-26 18:48:20,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1200,closed,2020-10-23 14:38:16,2020-10-23 14:47:22,True,2020-10-23 14:47:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1199,closed,2020-10-18 10:45:45,2020-10-23 08:29:54,True,2020-10-23 08:29:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1197,closed,2020-10-18 09:40:03,2020-10-18 09:55:33,True,2020-10-18 09:55:32,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1195,closed,2020-10-16 14:14:35,2020-10-23 08:11:20,True,2020-10-23 08:11:20,21
+fsprojects/Fantomas,ShalokShalom,ShalokShalom,Vienna,1193,closed,2020-10-15 12:34:16,2020-10-16 07:19:57,True,2020-10-16 07:19:57,0
+fsprojects/Fantomas,aarani,Afshin Arani,,1192,closed,2020-10-12 11:50:57,2020-10-16 13:42:40,True,2020-10-16 13:42:39,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1184,closed,2020-10-02 14:08:04,2020-10-02 17:06:54,True,2020-10-02 17:06:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1183,closed,2020-10-02 12:32:14,2020-10-02 13:18:22,True,2020-10-02 13:18:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1180,closed,2020-10-02 09:08:32,2020-10-02 09:38:05,True,2020-10-02 09:38:04,4
+fsprojects/Fantomas,deviousasti,Asti,,1178,closed,2020-09-30 04:47:16,2020-09-30 06:55:16,True,2020-09-30 06:55:16,0
+fsprojects/Fantomas,Fizzixnerd,Matt Walker,Canada,1177,closed,2020-09-29 22:57:04,2020-10-23 14:21:14,True,2020-10-23 14:21:14,7
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1175,closed,2020-09-28 19:52:58,2020-09-28 20:17:13,True,2020-09-28 20:17:13,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1174,closed,2020-09-28 18:45:25,2020-09-28 19:01:42,True,2020-09-28 19:01:41,0
+fsprojects/Fantomas,Fizzixnerd,Matt Walker,Canada,1169,closed,2020-09-26 18:37:19,2020-09-28 18:23:36,True,2020-09-28 18:23:36,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1168,closed,2020-09-26 18:11:12,2020-09-26 18:28:16,True,2020-09-26 18:28:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1166,closed,2020-09-26 17:48:31,2020-09-26 18:11:24,True,2020-09-26 18:11:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1165,closed,2020-09-26 16:13:47,2020-09-26 16:53:56,True,2020-09-26 16:53:56,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1163,closed,2020-09-25 16:28:36,2020-09-25 16:37:28,True,2020-09-25 16:37:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1162,closed,2020-09-25 15:50:38,2020-09-25 16:23:49,True,2020-09-25 16:23:49,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1159,closed,2020-09-25 14:30:28,2020-09-25 14:43:27,True,2020-09-25 14:43:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1157,closed,2020-09-25 13:07:57,2020-09-25 13:25:56,True,2020-09-25 13:25:56,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1156,closed,2020-09-25 08:10:01,2020-09-25 09:31:08,True,2020-09-25 09:31:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1155,closed,2020-09-25 07:40:08,2020-09-25 08:06:30,True,2020-09-25 08:06:30,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1153,closed,2020-09-25 07:24:33,2020-09-25 07:37:30,True,2020-09-25 07:37:30,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1151,closed,2020-09-22 16:57:32,2020-09-23 19:39:54,True,2020-09-23 19:39:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1150,closed,2020-09-21 18:48:33,2020-09-21 19:17:13,True,2020-09-21 19:17:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1149,closed,2020-09-21 16:33:53,2020-09-21 17:06:54,True,2020-09-21 17:06:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1148,closed,2020-09-21 16:13:14,2020-09-21 16:32:38,True,2020-09-21 16:32:38,0
+fsprojects/Fantomas,Fizzixnerd,Matt Walker,Canada,1147,closed,2020-09-20 00:00:52,2020-09-26 16:07:45,True,2020-09-26 16:07:45,30
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1145,closed,2020-09-19 10:22:23,2020-09-19 10:31:00,True,2020-09-19 10:31:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1142,closed,2020-09-18 16:19:26,2020-09-18 16:58:41,True,2020-09-18 16:58:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1141,closed,2020-09-17 08:37:48,2020-09-17 08:38:46,True,2020-09-17 08:38:46,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1140,closed,2020-09-17 07:49:49,2020-09-17 08:16:31,True,2020-09-17 08:16:31,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1138,closed,2020-09-14 20:39:48,2020-09-14 20:47:24,True,2020-09-14 20:47:23,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1136,closed,2020-09-13 15:21:29,2020-09-13 16:11:23,True,2020-09-13 16:11:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1135,closed,2020-09-13 15:16:43,2020-09-13 15:26:06,True,2020-09-13 15:26:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1131,closed,2020-09-10 20:51:59,2020-09-10 21:17:16,True,2020-09-10 21:17:15,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1130,closed,2020-09-10 20:42:34,2020-09-10 20:59:00,True,2020-09-10 20:59:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1127,closed,2020-09-09 21:40:14,2020-09-09 21:40:23,True,2020-09-09 21:40:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1126,closed,2020-09-09 21:27:57,2020-09-09 21:38:16,True,2020-09-09 21:38:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1125,closed,2020-09-09 21:08:18,2020-09-09 21:23:58,True,2020-09-09 21:23:57,0
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,1121,closed,2020-09-09 11:30:22,2020-09-09 12:13:33,True,2020-09-09 12:13:33,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1118,closed,2020-09-08 18:00:26,2020-09-08 18:11:09,True,2020-09-08 18:11:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1117,closed,2020-09-08 17:36:18,2020-09-08 17:50:41,True,2020-09-08 17:50:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1113,closed,2020-09-05 10:04:23,2020-09-05 10:04:30,True,2020-09-05 10:04:30,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1112,closed,2020-09-05 09:47:27,2020-09-05 09:59:11,True,2020-09-05 09:59:11,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1110,closed,2020-09-05 08:57:44,2020-09-05 09:11:13,True,2020-09-05 09:11:13,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1109,closed,2020-09-05 08:46:44,2020-09-05 08:56:44,True,2020-09-05 08:56:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1107,closed,2020-09-04 19:22:53,2020-09-04 19:34:25,True,2020-09-04 19:34:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1104,closed,2020-09-04 15:37:04,2020-09-04 15:37:11,True,2020-09-04 15:37:11,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1103,closed,2020-09-04 15:09:02,2020-09-04 15:25:44,True,2020-09-04 15:25:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1102,closed,2020-09-04 15:02:11,2020-09-04 15:13:58,True,2020-09-04 15:13:58,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1101,closed,2020-09-04 14:10:29,2020-09-04 14:30:17,True,2020-09-04 14:30:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1100,closed,2020-09-04 13:54:15,2020-09-04 14:09:02,True,2020-09-04 14:09:02,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1099,closed,2020-09-04 13:35:40,2020-09-04 13:51:47,True,2020-09-04 13:51:46,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1098,closed,2020-09-04 13:26:30,2020-09-04 13:36:19,True,2020-09-04 13:36:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1090,closed,2020-09-04 10:35:51,2020-09-04 11:05:33,True,2020-09-04 11:05:33,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1088,closed,2020-09-04 09:59:58,2020-09-04 10:00:17,True,2020-09-04 10:00:17,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1087,closed,2020-09-04 09:28:05,2020-09-04 09:43:06,True,2020-09-04 09:43:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1086,closed,2020-09-04 08:47:55,2020-09-04 09:02:32,True,2020-09-04 09:02:31,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1085,closed,2020-09-04 08:16:39,2020-09-04 08:43:40,True,2020-09-04 08:43:40,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1081,closed,2020-09-04 07:12:47,2020-09-04 07:28:28,True,2020-09-04 07:28:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1079,closed,2020-09-03 19:59:15,2020-09-03 19:59:29,True,2020-09-03 19:59:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1078,closed,2020-09-03 19:19:00,2020-09-03 19:48:44,True,2020-09-03 19:48:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1077,closed,2020-09-03 19:11:38,2020-09-03 19:33:42,True,2020-09-03 19:33:42,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1076,closed,2020-09-03 19:02:11,2020-09-03 19:25:43,True,2020-09-03 19:25:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1075,closed,2020-09-03 18:58:08,2020-09-03 19:11:59,True,2020-09-03 19:11:58,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1070,closed,2020-09-03 17:28:04,2020-09-03 17:43:03,True,2020-09-03 17:43:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1069,closed,2020-09-03 16:44:06,2020-09-03 17:24:13,True,2020-09-03 17:24:13,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1068,closed,2020-09-03 07:56:05,2020-09-03 08:12:05,True,2020-09-03 08:12:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1067,closed,2020-09-02 16:15:24,2020-09-02 18:56:05,True,2020-09-02 18:56:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1066,closed,2020-09-02 15:32:56,2020-09-02 17:01:45,True,2020-09-02 17:01:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1065,closed,2020-09-02 15:25:16,2020-09-02 16:45:00,True,2020-09-02 16:45:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1064,closed,2020-09-02 15:17:07,2020-09-02 16:15:48,True,2020-09-02 16:15:47,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1063,closed,2020-09-02 15:06:33,2020-09-02 15:25:50,True,2020-09-02 15:25:49,0
+fsprojects/Fantomas,gihyeonsung,,,1061,closed,2020-09-01 07:13:21,2020-09-01 07:49:28,True,2020-09-01 07:49:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1060,closed,2020-08-31 17:19:20,2020-09-01 16:31:35,True,2020-09-01 16:31:35,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1058,closed,2020-08-29 20:08:38,2020-08-31 11:05:41,True,2020-08-31 11:05:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1053,closed,2020-08-28 16:24:16,2020-08-28 16:24:23,True,2020-08-28 16:24:23,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1052,closed,2020-08-28 16:00:06,2020-08-28 16:41:19,True,2020-08-28 16:41:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1050,closed,2020-08-28 14:30:44,2020-08-28 14:48:39,True,2020-08-28 14:48:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1048,closed,2020-08-28 14:14:47,2020-08-28 15:44:05,True,2020-08-28 15:44:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1047,closed,2020-08-28 13:31:44,2020-08-28 15:23:37,True,2020-08-28 15:23:37,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1046,closed,2020-08-28 12:53:46,2020-08-28 14:15:22,True,2020-08-28 14:15:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1045,closed,2020-08-28 12:48:05,2020-08-28 13:32:13,True,2020-08-28 13:32:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1044,closed,2020-08-28 12:35:53,2020-08-28 12:54:08,True,2020-08-28 12:54:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1041,closed,2020-08-28 10:20:28,2020-08-28 11:14:23,True,2020-08-28 11:14:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1040,closed,2020-08-28 10:04:11,2020-08-28 10:51:32,True,2020-08-28 10:51:32,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1039,closed,2020-08-28 09:56:29,2020-08-28 10:20:55,True,2020-08-28 10:20:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1038,closed,2020-08-28 09:49:56,2020-08-28 10:03:20,True,2020-08-28 10:03:20,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1037,closed,2020-08-28 09:27:55,2020-08-28 09:50:18,True,2020-08-28 09:50:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1027,closed,2020-08-21 15:02:00,2020-09-18 16:59:24,False,,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1025,closed,2020-08-21 12:33:52,2020-08-27 15:33:59,True,2020-08-27 15:33:58,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1024,closed,2020-08-21 12:06:32,2020-08-28 08:51:12,True,2020-08-28 08:51:11,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1023,closed,2020-08-21 08:06:10,2020-08-21 08:12:03,True,2020-08-21 08:12:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1022,closed,2020-08-21 07:46:47,2020-08-21 07:47:00,True,2020-08-21 07:47:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1021,closed,2020-08-21 07:37:45,2020-08-21 07:38:01,True,2020-08-21 07:38:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1020,closed,2020-08-21 07:13:27,2020-08-28 08:11:40,True,2020-08-28 08:11:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1017,closed,2020-08-17 07:37:40,2020-08-19 08:03:58,True,2020-08-19 08:03:58,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1016,closed,2020-08-17 07:33:30,2020-08-19 16:32:26,True,2020-08-19 16:32:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1015,closed,2020-08-16 17:20:46,2020-08-19 07:55:15,True,2020-08-19 07:55:15,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1014,closed,2020-08-16 16:57:23,2020-08-19 07:48:24,True,2020-08-19 07:48:23,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1013,closed,2020-08-14 15:51:59,2020-08-19 16:21:07,True,2020-08-19 16:21:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1012,closed,2020-08-14 15:37:31,2020-08-19 07:41:08,True,2020-08-19 07:41:07,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1011,closed,2020-08-14 15:02:36,2020-08-19 07:34:28,True,2020-08-19 07:34:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1008,closed,2020-08-14 14:45:58,2020-08-19 06:40:16,True,2020-08-19 06:40:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1007,closed,2020-08-14 14:25:32,2020-08-19 06:20:30,True,2020-08-19 06:20:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1005,closed,2020-08-14 13:52:08,2020-08-19 16:13:59,True,2020-08-19 16:13:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1004,closed,2020-08-14 13:44:46,2020-08-18 19:39:55,True,2020-08-18 19:39:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1003,closed,2020-08-14 13:03:03,2020-08-18 19:29:44,True,2020-08-18 19:29:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1002,closed,2020-08-14 10:33:13,2020-08-30 14:54:29,True,2020-08-30 14:54:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1001,closed,2020-08-14 09:37:40,2020-08-17 12:26:15,True,2020-08-17 12:26:15,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,1000,closed,2020-08-14 07:29:33,2020-08-21 06:05:46,True,2020-08-21 06:05:46,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,997,closed,2020-08-12 18:06:23,2020-08-13 09:57:59,True,2020-08-13 09:57:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,996,closed,2020-08-12 17:47:44,2020-08-13 07:26:39,True,2020-08-13 07:26:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,993,closed,2020-08-11 20:04:47,2020-08-26 18:26:52,True,2020-08-26 18:26:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,992,closed,2020-08-07 09:05:40,2020-08-28 07:55:50,True,2020-08-28 07:55:50,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,991,closed,2020-08-07 06:27:49,2020-08-10 06:42:18,True,2020-08-10 06:42:17,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,987,closed,2020-07-24 18:40:09,2020-07-25 12:49:30,True,2020-07-25 12:49:30,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,981,closed,2020-07-17 14:55:25,2020-07-20 08:45:43,True,2020-07-20 08:45:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,979,closed,2020-07-17 14:03:08,2020-08-10 06:52:53,True,2020-08-10 06:52:53,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,978,closed,2020-07-17 13:22:06,2020-07-20 08:22:33,True,2020-07-20 08:22:33,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,975,closed,2020-07-17 10:00:02,2020-07-20 07:46:44,True,2020-07-20 07:46:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,971,closed,2020-07-17 09:27:22,2020-07-20 08:56:03,True,2020-07-20 08:56:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,967,closed,2020-07-13 19:26:26,2020-07-14 19:31:04,True,2020-07-14 19:31:04,3
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,963,closed,2020-07-11 12:38:28,2020-07-11 17:18:55,True,2020-07-11 17:18:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,962,closed,2020-07-11 12:08:40,2020-07-11 17:25:46,True,2020-07-11 17:25:46,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,961,closed,2020-07-11 11:37:51,2020-07-11 17:39:43,True,2020-07-11 17:39:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,959,closed,2020-07-10 17:03:10,2020-07-11 09:44:44,True,2020-07-11 09:44:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,958,closed,2020-07-10 15:42:50,2020-07-10 17:03:38,True,2020-07-10 17:03:37,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,957,closed,2020-07-10 15:35:56,2020-07-11 18:08:28,True,2020-07-11 18:08:28,9
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,956,closed,2020-07-09 21:40:40,2020-07-10 06:25:44,True,2020-07-10 06:25:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,955,closed,2020-07-09 20:46:24,2020-07-10 06:19:41,True,2020-07-10 06:19:40,0
+fsprojects/Fantomas,deviousasti,Asti,,954,closed,2020-07-08 21:04:19,2020-07-09 20:18:23,True,2020-07-09 20:18:23,0
+fsprojects/Fantomas,deviousasti,Asti,,953,closed,2020-07-08 20:13:24,2020-07-08 20:19:43,True,2020-07-08 20:19:43,0
+fsprojects/Fantomas,deviousasti,Asti,,952,closed,2020-07-08 18:41:18,2020-07-08 19:00:49,True,2020-07-08 19:00:49,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,951,closed,2020-07-07 21:13:46,2020-07-08 20:10:24,True,2020-07-08 20:10:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,950,closed,2020-07-06 20:09:59,2020-07-08 05:41:41,True,2020-07-08 05:41:41,0
+fsprojects/Fantomas,deviousasti,Asti,,948,closed,2020-07-04 16:23:15,2020-07-07 16:51:22,True,2020-07-07 16:51:21,5
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,947,closed,2020-07-03 15:32:17,2020-07-11 17:48:42,True,2020-07-11 17:48:42,6
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,940,closed,2020-07-01 19:30:58,2020-07-06 19:00:50,True,2020-07-06 19:00:50,1
+fsprojects/Fantomas,josefblaha,Josef Bláha,Czechia,939,closed,2020-07-01 17:11:22,2020-07-02 08:55:16,False,,0
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",935,closed,2020-06-30 13:49:45,2020-07-06 18:50:26,True,2020-07-06 18:50:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,934,closed,2020-06-26 09:32:33,2020-06-29 17:22:05,True,2020-06-29 17:22:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,930,closed,2020-06-24 19:58:53,2020-06-25 19:44:58,True,2020-06-25 19:44:58,0
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",929,closed,2020-06-24 11:36:19,2020-06-30 07:24:02,True,2020-06-30 07:24:02,13
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,928,closed,2020-06-22 19:11:29,2020-06-24 06:54:29,True,2020-06-24 06:54:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,926,closed,2020-06-21 17:18:16,2020-06-24 06:46:59,True,2020-06-24 06:46:59,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,925,closed,2020-06-21 16:39:51,2020-08-28 16:59:49,False,,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,924,closed,2020-06-19 06:48:47,2020-07-11 17:33:28,True,2020-07-11 17:33:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,923,closed,2020-06-17 19:38:33,2020-06-19 08:46:45,True,2020-06-19 08:46:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,922,closed,2020-06-17 18:08:05,2020-06-18 08:53:51,True,2020-06-18 08:53:51,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",919,closed,2020-06-13 12:28:40,2020-06-13 12:50:30,True,2020-06-13 12:50:30,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,918,closed,2020-06-13 09:55:43,2020-06-13 12:12:19,True,2020-06-13 12:12:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,917,closed,2020-06-13 08:59:42,2020-06-13 09:26:52,True,2020-06-13 09:26:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,916,closed,2020-06-12 16:53:34,2020-06-12 19:09:55,True,2020-06-12 19:09:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,915,closed,2020-06-12 14:02:14,2020-07-03 09:53:17,True,2020-07-03 09:53:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,914,closed,2020-06-12 13:33:32,2020-07-03 09:41:01,True,2020-07-03 09:41:01,3
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,912,closed,2020-06-12 08:43:19,2020-06-12 12:20:31,True,2020-06-12 12:20:30,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,911,closed,2020-06-12 08:02:30,2020-06-12 08:12:08,True,2020-06-12 08:12:08,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",909,closed,2020-06-11 05:52:08,2020-06-11 06:46:38,True,2020-06-11 06:46:37,0
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,906,closed,2020-06-11 05:06:26,2020-06-12 08:53:29,True,2020-06-12 08:53:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,903,closed,2020-06-09 20:00:20,2020-06-09 20:50:43,True,2020-06-09 20:50:42,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",902,closed,2020-06-09 19:08:14,2020-06-09 21:02:55,True,2020-06-09 21:02:55,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",901,closed,2020-06-08 16:11:47,2020-06-08 18:05:16,True,2020-06-08 18:05:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,900,closed,2020-06-08 07:24:31,2020-06-08 08:11:37,True,2020-06-08 08:11:36,0
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,899,closed,2020-06-08 00:50:01,2020-06-12 12:27:44,True,2020-06-12 12:27:44,1
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,898,closed,2020-06-07 14:24:47,2020-06-08 09:29:51,True,2020-06-08 09:29:51,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,897,closed,2020-06-07 10:53:05,2020-06-08 09:36:39,True,2020-06-08 09:36:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,896,closed,2020-06-06 21:50:21,2020-06-07 10:49:05,True,2020-06-07 10:49:05,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,895,closed,2020-06-06 19:06:07,2020-06-06 19:16:52,True,2020-06-06 19:16:52,0
+fsprojects/Fantomas,Thorium,Tuomas Hietanen,"London, UK",894,closed,2020-06-05 21:43:43,2020-07-03 15:37:15,False,,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",892,closed,2020-06-05 19:00:25,2020-06-06 09:46:41,True,2020-06-06 09:46:41,0
+fsprojects/Fantomas,jasondown,Jason Down,"Ontario, Canada",891,closed,2020-06-05 11:56:37,2020-06-05 12:30:50,True,2020-06-05 12:30:50,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,881,closed,2020-06-02 18:39:24,2020-06-05 07:46:37,False,,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,880,closed,2020-06-01 13:21:45,2020-06-02 18:39:47,True,2020-06-02 18:39:47,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,878,closed,2020-05-29 13:14:02,2020-05-30 13:50:56,True,2020-05-30 13:50:56,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,877,closed,2020-05-29 08:53:41,2020-05-30 15:27:49,True,2020-05-30 15:27:49,1
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,875,closed,2020-05-29 07:27:43,2020-05-29 09:24:15,True,2020-05-29 09:24:15,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,874,closed,2020-05-29 07:00:08,2020-06-01 08:20:44,True,2020-06-01 08:20:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,873,closed,2020-05-29 06:39:24,2020-05-29 08:54:12,True,2020-05-29 08:54:11,0
+fsprojects/Fantomas,c-rindi,C~+,,872,closed,2020-05-29 00:22:54,2020-05-29 06:04:07,True,2020-05-29 06:04:07,0
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",866,closed,2020-05-26 09:10:34,2020-06-10 08:33:02,True,2020-06-10 08:33:02,7
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",865,closed,2020-05-25 11:42:14,2020-05-26 09:10:48,False,,5
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,858,closed,2020-05-23 15:21:22,2020-05-24 18:24:53,True,2020-05-24 18:24:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,857,closed,2020-05-22 12:32:48,2020-05-22 12:56:34,True,2020-05-22 12:56:33,0
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",854,closed,2020-05-21 11:42:24,2020-05-27 09:30:02,True,2020-05-27 09:30:02,1
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,851,closed,2020-05-20 20:12:45,2020-05-21 12:07:25,True,2020-05-21 12:07:24,0
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",847,closed,2020-05-20 09:23:36,2020-05-20 16:33:18,True,2020-05-20 16:33:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,845,closed,2020-05-19 18:17:56,2020-05-19 20:23:17,True,2020-05-19 20:23:16,0
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",843,closed,2020-05-19 09:56:38,2020-05-19 10:02:53,True,2020-05-19 10:02:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,840,closed,2020-05-17 10:55:40,2020-05-21 12:03:21,True,2020-05-21 12:03:21,0
+fsprojects/Fantomas,kontomondo,,,839,closed,2020-05-16 15:05:58,2020-05-22 19:55:38,True,2020-05-22 19:55:38,12
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,837,closed,2020-05-15 15:22:59,2020-05-16 08:39:12,True,2020-05-16 08:39:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,836,closed,2020-05-15 14:34:34,2020-05-16 13:18:24,True,2020-05-16 13:18:24,0
+fsprojects/Fantomas,kontomondo,,,834,closed,2020-05-15 13:51:08,2020-05-17 14:39:05,True,2020-05-17 14:39:04,10
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,833,closed,2020-05-15 13:08:59,2020-05-16 12:50:53,True,2020-05-16 12:50:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,832,closed,2020-05-15 12:35:39,2020-05-16 13:28:42,True,2020-05-16 13:28:42,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,831,closed,2020-05-15 11:29:11,2020-05-16 13:22:58,True,2020-05-16 13:22:58,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,829,closed,2020-05-15 09:19:38,2020-05-16 10:02:49,True,2020-05-16 10:02:49,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,828,closed,2020-05-15 06:56:22,2020-05-15 07:50:28,True,2020-05-15 07:50:28,0
+fsprojects/Fantomas,matteobaglini,Matteo Baglini,"Livorno, Italy",827,closed,2020-05-15 00:05:13,2020-05-15 06:19:15,True,2020-05-15 06:19:15,0
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",826,closed,2020-05-11 11:06:39,2020-05-18 18:40:53,True,2020-05-18 18:40:53,6
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,822,closed,2020-05-10 16:21:52,2020-05-15 06:25:50,True,2020-05-15 06:25:50,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,820,closed,2020-05-09 11:51:23,2020-05-16 13:06:01,True,2020-05-16 13:06:00,1
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,818,closed,2020-05-08 11:55:49,2020-05-16 08:43:48,True,2020-05-16 08:43:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,812,closed,2020-05-08 08:34:07,2020-05-09 10:14:01,True,2020-05-09 10:14:01,2
+fsprojects/Fantomas,Bobface,Alexander Schlindwein,"Karlsruhe, Germany",811,closed,2020-05-07 09:16:36,2020-05-09 09:59:50,True,2020-05-09 09:59:50,0
+fsprojects/Fantomas,ErikSchierboom,Erik Schierboom,Arnhem,809,closed,2020-05-04 14:04:10,2020-05-12 07:34:39,True,2020-05-12 07:34:39,11
+fsprojects/Fantomas,ErikSchierboom,Erik Schierboom,Arnhem,808,closed,2020-05-04 10:17:36,2020-05-04 12:45:25,True,2020-05-04 12:45:24,4
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,807,closed,2020-05-03 20:16:02,2020-05-04 11:29:28,True,2020-05-04 11:29:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,805,closed,2020-05-01 19:02:44,2020-05-03 16:29:41,True,2020-05-03 16:29:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,804,closed,2020-05-01 17:44:28,2020-05-03 15:57:39,True,2020-05-03 15:57:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,802,closed,2020-05-01 14:30:09,2020-05-03 16:25:53,True,2020-05-03 16:25:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,799,closed,2020-04-28 18:07:48,2020-05-03 16:34:14,True,2020-05-03 16:34:14,5
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,792,closed,2020-04-25 09:28:55,2020-04-25 14:19:26,True,2020-04-25 14:19:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,790,closed,2020-04-24 14:30:13,2020-04-24 15:39:55,True,2020-04-24 15:39:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,788,closed,2020-04-24 12:52:42,2020-04-24 15:35:21,True,2020-04-24 15:35:21,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,787,closed,2020-04-24 11:54:52,2020-04-24 13:00:34,True,2020-04-24 13:00:34,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,782,closed,2020-04-24 08:59:33,2020-04-24 10:54:14,True,2020-04-24 10:54:14,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,781,closed,2020-04-24 08:02:20,2020-04-24 09:46:08,True,2020-04-24 09:46:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,779,closed,2020-04-24 07:16:29,2020-04-24 09:01:00,True,2020-04-24 09:01:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,778,closed,2020-04-24 07:15:28,2020-04-24 08:43:37,True,2020-04-24 08:43:37,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",777,closed,2020-04-23 16:13:41,2020-04-24 07:26:54,True,2020-04-24 07:26:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,775,closed,2020-04-21 18:09:36,2020-04-24 09:04:37,True,2020-04-24 09:04:37,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,773,closed,2020-04-20 16:00:19,2020-04-21 09:22:17,True,2020-04-21 09:22:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,771,closed,2020-04-19 11:00:53,2020-04-19 14:54:09,True,2020-04-19 14:54:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,770,closed,2020-04-19 09:43:58,2020-04-19 10:21:06,True,2020-04-19 10:21:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,769,closed,2020-04-19 09:31:49,2020-04-19 10:41:05,True,2020-04-19 10:41:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,768,closed,2020-04-19 09:18:53,2020-04-19 10:27:25,True,2020-04-19 10:27:24,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,767,closed,2020-04-19 09:00:26,2020-04-19 10:14:41,True,2020-04-19 10:14:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,766,closed,2020-04-19 08:44:20,2020-04-19 10:08:27,True,2020-04-19 10:08:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,765,closed,2020-04-18 21:35:36,2020-04-19 10:01:22,True,2020-04-19 10:01:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,764,closed,2020-04-18 19:49:53,2020-04-19 09:56:40,True,2020-04-19 09:56:40,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,763,closed,2020-04-18 11:16:43,2020-04-19 10:32:25,True,2020-04-19 10:32:25,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,762,closed,2020-04-17 15:56:49,2020-04-24 06:37:22,True,2020-04-24 06:37:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,760,closed,2020-04-17 08:33:05,2020-04-17 13:51:12,True,2020-04-17 13:51:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,759,closed,2020-04-17 08:16:24,2020-04-17 08:30:30,True,2020-04-17 08:30:30,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,758,closed,2020-04-17 08:02:01,2020-04-17 11:37:53,True,2020-04-17 11:37:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,756,closed,2020-04-16 16:46:18,2020-04-17 08:11:50,True,2020-04-17 08:11:50,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,755,closed,2020-04-16 16:15:19,2020-04-17 08:04:13,True,2020-04-17 08:04:13,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,751,closed,2020-04-16 07:47:25,2020-04-16 08:16:55,True,2020-04-16 08:16:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,750,closed,2020-04-15 17:55:19,2020-04-16 09:09:20,True,2020-04-16 09:09:20,1
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,749,closed,2020-04-15 16:54:24,2020-04-16 07:35:28,True,2020-04-16 07:35:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,748,closed,2020-04-15 16:54:01,2020-04-16 08:39:06,True,2020-04-16 08:39:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,747,closed,2020-04-15 16:43:36,2020-04-16 08:28:52,True,2020-04-16 08:28:51,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,746,closed,2020-04-14 20:27:59,2020-04-17 06:44:39,True,2020-04-17 06:44:39,2
+fsprojects/Fantomas,panesofglass,Ryan Riley,"Manvel, TX, United States",745,closed,2020-04-14 17:21:06,2020-04-14 19:57:02,True,2020-04-14 19:57:02,0
+fsprojects/Fantomas,drhumlen,Niklas HH,"Oslo, Norway",744,closed,2020-04-10 15:18:58,2020-04-13 20:42:46,False,,3
+fsprojects/Fantomas,Szer,Ayrat Hudaygulov,"Dublin, Ireland",743,closed,2020-04-07 11:40:13,2020-04-08 11:06:33,True,2020-04-08 11:06:33,0
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,741,closed,2020-04-05 09:00:46,2020-04-11 12:07:41,True,2020-04-11 12:07:41,0
+fsprojects/Fantomas,auduchinok,Eugene Auduchinok,Saint Petersburg,739,closed,2020-04-01 23:23:50,2020-04-11 11:58:13,True,2020-04-11 11:58:13,0
+fsprojects/Fantomas,isaevdan,,,738,closed,2020-03-30 15:38:42,2020-04-01 09:56:54,False,,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",732,closed,2020-03-26 17:34:21,2020-03-26 18:13:12,True,2020-03-26 18:13:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,731,closed,2020-03-26 12:13:49,2020-03-26 12:43:28,True,2020-03-26 12:43:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,724,closed,2020-03-13 20:43:14,2020-03-14 10:04:21,True,2020-03-14 10:04:21,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,723,closed,2020-03-13 19:27:36,2020-03-14 10:10:12,True,2020-03-14 10:10:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,722,closed,2020-03-13 16:03:22,2020-03-17 07:54:45,True,2020-03-17 07:54:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,721,closed,2020-03-13 13:11:59,2020-04-13 19:38:58,True,2020-04-13 19:38:58,4
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,717,closed,2020-03-06 11:35:44,2020-04-14 12:36:49,True,2020-04-14 12:36:49,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,716,closed,2020-03-06 08:39:04,2020-03-06 08:42:42,True,2020-03-06 08:42:42,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,715,closed,2020-03-06 08:00:41,2020-03-06 08:11:19,True,2020-03-06 08:11:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,714,closed,2020-03-06 07:55:53,2020-03-06 08:15:34,True,2020-03-06 08:15:34,0
+fsprojects/Fantomas,auduchinok,Eugene Auduchinok,Saint Petersburg,711,closed,2020-03-03 13:09:53,2020-03-06 08:46:36,True,2020-03-06 08:46:36,0
+fsprojects/Fantomas,ErikSchierboom,Erik Schierboom,Arnhem,710,closed,2020-02-29 15:39:22,2020-03-02 12:27:03,True,2020-03-02 12:27:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,708,closed,2020-02-28 18:08:19,2020-02-28 19:52:17,True,2020-02-28 19:52:17,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,707,closed,2020-02-28 18:05:43,2020-04-14 12:16:00,True,2020-04-14 12:15:59,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,706,closed,2020-02-28 16:50:09,2020-04-14 20:29:13,False,,9
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,703,closed,2020-02-28 07:36:59,2020-02-28 09:17:02,True,2020-02-28 09:17:02,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,701,closed,2020-02-26 19:09:10,2020-02-27 09:55:33,True,2020-02-27 09:55:33,0
+fsprojects/Fantomas,tcallan,,,700,closed,2020-02-24 15:41:10,2020-02-25 10:32:29,True,2020-02-25 10:32:28,0
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,699,closed,2020-02-21 16:11:50,2020-02-22 16:18:35,True,2020-02-22 16:18:35,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,698,closed,2020-02-21 14:20:13,2020-02-21 14:25:05,True,2020-02-21 14:25:05,0
+fsprojects/Fantomas,Thecentury,Mikhail Brinchuk,"Eindhoven, the Netherlands",696,closed,2020-02-21 05:12:21,2020-10-02 08:49:47,False,,7
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,693,closed,2020-02-18 19:33:22,2020-02-19 18:25:39,True,2020-02-19 18:25:39,3
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,692,closed,2020-02-18 19:01:21,2020-02-19 08:00:33,True,2020-02-19 08:00:32,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,689,closed,2020-02-18 07:19:15,2020-02-18 10:03:40,True,2020-02-18 10:03:40,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",688,closed,2020-02-17 20:04:53,2020-02-18 06:50:21,True,2020-02-18 06:50:21,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,683,closed,2020-02-15 13:28:34,2020-02-15 15:28:12,True,2020-02-15 15:28:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,679,closed,2020-02-14 19:54:12,2020-02-15 15:39:12,True,2020-02-15 15:39:12,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,678,closed,2020-02-14 19:35:49,2020-02-15 10:27:23,True,2020-02-15 10:27:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,677,closed,2020-02-14 07:53:49,2020-02-14 16:28:26,True,2020-02-14 16:28:26,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",674,closed,2020-02-08 18:43:27,2020-02-10 09:16:35,True,2020-02-10 09:16:35,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,673,closed,2020-02-07 15:47:11,2020-02-15 10:23:45,True,2020-02-15 10:23:45,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,672,closed,2020-02-07 07:35:11,2020-02-10 09:24:38,True,2020-02-10 09:24:38,0
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,671,closed,2020-02-06 02:50:37,2020-02-08 16:13:30,True,2020-02-08 16:13:30,4
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,670,closed,2020-02-05 20:28:36,2020-02-06 08:14:02,True,2020-02-06 08:14:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,669,closed,2020-02-05 14:07:16,2020-02-05 18:19:11,True,2020-02-05 18:19:11,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,668,closed,2020-02-03 18:22:48,2020-02-04 10:27:21,True,2020-02-04 10:27:21,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,665,closed,2020-01-31 16:02:05,2020-02-01 15:38:27,True,2020-02-01 15:38:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,663,closed,2020-01-31 13:39:58,2020-02-03 08:58:55,True,2020-02-03 08:58:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,662,closed,2020-01-31 13:20:00,2020-02-01 15:25:32,True,2020-02-01 15:25:32,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,661,closed,2020-01-31 08:46:04,2020-02-01 15:07:14,True,2020-02-01 15:07:14,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,660,closed,2020-01-31 07:19:48,2020-02-01 15:17:27,True,2020-02-01 15:17:27,0
+fsprojects/Fantomas,lpedrosa,Luis Pedrosa,"London, UK",656,closed,2020-01-29 13:21:30,2020-01-29 14:05:10,True,2020-01-29 14:05:10,1
+fsprojects/Fantomas,lpedrosa,Luis Pedrosa,"London, UK",655,closed,2020-01-28 20:26:16,2020-02-21 13:55:02,True,2020-02-21 13:55:02,17
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,649,closed,2020-01-24 16:42:28,2020-03-18 08:53:02,True,2020-03-18 08:53:02,14
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,648,closed,2020-01-24 15:12:29,2020-02-03 09:41:38,True,2020-02-03 09:41:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,647,closed,2020-01-24 07:33:49,2020-01-24 11:03:54,True,2020-01-24 11:03:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,627,closed,2020-01-10 12:55:42,2020-01-10 14:24:20,True,2020-01-10 14:24:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,624,closed,2020-01-03 15:00:30,2020-01-06 09:45:37,True,2020-01-06 09:45:37,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,623,closed,2020-01-03 14:45:36,2020-01-06 09:38:13,True,2020-01-06 09:38:13,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,622,closed,2020-01-03 13:53:15,2020-01-06 08:04:18,True,2020-01-06 08:04:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,621,closed,2020-01-03 11:30:13,2020-01-06 08:12:41,True,2020-01-06 08:12:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,620,closed,2020-01-03 11:02:37,2020-01-06 08:43:39,True,2020-01-06 08:43:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,619,closed,2020-01-03 10:08:12,2020-01-07 08:27:57,True,2020-01-07 08:27:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,618,closed,2020-01-03 09:43:56,2020-01-03 10:08:58,True,2020-01-03 10:08:58,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,617,closed,2020-01-03 09:05:51,2020-01-03 10:17:44,True,2020-01-03 10:17:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,616,closed,2020-01-03 07:36:16,2020-01-03 10:13:52,True,2020-01-03 10:13:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,610,closed,2019-12-26 10:35:19,2019-12-27 14:39:05,True,2019-12-27 14:39:05,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,609,closed,2019-12-21 15:24:46,2019-12-26 10:22:39,True,2019-12-26 10:22:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,608,closed,2019-12-21 15:00:31,2019-12-26 09:57:38,True,2019-12-26 09:57:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,607,closed,2019-12-21 14:50:41,2020-01-03 08:31:22,True,2020-01-03 08:31:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,606,closed,2019-12-20 19:18:10,2019-12-26 09:07:56,True,2019-12-26 09:07:56,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,604,closed,2019-12-17 10:42:43,2019-12-28 11:49:53,True,2019-12-28 11:49:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,603,closed,2019-12-16 19:48:17,2019-12-19 08:34:38,True,2019-12-19 08:34:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,602,closed,2019-12-16 19:11:43,2019-12-19 08:58:46,True,2019-12-19 08:58:46,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,600,closed,2019-12-15 17:16:27,2019-12-19 13:42:54,True,2019-12-19 13:42:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,599,closed,2019-12-15 16:53:55,2019-12-19 13:54:41,True,2019-12-19 13:54:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,595,closed,2019-12-07 18:14:20,2019-12-11 08:17:28,True,2019-12-11 08:17:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,593,closed,2019-12-07 17:26:30,2019-12-11 08:42:49,True,2019-12-11 08:42:49,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,592,closed,2019-12-06 17:13:03,2019-12-06 17:25:40,True,2019-12-06 17:25:40,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,590,closed,2019-12-03 22:45:09,2019-12-04 08:55:08,True,2019-12-04 08:55:08,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,589,closed,2019-12-03 18:32:53,2019-12-03 20:40:45,True,2019-12-03 20:40:45,0
+fsprojects/Fantomas,theimowski,Tomasz Heimowski,Gdańsk,587,closed,2019-12-03 17:26:52,2019-12-03 18:09:19,True,2019-12-03 18:09:19,2
+fsprojects/Fantomas,theimowski,Tomasz Heimowski,Gdańsk,584,closed,2019-12-03 11:11:26,2019-12-03 15:40:47,True,2019-12-03 15:40:46,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,583,closed,2019-12-02 22:06:40,2019-12-03 10:21:19,True,2019-12-03 10:21:19,0
+fsprojects/Fantomas,theimowski,Tomasz Heimowski,Gdańsk,582,closed,2019-12-02 11:04:48,2019-12-02 12:50:43,True,2019-12-02 12:50:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,581,closed,2019-11-30 10:13:47,2019-11-30 15:43:27,True,2019-11-30 15:43:27,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,580,closed,2019-11-29 16:16:33,2019-11-30 15:01:59,True,2019-11-30 15:01:59,0
+fsprojects/Fantomas,theimowski,Tomasz Heimowski,Gdańsk,579,closed,2019-11-28 12:40:14,2019-11-28 14:57:52,True,2019-11-28 14:57:52,0
+fsprojects/Fantomas,theimowski,Tomasz Heimowski,Gdańsk,578,closed,2019-11-28 11:04:55,2019-11-28 12:49:48,True,2019-11-28 12:49:48,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,575,closed,2019-11-27 15:50:26,2019-11-27 18:02:48,True,2019-11-27 18:02:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,571,closed,2019-11-26 23:03:52,2019-11-27 08:03:53,True,2019-11-27 08:03:53,0
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,568,closed,2019-11-21 22:45:15,2019-11-24 21:27:15,True,2019-11-24 21:27:15,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,558,closed,2019-11-12 07:21:08,2019-11-12 08:33:47,True,2019-11-12 08:33:46,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,557,closed,2019-11-09 18:15:13,2019-11-22 09:48:47,True,2019-11-22 09:48:47,3
+fsprojects/Fantomas,VelocityRa,Nick Renieris,Greece,556,closed,2019-11-07 19:56:07,2020-03-27 16:33:36,False,,0
+fsprojects/Fantomas,VelocityRa,Nick Renieris,Greece,550,closed,2019-11-01 14:58:42,2019-11-07 19:48:44,False,,0
+fsprojects/Fantomas,knocte,Andres G. Aragoneses,Hong Kong,548,closed,2019-10-30 12:36:50,2019-10-30 13:47:56,True,2019-10-30 13:47:56,0
+fsprojects/Fantomas,smoothdeveloper,Gauthier Segay,·,546,closed,2019-10-28 21:43:58,2019-10-29 15:45:02,True,2019-10-29 15:45:01,3
+fsprojects/Fantomas,smoothdeveloper,Gauthier Segay,·,544,closed,2019-10-27 20:25:57,2019-10-29 16:28:48,True,2019-10-29 16:28:48,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",542,closed,2019-10-25 16:34:58,2019-11-04 21:36:17,True,2019-11-04 21:36:17,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,541,closed,2019-10-25 15:05:25,2019-11-13 08:21:49,True,2019-11-13 08:21:49,4
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,540,closed,2019-10-25 13:04:23,2019-10-28 19:52:13,True,2019-10-28 19:52:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,539,closed,2019-10-25 12:01:13,2019-11-09 18:15:49,False,,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,538,closed,2019-10-25 07:51:34,2020-02-04 12:42:26,False,,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,533,closed,2019-10-22 06:26:48,2019-10-22 07:10:43,True,2019-10-22 07:10:43,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",532,closed,2019-10-21 21:03:34,2019-10-22 05:55:54,True,2019-10-22 05:55:54,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,531,closed,2019-10-21 19:54:11,2019-10-21 20:11:08,True,2019-10-21 20:11:07,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",530,closed,2019-10-21 15:37:31,2019-10-21 19:43:27,True,2019-10-21 19:43:27,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",529,closed,2019-10-21 06:50:30,2019-10-21 08:07:34,True,2019-10-21 08:07:34,0
+fsprojects/Fantomas,gitter-badger,The Gitter Badger,Safe in the Gitter den,528,closed,2019-10-21 06:30:40,2019-10-21 06:31:31,True,2019-10-21 06:31:31,0
+fsprojects/Fantomas,smoothdeveloper,Gauthier Segay,·,526,closed,2019-10-20 10:15:29,2019-10-21 19:49:47,True,2019-10-21 19:49:46,1
+fsprojects/Fantomas,smoothdeveloper,Gauthier Segay,·,525,closed,2019-10-19 16:29:32,2019-10-21 06:04:44,True,2019-10-21 06:04:44,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,522,closed,2019-10-19 09:48:40,2019-10-19 10:21:53,True,2019-10-19 10:21:52,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,521,closed,2019-10-19 09:16:15,2019-10-19 09:33:03,True,2019-10-19 09:33:03,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,519,closed,2019-10-19 08:59:20,2019-10-19 09:16:50,True,2019-10-19 09:16:49,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",514,closed,2019-10-16 06:27:00,2019-10-16 06:44:08,True,2019-10-16 06:44:08,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",511,closed,2019-10-12 13:59:35,2019-10-14 09:05:12,True,2019-10-14 09:05:11,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,510,closed,2019-10-12 10:10:03,2019-10-14 06:35:28,True,2019-10-14 06:35:28,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,509,closed,2019-10-12 09:32:05,2019-10-14 07:52:12,True,2019-10-14 07:52:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,508,closed,2019-10-12 09:21:58,2019-10-12 14:02:26,True,2019-10-12 14:02:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,504,closed,2019-10-11 11:37:13,2019-10-11 11:37:47,True,2019-10-11 11:37:47,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",490,closed,2019-09-25 10:22:28,2019-09-25 10:38:55,True,2019-09-25 10:38:55,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",489,closed,2019-09-25 09:07:14,2019-09-25 09:16:55,True,2019-09-25 09:16:55,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,481,closed,2019-09-18 08:06:14,2019-09-18 08:18:31,True,2019-09-18 08:18:31,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",474,closed,2019-08-31 11:59:59,2019-08-31 12:07:39,True,2019-08-31 12:07:39,0
+fsprojects/Fantomas,sasmithjr,Stephen Smith,,468,closed,2019-08-22 03:28:49,2019-08-23 05:56:31,True,2019-08-23 05:56:31,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",466,closed,2019-08-16 06:35:52,2019-08-16 08:57:18,True,2019-08-16 08:57:18,0
+fsprojects/Fantomas,baronfel,Chet Husk,Austin,463,closed,2019-08-13 23:41:13,2019-08-14 13:46:39,True,2019-08-14 13:46:39,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",461,closed,2019-08-13 06:13:01,2019-08-13 06:57:10,True,2019-08-13 06:57:10,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",458,closed,2019-08-06 15:27:29,2019-08-06 15:53:57,True,2019-08-06 15:53:57,0
+fsprojects/Fantomas,JackMatusiewicz,Jack Matusiewicz,London,455,closed,2019-07-31 23:17:21,2019-08-14 10:46:40,True,2019-08-14 10:46:40,7
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,445,closed,2019-07-04 13:10:25,2019-07-04 13:46:53,True,2019-07-04 13:46:53,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",444,closed,2019-06-13 06:27:41,2019-06-13 06:37:02,True,2019-06-13 06:37:02,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",441,closed,2019-05-15 20:40:34,2019-05-16 11:04:13,True,2019-05-16 11:04:13,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,438,closed,2019-05-08 14:17:41,2019-05-08 16:49:30,True,2019-05-08 16:49:30,0
+fsprojects/Fantomas,nosami,Jason Imison,London,436,closed,2019-05-03 12:10:37,2019-05-08 06:10:53,True,2019-05-08 06:10:53,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,434,closed,2019-04-21 14:58:00,2019-10-11 11:29:15,True,2019-10-11 11:29:15,0
+fsprojects/Fantomas,auduchinok,Eugene Auduchinok,Saint Petersburg,433,closed,2019-04-20 21:00:19,2019-04-21 14:52:33,True,2019-04-21 14:52:33,0
+fsprojects/Fantomas,auduchinok,Eugene Auduchinok,Saint Petersburg,432,closed,2019-04-16 00:36:39,2019-04-16 06:19:53,True,2019-04-16 06:19:52,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",431,closed,2019-04-03 09:53:35,2019-04-03 11:05:05,True,2019-04-03 11:05:05,0
+fsprojects/Fantomas,auduchinok,Eugene Auduchinok,Saint Petersburg,428,closed,2019-03-23 19:18:24,2019-03-25 17:50:36,True,2019-03-25 17:50:36,0
+fsprojects/Fantomas,auduchinok,Eugene Auduchinok,Saint Petersburg,427,closed,2019-03-22 18:32:24,2019-03-23 17:24:52,True,2019-03-23 17:24:52,0
+fsprojects/Fantomas,prosconi,Peter Rosconi,"Marietta, GA",425,closed,2019-03-04 21:51:22,2020-02-07 07:38:19,False,,9
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",421,closed,2019-02-18 13:39:18,2019-02-18 13:47:52,True,2019-02-18 13:47:52,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",419,closed,2019-02-17 18:06:41,2019-02-19 06:51:11,True,2019-02-19 06:51:11,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",418,closed,2019-02-17 17:48:31,2019-02-18 18:58:27,True,2019-02-18 18:58:27,1
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",417,closed,2019-02-16 08:24:23,2019-02-18 07:50:40,True,2019-02-18 07:50:40,1
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",414,closed,2019-02-14 09:56:52,2019-02-15 11:06:12,True,2019-02-15 11:06:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,411,closed,2019-02-02 09:34:59,2019-02-02 11:02:51,True,2019-02-02 11:02:51,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,407,closed,2019-01-30 20:59:31,2019-01-30 22:02:47,True,2019-01-30 22:02:47,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",404,closed,2019-01-25 13:52:58,2019-01-25 14:45:16,True,2019-01-25 14:45:16,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,401,closed,2019-01-24 12:52:28,2019-01-24 13:21:10,True,2019-01-24 13:21:10,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,400,closed,2019-01-23 18:41:54,2019-01-24 07:22:46,True,2019-01-24 07:22:45,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",399,closed,2019-01-23 16:15:16,2019-01-23 16:42:02,True,2019-01-23 16:42:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,398,closed,2019-01-23 13:24:05,2019-01-24 11:00:42,True,2019-01-24 11:00:42,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,397,closed,2019-01-22 19:38:54,2019-01-22 22:06:57,True,2019-01-22 22:06:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,396,closed,2019-01-22 19:35:59,2019-01-23 07:00:29,True,2019-01-23 07:00:29,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,395,closed,2019-01-22 18:16:39,2019-01-22 21:49:04,True,2019-01-22 21:49:04,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,394,closed,2019-01-22 15:22:39,2019-01-22 16:12:23,True,2019-01-22 16:12:23,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",393,closed,2019-01-18 16:50:09,2019-01-18 18:02:18,True,2019-01-18 18:02:18,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,392,closed,2019-01-17 10:27:55,2019-01-17 11:02:00,True,2019-01-17 11:02:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,391,closed,2019-01-16 20:20:07,2019-01-17 10:14:20,True,2019-01-17 10:14:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,389,closed,2019-01-15 09:42:45,2019-01-15 10:09:57,True,2019-01-15 10:09:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,378,closed,2018-12-05 15:53:11,2018-12-05 16:33:01,True,2018-12-05 16:33:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,377,closed,2018-12-01 13:18:52,2018-12-03 11:25:57,True,2018-12-03 11:25:57,0
+fsprojects/Fantomas,tathanhdinh,Ta Thanh Dinh,Mâcon,376,closed,2018-11-30 08:28:29,2018-11-30 15:07:02,True,2018-11-30 15:07:02,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,375,closed,2018-11-29 18:47:36,2018-12-03 09:09:12,True,2018-12-03 09:09:12,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,374,closed,2018-11-29 15:08:49,2018-11-29 20:36:22,True,2018-11-29 20:36:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,373,closed,2018-11-28 12:29:08,2018-11-28 13:21:22,True,2018-11-28 13:21:22,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,367,closed,2018-11-26 11:00:12,2018-11-26 13:11:24,True,2018-11-26 13:11:24,3
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,366,closed,2018-11-25 18:03:49,2018-11-26 07:39:12,True,2018-11-26 07:39:12,2
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,361,closed,2018-11-21 12:58:35,2018-11-21 13:42:40,True,2018-11-21 13:42:40,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,358,closed,2018-11-20 12:40:07,2018-11-20 18:10:19,True,2018-11-20 18:10:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,357,closed,2018-11-20 09:46:17,2018-11-20 12:15:45,True,2018-11-20 12:15:45,1
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,356,closed,2018-11-19 12:46:38,2018-11-19 13:04:38,True,2018-11-19 13:04:38,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,355,closed,2018-11-16 09:34:21,2018-11-16 10:55:48,True,2018-11-16 10:55:48,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,352,closed,2018-11-07 12:13:15,2018-11-07 16:33:37,True,2018-11-07 16:33:37,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,351,closed,2018-11-07 11:17:14,2018-11-07 13:39:10,True,2018-11-07 13:39:10,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,349,closed,2018-11-02 12:58:40,2018-11-07 07:13:41,True,2018-11-07 07:13:41,4
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,348,closed,2018-10-31 14:25:09,2018-10-31 20:52:01,True,2018-10-31 20:52:01,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,347,closed,2018-10-31 10:47:39,2018-10-31 17:00:58,True,2018-10-31 17:00:58,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,346,closed,2018-10-31 09:38:53,2018-10-31 09:47:39,True,2018-10-31 09:47:39,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,345,closed,2018-10-31 08:34:03,2018-10-31 08:38:26,True,2018-10-31 08:38:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,343,closed,2018-10-27 15:48:03,2018-10-31 10:06:44,True,2018-10-31 10:06:44,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",342,closed,2018-10-27 14:22:01,2018-10-30 20:03:56,True,2018-10-30 20:03:56,1
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",338,closed,2018-10-23 19:48:13,2018-10-31 08:30:22,True,2018-10-31 08:30:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,337,closed,2018-10-23 07:51:40,2018-10-23 08:14:09,True,2018-10-23 08:14:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,336,closed,2018-10-21 16:47:06,2018-10-21 18:18:22,True,2018-10-21 18:18:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,333,closed,2018-10-21 08:12:59,2018-10-21 08:34:09,True,2018-10-21 08:34:09,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,330,closed,2018-10-18 16:57:05,2018-10-18 19:26:43,True,2018-10-18 19:26:43,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,329,closed,2018-10-18 05:17:17,2018-10-18 10:08:22,True,2018-10-18 10:08:22,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,327,closed,2018-10-17 10:01:53,2018-10-17 18:43:49,True,2018-10-17 18:43:49,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,325,closed,2018-10-13 12:44:49,2018-10-17 09:50:42,True,2018-10-17 09:50:42,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,324,closed,2018-10-12 07:32:27,2018-10-20 12:34:20,False,,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",323,closed,2018-10-12 07:15:39,2018-10-12 07:25:28,True,2018-10-12 07:25:28,0
+fsprojects/Fantomas,7sharp9,Dave Thomas,UK,322,closed,2018-10-10 14:03:34,2018-10-10 16:32:55,True,2018-10-10 16:32:55,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",320,closed,2018-10-10 06:42:47,2018-10-11 07:26:58,True,2018-10-11 07:26:58,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",319,closed,2018-10-09 20:27:02,2018-10-10 20:52:53,True,2018-10-10 20:52:53,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",318,closed,2018-10-04 20:21:31,2018-10-10 20:32:29,True,2018-10-10 20:32:29,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",317,closed,2018-10-03 20:38:08,2018-10-10 20:03:01,True,2018-10-10 20:03:01,0
+fsprojects/Fantomas,sasmithjr,Stephen Smith,,316,closed,2018-09-30 04:01:14,2018-10-01 11:52:17,True,2018-10-01 11:52:17,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",314,closed,2018-09-26 13:33:12,2018-10-01 15:48:19,True,2018-10-01 15:48:19,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,302,closed,2018-09-17 07:40:08,2018-09-17 20:16:08,True,2018-09-17 20:16:08,0
+fsprojects/Fantomas,alfonsogarciacaro,Alfonso Garcia-Caro,"Madrid, Spain",298,closed,2018-09-13 21:42:36,2018-09-17 07:22:07,True,2018-09-17 07:22:07,0
+fsprojects/Fantomas,kkm000,Cy 'kkm' Katsnelson,"Los Angeles, CA, US",297,closed,2018-09-13 20:24:03,2018-09-15 17:40:13,True,2018-09-15 17:40:13,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,296,closed,2018-09-10 10:20:41,2018-09-12 18:32:22,True,2018-09-12 18:32:22,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",295,closed,2018-09-06 17:05:51,2018-09-08 10:18:21,True,2018-09-08 10:18:21,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",294,closed,2018-09-05 16:23:19,2018-09-06 06:40:37,True,2018-09-06 06:40:37,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",293,closed,2018-09-04 16:52:49,2018-09-10 06:27:41,True,2018-09-10 06:27:41,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,290,closed,2018-08-05 13:54:43,2018-09-04 08:30:52,True,2018-09-04 08:30:52,1
+fsprojects/Fantomas,vasily-kirichenko,Vasily Kirichenko,Russia,286,closed,2018-07-21 17:42:59,2018-09-10 06:39:09,True,2018-09-10 06:39:09,2
+fsprojects/Fantomas,7sharp9,Dave Thomas,UK,285,closed,2018-07-20 16:44:42,2018-07-21 17:54:39,True,2018-07-21 17:54:39,0
+fsprojects/Fantomas,7sharp9,Dave Thomas,UK,279,closed,2018-07-19 13:45:54,2018-07-19 15:04:05,True,2018-07-19 15:04:04,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,276,closed,2018-07-12 17:15:51,2018-07-12 17:24:11,False,,0
+fsprojects/Fantomas,s-trooper,,,275,closed,2018-07-12 12:13:50,2018-09-06 08:41:22,True,2018-09-06 08:41:22,0
+fsprojects/Fantomas,ThibaultLemaire,Thibault Lemaire,France,273,closed,2018-07-08 14:57:32,2018-07-19 15:38:00,True,2018-07-19 15:38:00,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,272,closed,2018-07-06 14:30:07,2018-07-08 10:32:18,True,2018-07-08 10:32:18,0
+fsprojects/Fantomas,s-trooper,,,271,closed,2018-07-05 14:05:56,2018-09-04 05:41:55,True,2018-09-04 05:41:55,11
+fsprojects/Fantomas,s-trooper,,,268,closed,2018-07-03 07:44:43,2018-07-21 19:50:47,True,2018-07-21 19:50:47,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,266,closed,2018-06-29 11:57:00,2018-07-06 12:24:46,True,2018-07-06 12:24:46,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,260,closed,2018-06-06 19:36:01,2018-06-27 14:36:56,True,2018-06-27 14:36:56,0
+fsprojects/Fantomas,s-trooper,,,259,closed,2018-05-31 10:25:07,2018-06-29 11:13:18,True,2018-06-29 11:13:18,1
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,257,closed,2018-05-15 20:04:28,2018-06-15 14:06:06,True,2018-06-15 14:06:06,1
+fsprojects/Fantomas,danyx23,Daniel Bachler,"Berlin, Germany",254,closed,2018-05-12 20:54:55,2018-10-23 07:50:10,True,2018-10-23 07:50:10,5
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",244,closed,2018-05-07 10:26:22,2018-05-12 17:50:50,True,2018-05-12 17:50:50,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,242,closed,2018-05-06 18:12:03,2018-05-07 20:56:32,True,2018-05-07 20:56:32,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",240,closed,2018-05-06 09:18:24,2018-06-28 14:48:06,True,2018-06-28 14:48:06,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,237,closed,2018-05-02 21:35:06,2018-05-03 20:31:26,True,2018-05-03 20:31:26,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,236,closed,2018-03-22 18:06:05,2018-05-02 19:36:57,True,2018-05-02 19:36:57,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,235,closed,2018-03-14 21:28:18,2018-03-16 07:03:47,True,2018-03-16 07:03:47,0
+fsprojects/Fantomas,nojaf,Florian Verdonck,Ghent,234,closed,2018-03-07 20:56:29,2018-03-16 07:01:45,True,2018-03-16 07:01:45,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",230,closed,2017-12-06 21:47:12,2018-01-01 12:19:03,True,2018-01-01 12:19:03,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",229,closed,2017-12-06 21:09:40,2018-01-01 12:14:26,True,2018-01-01 12:14:26,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",228,closed,2017-12-05 21:29:17,2018-01-01 12:13:15,True,2018-01-01 12:13:15,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",227,closed,2017-12-02 15:49:18,2017-12-06 22:59:20,True,2017-12-06 22:59:20,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",223,closed,2017-11-26 14:54:28,2017-11-26 16:18:32,True,2017-11-26 16:18:32,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",222,closed,2017-11-26 12:56:01,2018-09-13 20:29:29,False,,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",221,closed,2017-11-26 11:22:43,2017-11-26 12:21:09,True,2017-11-26 12:21:09,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",220,closed,2017-11-25 11:43:02,2017-11-25 19:56:17,True,2017-11-25 19:56:17,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",219,closed,2017-11-23 21:56:58,2017-11-24 22:14:08,True,2017-11-24 22:14:08,0
+fsprojects/Fantomas,jindraivanek,Jindřich Ivánek,"Prague, Czech Republic",218,closed,2017-11-21 22:00:36,2017-11-24 22:21:31,True,2017-11-24 22:21:31,0
+fsprojects/Fantomas,odytrice,Ody Mbegbu,"Lagos, Nigeria",217,closed,2017-11-04 01:43:44,2018-09-12 19:03:00,False,,0
+fsprojects/Fantomas,teo-tsirpanis,Theodore Tsirpanis,"Thessaloniki, Greece",216,closed,2017-10-20 12:13:32,2018-03-24 18:17:39,False,,0
+fsprojects/Fantomas,kbatoev,Konstantin Batoev,,214,closed,2017-08-03 12:41:13,2017-08-11 17:36:19,True,2017-08-11 17:36:19,0
+fsprojects/Fantomas,ForNeVeR,Friedrich von Never,"Russia, Novosibirsk",212,closed,2017-06-17 08:10:15,2017-08-11 17:35:30,True,2017-08-11 17:35:30,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",210,closed,2017-04-22 21:10:25,2017-04-22 21:13:27,True,2017-04-22 21:13:27,0
+fsprojects/Fantomas,zakaluka,,,209,closed,2017-04-14 13:58:17,2017-04-22 21:11:28,True,2017-04-22 21:11:28,0
+fsprojects/Fantomas,smoothdeveloper,Gauthier Segay,·,208,closed,2017-02-25 00:00:26,2017-04-22 20:56:24,True,2017-04-22 20:56:24,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",207,closed,2017-02-19 21:44:14,2017-03-04 09:28:44,True,2017-03-04 09:28:44,0
+fsprojects/Fantomas,smoothdeveloper,Gauthier Segay,·,206,closed,2017-02-14 03:58:59,2017-02-19 21:30:58,True,2017-02-19 21:30:58,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",200,closed,2016-07-09 20:09:53,2016-07-09 21:07:08,True,2016-07-09 21:07:08,0
+fsprojects/Fantomas,OkayX6,Denis Ok,,199,closed,2016-04-22 23:29:13,2016-04-23 17:12:32,True,2016-04-23 17:12:32,0
+fsprojects/Fantomas,OkayX6,Denis Ok,,197,closed,2016-04-22 01:08:46,2016-04-22 08:25:46,True,2016-04-22 08:25:46,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",196,closed,2016-04-17 21:58:47,2016-04-24 13:29:33,True,2016-04-24 13:29:33,0
+fsprojects/Fantomas,vasily-kirichenko,Vasily Kirichenko,Russia,195,closed,2016-04-01 07:37:32,2016-04-01 11:15:38,True,2016-04-01 11:15:38,0
+fsprojects/Fantomas,ForNeVeR,Friedrich von Never,"Russia, Novosibirsk",188,closed,2015-12-20 09:02:27,2015-12-20 10:34:56,True,2015-12-20 10:34:56,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",185,closed,2015-11-14 21:48:31,2015-11-28 19:46:58,True,2015-11-28 19:46:58,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",184,closed,2015-11-12 23:37:16,2015-11-13 23:47:24,True,2015-11-13 23:47:24,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",182,closed,2015-11-11 22:07:55,2015-11-12 23:32:57,True,2015-11-12 23:32:57,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",181,closed,2015-11-11 21:17:16,2015-11-11 21:21:04,True,2015-11-11 21:21:04,0
+fsprojects/Fantomas,basarat,Basarat Ali Syed,"Melbourne, Australia",179,closed,2015-10-06 04:45:22,2015-10-06 20:27:23,True,2015-10-06 20:27:23,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",177,closed,2015-09-12 22:09:06,2015-09-12 22:16:55,True,2015-09-12 22:16:55,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",176,closed,2015-08-25 21:27:31,2015-08-29 22:06:53,True,2015-08-29 22:06:53,0
+fsprojects/Fantomas,varon,,"Cape Town, South Africa",175,closed,2015-08-24 08:34:03,2015-08-25 13:27:27,True,2015-08-25 13:27:27,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",172,closed,2015-08-10 22:02:46,2015-08-11 05:24:02,True,2015-08-11 05:24:02,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",170,closed,2015-07-19 21:53:28,2015-07-19 23:02:33,True,2015-07-19 23:02:33,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",168,closed,2015-06-09 19:51:57,2015-06-10 09:47:33,True,2015-06-10 09:47:33,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",167,closed,2015-06-09 07:56:44,2015-06-09 11:08:11,True,2015-06-09 11:08:11,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",166,closed,2015-06-08 13:04:15,2015-06-09 07:11:33,True,2015-06-09 07:11:33,0
+fsprojects/Fantomas,amazingant,Anthony Perez,Florida,165,closed,2015-05-26 14:09:27,2015-05-27 07:13:02,True,2015-05-27 07:13:02,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",163,closed,2014-11-29 23:26:34,2014-11-29 23:26:56,True,2014-11-29 23:26:56,0
+fsprojects/Fantomas,roosmaa,Mart Roosmaa,"Madrid, Spain",159,closed,2014-10-13 20:22:30,2014-10-25 16:30:23,True,2014-10-25 16:30:23,3
+fsprojects/Fantomas,7sharp9,Dave Thomas,UK,158,closed,2014-09-15 08:08:27,2014-09-18 11:06:57,True,2014-09-18 11:06:57,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",153,closed,2014-08-21 07:44:25,2014-08-28 09:22:55,True,2014-08-28 09:22:55,0
+fsprojects/Fantomas,bartelink,Ruben Bartelink,"Dublin, Ireland",148,closed,2014-04-09 13:41:47,2014-04-09 23:10:08,True,2014-04-09 23:10:08,0
+fsprojects/Fantomas,mexx,Max Malook,Berlin,140,closed,2014-03-16 07:58:50,2014-03-28 22:52:10,True,2014-03-28 22:52:10,0
+fsprojects/Fantomas,jskripsky,Juraj Skripsky,"Zurich, Switzerland",136,closed,2014-02-19 18:23:22,2014-02-21 10:40:58,True,2014-02-21 10:40:58,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",123,closed,2014-01-05 07:18:07,2014-01-05 07:27:59,True,2014-01-05 07:27:59,0
+fsprojects/Fantomas,enricosada,Enrico Sada,Milan,122,closed,2014-01-04 23:09:02,2014-01-05 06:52:08,True,2014-01-05 06:52:08,0
+fsprojects/Fantomas,OkayX6,Denis Ok,,117,closed,2013-12-24 00:48:14,2013-12-24 06:02:26,True,2013-12-24 06:02:26,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",109,closed,2013-12-01 09:39:32,2013-12-01 18:59:29,True,2013-12-01 18:59:29,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",106,closed,2013-11-19 11:55:18,2013-11-19 21:03:51,True,2013-11-19 21:03:51,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",99,closed,2013-10-06 15:57:02,2013-10-06 15:57:08,True,2013-10-06 15:57:08,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",97,closed,2013-09-17 14:22:06,2013-09-18 15:11:19,True,2013-09-18 15:11:19,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",91,closed,2013-08-16 06:54:36,2013-08-16 06:56:12,True,2013-08-16 06:56:12,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",87,closed,2013-07-23 13:33:05,2013-07-23 13:33:12,True,2013-07-23 13:33:12,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",80,closed,2013-07-16 20:09:08,2013-07-16 21:37:06,True,2013-07-16 21:37:06,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",79,closed,2013-07-15 10:51:08,2013-07-15 10:51:14,True,2013-07-15 10:51:14,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",78,closed,2013-07-12 15:01:30,2013-07-12 16:20:17,True,2013-07-12 16:20:17,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",77,closed,2013-07-12 11:38:15,2013-07-12 11:38:23,True,2013-07-12 11:38:23,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",76,closed,2013-07-11 10:28:36,2013-07-11 10:29:15,True,2013-07-11 10:29:15,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",74,closed,2013-07-10 12:38:55,2013-07-10 14:31:36,True,2013-07-10 14:31:36,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",72,closed,2013-07-10 10:46:53,2013-07-10 14:17:39,True,2013-07-10 14:17:39,0
+fsprojects/Fantomas,jaredpar,Jared Parsons,A chair near a keyboard,67,closed,2013-07-06 00:48:45,2013-07-08 05:03:09,True,2013-07-08 05:03:09,0
+fsprojects/Fantomas,jaredpar,Jared Parsons,A chair near a keyboard,65,closed,2013-07-04 19:56:28,2013-07-05 17:08:51,True,2013-07-05 17:08:51,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",60,closed,2013-07-03 23:22:54,2013-07-04 08:17:59,True,2013-07-04 08:17:59,0
+fsprojects/Fantomas,jaredpar,Jared Parsons,A chair near a keyboard,58,closed,2013-07-03 20:44:29,2013-07-04 08:41:20,True,2013-07-04 08:41:20,0
+fsprojects/Fantomas,jaredpar,Jared Parsons,A chair near a keyboard,57,closed,2013-07-03 18:02:15,2013-07-04 08:32:34,True,2013-07-04 08:32:34,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",56,closed,2013-07-03 11:04:21,2013-07-03 19:09:56,True,2013-07-03 19:09:56,0
+fsprojects/Fantomas,ovatsus,Gustavo Guerra,"London, United Kingdom",51,closed,2013-07-02 10:59:32,2013-07-03 09:14:28,True,2013-07-03 09:14:28,0
+fsprojects/Fantomas,ghost,Deleted user,"Nothing to see here, move along.",48,closed,2013-07-02 10:49:39,2013-07-02 10:58:07,True,2013-07-02 10:58:07,0
+fsprojects/Fantomas,itowlson,,,33,closed,2013-06-21 21:04:19,2013-06-22 07:43:47,True,2013-06-22 07:43:47,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,23,closed,2013-04-22 06:51:17,2013-04-22 18:44:34,True,2013-04-22 18:44:34,0
+fsprojects/Fantomas,jack-pappas,Jack Pappas,"Philadelphia, PA, USA",19,closed,2013-04-19 12:21:57,2013-04-19 13:12:38,True,2013-04-19 13:12:38,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,18,closed,2013-04-19 11:02:34,2013-04-19 11:23:20,True,2013-04-19 11:23:20,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,16,closed,2013-04-18 20:23:56,2013-04-19 08:03:16,True,2013-04-19 08:03:16,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,15,closed,2013-04-18 14:31:52,2013-04-18 15:02:17,True,2013-04-18 15:02:17,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,14,closed,2013-04-18 12:27:19,2013-04-18 14:51:43,True,2013-04-18 14:51:43,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,13,closed,2013-04-18 10:02:00,2013-04-18 11:15:45,True,2013-04-18 11:15:45,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,12,closed,2013-04-18 08:10:21,2013-04-18 08:39:33,True,2013-04-18 08:39:33,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,11,closed,2013-04-17 14:24:32,2013-04-17 15:05:22,True,2013-04-17 15:05:22,0
+fsprojects/Fantomas,ghost,Deleted user,"Nothing to see here, move along.",10,closed,2013-04-17 13:39:19,2013-04-18 06:04:49,False,,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,8,closed,2013-04-17 13:13:19,2013-04-17 14:11:15,True,2013-04-17 14:11:15,0
+fsprojects/Fantomas,forki,Steffen Forkmann,Essen,7,closed,2013-04-17 08:35:56,2013-04-17 09:21:42,True,2013-04-17 09:21:42,0
+fsprojects/Fantomas,dungpa,Anh-Dung Phan,"London, UK",1,closed,2013-03-14 08:56:20,2013-03-14 08:57:27,True,2013-03-14 08:57:27,0

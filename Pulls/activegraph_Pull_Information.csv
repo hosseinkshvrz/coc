@@ -1,0 +1,125 @@
+repository_url,user_login,user_name,user_location,pull_number,pull_current_state,pull_creation_date,pull_closing_date,pull_merged,pull_merge_date,pull_comment_count
+neo4jrb/activegraph,yourpalal,Alex Wilson,,1654,open,2021-05-27 20:39:10,,False,,1
+neo4jrb/activegraph,EugeneIstomin,,,1643,open,2021-01-11 18:05:14,,False,,1
+neo4jrb/activegraph,joshjordan,Josh Jordan,,1641,open,2020-12-23 04:24:02,,False,,1
+neo4jrb/activegraph,joshjordan,Josh Jordan,,1640,open,2020-12-22 22:28:44,,False,,0
+neo4jrb/activegraph,JacobGalati,Jacob Galati,,1603,open,2020-05-05 00:02:15,,False,,2
+neo4jrb/activegraph,mrhardikjoshi,Hardik Joshi,Pune,1591,open,2020-02-14 04:04:54,,False,,8
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1578,open,2019-12-10 21:55:53,,False,,0
+neo4jrb/activegraph,yourpalal,Alex Wilson,,1547,open,2019-05-03 14:48:37,,False,,0
+neo4jrb/activegraph,yourpalal,Alex Wilson,,1530,open,2018-11-29 20:40:54,,False,,0
+neo4jrb/activegraph,jgaskins,Jamie Gaskins,Baltimore,1484,open,2018-02-20 13:43:45,,False,,0
+neo4jrb/activegraph,jorroll,John,,1460,open,2017-12-31 17:04:11,,False,,2
+neo4jrb/activegraph,jorroll,John,,1458,open,2017-12-28 11:34:26,,False,,12
+neo4jrb/activegraph,cheerfulstoic,Brian Underwood,"Stockholm, Sweden",1457,open,2017-12-19 02:55:11,,False,,14
+neo4jrb/activegraph,jorroll,John,,1414,open,2017-09-18 13:16:28,,False,,1
+neo4jrb/activegraph,cheerfulstoic,Brian Underwood,"Stockholm, Sweden",1268,open,2016-08-15 10:26:00,,False,,0
+neo4jrb/activegraph,cheerfulstoic,Brian Underwood,"Stockholm, Sweden",1061,open,2015-12-01 17:30:58,,False,,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1646,closed,2021-02-05 21:49:26,2021-02-06 05:54:24,True,2021-02-06 05:54:24,1
+neo4jrb/activegraph,joshjordan,Josh Jordan,,1638,closed,2020-12-08 04:38:44,2020-12-08 19:51:38,True,2020-12-08 19:51:38,0
+neo4jrb/activegraph,joshjordan,Josh Jordan,,1637,closed,2020-12-07 23:37:58,2020-12-08 02:11:30,False,,0
+neo4jrb/activegraph,joshjordan,Josh Jordan,,1636,closed,2020-12-07 22:10:15,2020-12-08 21:01:41,False,,2
+neo4jrb/activegraph,malandrina,Laila Winner,,1630,closed,2020-10-30 20:44:25,2020-10-30 22:32:26,True,2020-10-30 22:32:26,0
+neo4jrb/activegraph,speedshopnate,,,1627,closed,2020-09-24 22:22:08,2020-10-09 17:35:21,True,2020-10-09 17:35:21,0
+neo4jrb/activegraph,shu-bc,,,1625,closed,2020-09-17 03:05:33,2020-10-09 08:49:35,False,,0
+neo4jrb/activegraph,ekampp,Emil Kampp,Ballerup,1617,closed,2020-07-26 20:29:34,2020-07-27 05:57:20,True,2020-07-27 05:57:20,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1616,closed,2020-07-20 01:49:08,2020-07-27 06:13:04,True,2020-07-27 06:13:04,0
+neo4jrb/activegraph,mstrofbass,,,1614,closed,2020-07-19 14:13:54,2020-07-20 00:39:07,True,2020-07-20 00:39:07,0
+neo4jrb/activegraph,mstrofbass,,,1613,closed,2020-07-19 14:12:56,2020-07-20 00:37:49,True,2020-07-20 00:37:49,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1612,closed,2020-07-16 07:16:47,2020-07-27 06:11:30,True,2020-07-27 06:11:30,2
+neo4jrb/activegraph,kapone89,Tomasz Kapłon,,1604,closed,2020-05-11 08:45:17,2020-05-11 14:34:13,True,2020-05-11 14:34:13,0
+neo4jrb/activegraph,jjg-dressipi,J.J. Green,,1601,closed,2020-04-09 10:44:13,2020-04-09 19:10:34,True,2020-04-09 19:10:34,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1600,closed,2020-04-09 04:21:00,2020-04-09 07:12:54,True,2020-04-09 07:12:54,5
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1598,closed,2020-04-06 14:51:08,2020-04-08 17:26:45,True,2020-04-08 17:26:45,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1597,closed,2020-04-05 05:33:07,2020-04-05 08:42:32,True,2020-04-05 08:42:32,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1596,closed,2020-04-01 07:26:33,2020-04-02 04:03:37,True,2020-04-02 04:03:37,3
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1593,closed,2020-02-19 06:01:15,2020-03-01 18:55:34,True,2020-03-01 18:55:34,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1592,closed,2020-02-19 05:59:13,2020-02-19 06:00:04,False,,0
+neo4jrb/activegraph,mrhardikjoshi,Hardik Joshi,Pune,1587,closed,2020-02-05 14:35:16,2020-02-17 20:30:44,True,2020-02-17 20:30:44,3
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1586,closed,2020-02-04 13:29:46,2020-02-06 11:32:30,True,2020-02-06 11:32:30,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1584,closed,2020-01-22 11:56:54,2020-02-06 15:27:38,True,2020-02-06 15:27:38,1
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1582,closed,2020-01-14 11:43:23,2020-02-17 20:35:36,True,2020-02-17 20:35:36,7
+neo4jrb/activegraph,ekampp,Emil Kampp,Ballerup,1579,closed,2019-12-26 08:15:17,2020-05-31 19:08:20,False,,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1577,closed,2019-12-06 12:17:30,2019-12-18 15:47:15,True,2019-12-18 15:47:15,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1575,closed,2019-10-21 15:00:54,2020-03-01 21:57:40,True,2020-03-01 21:57:40,0
+neo4jrb/activegraph,mrhardikjoshi,Hardik Joshi,Pune,1571,closed,2019-09-01 03:54:49,2019-09-03 21:43:28,True,2019-09-03 21:43:28,0
+neo4jrb/activegraph,mrhardikjoshi,Hardik Joshi,Pune,1570,closed,2019-08-30 01:54:39,2019-09-03 21:44:49,True,2019-09-03 21:44:49,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1569,closed,2019-08-20 06:42:23,2019-08-23 16:46:36,True,2019-08-23 16:46:35,0
+neo4jrb/activegraph,olleolleolle,Olle Jonsson,sunny Malmö in Sweden,1568,closed,2019-08-19 13:30:47,2019-09-04 16:36:33,True,2019-09-04 16:36:33,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1567,closed,2019-08-14 11:53:23,2019-08-19 16:15:41,True,2019-08-19 16:15:41,2
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1565,closed,2019-08-06 12:08:44,2019-08-06 16:47:08,True,2019-08-06 16:47:08,2
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1564,closed,2019-08-05 18:46:28,2019-08-05 19:37:07,True,2019-08-05 19:37:07,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1563,closed,2019-07-31 15:13:39,2019-07-31 23:31:28,True,2019-07-31 23:31:28,0
+neo4jrb/activegraph,ttrmw,Thomas Millward Wright ,earth,1562,closed,2019-07-23 00:29:08,2019-11-18 22:09:15,False,,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1561,closed,2019-07-16 09:56:13,2019-07-25 17:44:37,True,2019-07-25 17:44:37,0
+neo4jrb/activegraph,lshimokawa,Lennon Shimokawa,Remote,1559,closed,2019-07-09 22:33:39,2019-09-03 22:16:15,True,2019-09-03 22:16:15,0
+neo4jrb/activegraph,olleolleolle,Olle Jonsson,sunny Malmö in Sweden,1558,closed,2019-07-08 12:21:59,2019-09-03 21:56:10,True,2019-09-03 21:56:10,0
+neo4jrb/activegraph,olleolleolle,Olle Jonsson,sunny Malmö in Sweden,1555,closed,2019-06-20 07:51:16,2019-09-03 22:02:13,True,2019-09-03 22:02:13,0
+neo4jrb/activegraph,olleolleolle,Olle Jonsson,sunny Malmö in Sweden,1554,closed,2019-06-20 07:49:15,2019-09-03 22:00:50,True,2019-09-03 22:00:50,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1552,closed,2019-06-04 18:40:23,2019-06-04 19:53:58,True,2019-06-04 19:53:57,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1549,closed,2019-05-10 06:04:07,2019-06-07 16:32:57,True,2019-06-07 16:32:57,3
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1546,closed,2019-05-02 10:06:31,2019-06-01 05:45:42,True,2019-06-01 05:45:42,7
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1544,closed,2019-04-23 11:42:00,2019-05-02 16:20:14,True,2019-05-02 16:20:14,0
+neo4jrb/activegraph,jschulenklopper,Jochem Schulenklopper,The Netherlands,1541,closed,2019-03-21 16:44:41,2019-06-15 17:00:46,True,2019-06-15 17:00:46,0
+neo4jrb/activegraph,pudiva,pudiva,London,1540,closed,2019-03-19 17:29:20,2019-05-03 02:59:00,True,2019-05-03 02:59:00,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1537,closed,2019-02-21 12:46:52,2020-02-07 06:38:58,False,,2
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1533,closed,2019-01-17 15:50:57,2019-02-11 09:54:59,False,,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1527,closed,2018-10-25 20:28:14,2018-12-02 16:17:47,True,2018-12-02 16:17:47,0
+neo4jrb/activegraph,FireWhale,Keith Wu,,1515,closed,2018-08-02 11:07:44,2018-08-04 08:00:02,True,2018-08-04 08:00:01,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1512,closed,2018-07-11 07:08:11,2018-07-12 10:26:38,True,2018-07-12 10:26:38,2
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1511,closed,2018-06-27 13:02:02,2018-12-02 16:12:11,True,2018-12-02 16:12:11,1
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1509,closed,2018-05-28 23:40:33,2018-12-02 16:15:39,True,2018-12-02 16:15:39,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1507,closed,2018-05-20 18:53:59,2018-05-21 01:57:55,True,2018-05-21 01:57:55,0
+neo4jrb/activegraph,Grafikart,Jonathan,Montpellier,1506,closed,2018-05-18 10:13:00,2019-09-03 22:25:32,False,,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1505,closed,2018-05-18 09:08:17,2018-12-02 16:11:33,True,2018-12-02 16:11:33,7
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1501,closed,2018-05-02 12:41:01,2018-05-02 12:57:15,True,2018-05-02 12:57:14,0
+neo4jrb/activegraph,Grafikart,Jonathan,Montpellier,1500,closed,2018-04-27 16:14:10,2018-05-11 01:04:35,True,2018-05-11 01:04:35,0
+neo4jrb/activegraph,subvertallchris,Chris Grigg,"Long Island City, NY",1499,closed,2018-04-17 01:18:49,2018-04-20 00:53:51,True,2018-04-20 00:53:51,1
+neo4jrb/activegraph,anamba,Aaron Namba,"Seoul, Korea",1498,closed,2018-04-12 06:21:43,2019-09-04 16:38:33,False,,0
+neo4jrb/activegraph,kopylovvlad,Kopylov Vladislav,Moscow,1494,closed,2018-03-31 10:55:04,2018-04-01 17:06:59,True,2018-04-01 17:06:59,1
+neo4jrb/activegraph,jgaskins,Jamie Gaskins,Baltimore,1490,closed,2018-03-25 01:03:11,2018-03-27 23:26:25,True,2018-03-27 23:26:25,0
+neo4jrb/activegraph,amitsuryavanshi,Amit Suryavanshi,,1489,closed,2018-03-23 19:13:07,2018-03-23 23:57:34,True,2018-03-23 23:57:34,0
+neo4jrb/activegraph,jorroll,John,,1488,closed,2018-03-19 20:27:11,2018-03-27 23:20:54,True,2018-03-27 23:20:54,0
+neo4jrb/activegraph,jgaskins,Jamie Gaskins,Baltimore,1487,closed,2018-03-17 22:08:57,2018-03-19 01:13:47,True,2018-03-19 01:13:47,0
+neo4jrb/activegraph,jorroll,John,,1485,closed,2018-03-02 02:56:23,2018-03-27 23:30:25,True,2018-03-27 23:30:25,8
+neo4jrb/activegraph,lshimokawa,Lennon Shimokawa,Remote,1482,closed,2018-02-13 21:54:46,2018-02-20 21:52:13,True,2018-02-20 21:52:13,0
+neo4jrb/activegraph,sulabhjain,Sulabh Jain,"San Jose, CA",1479,closed,2018-01-31 00:21:05,2018-01-31 00:21:20,False,,0
+neo4jrb/activegraph,RicardoTrindade,Ricardo Trindade,Lisboa,1475,closed,2018-01-24 14:43:53,2018-02-02 01:34:27,True,2018-02-02 01:34:27,0
+neo4jrb/activegraph,jorroll,John,,1465,closed,2018-01-11 06:09:04,2018-01-14 20:51:37,True,2018-01-14 20:51:37,3
+neo4jrb/activegraph,jorroll,John,,1461,closed,2018-01-02 17:45:17,2018-07-12 18:40:07,False,,2
+neo4jrb/activegraph,jorroll,John,,1459,closed,2017-12-29 05:49:15,2018-01-09 01:07:46,True,2018-01-09 01:07:46,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1454,closed,2017-12-16 19:24:18,2017-12-19 03:25:09,True,2017-12-19 03:25:09,0
+neo4jrb/activegraph,jorroll,John,,1451,closed,2017-12-08 17:47:51,2017-12-08 20:46:28,True,2017-12-08 20:46:28,0
+neo4jrb/activegraph,jorroll,John,,1450,closed,2017-12-08 17:45:30,2017-12-08 20:48:50,True,2017-12-08 20:48:50,0
+neo4jrb/activegraph,pmaite88,Patrick,"Montevideo, Uruguay",1446,closed,2017-12-04 01:20:30,2017-12-04 13:35:42,True,2017-12-04 13:35:42,0
+neo4jrb/activegraph,simpsonjulian,Julian Simpson,"Auckland, New Zealand",1444,closed,2017-11-29 21:43:33,2017-11-30 13:56:51,True,2017-11-30 13:56:51,0
+neo4jrb/activegraph,leviwilson,Levi Wilson,"Berthoud, CO",1442,closed,2017-11-15 01:42:47,2017-11-21 14:14:43,True,2017-11-21 14:14:43,0
+neo4jrb/activegraph,kyle-rader,Kyle W. Rader,"Redmond, WA",1441,closed,2017-10-28 23:11:12,2017-11-29 02:17:21,True,2017-11-29 02:17:21,9
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1438,closed,2017-10-13 19:46:19,2017-10-16 20:46:17,True,2017-10-16 20:46:17,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1437,closed,2017-10-08 18:13:35,2017-10-08 20:13:59,True,2017-10-08 20:13:59,0
+neo4jrb/activegraph,jorroll,John,,1435,closed,2017-09-26 22:57:36,2017-09-27 00:58:33,True,2017-09-27 00:58:33,0
+neo4jrb/activegraph,jorroll,John,,1434,closed,2017-09-26 15:33:39,2017-09-27 00:43:45,True,2017-09-27 00:43:45,2
+neo4jrb/activegraph,jorroll,John,,1431,closed,2017-09-25 18:30:31,2017-09-25 20:00:49,True,2017-09-25 20:00:49,0
+neo4jrb/activegraph,jorroll,John,,1428,closed,2017-09-24 15:22:50,2017-09-25 22:10:06,True,2017-09-25 22:10:06,0
+neo4jrb/activegraph,jorroll,John,,1427,closed,2017-09-23 03:55:03,2017-09-23 17:55:33,True,2017-09-23 17:55:32,2
+neo4jrb/activegraph,cheerfulstoic,Brian Underwood,"Stockholm, Sweden",1426,closed,2017-09-22 21:55:39,2017-09-23 17:53:57,False,,2
+neo4jrb/activegraph,jorroll,John,,1422,closed,2017-09-22 10:18:46,2017-09-23 18:13:50,True,2017-09-23 18:13:50,7
+neo4jrb/activegraph,jorroll,John,,1420,closed,2017-09-20 19:02:35,2017-09-20 22:40:32,True,2017-09-20 22:40:32,0
+neo4jrb/activegraph,jorroll,John,,1419,closed,2017-09-20 11:49:07,2017-09-25 16:45:51,True,2017-09-25 16:45:51,25
+neo4jrb/activegraph,jorroll,John,,1416,closed,2017-09-19 06:25:36,2017-09-22 16:59:15,True,2017-09-22 16:59:15,8
+neo4jrb/activegraph,jorroll,John,,1415,closed,2017-09-19 01:26:13,2017-09-20 01:17:54,True,2017-09-20 01:17:54,0
+neo4jrb/activegraph,jorroll,John,,1411,closed,2017-09-17 00:53:03,2017-09-18 23:55:10,True,2017-09-18 23:55:09,0
+neo4jrb/activegraph,pepesenaris,Jose Javier Señaris,"Montreal, Quebec",1408,closed,2017-09-04 17:55:20,2017-09-05 00:30:05,True,2017-09-05 00:30:04,0
+neo4jrb/activegraph,pepesenaris,Jose Javier Señaris,"Montreal, Quebec",1407,closed,2017-09-04 17:45:37,2017-09-05 00:32:29,True,2017-09-05 00:32:29,0
+neo4jrb/activegraph,nossila,Alisson Patricio,"Santa Barbara, MG, Brasil",1404,closed,2017-08-17 21:37:33,2017-08-18 01:20:16,True,2017-08-18 01:20:16,0
+neo4jrb/activegraph,cheerfulstoic,Brian Underwood,"Stockholm, Sweden",1402,closed,2017-08-17 03:30:38,2017-08-18 01:15:12,False,,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1398,closed,2017-07-07 15:55:41,2017-09-01 17:43:22,True,2017-09-01 17:43:22,9
+neo4jrb/activegraph,leviwilson,Levi Wilson,"Berthoud, CO",1397,closed,2017-06-28 20:31:29,2017-06-29 13:30:06,True,2017-06-29 13:30:06,0
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1396,closed,2017-06-27 19:11:49,2017-06-29 13:24:14,True,2017-06-29 13:24:14,0
+neo4jrb/activegraph,TyGuy,TyGuy,,1395,closed,2017-06-26 20:20:28,2017-11-24 02:18:23,True,2017-11-24 02:18:23,4
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1394,closed,2017-06-20 20:29:52,2017-06-21 01:16:29,True,2017-06-21 01:16:29,2
+neo4jrb/activegraph,klobuczek,Heinrich Klobuczek,,1393,closed,2017-06-15 23:21:16,2017-06-21 01:20:20,True,2017-06-21 01:20:20,0
+neo4jrb/activegraph,jorroll,John,,1390,closed,2017-06-04 03:33:12,2017-06-05 08:53:32,False,,0
+neo4jrb/activegraph,kunitoo,Kunihiko Ito,"Toyama, Japan",1386,closed,2017-05-19 12:48:09,2017-05-19 14:07:06,False,,0
+neo4jrb/activegraph,cheerfulstoic,Brian Underwood,"Stockholm, Sweden",1383,closed,2017-05-05 21:28:00,2017-08-18 03:20:02,False,,0
+neo4jrb/activegraph,jboler,Jonathan Boler,"Wisconsin, USA",1363,closed,2017-03-15 07:08:24,2017-03-15 16:49:28,True,2017-03-15 16:49:27,0

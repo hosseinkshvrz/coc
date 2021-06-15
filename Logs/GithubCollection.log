@@ -1,0 +1,161 @@
+2021-06-15 14:08:18 INFO     Completed 0.0 %
+2021-06-15 14:08:18 INFO     Checking token limit
+2021-06-15 14:08:18 INFO     Current token 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
+2021-06-15 14:08:18 INFO     Current token rate limit
+2021-06-15 14:08:18 INFO     Minute : Rate(reset=2021-06-15 18:09:11, remaining=30, limit=30)
+2021-06-15 14:08:18 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4997, limit=5000)
+2021-06-15 14:08:18 INFO     Not switching now
+2021-06-15 14:08:19 INFO     Completed 6.25 %
+2021-06-15 14:08:19 INFO     Checking token limit
+2021-06-15 14:08:19 INFO     Current token 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
+2021-06-15 14:08:19 INFO     Current token rate limit
+2021-06-15 14:08:19 INFO     Minute : Rate(reset=2021-06-15 18:09:12, remaining=30, limit=30)
+2021-06-15 14:08:19 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4995, limit=5000)
+2021-06-15 14:08:19 INFO     Not switching now
+2021-06-15 14:08:20 INFO     Completed 12.5 %
+2021-06-15 14:08:20 INFO     Checking token limit
+2021-06-15 14:08:20 INFO     Current token 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
+2021-06-15 14:08:20 INFO     Current token rate limit
+2021-06-15 14:08:20 INFO     Minute : Rate(reset=2021-06-15 18:09:14, remaining=30, limit=30)
+2021-06-15 14:08:20 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4993, limit=5000)
+2021-06-15 14:08:20 INFO     Not switching now
+2021-06-15 14:08:21 INFO     Completed 18.75 %
+2021-06-15 14:08:21 INFO     Checking token limit
+2021-06-15 14:08:21 INFO     Current token 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
+2021-06-15 14:08:21 INFO     Current token rate limit
+2021-06-15 14:08:21 INFO     Minute : Rate(reset=2021-06-15 18:09:15, remaining=30, limit=30)
+2021-06-15 14:08:21 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4991, limit=5000)
+2021-06-15 14:08:21 INFO     Not switching now
+2021-06-15 14:08:22 INFO     Completed 25.0 %
+2021-06-15 14:08:22 INFO     Checking token limit
+2021-06-15 14:08:22 INFO     Current token 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
+2021-06-15 14:08:22 INFO     Current token rate limit
+2021-06-15 14:08:22 INFO     Minute : Rate(reset=2021-06-15 18:09:16, remaining=30, limit=30)
+2021-06-15 14:08:22 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4989, limit=5000)
+2021-06-15 14:08:22 INFO     Not switching now
+2021-06-15 14:08:23 INFO     Completed 31.25 %
+2021-06-15 14:08:23 INFO     Checking token limit
+2021-06-15 14:08:23 INFO     Current token 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
+2021-06-15 14:08:23 INFO     Current token rate limit
+2021-06-15 14:08:23 INFO     Minute : Rate(reset=2021-06-15 18:09:17, remaining=30, limit=30)
+2021-06-15 14:08:23 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4987, limit=5000)
+2021-06-15 14:08:23 INFO     Not switching now
+2021-06-15 14:08:24 INFO     Completed 37.5 %
+2021-06-15 14:08:24 INFO     Checking token limit
+2021-06-15 14:08:24 INFO     Current token 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
+2021-06-15 14:08:24 INFO     Current token rate limit
+2021-06-15 14:08:24 INFO     Minute : Rate(reset=2021-06-15 18:09:18, remaining=30, limit=30)
+2021-06-15 14:08:24 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4985, limit=5000)
+2021-06-15 14:08:24 INFO     Not switching now
+2021-06-15 14:08:25 INFO     Completed 43.75 %
+2021-06-15 14:08:25 INFO     Checking token limit
+2021-06-15 14:08:25 INFO     Current token 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
+2021-06-15 14:08:25 INFO     Current token rate limit
+2021-06-15 14:08:25 INFO     Minute : Rate(reset=2021-06-15 18:09:19, remaining=30, limit=30)
+2021-06-15 14:08:25 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4983, limit=5000)
+2021-06-15 14:08:25 INFO     Not switching now
+2021-06-15 14:08:26 INFO     Completed 50.0 %
+2021-06-15 14:08:26 INFO     Checking token limit
+2021-06-15 14:08:26 INFO     Current token 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
+2021-06-15 14:08:26 INFO     Current token rate limit
+2021-06-15 14:08:26 INFO     Minute : Rate(reset=2021-06-15 18:09:20, remaining=30, limit=30)
+2021-06-15 14:08:26 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4981, limit=5000)
+2021-06-15 14:08:26 INFO     Not switching now
+2021-06-15 14:08:27 INFO     Completed 56.25 %
+2021-06-15 14:08:27 INFO     Checking token limit
+2021-06-15 14:08:27 INFO     Current token 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
+2021-06-15 14:08:27 INFO     Current token rate limit
+2021-06-15 14:08:28 INFO     Minute : Rate(reset=2021-06-15 18:09:21, remaining=30, limit=30)
+2021-06-15 14:08:28 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4979, limit=5000)
+2021-06-15 14:08:28 INFO     Not switching now
+2021-06-15 14:08:28 INFO     Completed 62.5 %
+2021-06-15 14:08:28 INFO     Checking token limit
+2021-06-15 14:08:28 INFO     Current token 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
+2021-06-15 14:08:28 INFO     Current token rate limit
+2021-06-15 14:08:28 INFO     Minute : Rate(reset=2021-06-15 18:09:22, remaining=30, limit=30)
+2021-06-15 14:08:28 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4977, limit=5000)
+2021-06-15 14:08:28 INFO     Not switching now
+2021-06-15 14:08:29 INFO     Completed 68.75 %
+2021-06-15 14:08:29 INFO     Checking token limit
+2021-06-15 14:08:29 INFO     Current token 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
+2021-06-15 14:08:29 INFO     Current token rate limit
+2021-06-15 14:08:30 INFO     Minute : Rate(reset=2021-06-15 18:09:23, remaining=30, limit=30)
+2021-06-15 14:08:30 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4975, limit=5000)
+2021-06-15 14:08:30 INFO     Not switching now
+2021-06-15 14:08:30 INFO     Completed 75.0 %
+2021-06-15 14:08:30 INFO     Checking token limit
+2021-06-15 14:08:30 INFO     Current token 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
+2021-06-15 14:08:30 INFO     Current token rate limit
+2021-06-15 14:08:31 INFO     Minute : Rate(reset=2021-06-15 18:09:24, remaining=30, limit=30)
+2021-06-15 14:08:31 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4973, limit=5000)
+2021-06-15 14:08:31 INFO     Not switching now
+2021-06-15 14:08:31 INFO     Completed 81.25 %
+2021-06-15 14:08:31 INFO     Checking token limit
+2021-06-15 14:08:31 INFO     Current token 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
+2021-06-15 14:08:31 INFO     Current token rate limit
+2021-06-15 14:08:32 INFO     Minute : Rate(reset=2021-06-15 18:09:25, remaining=30, limit=30)
+2021-06-15 14:08:32 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4971, limit=5000)
+2021-06-15 14:08:32 INFO     Not switching now
+2021-06-15 14:08:33 INFO     Completed 87.5 %
+2021-06-15 14:08:33 INFO     Checking token limit
+2021-06-15 14:08:33 INFO     Current token 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
+2021-06-15 14:08:33 INFO     Current token rate limit
+2021-06-15 14:08:33 INFO     Minute : Rate(reset=2021-06-15 18:09:26, remaining=30, limit=30)
+2021-06-15 14:08:33 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4969, limit=5000)
+2021-06-15 14:08:33 INFO     Not switching now
+2021-06-15 14:08:34 INFO     Completed 93.75 %
+2021-06-15 14:08:34 INFO     Checking token limit
+2021-06-15 14:08:34 INFO     Current token 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
+2021-06-15 14:08:34 INFO     Current token rate limit
+2021-06-15 14:08:34 INFO     Minute : Rate(reset=2021-06-15 18:09:27, remaining=30, limit=30)
+2021-06-15 14:08:34 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4967, limit=5000)
+2021-06-15 14:08:34 INFO     Not switching now
+2021-06-15 14:08:36 INFO     Completed 0.0 %
+2021-06-15 14:08:36 INFO     Checking token limit
+2021-06-15 14:08:36 INFO     Current token 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
+2021-06-15 14:08:36 INFO     Current token rate limit
+2021-06-15 14:08:36 INFO     Minute : Rate(reset=2021-06-15 18:09:29, remaining=30, limit=30)
+2021-06-15 14:08:36 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4963, limit=5000)
+2021-06-15 14:08:36 INFO     Not switching now
+2021-06-15 14:08:37 INFO     Completed 6.25 %
+2021-06-15 14:08:37 INFO     Checking token limit
+2021-06-15 14:08:37 INFO     Current token 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
+2021-06-15 14:08:37 INFO     Current token rate limit
+2021-06-15 14:08:37 INFO     Minute : Rate(reset=2021-06-15 18:09:30, remaining=30, limit=30)
+2021-06-15 14:08:37 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4961, limit=5000)
+2021-06-15 14:08:37 INFO     Not switching now
+2021-06-15 14:08:38 INFO     Completed 12.5 %
+2021-06-15 14:08:38 INFO     Checking token limit
+2021-06-15 14:08:38 INFO     Current token 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
+2021-06-15 14:08:38 INFO     Current token rate limit
+2021-06-15 14:08:38 INFO     Minute : Rate(reset=2021-06-15 18:09:31, remaining=30, limit=30)
+2021-06-15 14:08:38 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4959, limit=5000)
+2021-06-15 14:08:38 INFO     Not switching now
+2021-06-15 14:08:39 INFO     Completed 18.75 %
+2021-06-15 14:08:39 INFO     Checking token limit
+2021-06-15 14:08:39 INFO     Current token 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
+2021-06-15 14:08:39 INFO     Current token rate limit
+2021-06-15 14:08:39 INFO     Minute : Rate(reset=2021-06-15 18:09:32, remaining=30, limit=30)
+2021-06-15 14:08:39 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4957, limit=5000)
+2021-06-15 14:08:39 INFO     Not switching now
+2021-06-15 14:08:40 INFO     Completed 25.0 %
+2021-06-15 14:08:40 INFO     Checking token limit
+2021-06-15 14:08:40 INFO     Current token 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
+2021-06-15 14:08:40 INFO     Current token rate limit
+2021-06-15 14:08:40 INFO     Minute : Rate(reset=2021-06-15 18:09:33, remaining=30, limit=30)
+2021-06-15 14:08:40 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4955, limit=5000)
+2021-06-15 14:08:40 INFO     Not switching now
+2021-06-15 14:08:41 INFO     Completed 31.25 %
+2021-06-15 14:08:41 INFO     Checking token limit
+2021-06-15 14:08:41 INFO     Current token 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
+2021-06-15 14:08:41 INFO     Current token rate limit
+2021-06-15 14:08:41 INFO     Minute : Rate(reset=2021-06-15 18:09:34, remaining=30, limit=30)
+2021-06-15 14:08:41 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4953, limit=5000)
+2021-06-15 14:08:41 INFO     Not switching now
+2021-06-15 14:08:42 INFO     Completed 37.5 %
+2021-06-15 14:08:42 INFO     Checking token limit
+2021-06-15 14:08:42 INFO     Current token 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
+2021-06-15 14:08:42 INFO     Current token rate limit
+2021-06-15 14:08:42 INFO     Minute : Rate(reset=2021-06-15 18:09:35, remaining=30, limit=30)
+2021-06-15 14:08:42 INFO     Hour : Rate(reset=2021-06-15 19:08:10, remaining=4951, limit=5000)
+2021-06-15 14:08:42 INFO     Not switching now
