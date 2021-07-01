@@ -1,0 +1,374 @@
+repository_url,user_login,user_name,n_pr_before_coc,n_pr_after_coc
+googleapis/google-cloud-python,faube,Francois Aube,0,1
+googleapis/google-cloud-python,JustinBeckwith,Justin Beckwith,0,2
+googleapis/google-cloud-python,yoshi-automation,Yoshi Automation Bot,0,1555
+googleapis/google-cloud-python,busunkim96,Bu Sun Kim,0,257
+googleapis/google-cloud-python,danoscarmike,Dan O'Meara,0,18
+googleapis/google-cloud-python,kweinmeister,Karl Weinmeister,0,1
+googleapis/google-cloud-python,rodrigodias27,Rodrigo Ribeiro Dias,0,1
+googleapis/google-cloud-python,parthea,Anthonios Partheniou,0,2
+googleapis/google-cloud-python,mik-laj,Kamil Breguła,0,6
+googleapis/google-cloud-python,ingernet,inger klekacz,0,2
+googleapis/google-cloud-python,martinvol,Martín Volpe,0,1
+googleapis/google-cloud-python,plamut,Peter Lamut,0,100
+googleapis/google-cloud-python,crwilcox,Christopher Wilcox,0,294
+googleapis/google-cloud-python,leahecole,Leah E. Cole,0,2
+googleapis/google-cloud-python,larkee,,0,9
+googleapis/google-cloud-python,HemangChothani,,0,39
+googleapis/google-cloud-python,helinwang,Helin Wang,0,8
+googleapis/google-cloud-python,IlyaFaer,Ilya Gurov,0,30
+googleapis/google-cloud-python,pradn,Prad Nelluru,0,8
+googleapis/google-cloud-python,conwaychriscosmo,Chris,0,1
+googleapis/google-cloud-python,msuozzo,Matthew Suozzo,0,1
+googleapis/google-cloud-python,jkwlui,Jonathan Lui,0,12
+googleapis/google-cloud-python,grooveygr,Avihay Kain,0,1
+googleapis/google-cloud-python,telpirion,Eric Schmidt,0,1
+googleapis/google-cloud-python,hugovk,Hugo van Kemenade,0,1
+googleapis/google-cloud-python,tswast,Tim Swast,0,238
+googleapis/google-cloud-python,curlup,Pavel T ,0,1
+googleapis/google-cloud-python,mackenziestarr,Mackenzie Starr,0,1
+googleapis/google-cloud-python,mesmacosta,Marcelo Costa,0,1
+googleapis/google-cloud-python,emar-kar,Leonid Emar-Kar,0,22
+googleapis/google-cloud-python,beccasaurus,Rebecca Taylor,0,5
+googleapis/google-cloud-python,mbarkhau,,0,1
+googleapis/google-cloud-python,vimota,Victor Mota,0,2
+googleapis/google-cloud-python,yihanzhen,Hanzhen Yi,0,1
+googleapis/google-cloud-python,paul1319,Pavel Kiselev,0,1
+googleapis/google-cloud-python,renovate-bot,WhiteSource Renovate,0,13
+googleapis/google-cloud-python,jadekler,Jean de Klerk,0,4
+googleapis/google-cloud-python,geraint0923,Mark,0,2
+googleapis/google-cloud-python,software-dov,Dov Shlachter,0,2
+googleapis/google-cloud-python,alextford11,Alex Ford,0,1
+googleapis/google-cloud-python,sirtorry,Torry Yang,0,1
+googleapis/google-cloud-python,mbril,Maor Bril,0,1
+googleapis/google-cloud-python,BenWhitehead,BenWhitehead,0,1
+googleapis/google-cloud-python,tseaver,Tres Seaver,222,1050
+googleapis/google-cloud-python,codyoss,Cody Oss,0,1
+googleapis/google-cloud-python,steinwaywhw,Steinway Wu,0,7
+googleapis/google-cloud-python,brendanlundy,Brendan Lundy,0,12
+googleapis/google-cloud-python,vlasenkoalexey,Aleksey Vlasenko,0,1
+googleapis/google-cloud-python,ricardolsmendes,Ricardo Mendes,0,2
+googleapis/google-cloud-python,emkornfield,,0,3
+googleapis/google-cloud-python,frankyn,Frank Natividad,0,6
+googleapis/google-cloud-python,foxyblue,Sebastien Williams-Wynn,0,1
+googleapis/google-cloud-python,shunghsiyu,Shung-Hsi Yu,0,1
+googleapis/google-cloud-python,maximus12793,Maximus,0,4
+googleapis/google-cloud-python,wangbill-google,,0,5
+googleapis/google-cloud-python,lwander,Lars Wander,0,5
+googleapis/google-cloud-python,mcollins42,Mark Collins,0,1
+googleapis/google-cloud-python,PaulTR,Paul Ruiz,0,1
+googleapis/google-cloud-python,TobKed,Tobiasz Kędzierski,0,2
+googleapis/google-cloud-python,pkumusic,Music Lee,0,2
+googleapis/google-cloud-python,wchargin,William Chargin,0,1
+googleapis/google-cloud-python,sukeesh,Sukeesh,0,1
+googleapis/google-cloud-python,jingtaow,,0,1
+googleapis/google-cloud-python,jonathan1920,,0,2
+googleapis/google-cloud-python,VitorDominguesR,encod1ng,0,1
+googleapis/google-cloud-python,sumit-ql,,0,10
+googleapis/google-cloud-python,WalterHub,Walter Poupore,0,1
+googleapis/google-cloud-python,mkudejim,,0,3
+googleapis/google-cloud-python,bennett-jacob,Jacob Bennett,0,1
+googleapis/google-cloud-python,markvincze,Mark Vincze,0,1
+googleapis/google-cloud-python,shubha-rajan,Shubha Rajan,0,6
+googleapis/google-cloud-python,aviau,Alexandre Viau,0,1
+googleapis/google-cloud-python,jskeet,Jon Skeet,0,1
+googleapis/google-cloud-python,ryanyuan,Ryan Yuan,0,5
+googleapis/google-cloud-python,TrucHLe,Bamboo Le,0,2
+googleapis/google-cloud-python,tritone,Chris Cotter,0,1
+googleapis/google-cloud-python,ritiko,David,0,1
+googleapis/google-cloud-python,jlara310,Juan Lara,0,1
+googleapis/google-cloud-python,anguillanneuf,Tianzi Cai,0,12
+googleapis/google-cloud-python,mf2199,Maxim F.,0,7
+googleapis/google-cloud-python,JesseLovelace,,0,1
+googleapis/google-cloud-python,sangramql,,0,23
+googleapis/google-cloud-python,liamuk,Kumail Jaffer,0,1
+googleapis/google-cloud-python,aaltay,Ahmet Altay,0,1
+googleapis/google-cloud-python,Billcountry,Billcountry Mwaniki,0,1
+googleapis/google-cloud-python,ghost,Deleted user,1,3
+googleapis/google-cloud-python,Kami,Tomaz Muraus,0,2
+googleapis/google-cloud-python,jsimonweb,Jonathan Simon,0,1
+googleapis/google-cloud-python,joar,Joar Wandborg,0,2
+googleapis/google-cloud-python,idoshamun,Ido Shamun,0,1
+googleapis/google-cloud-python,gaogaogiraffe,,0,2
+googleapis/google-cloud-python,calvin,Calvin Jeong,0,1
+googleapis/google-cloud-python,averikitsch,Averi Kitsch,0,4
+googleapis/google-cloud-python,pchauhan-qlogic,,0,6
+googleapis/google-cloud-python,TheNeuralBit,Brian Hulette,0,1
+googleapis/google-cloud-python,sduskis,Solomon Duskis,0,24
+googleapis/google-cloud-python,dgorelik,Daniel Gorelik,0,1
+googleapis/google-cloud-python,grant,Grant Timmerman,0,2
+googleapis/google-cloud-python,antoniobusrod,Antonio Bustos,0,1
+googleapis/google-cloud-python,ylil93,,0,1
+googleapis/google-cloud-python,j-flat,Joni Kämppä,0,1
+googleapis/google-cloud-python,crazystick,Paul Adams,0,1
+googleapis/google-cloud-python,AzemaBaptiste,,0,1
+googleapis/google-cloud-python,lambainsaan,Rhitik Bhatt,0,1
+googleapis/google-cloud-python,MewX,MewX,0,1
+googleapis/google-cloud-python,nnegrey,Noah Negrey,0,2
+googleapis/google-cloud-python,pj,Paul Johnson,0,1
+googleapis/google-cloud-python,rchen152,Rebecca Chen,0,3
+googleapis/google-cloud-python,elisheva-qlogic,,0,1
+googleapis/google-cloud-python,ace-n,Ace Nassri,0,1
+googleapis/google-cloud-python,lunajrq,,0,1
+googleapis/google-cloud-python,theacodes,Stargirl Flowers,0,244
+googleapis/google-cloud-python,eriknil,Erik Nilsson,0,1
+googleapis/google-cloud-python,lbristol88,,0,8
+googleapis/google-cloud-python,bmccutchon,Brian McCutchon,0,5
+googleapis/google-cloud-python,lilred,Carl Patenaude-Poulin,0,1
+googleapis/google-cloud-python,sayap,Yap Sok Ann,0,1
+googleapis/google-cloud-python,MartinNowak,Martin Nowak,0,1
+googleapis/google-cloud-python,gleeper,,0,1
+googleapis/google-cloud-python,Kyras,Martin Lacko,0,1
+googleapis/google-cloud-python,JohnPaton,John Paton,0,1
+googleapis/google-cloud-python,tblair7,Tyler Blair,0,1
+googleapis/google-cloud-python,AVaksman,Alex,0,15
+googleapis/google-cloud-python,sethtroisi,Seth Troisi,0,2
+googleapis/google-cloud-python,mcunha,Marco Cunha,0,1
+googleapis/google-cloud-python,rsalmond,rob salmond,0,1
+googleapis/google-cloud-python,relud,Daniel Thorn,0,2
+googleapis/google-cloud-python,lukesneeringer,Luke Sneeringer,0,218
+googleapis/google-cloud-python,pravindahal,Pravin Dahal,0,2
+googleapis/google-cloud-python,juan-rael,,0,1
+googleapis/google-cloud-python,retnikt,retnikt,0,1
+googleapis/google-cloud-python,chrisrossi,Chris Rossi,0,33
+googleapis/google-cloud-python,cguardia,Carlos de la Guardia,0,2
+googleapis/google-cloud-python,nielm,Niel Markwick,0,1
+googleapis/google-cloud-python,kykrueger,Kyle Krueger,0,1
+googleapis/google-cloud-python,daniellehanks,Danielle Hanks,0,1
+googleapis/google-cloud-python,davidair,,0,1
+googleapis/google-cloud-python,johangp,Johan Palomino,0,1
+googleapis/google-cloud-python,shollyman,shollyman,0,11
+googleapis/google-cloud-python,salrashid123,,0,4
+googleapis/google-cloud-python,kelvins,Kelvin S. do Prado,0,1
+googleapis/google-cloud-python,kmesfun,Kennedy Mesfun,0,1
+googleapis/google-cloud-python,pjenvey,Philip Jenvey,0,1
+googleapis/google-cloud-python,mcdonc,Chris McDonough,0,5
+googleapis/google-cloud-python,msdinit,Oleksandr,0,1
+googleapis/google-cloud-python,jmcarp,Joshua Carp,0,1
+googleapis/google-cloud-python,adamf,Adam Fletcher,0,1
+googleapis/google-cloud-python,alixhami,Alix Hamilton,0,93
+googleapis/google-cloud-python,zenbanffy,Ricardo Bánffy,0,1
+googleapis/google-cloud-python,sorced-jim,Jim Morrison,0,2
+googleapis/google-cloud-python,brunoais,brunoais,0,2
+googleapis/google-cloud-python,charles-salmon,Charles Salmon,0,1
+googleapis/google-cloud-python,liyanhui1228,Angela Li,0,20
+googleapis/google-cloud-python,c24t,Chris Kleinknecht,0,1
+googleapis/google-cloud-python,brianquinlan,Brian Quinlan,0,2
+googleapis/google-cloud-python,potiuk,Jarek Potiuk,0,1
+googleapis/google-cloud-python,andreamlin,Andrea Lin,0,8
+googleapis/google-cloud-python,dhermes,Danny Hermes,303,795
+googleapis/google-cloud-python,di,Dustin Ingram,0,1
+googleapis/google-cloud-python,erikwebb,Erik Webb,0,1
+googleapis/google-cloud-python,RohanTalip,Rohan Talip,0,1
+googleapis/google-cloud-python,wyardley,Will Yardley,0,5
+googleapis/google-cloud-python,deryrahman,Dery Rahman Ahaddienata,0,1
+googleapis/google-cloud-python,dpebot,DPEBot,0,89
+googleapis/google-cloud-python,dseomn,David Mandelberg,0,1
+googleapis/google-cloud-python,tjcelaya,Tomas Celaya,0,1
+googleapis/google-cloud-python,chingor13,Jeff Ching,0,1
+googleapis/google-cloud-python,nkemnitz,Nico Kemnitz,0,1
+googleapis/google-cloud-python,yuvipanda,Yuvi Panda,0,1
+googleapis/google-cloud-python,guillermo-carrasco,Guillermo Carrasco,0,1
+googleapis/google-cloud-python,hrfuller,Henry Fuller,0,1
+googleapis/google-cloud-python,Ben-Chapman,Ben,0,1
+googleapis/google-cloud-python,tomdyson,Tom Dyson,0,2
+googleapis/google-cloud-python,mistercrunch,Maxime Beauchemin,0,1
+googleapis/google-cloud-python,myelin,Phillip Pearson,0,2
+googleapis/google-cloud-python,zulkifal,zul,0,1
+googleapis/google-cloud-python,blainehansen,Blaine Hansen,0,1
+googleapis/google-cloud-python,rasmi,rasmi,0,1
+googleapis/google-cloud-python,WeiranFang,Weiran Fang,0,2
+googleapis/google-cloud-python,cclauss,Christian Clauss,0,1
+googleapis/google-cloud-python,vikas-jamdar,,0,2
+googleapis/google-cloud-python,chemelnucfin,,0,153
+googleapis/google-cloud-python,alec-brooks,,0,1
+googleapis/google-cloud-python,weisi,Weisi Dai,0,1
+googleapis/google-cloud-python,aneepct,Aneep Tandel,0,22
+googleapis/google-cloud-python,dkasyanov,Dmytro Kasianov,0,1
+googleapis/google-cloud-python,kornholi,Kornelijus Survila,0,1
+googleapis/google-cloud-python,helen-fornazier,Helen Koike,0,1
+googleapis/google-cloud-python,maheshgurav,Mahesh Mohan Gurav,0,1
+googleapis/google-cloud-python,paoloburelli,Paolo Burelli,0,1
+googleapis/google-cloud-python,mlhamel,Mathieu Leduc-Hamel,0,1
+googleapis/google-cloud-python,enriquejosepadilla,Enrique Jose Padilla,0,1
+googleapis/google-cloud-python,eoogbe,Evawere Ogbe,0,4
+googleapis/google-cloud-python,ji-han,Winston Huang,0,1
+googleapis/google-cloud-python,jerjou,Jerjou,0,1
+googleapis/google-cloud-python,iddoberger,iddober,0,1
+googleapis/google-cloud-python,iddobergersf,Iddo Berger,0,1
+googleapis/google-cloud-python,zehauser,,0,1
+googleapis/google-cloud-python,afiorillo,Andrew Fiorillo,0,1
+googleapis/google-cloud-python,tcwalther,Thomas Walther,0,2
+googleapis/google-cloud-python,hiporox,Julian Early,0,1
+googleapis/google-cloud-python,landrito,Ernest Landrito,0,5
+googleapis/google-cloud-python,tomp-raycatch,,0,1
+googleapis/google-cloud-python,ar-qun,Alexander QR,0,1
+googleapis/google-cloud-python,supriyagarg,Supriya Garg,0,6
+googleapis/google-cloud-python,justinwhite,Justin,0,1
+googleapis/google-cloud-python,mia-0032,Yoshihiro MIYAI,0,1
+googleapis/google-cloud-python,zakons,zakons,0,5
+googleapis/google-cloud-python,kabute,Diego Montes,0,2
+googleapis/google-cloud-python,cycomike,,0,1
+googleapis/google-cloud-python,javisantana,javi santana,0,1
+googleapis/google-cloud-python,VikramTiwari,Vikram,0,2
+googleapis/google-cloud-python,janlugt,Jan van der Lugt,0,1
+googleapis/google-cloud-python,david-gang,David Gang,0,1
+googleapis/google-cloud-python,noname85,Noa,0,1
+googleapis/google-cloud-python,haih-g,,0,2
+googleapis/google-cloud-python,pumpikano,Clayton Mellina,0,1
+googleapis/google-cloud-python,mdhausman,,0,1
+googleapis/google-cloud-python,ElliottBrossard,Elliott Brossard,0,1
+googleapis/google-cloud-python,vitaliili,,0,1
+googleapis/google-cloud-python,econchick,Lynn Root,0,1
+googleapis/google-cloud-python,ofek,Ofek Lev,0,4
+googleapis/google-cloud-python,opyate,Juan M Uys,0,1
+googleapis/google-cloud-python,ziplokk1,Mark Sanders,0,3
+googleapis/google-cloud-python,SuyashLakhotia,Suyash Lakhotia,0,3
+googleapis/google-cloud-python,ThatsAMorais,Alex Morais,0,1
+googleapis/google-cloud-python,JonathanHourany,Jonathan Hourany,0,1
+googleapis/google-cloud-python,alanbato,Alan Velasco,0,1
+googleapis/google-cloud-python,andrewsg,Andrew Gorcester,0,1
+googleapis/google-cloud-python,vkedia,Vikas Kedia,0,1
+googleapis/google-cloud-python,jbolinger,Joe Bolinger,0,2
+googleapis/google-cloud-python,gcbirzan,George-Cristian Bîrzan,0,1
+googleapis/google-cloud-python,egalpin,Evan Galpin,0,1
+googleapis/google-cloud-python,weslem,Matthew Wesley,0,1
+googleapis/google-cloud-python,polleyg,Graham Polley,0,1
+googleapis/google-cloud-python,davidebelloni,Davide Belloni,0,2
+googleapis/google-cloud-python,ethanbao,,0,4
+googleapis/google-cloud-python,shileiyu,Shi Lei,0,1
+googleapis/google-cloud-python,igorbernstein2,Igor Bernstein,0,1
+googleapis/google-cloud-python,mehmetboraezer,Mehmet Bora Ezer,0,2
+googleapis/google-cloud-python,josefbarta,Josef Barta,0,1
+googleapis/google-cloud-python,zeyaddeeb,Zeyad Deeb,0,1
+googleapis/google-cloud-python,PicardParis,Laurent Picard,0,1
+googleapis/google-cloud-python,jba,Jonathan Amsterdam,0,38
+googleapis/google-cloud-python,mathewcohle,Matej Čamaj,0,1
+googleapis/google-cloud-python,justinseinlin,Justin Lin,0,3
+googleapis/google-cloud-python,pongad,Michael Darakananda,0,2
+googleapis/google-cloud-python,duggelz,Douglas Greiman,0,2
+googleapis/google-cloud-python,shotat,Shota Terashita,0,1
+googleapis/google-cloud-python,garye,Gary Elliott,0,4
+googleapis/google-cloud-python,Indy2222,Martin Indra,0,1
+googleapis/google-cloud-python,mfschwartz,Mike Schwartz,0,2
+googleapis/google-cloud-python,jeffkpayne,Jeff Payne,0,2
+googleapis/google-cloud-python,michaelawyu,chenyumic,0,1
+googleapis/google-cloud-python,Maerig,Jean-Loup Roussel-Clouet,0,2
+googleapis/google-cloud-python,paulMissault,,0,1
+googleapis/google-cloud-python,kimcam,Kim Cameron,0,1
+googleapis/google-cloud-python,WillianFuks,willfuks,0,2
+googleapis/google-cloud-python,evanj,Evan Jones,0,1
+googleapis/google-cloud-python,MichaelTamm,Michael Tamm,0,1
+googleapis/google-cloud-python,garykrige,Gary Krige,0,1
+googleapis/google-cloud-python,bigblah,Chris Heng,0,1
+googleapis/google-cloud-python,page1,Scott Page,0,1
+googleapis/google-cloud-python,dmasin,,0,1
+googleapis/google-cloud-python,alexmnt,,0,2
+googleapis/google-cloud-python,jybaek,Caley Baek,0,1
+googleapis/google-cloud-python,alanyee,Alan Yee,0,2
+googleapis/google-cloud-python,calpeyser,Cal Peyser,0,5
+googleapis/google-cloud-python,leondealmeida,Leon de Almeida,0,1
+googleapis/google-cloud-python,bryanyang0528,Bryan Yang,2,2
+googleapis/google-cloud-python,kennethmac2000,Kenneth MacArthur,0,1
+googleapis/google-cloud-python,mbrukman,Misha Brukman,0,4
+googleapis/google-cloud-python,isra17,Israël Hallé,0,1
+googleapis/google-cloud-python,merla18,florencep,0,4
+googleapis/google-cloud-python,sonlac,Son T. Chu,0,1
+googleapis/google-cloud-python,tillahoffmann,Till Hoffmann,0,1
+googleapis/google-cloud-python,davidraleigh,David Raleigh,0,2
+googleapis/google-cloud-python,azymnis,Argyris Zymnis,0,1
+googleapis/google-cloud-python,csilvers,Craig Silverstein,0,1
+googleapis/google-cloud-python,SeanBE,Sean Löfgren,0,1
+googleapis/google-cloud-python,p-siegel,Pascal,0,1
+googleapis/google-cloud-python,rtkaleta,Ryszard T. Kaleta,0,1
+googleapis/google-cloud-python,michaelenglo,Michael Englo,0,2
+googleapis/google-cloud-python,smasue,smasue,0,1
+googleapis/google-cloud-python,richkadel,Rich Kadel,0,3
+googleapis/google-cloud-python,ricardolui,Ricardo Lui Geh,0,2
+googleapis/google-cloud-python,endast,Magnus Wahlberg,0,1
+googleapis/google-cloud-python,dvaldivia,Daniel Valdivia,0,1
+googleapis/google-cloud-python,skyfox,Dima Timofeev,0,2
+googleapis/google-cloud-python,kamalpy,Kamal Singh,0,1
+googleapis/google-cloud-python,waprin,Bill Prin,0,32
+googleapis/google-cloud-python,tartavull,Ignacio Tartavull,0,1
+googleapis/google-cloud-python,cfperez,,0,1
+googleapis/google-cloud-python,alexchao,Alex,0,1
+googleapis/google-cloud-python,roscoejp,Roscoe Pyell,0,1
+googleapis/google-cloud-python,geigerj,Jacob Geiger,0,6
+googleapis/google-cloud-python,HaraldNordgren,Harald Nordgren,0,1
+googleapis/google-cloud-python,samizuh,Sami Z.,0,1
+googleapis/google-cloud-python,kkinder,Ken Kinder,0,1
+googleapis/google-cloud-python,daspecster,Thomas Schultz,0,220
+googleapis/google-cloud-python,bootandy,andy.boot,0,1
+googleapis/google-cloud-python,DizzeePascall,,0,1
+googleapis/google-cloud-python,craigcitro,Craig Citro,0,2
+googleapis/google-cloud-python,nownabe,nownabe,0,1
+googleapis/google-cloud-python,lucmult,,0,1
+googleapis/google-cloud-python,FCtj,,0,1
+googleapis/google-cloud-python,yogeshg,Yogesh Garg,0,1
+googleapis/google-cloud-python,supertom,Tom Melendez,0,1
+googleapis/google-cloud-python,ltiao,Louis Tiao,0,1
+googleapis/google-cloud-python,bendemaree,Ben Demaree,0,3
+googleapis/google-cloud-python,bivald,Niklas B,0,1
+googleapis/google-cloud-python,derluke,,0,1
+googleapis/google-cloud-python,thejens,Jens Larsson,0,2
+googleapis/google-cloud-python,quasiben,Benjamin Zaitlen,0,1
+googleapis/google-cloud-python,quom,Harry Collard,0,1
+googleapis/google-cloud-python,Fkawala,François Kawala,1,1
+googleapis/google-cloud-python,jmdobry,Jason Dobry,0,2
+googleapis/google-cloud-python,mckoss,Mike Koss,0,1
+googleapis/google-cloud-python,jcoatgoogle,,0,1
+googleapis/google-cloud-python,udoprog,John-John Tedro,0,1
+googleapis/google-cloud-python,carise,Carise F,0,1
+googleapis/google-cloud-python,kairichard,Kai Richard Koenig,0,1
+googleapis/google-cloud-python,objectfox,Jennifer Kramer,0,1
+googleapis/google-cloud-python,omaray,Omar Ay,0,1
+googleapis/google-cloud-python,mlissner,Mike Lissner,0,2
+googleapis/google-cloud-python,y33zhang,,0,1
+googleapis/google-cloud-python,jgeewax,JJ Geewax,36,2
+googleapis/google-cloud-python,vikkyrk,Vikas Kedigehalli,0,1
+googleapis/google-cloud-python,sebbacon,Seb Bacon,0,1
+googleapis/google-cloud-python,Fematich,Matthias Feys,0,1
+googleapis/google-cloud-python,bjwatson,Brian J. Watson,0,5
+googleapis/google-cloud-python,gene-telligent,Gene Peters,0,1
+googleapis/google-cloud-python,tmatsuo,Takashi Matsuo,0,1
+googleapis/google-cloud-python,maxkuzkin,Max Kuzkin,0,2
+googleapis/google-cloud-python,yang-g,Yang Gao,0,1
+googleapis/google-cloud-python,vmarkovtsev,Vadim Markovtsev,0,2
+googleapis/google-cloud-python,dwmclary,Daniel McClary,0,3
+googleapis/google-cloud-python,elibixby,Eli Bixby,3,1
+googleapis/google-cloud-python,takbab,baba,0,2
+googleapis/google-cloud-python,linar-jether,,0,1
+googleapis/google-cloud-python,delfick,Stephen Moore,0,1
+googleapis/google-cloud-python,rimey,Ken Rimey,0,13
+googleapis/google-cloud-python,ojengwa,Bernard Ojengwa,0,1
+googleapis/google-cloud-python,mgilson,Matt Gilson,0,2
+googleapis/google-cloud-python,pcostell,Patrick Costello,0,2
+googleapis/google-cloud-python,barakcoh,Barak Cohen,0,1
+googleapis/google-cloud-python,jlowin,Jeremiah Lowin,0,1
+googleapis/google-cloud-python,tsinha,,0,1
+googleapis/google-cloud-python,saicheems,Sai Cheemalapati,0,1
+googleapis/google-cloud-python,andrazhribernik,Andraž,0,1
+googleapis/google-cloud-python,mpeg,Marcos Perona,0,1
+googleapis/google-cloud-python,silentsokolov,Dmitriy Sokolov,0,1
+googleapis/google-cloud-python,ajkannan,Ajay Kannan,0,6
+googleapis/google-cloud-python,thesandlord,Sandeep Dinesh,0,1
+googleapis/google-cloud-python,blowmage,Mike Moore,2,1
+googleapis/google-cloud-python,philibuster,,1,0
+googleapis/google-cloud-python,stephenplusplus,Stephen,1,0
+googleapis/google-cloud-python,craigloftus,Craig Loftus,2,0
+googleapis/google-cloud-python,foozlevazquez,Ivan Vazquez,2,0
+googleapis/google-cloud-python,lucemia,David Chen,5,0
+googleapis/google-cloud-python,ptone,Preston Holmes,1,0
+googleapis/google-cloud-python,grapefruit623,,2,0
+googleapis/google-cloud-python,adieu,Adieu,1,0
+googleapis/google-cloud-python,silvolu,Silvano Luciani,18,0
+googleapis/google-cloud-python,seano314,Sean O'Keefe,1,0
+googleapis/google-cloud-python,feczo,,1,0
+googleapis/google-cloud-python,kleyow,Kevin Leyow,9,0
+googleapis/google-cloud-python,marcgel,,1,0
+googleapis/google-cloud-python,gsalgado,Guilherme Salgado,1,0
+googleapis/google-cloud-python,aliafshar,Ali Afshar,1,0
+googleapis/google-cloud-python,rakyll,Jaana Dogan,1,0
+googleapis/google-cloud-python,x1ddos,alex,1,0
+googleapis/google-cloud-python,proppy,Johan Euphrosine,1,0

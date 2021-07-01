@@ -18,3 +18,22 @@ GeoNode/geonode
 salesforce/lwc
 tikv/tikv
 PowerShell/PowerShell
+
+without CoC
+
+https://github.com/github/gitignore
+https://github.com/moby/moby
+https://github.com/airbnb/javascript
+https://github.com/bitcoin/bitcoin
+https://github.com/opencv/opencv
+https://github.com/keras-team/keras
+https://github.com/moment/moment
+https://github.com/neovim/neovim
+https://github.com/TheAlgorithms/Java
+https://github.com/TryGhost/Ghost
+https://github.com/vercel/hyper
+https://github.com/caddyserver/caddy
+https://github.com/alacritty/alacritty
+https://github.com/ytdl-org/youtube-dl
+https://github.com/puppeteer/puppeteer
+https://github.com/tldr-pages/tldr

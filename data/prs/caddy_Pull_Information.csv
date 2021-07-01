@@ -1,0 +1,1175 @@
+repository_url,user_login,user_name,user_location,pull_number,pull_current_state,pull_creation_date,pull_closing_date,pull_merged,pull_merge_date,pull_comment_count
+caddyserver/caddy,klauspost,Klaus Post,Denmark,4215,closed,2021-06-18 11:15:19,2021-06-18 17:49:49,True,2021-06-18 17:49:49,3
+caddyserver/caddy,mholt,Matt Holt,,4207,closed,2021-06-14 16:58:03,2021-06-17 15:59:08,True,2021-06-17 15:59:08,0
+caddyserver/caddy,mholt,Matt Holt,,4203,closed,2021-06-11 17:38:01,2021-06-12 20:44:32,True,2021-06-12 20:44:32,0
+caddyserver/caddy,diamondburned,,"California State University, Fullerton",4196,closed,2021-06-07 22:51:56,2021-06-07 23:33:54,True,2021-06-07 23:33:54,1
+caddyserver/caddy,Klooven,,,4192,closed,2021-06-05 13:31:36,2021-06-08 20:10:37,True,2021-06-08 20:10:37,7
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4189,closed,2021-06-04 04:02:20,2021-06-04 20:15:43,True,2021-06-04 20:15:43,0
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",4187,closed,2021-06-03 19:52:21,2021-06-04 04:19:17,True,2021-06-04 04:19:17,0
+caddyserver/caddy,diamondburned,,"California State University, Fullerton",4179,closed,2021-05-25 22:36:23,2021-06-07 18:20:08,True,2021-06-07 18:20:08,9
+caddyserver/caddy,kmpm,Peter Magnusson,"Dalsland, Sweden",4178,closed,2021-05-25 19:08:24,2021-06-07 18:25:13,True,2021-06-07 18:25:12,0
+caddyserver/caddy,mholt,Matt Holt,,4172,closed,2021-05-19 17:49:07,2021-05-19 21:14:04,True,2021-05-19 21:14:04,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4165,closed,2021-05-12 04:27:03,2021-05-12 20:19:08,True,2021-05-12 20:19:08,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4164,closed,2021-05-12 02:09:56,2021-05-12 04:26:17,True,2021-05-12 04:26:17,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4163,closed,2021-05-12 01:55:07,2021-05-12 22:18:45,True,2021-05-12 22:18:45,3
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,4160,closed,2021-05-11 06:02:01,2021-05-11 22:11:27,True,2021-05-11 22:11:27,0
+caddyserver/caddy,matthewpi,Matthew Penner,"Calgary, Alberta, Canada",4157,closed,2021-05-10 17:31:44,2021-05-10 18:01:27,True,2021-05-10 18:01:27,1
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4156,closed,2021-05-10 16:31:14,2021-05-10 17:12:59,True,2021-05-10 17:12:59,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4155,closed,2021-05-09 22:50:00,2021-05-10 15:44:54,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4154,closed,2021-05-08 22:15:30,2021-05-09 04:37:27,True,2021-05-09 04:37:27,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4153,closed,2021-05-08 21:50:59,2021-06-07 18:18:49,True,2021-06-07 18:18:49,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4152,closed,2021-05-07 15:39:50,2021-05-07 22:18:18,True,2021-05-07 22:18:18,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4151,closed,2021-05-07 03:20:28,2021-05-10 16:06:39,True,2021-05-10 16:06:38,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4147,closed,2021-05-04 03:47:06,2021-05-04 15:49:14,True,2021-05-04 15:49:14,1
+caddyserver/caddy,calvinxiao,Calvin Xiao,Jiangmen,4143,closed,2021-05-01 15:42:22,2021-05-02 16:35:28,True,2021-05-02 16:35:28,0
+caddyserver/caddy,calvinxiao,Calvin Xiao,Jiangmen,4142,closed,2021-05-01 13:28:50,2021-05-12 22:19:08,False,,0
+caddyserver/caddy,jesse996,Jesse,,4141,closed,2021-04-30 17:00:14,2021-05-02 18:38:16,True,2021-05-02 18:38:16,4
+caddyserver/caddy,simaotwx,Simão Gomes Viana,Deisenhausen,4137,closed,2021-04-29 08:01:53,2021-04-29 16:52:22,True,2021-04-29 16:52:22,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4134,closed,2021-04-26 05:14:04,2021-05-02 17:57:29,True,2021-05-02 17:57:29,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4132,closed,2021-04-24 23:21:30,2021-04-29 06:01:48,True,2021-04-29 06:01:48,4
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4131,closed,2021-04-24 22:52:08,2021-05-05 21:55:40,True,2021-05-05 21:55:40,1
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4129,closed,2021-04-22 18:19:55,2021-04-23 00:29:05,True,2021-04-23 00:29:05,0
+caddyserver/caddy,skeetmtp,Alban Lecocq,"Lille, France",4128,closed,2021-04-22 15:09:43,2021-04-29 16:56:01,True,2021-04-29 16:56:01,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4125,closed,2021-04-21 06:12:05,2021-04-21 19:43:35,True,2021-04-21 19:43:35,6
+caddyserver/caddy,mholt,Matt Holt,,4123,closed,2021-04-19 14:59:40,2021-04-30 16:14:53,True,2021-04-30 16:14:53,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,4117,closed,2021-04-15 22:49:12,2021-04-15 23:03:55,True,2021-04-15 23:03:55,0
+caddyserver/caddy,mholt,Matt Holt,,4111,closed,2021-04-12 20:49:28,2021-05-19 16:48:30,False,,6
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,4105,closed,2021-04-04 17:52:07,2021-04-08 17:45:19,True,2021-04-08 17:45:19,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4104,closed,2021-04-02 16:01:43,2021-04-02 22:47:04,True,2021-04-02 22:47:04,4
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4103,closed,2021-04-02 06:37:45,2021-04-02 17:55:34,True,2021-04-02 17:55:34,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,4102,closed,2021-04-01 20:59:12,2021-04-01 22:07:32,True,2021-04-01 22:07:32,0
+caddyserver/caddy,sagudev,sagu,/dev/null,4099,closed,2021-03-31 06:55:22,2021-03-31 09:18:04,False,,0
+caddyserver/caddy,d-masson,Dimitri Masson,Paris,4096,closed,2021-03-30 17:30:39,2021-03-30 21:29:01,True,2021-03-30 21:29:01,0
+caddyserver/caddy,xdu31,Jason Du,"Vancouver, BC, Canada",4093,closed,2021-03-29 06:48:58,2021-05-01 02:17:23,True,2021-05-01 02:17:23,3
+caddyserver/caddy,simaotwx,Simão Gomes Viana,Deisenhausen,4087,closed,2021-03-24 11:07:29,2021-03-29 16:54:38,True,2021-03-29 16:54:38,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4085,closed,2021-03-23 22:15:41,2021-03-29 16:55:29,True,2021-03-29 16:55:29,0
+caddyserver/caddy,xdevs23,Simão Gomes Viana,Neuland,4082,closed,2021-03-22 10:53:38,2021-03-29 17:02:21,True,2021-03-29 17:02:21,0
+caddyserver/caddy,xdevs23,Simão Gomes Viana,Neuland,4081,closed,2021-03-22 10:48:27,2021-03-22 16:22:55,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4080,closed,2021-03-22 06:20:32,2021-03-29 17:03:50,True,2021-03-29 17:03:50,0
+caddyserver/caddy,xdevs23,Simão Gomes Viana,Neuland,4078,closed,2021-03-21 10:27:11,2021-03-29 17:04:22,True,2021-03-29 17:04:22,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4077,closed,2021-03-21 04:47:07,2021-05-02 18:11:28,True,2021-05-02 18:11:28,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4076,closed,2021-03-20 06:04:11,2021-04-08 17:09:12,True,2021-04-08 17:09:12,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,4075,closed,2021-03-20 04:49:44,2021-04-05 19:09:31,True,2021-04-05 19:09:31,0
+caddyserver/caddy,xdevs23,Simão Gomes Viana,Neuland,4073,closed,2021-03-19 21:13:50,2021-03-29 18:39:08,True,2021-03-29 18:39:08,0
+caddyserver/caddy,xdevs23,Simão Gomes Viana,Neuland,4072,closed,2021-03-19 20:51:31,2021-03-29 18:04:26,True,2021-03-29 18:04:26,0
+caddyserver/caddy,simaotwx,Simão Gomes Viana,Deisenhausen,4070,closed,2021-03-19 08:27:27,2021-03-19 11:37:44,True,2021-03-19 11:37:43,0
+caddyserver/caddy,radiden,rai,Poland,4066,closed,2021-03-16 09:04:11,2021-03-19 17:41:02,True,2021-03-19 17:41:02,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4063,closed,2021-03-14 16:35:26,2021-03-19 17:42:26,True,2021-03-19 17:42:26,0
+caddyserver/caddy,carlwgeorge,Carl George,San Antonio,4060,closed,2021-03-12 06:16:04,2021-04-05 20:01:20,True,2021-04-05 20:01:20,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4055,closed,2021-03-06 03:33:45,2021-04-21 23:05:56,True,2021-04-21 23:05:56,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4050,closed,2021-03-04 19:05:37,2021-03-30 00:36:41,True,2021-03-30 00:36:41,5
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4046,closed,2021-03-03 08:02:39,2021-03-03 17:12:31,True,2021-03-03 17:12:31,0
+caddyserver/caddy,ueffel,Steffen Brüheim,Germany,4045,closed,2021-03-02 19:10:21,2021-03-30 00:47:19,True,2021-03-30 00:47:19,38
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4034,closed,2021-02-22 09:13:13,2021-03-12 20:25:50,True,2021-03-12 20:25:49,4
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4033,closed,2021-02-22 08:50:08,2021-04-20 01:54:13,True,2021-04-20 01:54:12,0
+caddyserver/caddy,kujenga,Aaron Taylor,"Cambridge, MA",4029,closed,2021-02-18 12:36:09,2021-03-12 20:01:34,True,2021-03-12 20:01:34,0
+caddyserver/caddy,kujenga,Aaron Taylor,"Cambridge, MA",4028,closed,2021-02-18 05:04:15,2021-03-12 20:00:03,True,2021-03-12 20:00:03,26
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4024,closed,2021-02-17 00:20:35,2021-02-18 12:09:49,True,2021-02-18 12:09:49,9
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,4022,closed,2021-02-16 03:47:00,2021-04-09 18:06:26,True,2021-04-09 18:06:26,4
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",4021,closed,2021-02-16 03:11:08,2021-05-02 18:39:06,True,2021-05-02 18:39:06,14
+caddyserver/caddy,dtelyukh,Денис Телюх,,4015,closed,2021-02-11 05:05:44,2021-02-13 22:52:01,False,,0
+caddyserver/caddy,mholt,Matt Holt,,4013,closed,2021-02-08 19:59:30,2021-02-22 18:57:21,True,2021-02-22 18:57:21,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,4001,closed,2021-01-29 16:12:12,2021-01-30 01:07:27,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3999,closed,2021-01-29 06:05:52,2021-02-16 21:09:48,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3995,closed,2021-01-26 17:26:01,2021-01-28 22:40:36,True,2021-01-28 22:40:36,0
+caddyserver/caddy,mholt,Matt Holt,,3994,closed,2021-01-25 22:32:20,2021-01-27 23:16:05,True,2021-01-27 23:16:05,6
+caddyserver/caddy,rajat315315,Rajat Jain,Delhi,3992,closed,2021-01-25 12:21:30,2021-03-02 19:43:30,False,,9
+caddyserver/caddy,rajat315315,Rajat Jain,Delhi,3991,closed,2021-01-25 10:56:01,2021-03-10 21:22:34,True,2021-03-10 21:22:33,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3990,closed,2021-01-24 17:50:21,2021-02-16 03:10:28,True,2021-02-16 03:10:28,3
+caddyserver/caddy,kroppt,Tyler Kropp,,3987,closed,2021-01-23 04:36:24,2021-01-28 19:59:51,True,2021-01-28 19:59:50,0
+caddyserver/caddy,mholt,Matt Holt,,3983,closed,2021-01-21 21:35:35,2021-01-28 19:54:56,True,2021-01-28 19:54:56,0
+caddyserver/caddy,snowcrumble,Lijingfeng,China,3982,closed,2021-01-21 12:05:18,2021-03-02 19:38:58,False,,0
+caddyserver/caddy,rijusougata13,Sougata das ,kolkata,3981,closed,2021-01-21 12:01:36,2021-01-28 20:00:16,False,,0
+caddyserver/caddy,snowcrumble,Lijingfeng,China,3980,closed,2021-01-21 11:51:13,2021-01-21 12:04:37,False,,0
+caddyserver/caddy,SvenDowideit,Sven Dowideit,"Brisbane, QLD, Australia",3973,closed,2021-01-14 00:34:20,2021-01-14 01:30:50,True,2021-01-14 01:30:50,0
+caddyserver/caddy,mholt,Matt Holt,,3972,closed,2021-01-13 22:33:51,2021-01-20 01:45:49,True,2021-01-20 01:45:49,0
+caddyserver/caddy,kujenga,Aaron Taylor,"Cambridge, MA",3969,closed,2021-01-12 03:51:01,2021-01-12 03:51:09,False,,0
+caddyserver/caddy,kujenga,Aaron Taylor,"Cambridge, MA",3968,closed,2021-01-12 03:40:17,2021-02-03 16:10:39,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3966,closed,2021-01-11 01:57:40,2021-02-05 15:36:53,True,2021-02-05 15:36:53,1
+caddyserver/caddy,rumpelsepp,Stefan Tatschner,Bavaria,3963,closed,2021-01-09 13:51:41,2021-01-12 21:38:54,True,2021-01-12 21:38:53,5
+caddyserver/caddy,masipcat,Jordi Masip,"Barcelona, Catalonia",3956,closed,2021-01-06 15:50:46,2021-01-06 19:02:59,True,2021-01-06 19:02:59,6
+caddyserver/caddy,yaxin-cn,yaxin,深圳,3948,closed,2020-12-31 10:16:23,2021-01-04 18:26:19,True,2021-01-04 18:26:19,11
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3947,closed,2020-12-30 20:57:43,2020-12-30 21:02:55,True,2020-12-30 21:02:55,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3945,closed,2020-12-30 14:20:56,2020-12-30 14:28:21,True,2020-12-30 14:28:21,0
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3944,closed,2020-12-30 13:28:50,2020-12-30 18:44:03,True,2020-12-30 18:44:02,9
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3941,closed,2020-12-28 22:37:20,2020-12-30 17:54:59,True,2020-12-30 17:54:59,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3932,closed,2020-12-18 06:21:07,2020-12-29 19:52:14,True,2020-12-29 19:52:14,7
+caddyserver/caddy,mholt,Matt Holt,,3925,closed,2020-12-15 06:22:21,2021-01-04 18:11:57,True,2021-01-04 18:11:57,0
+caddyserver/caddy,mholt,Matt Holt,,3923,closed,2020-12-14 22:08:56,2021-01-04 18:11:37,True,2021-01-04 18:11:37,2
+caddyserver/caddy,go-d,,,3918,closed,2020-12-13 19:44:49,2021-01-11 16:18:54,True,2021-01-11 16:18:53,0
+caddyserver/caddy,SnirShechter,Snir Shechter,Israel,3917,closed,2020-12-13 18:03:11,2021-02-11 23:28:09,False,,2
+caddyserver/caddy,dtelyukh,Денис Телюх,,3910,closed,2020-12-09 10:42:30,2020-12-10 10:46:48,False,,4
+caddyserver/caddy,lolPants,Jack Baron,United Kingdom,3909,closed,2020-12-09 00:13:59,2020-12-09 18:28:15,True,2020-12-09 18:28:14,1
+caddyserver/caddy,gdhameeja,Gaurav Dhameeja,,3908,closed,2020-12-08 17:11:21,2021-01-09 16:52:17,False,,13
+caddyserver/caddy,marten-seemann,Marten Seemann,,3901,closed,2020-12-04 05:29:02,2020-12-04 15:49:27,True,2020-12-04 15:49:27,0
+caddyserver/caddy,masipcat,Jordi Masip,"Barcelona, Catalonia",3898,closed,2020-12-02 15:59:23,2020-12-03 17:02:19,True,2020-12-03 17:02:19,0
+caddyserver/caddy,cuonglm,Cuong Manh Le,Hanoi,3895,closed,2020-12-01 06:19:09,2020-12-01 15:27:47,True,2020-12-01 15:27:47,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3892,closed,2020-11-30 06:15:38,2020-11-30 17:20:31,True,2020-11-30 17:20:31,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3886,closed,2020-11-26 07:46:36,2020-11-27 03:31:26,True,2020-11-27 03:31:25,1
+caddyserver/caddy,mholt,Matt Holt,,3882,closed,2020-11-23 21:27:13,2020-11-25 17:53:01,True,2020-11-25 17:53:01,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,3880,closed,2020-11-21 09:40:06,2020-11-21 21:54:12,True,2020-11-21 21:54:12,0
+caddyserver/caddy,dtelyukh,Денис Телюх,,3875,closed,2020-11-18 08:47:12,2020-11-18 18:53:43,True,2020-11-18 18:53:43,0
+caddyserver/caddy,ViViDboarder,Ian,"San Francisco, CA",3874,closed,2020-11-17 21:15:13,2020-11-23 20:58:27,True,2020-11-23 20:58:27,12
+caddyserver/caddy,ViViDboarder,Ian,"San Francisco, CA",3868,closed,2020-11-14 01:18:04,2020-11-23 20:03:59,True,2020-11-23 20:03:59,0
+caddyserver/caddy,ViViDboarder,Ian,"San Francisco, CA",3867,closed,2020-11-14 01:17:53,2020-11-16 18:38:39,False,,2
+caddyserver/caddy,mholt,Matt Holt,,3862,closed,2020-11-12 00:15:03,2020-11-16 18:05:56,True,2020-11-16 18:05:56,10
+caddyserver/caddy,acuteaura,Aurelia,,3861,closed,2020-11-12 00:12:14,2020-11-13 22:28:22,True,2020-11-13 22:28:22,0
+caddyserver/caddy,pic,Nicola Piccinini,Italy / Switzerland,3859,closed,2020-11-08 16:07:54,2020-11-16 18:43:39,True,2020-11-16 18:43:39,13
+caddyserver/caddy,ViViDboarder,Ian,"San Francisco, CA",3849,closed,2020-11-05 00:33:57,2020-11-16 18:42:46,False,,3
+caddyserver/caddy,gdhameeja,Gaurav Dhameeja,,3846,closed,2020-11-04 09:32:44,2020-11-04 18:37:42,True,2020-11-04 18:37:42,1
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3845,closed,2020-11-03 19:05:34,2020-11-04 16:32:08,True,2020-11-04 16:32:08,0
+caddyserver/caddy,mholt,Matt Holt,,3844,closed,2020-11-02 20:25:28,2020-11-02 21:20:13,True,2020-11-02 21:20:13,5
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3843,closed,2020-11-02 06:44:53,2020-11-02 21:59:03,True,2020-11-02 21:59:02,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3842,closed,2020-11-02 06:27:28,2020-11-02 22:11:18,True,2020-11-02 22:11:18,3
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3839,closed,2020-11-01 20:29:14,2020-11-02 23:05:02,True,2020-11-02 23:05:02,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3836,closed,2020-11-01 03:51:43,2020-11-23 19:46:51,True,2020-11-23 19:46:51,21
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3832,closed,2020-10-31 00:01:10,2020-10-31 16:27:02,True,2020-10-31 16:27:01,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3829,closed,2020-10-29 21:54:41,2020-10-30 18:05:22,True,2020-10-30 18:05:22,0
+caddyserver/caddy,mholt,Matt Holt,,3824,closed,2020-10-28 16:23:41,2020-10-29 02:36:01,True,2020-10-29 02:36:01,0
+caddyserver/caddy,christoph-kluge,Christoph Kluge,"Berlin, Germany",3821,closed,2020-10-26 11:22:06,2020-11-02 23:01:58,True,2020-11-02 23:01:58,0
+caddyserver/caddy,jasonmccallister,Jason McCallister,"Chesapeake, VA",3819,closed,2020-10-24 20:06:46,2020-10-29 19:51:43,True,2020-10-29 19:51:43,1
+caddyserver/caddy,danlsgiga,Daniel Santos,"Calgary, AB, Canada",3816,closed,2020-10-22 17:37:57,2020-11-25 17:54:23,True,2020-11-25 17:54:23,9
+caddyserver/caddy,d-masson,Dimitri Masson,Paris,3811,closed,2020-10-19 10:44:58,2020-11-16 19:47:16,True,2020-11-16 19:47:15,4
+caddyserver/caddy,d-masson,Dimitri Masson,Paris,3809,closed,2020-10-19 10:03:08,2020-11-20 19:39:27,True,2020-11-20 19:39:26,24
+caddyserver/caddy,gilbsgilbs,Gilbert Gilb's,,3807,closed,2020-10-18 19:25:00,2020-11-20 19:38:17,True,2020-11-20 19:38:17,9
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3802,closed,2020-10-16 07:21:36,2020-11-16 20:12:20,False,,0
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3794,closed,2020-10-11 21:44:36,2020-11-22 21:50:30,True,2020-11-22 21:50:30,72
+caddyserver/caddy,coolaj86,AJ ONeal,"Provo, UT",3785,closed,2020-10-08 20:03:26,2020-10-09 17:32:10,True,2020-10-09 17:32:10,0
+caddyserver/caddy,mholt,Matt Holt,,3781,closed,2020-10-07 18:24:25,2020-10-13 16:52:40,True,2020-10-13 16:52:39,4
+caddyserver/caddy,mholt,Matt Holt,,3780,closed,2020-10-07 17:11:47,2020-10-13 16:35:21,True,2020-10-13 16:35:21,0
+caddyserver/caddy,ont,,,3779,closed,2020-10-06 11:24:37,2020-11-25 21:40:38,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3776,closed,2020-10-03 15:41:45,2020-10-12 20:27:03,False,,6
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3772,closed,2020-10-01 19:01:28,2020-10-01 19:53:20,True,2020-10-01 19:53:20,0
+caddyserver/caddy,aleert,Aleksei,"Russia, Moscow",3771,closed,2020-10-01 17:58:31,2020-10-01 20:02:32,True,2020-10-01 20:02:32,0
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3769,closed,2020-10-01 11:37:24,2020-10-01 16:57:15,True,2020-10-01 16:57:15,0
+caddyserver/caddy,cmfcmf,Christian Flach,Berlin,3758,closed,2020-09-27 15:05:58,2020-10-01 18:15:46,True,2020-10-01 18:15:45,0
+caddyserver/caddy,gdhameeja,Gaurav Dhameeja,,3757,closed,2020-09-27 07:17:23,2020-10-30 03:21:36,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3756,closed,2020-09-26 01:49:12,2020-10-01 20:05:40,True,2020-10-01 20:05:40,4
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3749,closed,2020-09-24 00:53:18,2020-09-26 00:00:09,True,2020-09-26 00:00:09,4
+caddyserver/caddy,dunglas,Kévin Dunglas,"Lille, France",3747,closed,2020-09-23 00:00:34,2020-10-02 09:12:16,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3746,closed,2020-09-22 21:11:42,2020-09-22 23:37:16,True,2020-09-22 23:37:16,2
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3742,closed,2020-09-22 02:50:25,2020-09-23 02:10:35,True,2020-09-23 02:10:35,8
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3740,closed,2020-09-21 00:24:01,2020-09-21 19:44:42,True,2020-09-21 19:44:42,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3739,closed,2020-09-20 17:46:19,2020-12-05 00:12:14,True,2020-12-05 00:12:14,2
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3737,closed,2020-09-19 02:45:36,2020-09-21 19:42:48,True,2020-09-21 19:42:48,0
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3733,closed,2020-09-18 02:32:04,2020-09-18 03:46:25,True,2020-09-18 03:46:25,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3730,closed,2020-09-17 01:27:32,2020-09-25 23:50:27,True,2020-09-25 23:50:27,2
+caddyserver/caddy,jorope,Jorope_15,,3729,closed,2020-09-16 12:56:59,2020-09-16 14:38:05,False,,0
+caddyserver/caddy,mholt,Matt Holt,,3719,closed,2020-09-11 18:35:47,2020-09-11 19:09:17,True,2020-09-11 19:09:17,0
+caddyserver/caddy,maxatome,Maxime Soulé,,3712,closed,2020-09-06 16:17:52,2021-02-16 03:11:47,False,,13
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3711,closed,2020-09-06 05:55:09,2020-09-15 19:49:40,False,,7
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3710,closed,2020-09-04 19:42:08,2020-09-08 16:37:47,True,2020-09-08 16:37:47,0
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3709,closed,2020-09-03 12:58:40,2020-09-17 18:01:21,True,2020-09-17 18:01:21,78
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3706,closed,2020-09-02 19:53:42,2020-09-08 16:45:49,True,2020-09-08 16:45:49,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3701,closed,2020-09-01 22:32:18,2020-09-08 17:36:47,True,2020-09-08 17:36:47,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3695,closed,2020-08-31 23:05:17,2020-09-17 01:48:38,True,2020-09-17 01:48:38,2
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3693,closed,2020-08-29 19:20:59,2020-09-17 16:25:35,True,2020-09-17 16:25:34,16
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3689,closed,2020-08-26 21:16:46,2020-11-20 21:24:59,True,2020-11-20 21:24:58,11
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3684,closed,2020-08-25 07:02:07,2020-09-17 00:09:29,True,2020-09-17 00:09:28,7
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3682,closed,2020-08-23 17:08:36,2020-11-23 19:51:36,True,2020-11-23 19:51:36,1
+caddyserver/caddy,matthewpi,Matthew Penner,"Calgary, Alberta, Canada",3680,closed,2020-08-21 18:01:35,2020-09-14 18:30:13,True,2020-09-14 18:30:13,5
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3676,closed,2020-08-21 05:49:02,2020-09-17 02:01:24,True,2020-09-17 02:01:23,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3674,closed,2020-08-20 21:50:34,2020-08-20 21:50:59,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3673,closed,2020-08-20 20:25:16,2020-08-21 02:40:27,True,2020-08-21 02:40:27,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3668,closed,2020-08-20 04:39:24,2020-09-08 16:44:59,True,2020-09-08 16:44:59,0
+caddyserver/caddy,gdhameeja,Gaurav Dhameeja,,3662,closed,2020-08-17 18:31:47,2020-09-16 21:06:53,True,2020-09-16 21:06:52,3
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3658,closed,2020-08-14 22:52:39,2020-08-17 22:15:52,True,2020-08-17 22:15:52,10
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3653,closed,2020-08-13 19:56:09,2020-08-17 21:14:47,True,2020-08-17 21:14:47,0
+caddyserver/caddy,mholt,Matt Holt,,3644,closed,2020-08-06 20:07:14,2020-08-06 20:17:41,True,2020-08-06 20:17:41,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3642,closed,2020-08-06 13:16:39,2020-08-20 20:04:11,True,2020-08-20 20:04:11,0
+caddyserver/caddy,mholt,Matt Holt,,3640,closed,2020-08-05 23:59:39,2020-08-07 18:12:30,True,2020-08-07 18:12:29,0
+caddyserver/caddy,mholt,Matt Holt,,3633,closed,2020-08-04 22:20:31,2020-08-11 14:58:07,True,2020-08-11 14:58:07,4
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3632,closed,2020-08-04 11:14:00,2020-08-05 19:42:30,True,2020-08-05 19:42:30,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3629,closed,2020-08-04 09:15:54,2020-11-23 19:18:27,True,2020-11-23 19:18:27,1
+caddyserver/caddy,mholt,Matt Holt,,3625,closed,2020-07-31 21:37:08,2020-08-01 18:43:31,True,2020-08-01 18:43:31,0
+caddyserver/caddy,Vigilans,Ye Zhihao,"Nanjing, China",3624,closed,2020-07-31 08:56:35,2020-07-31 17:30:21,True,2020-07-31 17:30:21,6
+caddyserver/caddy,mholt,Matt Holt,,3621,closed,2020-07-30 20:45:19,2020-07-30 21:18:15,True,2020-07-30 21:18:15,0
+caddyserver/caddy,masknu,Kevin Lin,"Shanghai,China",3620,closed,2020-07-30 14:34:28,2020-08-04 02:50:39,True,2020-08-04 02:50:39,6
+caddyserver/caddy,gulien,Julien Neuhart,Paris,3619,closed,2020-07-30 13:23:21,2020-07-30 14:14:15,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3617,closed,2020-07-29 00:07:55,2020-08-01 20:23:23,True,2020-08-01 20:23:23,2
+caddyserver/caddy,kennethklee,Kenneth Lee,,3616,closed,2020-07-28 17:54:22,2020-08-20 18:16:35,False,,0
+caddyserver/caddy,v-rosa,,,3608,closed,2020-07-27 08:19:46,2020-07-31 21:06:31,True,2020-07-31 21:06:31,4
+caddyserver/caddy,trncate,Bart,,3607,closed,2020-07-26 15:05:19,2020-07-31 22:54:19,True,2020-07-31 22:54:19,0
+caddyserver/caddy,Toasterson,Till Wegmüller,"Bern, Switzerland",3602,closed,2020-07-25 15:55:41,2020-07-25 16:42:33,False,,0
+caddyserver/caddy,sunlaiman,Korakan Yamsattham,"Bangkok, Thailand",3601,closed,2020-07-25 14:21:50,2020-07-25 14:30:21,False,,0
+caddyserver/caddy,sunlaiman,Korakan Yamsattham,"Bangkok, Thailand",3600,closed,2020-07-25 13:46:22,2020-07-25 13:56:52,False,,0
+caddyserver/caddy,Vigilans,Ye Zhihao,"Nanjing, China",3595,closed,2020-07-23 12:07:55,2020-08-03 19:44:39,True,2020-08-03 19:44:39,8
+caddyserver/caddy,endelwar,Manuel Dalla Lana,Italy,3587,closed,2020-07-18 14:03:29,2020-07-20 18:16:14,True,2020-07-20 18:16:14,6
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3578,closed,2020-07-14 02:01:37,2020-09-15 18:37:42,True,2020-09-15 18:37:42,7
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3577,closed,2020-07-14 00:17:38,2020-07-17 19:33:41,True,2020-07-17 19:33:41,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3576,closed,2020-07-13 23:51:39,2020-07-17 19:18:33,True,2020-07-17 19:18:33,1
+caddyserver/caddy,mholt,Matt Holt,,3573,closed,2020-07-11 23:59:53,2020-07-20 18:28:41,True,2020-07-20 18:28:41,23
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3570,closed,2020-07-11 03:42:37,2020-07-17 20:48:51,True,2020-07-17 20:48:51,4
+caddyserver/caddy,dunglas,Kévin Dunglas,"Lille, France",3564,closed,2020-07-10 09:42:03,2020-07-10 14:00:25,True,2020-07-10 14:00:25,0
+caddyserver/caddy,masknu,Kevin Lin,"Shanghai,China",3561,closed,2020-07-08 02:37:03,2020-07-20 18:14:48,True,2020-07-20 18:14:47,5
+caddyserver/caddy,gpanders,Gregory Anders,United States,3553,closed,2020-07-06 17:42:36,2020-07-06 17:53:42,True,2020-07-06 17:53:41,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3549,closed,2020-07-05 17:57:31,2020-07-20 19:55:52,True,2020-07-20 19:55:52,16
+caddyserver/caddy,cceyda,Ceyda Cinarel,"Seoul, Korea",3542,closed,2020-07-02 11:23:37,2020-07-09 05:56:16,True,2020-07-09 05:56:16,4
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3536,closed,2020-06-30 19:31:40,2020-06-30 19:36:18,True,2020-06-30 19:36:18,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3526,closed,2020-06-27 09:29:27,2020-06-30 17:53:30,True,2020-06-30 17:53:30,3
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3524,closed,2020-06-26 19:35:38,2020-06-26 20:00:55,True,2020-06-26 20:00:55,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3523,closed,2020-06-25 21:48:32,2020-06-25 21:58:44,True,2020-06-25 21:58:44,0
+caddyserver/caddy,mholt,Matt Holt,,3522,closed,2020-06-25 21:30:43,2020-06-26 18:01:51,True,2020-06-26 18:01:50,0
+caddyserver/caddy,jamesbirtles,James Birtles,"Farnborough, UK",3521,closed,2020-06-25 16:17:14,2020-06-26 21:14:48,True,2020-06-26 21:14:48,0
+caddyserver/caddy,cxmcc,Xiuming Chen,"San Francisco, CA",3513,closed,2020-06-22 04:11:33,2020-06-22 04:40:55,True,2020-06-22 04:40:55,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3512,closed,2020-06-22 02:48:08,2020-06-22 17:45:20,True,2020-06-22 17:45:19,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3498,closed,2020-06-15 01:00:40,2020-06-15 18:38:52,True,2020-06-15 18:38:51,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3494,closed,2020-06-12 18:50:32,2020-06-12 19:51:05,True,2020-06-12 19:51:05,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3493,closed,2020-06-12 17:52:48,2020-06-12 18:03:30,True,2020-06-12 18:03:30,0
+caddyserver/caddy,chrisortman,Chris Ortman,"Iowa, USA",3492,closed,2020-06-12 16:02:57,2020-06-12 19:37:57,True,2020-06-12 19:37:57,2
+caddyserver/caddy,wylfen,Wolf,libera.chat: wolf,3491,closed,2020-06-12 10:34:14,2020-06-12 16:08:00,True,2020-06-12 16:08:00,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3483,closed,2020-06-08 18:10:42,2020-06-08 18:21:21,True,2020-06-08 18:21:21,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3482,closed,2020-06-08 17:04:30,2020-06-08 17:10:29,True,2020-06-08 17:10:29,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3479,closed,2020-06-06 21:32:03,2020-07-18 21:00:00,True,2020-07-18 21:00:00,8
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3473,closed,2020-06-04 02:23:59,2020-06-05 16:23:16,True,2020-06-05 16:23:16,0
+caddyserver/caddy,sharego,,,3472,closed,2020-06-03 07:21:49,2020-06-03 20:16:14,False,,0
+caddyserver/caddy,mholt,Matt Holt,,3465,closed,2020-06-01 20:44:05,2020-06-02 05:56:48,True,2020-06-02 05:56:48,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3463,closed,2020-05-31 07:00:06,2020-06-12 17:11:47,True,2020-06-12 17:11:47,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3456,closed,2020-05-27 13:27:02,2020-05-27 14:13:58,True,2020-05-27 14:13:58,0
+caddyserver/caddy,rgl,Rui Lopes,"Lisbon, Portugal",3454,closed,2020-05-26 20:50:00,2020-05-26 21:04:05,True,2020-05-26 21:04:05,0
+caddyserver/caddy,mholt,Matt Holt,,3453,closed,2020-05-26 20:41:31,2020-05-28 16:40:15,True,2020-05-28 16:40:15,0
+caddyserver/caddy,AndyBan,,,3451,closed,2020-05-26 14:23:33,2020-05-26 18:40:58,True,2020-05-26 18:40:58,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3447,closed,2020-05-25 10:47:22,2020-05-28 21:40:09,False,,15
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3446,closed,2020-05-25 00:16:03,2020-08-23 18:53:56,False,,1
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3444,closed,2020-05-24 18:32:18,2020-05-25 03:59:39,True,2020-05-25 03:59:39,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3442,closed,2020-05-24 18:07:29,2020-05-25 03:28:05,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3439,closed,2020-05-23 13:18:51,2020-05-26 19:45:23,True,2020-05-26 19:45:23,1
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3437,closed,2020-05-23 06:11:02,2020-05-23 14:46:01,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3436,closed,2020-05-22 17:04:10,2020-05-22 19:13:32,True,2020-05-22 19:13:32,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3431,closed,2020-05-20 00:27:22,2020-05-20 16:37:49,True,2020-05-20 16:37:49,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3430,closed,2020-05-19 22:56:12,2020-11-01 23:31:59,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3423,closed,2020-05-18 07:04:13,2020-06-01 16:43:07,True,2020-06-01 16:43:07,11
+caddyserver/caddy,bhcleek,Billie Cleek,"Portland, OR",3421,closed,2020-05-16 15:49:30,2020-05-16 17:14:04,True,2020-05-16 17:14:04,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3419,closed,2020-05-15 21:47:22,2020-05-15 21:57:17,True,2020-05-15 21:57:17,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3416,closed,2020-05-15 15:42:05,2020-05-21 19:09:50,True,2020-05-21 19:09:50,10
+caddyserver/caddy,bhcleek,Billie Cleek,"Portland, OR",3414,closed,2020-05-15 03:51:28,2020-05-16 17:18:35,False,,0
+caddyserver/caddy,utick,,,3408,closed,2020-05-13 17:02:35,2020-11-03 07:08:06,False,,1
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3407,closed,2020-05-13 16:49:11,2020-05-13 17:11:32,True,2020-05-13 17:11:31,5
+caddyserver/caddy,mholt,Matt Holt,,3401,closed,2020-05-12 17:51:57,2020-05-13 15:52:21,True,2020-05-13 15:52:21,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3398,closed,2020-05-12 01:03:43,2020-05-14 21:53:29,True,2020-05-14 21:53:29,2
+caddyserver/caddy,disintegrator,Georges Haidar,London,3397,closed,2020-05-11 21:40:38,2020-06-01 15:50:02,True,2020-06-01 15:50:02,4
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3396,closed,2020-05-11 20:59:30,2020-05-11 21:07:03,True,2020-05-11 21:07:03,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3393,closed,2020-05-11 05:47:17,2020-05-26 20:13:16,True,2020-05-26 20:13:16,1
+caddyserver/caddy,linquize,,Hong Kong,3389,closed,2020-05-10 15:04:38,2020-05-12 16:43:18,True,2020-05-12 16:43:18,3
+caddyserver/caddy,oganga,Thorkild Gregersen ,,3387,closed,2020-05-10 08:54:31,2020-05-18 19:01:05,True,2020-05-18 19:01:04,6
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3385,closed,2020-05-09 19:21:39,2020-05-09 20:11:36,True,2020-05-09 20:11:36,0
+caddyserver/caddy,ChandlerSwift,Chandler Swift,"Burnsville, Minnesota, USA",3380,closed,2020-05-08 22:52:56,2020-05-08 23:46:41,True,2020-05-08 23:46:41,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3379,closed,2020-05-08 21:25:35,2020-05-11 20:38:34,True,2020-05-11 20:38:34,0
+caddyserver/caddy,GregoryDosh,Gregory Dosh,,3378,closed,2020-05-08 18:42:43,2020-05-11 20:18:01,True,2020-05-11 20:18:00,4
+caddyserver/caddy,0az,Andrew Zhou,,3373,closed,2020-05-07 17:41:45,2020-05-11 20:10:47,True,2020-05-11 20:10:47,12
+caddyserver/caddy,josedonizetti,Jose Donizetti,Brazil,3372,closed,2020-05-07 16:42:04,2020-05-18 13:22:44,False,,8
+caddyserver/caddy,josedonizetti,Jose Donizetti,Brazil,3371,closed,2020-05-07 14:57:33,2020-05-07 15:31:59,True,2020-05-07 15:31:59,0
+caddyserver/caddy,jjlin,Jeremy Lin,California,3367,closed,2020-05-07 06:33:29,2020-05-07 19:06:00,True,2020-05-07 19:06:00,0
+caddyserver/caddy,mholt,Matt Holt,,3364,closed,2020-05-06 23:44:31,2021-01-08 23:06:06,False,,6
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3356,closed,2020-05-06 00:10:36,2020-05-06 01:13:57,True,2020-05-06 01:13:57,0
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",3355,closed,2020-05-06 00:02:09,2020-05-06 00:50:31,True,2020-05-06 00:50:31,0
+caddyserver/caddy,KarolBedkowski,Karol Będkowski,Poland,3344,closed,2020-05-04 19:11:02,2020-05-06 16:07:13,True,2020-05-06 16:07:13,0
+caddyserver/caddy,nwhirschfeld,NWHirschfeld,Germany,3335,closed,2020-05-03 20:42:46,2020-06-05 18:19:37,True,2020-06-05 18:19:36,28
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3329,closed,2020-05-01 21:59:23,2020-05-01 22:24:35,True,2020-05-01 22:24:35,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3328,closed,2020-04-30 14:14:58,2020-05-02 23:24:55,True,2020-05-02 23:24:55,3
+caddyserver/caddy,grooverdan,Daniel Black,"Canberra, Australia",3325,closed,2020-04-30 05:58:53,2020-05-05 18:41:09,True,2020-05-05 18:41:09,0
+caddyserver/caddy,bagbag,Patrick Hein,"Mannheim, Germany",3324,closed,2020-04-29 20:55:04,2020-07-20 23:17:40,True,2020-07-20 23:17:39,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3323,closed,2020-04-29 06:37:26,2020-05-11 22:41:12,True,2020-05-11 22:41:12,10
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3322,closed,2020-04-28 15:02:17,2020-05-05 18:39:40,True,2020-05-05 18:39:39,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3321,closed,2020-04-28 08:17:09,2020-05-06 20:42:56,True,2020-05-06 20:42:56,0
+caddyserver/caddy,mholt,Matt Holt,,3320,closed,2020-04-27 21:57:48,2020-05-29 20:21:56,True,2020-05-29 20:21:56,0
+caddyserver/caddy,mholt,Matt Holt,,3319,closed,2020-04-27 20:29:29,2020-05-05 18:37:53,True,2020-05-05 18:37:53,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3315,closed,2020-04-26 23:14:10,2020-05-18 18:19:29,True,2020-05-18 18:19:29,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3313,closed,2020-04-26 21:29:30,2020-05-21 21:59:16,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3309,closed,2020-04-26 02:26:14,2020-04-27 02:20:15,True,2020-04-27 02:20:15,2
+caddyserver/caddy,wecc,Christoffer Andersson,"Malmö, Sweden",3308,closed,2020-04-25 16:22:05,2020-04-25 16:34:57,True,2020-04-25 16:34:57,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3305,closed,2020-04-24 06:05:53,2020-05-11 22:50:50,True,2020-05-11 22:50:50,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3302,closed,2020-04-23 01:00:59,2020-04-27 20:46:47,True,2020-04-27 20:46:47,6
+caddyserver/caddy,mholt,Matt Holt,,3301,closed,2020-04-22 15:31:36,2020-04-28 14:32:05,True,2020-04-28 14:32:05,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3300,closed,2020-04-22 14:16:56,2020-04-22 15:05:27,True,2020-04-22 15:05:27,0
+caddyserver/caddy,greenpau,Paul Greenberg,"New York, NY",3299,closed,2020-04-22 14:03:37,2020-04-27 01:25:38,False,,10
+caddyserver/caddy,mholt,Matt Holt,,3298,closed,2020-04-22 05:53:21,2020-05-05 18:34:59,True,2020-05-05 18:34:59,0
+caddyserver/caddy,westwin,westwin,"BeiJing,China",3297,closed,2020-04-22 01:49:14,2020-04-22 02:34:01,True,2020-04-22 02:34:01,0
+caddyserver/caddy,westwin,westwin,"BeiJing,China",3290,closed,2020-04-21 03:52:31,2020-04-22 01:59:29,False,,0
+caddyserver/caddy,mholt,Matt Holt,,3289,closed,2020-04-21 03:11:52,2020-05-05 18:33:23,True,2020-05-05 18:33:22,3
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3288,closed,2020-04-20 20:50:59,2020-04-20 21:21:20,True,2020-04-20 21:21:20,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3285,closed,2020-04-20 09:03:19,2020-04-27 01:23:47,True,2020-04-27 01:23:47,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3284,closed,2020-04-20 07:32:26,2020-05-19 22:59:53,True,2020-05-19 22:59:52,3
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3283,closed,2020-04-19 08:50:51,2020-04-19 23:37:05,True,2020-04-19 23:37:04,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3281,closed,2020-04-19 06:14:09,2020-05-26 21:27:52,True,2020-05-26 21:27:52,6
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3280,closed,2020-04-19 06:12:26,2020-04-26 02:26:37,False,,2
+caddyserver/caddy,elcore,elcore,,3278,closed,2020-04-18 23:42:26,2020-05-15 21:49:52,True,2020-05-15 21:49:52,3
+caddyserver/caddy,mholt,Matt Holt,,3276,closed,2020-04-17 15:09:58,2020-04-17 15:53:07,True,2020-04-17 15:53:07,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3273,closed,2020-04-17 06:39:29,2020-04-17 17:54:36,True,2020-04-17 17:54:36,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3271,closed,2020-04-16 22:48:56,2020-04-16 22:50:37,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3270,closed,2020-04-16 22:43:55,2020-04-17 00:32:43,True,2020-04-17 00:32:43,8
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3267,closed,2020-04-16 02:07:34,2020-05-05 18:32:13,True,2020-05-05 18:32:13,2
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3265,closed,2020-04-15 03:28:54,2020-05-11 21:00:36,True,2020-05-11 21:00:36,24
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3263,closed,2020-04-14 08:21:10,2020-05-05 18:29:22,True,2020-05-05 18:29:21,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3255,closed,2020-04-11 01:32:55,2020-05-18 18:15:39,True,2020-05-18 18:15:39,4
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3246,closed,2020-04-08 23:20:23,2020-07-20 19:58:31,False,,4
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3245,closed,2020-04-08 20:49:41,2020-04-08 21:31:52,True,2020-04-08 21:31:52,9
+caddyserver/caddy,mholt,Matt Holt,,3243,closed,2020-04-08 17:21:11,2020-04-09 18:39:06,True,2020-04-09 18:39:06,0
+caddyserver/caddy,mholt,Matt Holt,,3242,closed,2020-04-08 17:00:26,2020-05-05 18:27:50,True,2020-05-05 18:27:50,0
+caddyserver/caddy,mholt,Matt Holt,,3240,closed,2020-04-07 21:35:33,2020-04-08 02:39:14,True,2020-04-08 02:39:14,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3231,closed,2020-04-05 23:40:32,2020-04-08 17:09:39,True,2020-04-08 17:09:39,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3230,closed,2020-04-05 23:00:05,2020-04-06 19:08:43,True,2020-04-06 19:08:43,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3229,closed,2020-04-05 21:37:53,2020-04-06 19:07:08,True,2020-04-06 19:07:08,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3228,closed,2020-04-05 17:21:06,2020-04-06 19:05:50,True,2020-04-06 19:05:50,4
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3222,closed,2020-04-03 20:40:49,2020-04-04 03:02:47,True,2020-04-04 03:02:47,0
+caddyserver/caddy,mholt,Matt Holt,,3217,closed,2020-04-02 23:37:02,2020-04-03 00:07:58,True,2020-04-03 00:07:58,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3216,closed,2020-04-02 22:08:48,2020-04-02 22:44:45,True,2020-04-02 22:44:45,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3214,closed,2020-04-02 16:32:08,2020-04-02 16:40:22,True,2020-04-02 16:40:22,0
+caddyserver/caddy,mholt,Matt Holt,,3208,closed,2020-03-31 20:10:38,2020-04-01 16:58:30,True,2020-04-01 16:58:29,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3207,closed,2020-03-31 19:59:21,2020-04-01 22:36:00,False,,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3199,closed,2020-03-27 20:35:41,2020-06-26 21:12:38,True,2020-06-26 21:12:38,18
+caddyserver/caddy,mholt,Matt Holt,,3198,closed,2020-03-27 17:09:27,2020-05-05 18:35:33,True,2020-05-05 18:35:33,0
+caddyserver/caddy,aapelismith,Aapeli.Smith,Nanny State,3196,closed,2020-03-27 10:58:50,2020-04-13 15:58:56,True,2020-04-13 15:58:56,2
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3195,closed,2020-03-27 00:28:56,2020-03-27 00:34:13,True,2020-03-27 00:34:13,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3194,closed,2020-03-26 23:46:34,2020-03-27 00:20:35,True,2020-03-27 00:20:35,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3193,closed,2020-03-25 19:12:47,2020-04-10 07:42:03,False,,22
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3188,closed,2020-03-24 23:04:44,2020-03-25 14:55:15,True,2020-03-25 14:55:15,0
+caddyserver/caddy,O330oei,O330oei,Timbuktu ,3186,closed,2020-03-24 11:05:38,2020-03-24 12:33:30,False,,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3184,closed,2020-03-24 02:30:37,2020-03-24 03:18:54,True,2020-03-24 03:18:53,0
+caddyserver/caddy,mholt,Matt Holt,,3182,closed,2020-03-24 00:35:56,2020-03-24 03:12:55,True,2020-03-24 03:12:55,0
+caddyserver/caddy,mholt,Matt Holt,,3180,closed,2020-03-23 23:03:53,2020-03-24 16:53:54,True,2020-03-24 16:53:54,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3177,closed,2020-03-23 20:05:02,2020-03-23 20:26:53,True,2020-03-23 20:26:53,1
+caddyserver/caddy,pascalgn,Pascal,Germany,3176,closed,2020-03-23 18:08:51,2020-03-26 05:16:13,True,2020-03-26 05:16:13,1
+caddyserver/caddy,roblabla,Robin Lambertz,"France, FR",3174,closed,2020-03-22 21:17:18,2020-03-27 17:10:52,True,2020-03-27 17:10:52,8
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3173,closed,2020-03-22 18:47:49,2020-03-25 05:13:37,True,2020-03-25 05:13:37,29
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3168,closed,2020-03-21 23:33:00,2020-03-21 23:44:52,True,2020-03-21 23:44:52,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3167,closed,2020-03-21 23:05:00,2020-03-21 23:22:49,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3166,closed,2020-03-21 07:38:13,2020-03-21 22:53:43,True,2020-03-21 22:53:43,1
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3162,closed,2020-03-20 14:46:42,2020-03-20 14:54:54,True,2020-03-20 14:54:54,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3160,closed,2020-03-20 12:36:55,2020-03-20 12:56:58,True,2020-03-20 12:56:58,0
+caddyserver/caddy,paolobarbolini,Paolo Barbolini,Reggio Emilia (Italy UTC+2),3159,closed,2020-03-19 22:51:17,2020-03-20 12:54:29,True,2020-03-20 12:54:29,0
+caddyserver/caddy,mholt,Matt Holt,,3157,closed,2020-03-19 15:28:25,2020-03-19 17:51:29,True,2020-03-19 17:51:29,5
+caddyserver/caddy,mholt,Matt Holt,,3155,closed,2020-03-18 21:53:51,2020-03-19 21:46:22,True,2020-03-19 21:46:22,0
+caddyserver/caddy,vrongmeal,Vaibhav,Roorkee,3153,closed,2020-03-17 15:15:18,2020-03-17 15:55:37,True,2020-03-17 15:55:37,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3152,closed,2020-03-17 06:24:30,2020-03-20 14:38:44,True,2020-03-20 14:38:44,16
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3149,closed,2020-03-15 09:05:11,2020-03-17 06:28:17,False,,2
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3146,closed,2020-03-14 07:23:02,2020-03-17 18:39:02,True,2020-03-17 18:39:02,15
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3145,closed,2020-03-14 02:21:15,2020-03-23 00:08:03,True,2020-03-23 00:08:03,4
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3142,closed,2020-03-13 02:19:31,2020-03-13 18:22:45,False,,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3141,closed,2020-03-13 01:08:08,2020-03-13 17:32:54,True,2020-03-13 17:32:54,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3139,closed,2020-03-12 08:55:41,2020-03-15 17:43:35,False,,2
+caddyserver/caddy,billglover,Bill Glover,"London, UK",3133,closed,2020-03-10 21:40:59,2020-03-11 22:12:01,True,2020-03-11 22:12:01,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3132,closed,2020-03-10 17:43:49,2020-03-21 22:49:11,True,2020-03-21 22:49:11,11
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3131,closed,2020-03-10 06:39:17,2020-03-10 14:25:27,True,2020-03-10 14:25:27,0
+caddyserver/caddy,anoadragon453,Andrew Morgan,,3129,closed,2020-03-09 23:04:01,2020-03-13 16:00:45,False,,1
+caddyserver/caddy,mholt,Matt Holt,,3128,closed,2020-03-09 06:04:36,2020-03-09 21:18:20,True,2020-03-09 21:18:20,0
+caddyserver/caddy,mholt,Matt Holt,,3125,closed,2020-03-07 20:07:18,2020-03-13 17:06:08,True,2020-03-13 17:06:08,8
+caddyserver/caddy,billglover,Bill Glover,"London, UK",3121,closed,2020-03-06 12:09:29,2020-03-08 21:37:00,True,2020-03-08 21:37:00,16
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3120,closed,2020-03-05 23:10:30,2020-03-08 00:58:45,True,2020-03-08 00:58:45,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3118,closed,2020-03-04 20:08:26,2020-03-04 20:19:26,True,2020-03-04 20:19:26,0
+caddyserver/caddy,alexanderadam,Alexander ADAM,"Zürich, Switzerland",3115,closed,2020-03-03 12:46:03,2020-03-03 16:34:07,True,2020-03-03 16:34:06,0
+caddyserver/caddy,lukasbestle,Lukas Bestle,"Reutlingen, Germany",3112,closed,2020-03-02 20:32:30,2020-03-22 13:28:27,False,,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3111,closed,2020-03-02 17:45:47,2020-03-04 16:58:49,True,2020-03-04 16:58:49,21
+caddyserver/caddy,marten-seemann,Marten Seemann,,3109,closed,2020-03-02 11:46:03,2020-03-02 14:13:50,True,2020-03-02 14:13:50,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,3107,closed,2020-03-01 06:06:53,2020-03-01 19:34:58,True,2020-03-01 19:34:58,0
+caddyserver/caddy,vrongmeal,Vaibhav,Roorkee,3105,closed,2020-02-29 20:01:11,2020-02-29 20:23:08,True,2020-02-29 20:23:08,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3103,closed,2020-02-29 11:47:34,2020-02-29 17:09:51,True,2020-02-29 17:09:50,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3099,closed,2020-02-28 08:26:03,2020-02-29 19:11:26,False,,0
+caddyserver/caddy,danlsgiga,Daniel Santos,"Calgary, AB, Canada",3096,closed,2020-02-28 02:24:53,2020-02-28 02:37:20,True,2020-02-28 02:37:19,0
+caddyserver/caddy,vrongmeal,Vaibhav,Roorkee,3090,closed,2020-02-27 14:11:42,2020-02-29 17:12:16,True,2020-02-29 17:12:16,22
+caddyserver/caddy,successgo,gdc,Universe,3087,closed,2020-02-27 10:44:42,2020-02-28 02:30:49,True,2020-02-28 02:30:49,0
+caddyserver/caddy,successgo,gdc,Universe,3086,closed,2020-02-27 05:44:49,2020-02-27 05:50:36,True,2020-02-27 05:50:36,0
+caddyserver/caddy,successgo,gdc,Universe,3085,closed,2020-02-27 04:45:24,2020-02-27 05:22:41,True,2020-02-27 05:22:41,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3083,closed,2020-02-26 23:48:45,2020-02-27 00:51:54,True,2020-02-27 00:51:54,0
+caddyserver/caddy,zaquestion,Zaq? Wiedmann,"Seattle, WA",3082,closed,2020-02-26 21:14:09,2020-02-26 23:06:35,True,2020-02-26 23:06:35,0
+caddyserver/caddy,successgo,gdc,Universe,3080,closed,2020-02-25 14:44:01,2020-02-25 16:11:30,True,2020-02-25 16:11:30,0
+caddyserver/caddy,successgo,gdc,Universe,3078,closed,2020-02-25 07:21:40,2020-02-25 07:33:34,True,2020-02-25 07:33:34,0
+caddyserver/caddy,danlsgiga,Daniel Santos,"Calgary, AB, Canada",3075,closed,2020-02-24 23:49:09,2020-02-25 23:05:00,True,2020-02-25 23:05:00,3
+caddyserver/caddy,huchenme,Hu Chen,Singapore,3074,closed,2020-02-24 10:59:15,2020-02-25 22:36:13,True,2020-02-25 22:36:13,0
+caddyserver/caddy,roblabla,Robin Lambertz,"France, FR",3063,closed,2020-02-20 19:19:33,2020-02-20 22:00:31,True,2020-02-20 22:00:31,6
+caddyserver/caddy,gilbsgilbs,Gilbert Gilb's,,3061,closed,2020-02-19 21:10:00,2020-02-20 17:55:48,True,2020-02-20 17:55:48,1
+caddyserver/caddy,mholt,Matt Holt,,3052,closed,2020-02-17 22:54:34,2020-02-26 05:00:34,True,2020-02-26 05:00:34,0
+caddyserver/caddy,roblabla,Robin Lambertz,"France, FR",3050,closed,2020-02-17 16:46:34,2020-02-17 19:20:00,True,2020-02-17 19:20:00,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,3048,closed,2020-02-17 06:48:38,2020-02-17 15:54:03,True,2020-02-17 15:54:03,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3047,closed,2020-02-16 20:04:57,2020-02-26 23:01:47,True,2020-02-26 23:01:47,4
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3044,closed,2020-02-15 20:37:34,2020-03-13 01:11:05,False,,28
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3040,closed,2020-02-12 19:47:02,2020-02-12 20:07:26,True,2020-02-12 20:07:25,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3039,closed,2020-02-12 19:35:40,2020-02-16 20:06:13,False,,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3038,closed,2020-02-12 08:39:38,2020-02-12 19:36:09,False,,2
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3031,closed,2020-02-09 06:35:06,2020-02-12 19:36:28,False,,0
+caddyserver/caddy,lscgzwd,Levi.Lu,"Chengdu, China",3030,closed,2020-02-09 05:35:26,2020-02-09 15:55:55,True,2020-02-09 15:55:54,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",3028,closed,2020-02-08 07:24:34,2020-02-09 06:35:53,False,,0
+caddyserver/caddy,jjlin,Jeremy Lin,California,3027,closed,2020-02-08 05:52:24,2020-02-08 19:36:37,True,2020-02-08 19:36:37,0
+caddyserver/caddy,jjlin,Jeremy Lin,California,3026,closed,2020-02-08 05:51:16,2020-02-08 19:41:17,True,2020-02-08 19:41:17,2
+caddyserver/caddy,milanof-huma,Milano Fili,London,3024,closed,2020-02-07 06:58:14,2020-02-07 18:21:41,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,3005,closed,2020-01-26 02:49:41,2020-02-03 16:25:33,True,2020-02-03 16:25:33,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",3002,closed,2020-01-25 19:17:41,2020-02-04 22:49:38,True,2020-02-04 22:49:38,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2997,closed,2020-01-22 21:55:25,2020-02-08 19:26:33,True,2020-02-08 19:26:32,8
+caddyserver/caddy,mholt,Matt Holt,,2990,closed,2020-01-19 22:52:22,2020-01-20 00:07:57,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2986,closed,2020-01-17 22:27:18,2020-01-19 01:42:57,True,2020-01-19 01:42:57,2
+caddyserver/caddy,moorereason,Cameron Moore,"Abilene, Texas, USA",2982,closed,2020-01-17 03:59:21,2020-02-26 02:22:51,True,2020-02-26 02:22:51,12
+caddyserver/caddy,moorereason,Cameron Moore,"Abilene, Texas, USA",2980,closed,2020-01-16 21:49:38,2020-01-19 03:37:50,True,2020-01-19 03:37:50,0
+caddyserver/caddy,mholt,Matt Holt,,2976,closed,2020-01-14 14:34:32,2020-01-15 16:40:33,True,2020-01-15 16:40:33,0
+caddyserver/caddy,zaquestion,Zaq? Wiedmann,"Seattle, WA",2971,closed,2020-01-10 03:21:01,2020-01-10 03:48:16,True,2020-01-10 03:48:16,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",2970,closed,2020-01-09 23:39:09,2020-01-10 02:34:22,True,2020-01-10 02:34:22,2
+caddyserver/caddy,mholt,Matt Holt,,2967,closed,2020-01-09 01:34:16,2020-01-09 17:00:14,True,2020-01-09 17:00:14,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",2963,closed,2020-01-06 20:16:30,2020-01-09 16:40:17,True,2020-01-09 16:40:16,4
+caddyserver/caddy,mholt,Matt Holt,,2960,closed,2020-01-06 17:02:26,2020-01-09 21:00:33,True,2020-01-09 21:00:33,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2957,closed,2020-01-03 15:45:24,2020-01-03 18:33:23,True,2020-01-03 18:33:22,0
+caddyserver/caddy,dmgk,Dmitri Goutnik,Ecuador,2956,closed,2020-01-03 13:22:19,2020-01-12 21:01:26,True,2020-01-12 21:01:26,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",2948,closed,2019-12-26 01:06:10,2020-02-12 19:37:50,False,,0
+caddyserver/caddy,siredwin,,USA,2947,closed,2019-12-24 19:50:18,2019-12-24 21:13:48,False,,0
+caddyserver/caddy,siredwin,,USA,2946,closed,2019-12-24 19:26:18,2019-12-24 19:51:46,False,,0
+caddyserver/caddy,maxatome,Maxime Soulé,,2945,closed,2019-12-22 23:08:11,2019-12-28 18:54:29,True,2019-12-28 18:54:29,0
+caddyserver/caddy,dozer47528,Dozer,Shanghai,2939,closed,2019-12-18 11:17:50,2020-01-12 21:00:18,True,2020-01-12 21:00:18,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",2937,closed,2019-12-17 08:36:16,2020-02-12 19:48:21,False,,1
+caddyserver/caddy,zaquestion,Zaq? Wiedmann,"Seattle, WA",2936,closed,2019-12-17 06:05:54,2020-01-07 19:07:43,True,2020-01-07 19:07:43,11
+caddyserver/caddy,axiomista,Vanessa Nicole Naff,Duwamish land,2928,closed,2019-12-13 09:07:47,2019-12-13 16:42:47,True,2019-12-13 16:42:47,0
+caddyserver/caddy,axiomista,Vanessa Nicole Naff,Duwamish land,2927,closed,2019-12-13 08:15:16,2019-12-13 08:59:01,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2925,closed,2019-12-10 21:42:02,2019-12-10 22:00:32,True,2019-12-10 22:00:31,0
+caddyserver/caddy,mholt,Matt Holt,,2924,closed,2019-12-10 20:11:43,2019-12-10 20:36:47,True,2019-12-10 20:36:47,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2923,closed,2019-12-10 16:10:52,2019-12-14 19:31:19,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2922,closed,2019-12-10 15:54:44,2019-12-10 16:01:29,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2921,closed,2019-12-10 11:30:37,2019-12-10 12:37:06,False,,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,2918,closed,2019-12-07 03:46:20,2019-12-07 17:29:04,True,2019-12-07 17:29:04,0
+caddyserver/caddy,MisterDuval,,,2917,closed,2019-12-05 18:20:14,2019-12-14 18:21:27,True,2019-12-14 18:21:27,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,2916,closed,2019-12-04 02:02:13,2019-12-04 03:49:02,True,2019-12-04 03:49:02,0
+caddyserver/caddy,gliptak,Gábor Lipták,,2915,closed,2019-12-03 21:38:10,2019-12-04 23:35:57,True,2019-12-04 23:35:57,0
+caddyserver/caddy,evtr,,,2914,closed,2019-12-03 08:56:55,2019-12-04 22:35:37,True,2019-12-04 22:35:37,3
+caddyserver/caddy,evtr,,,2913,closed,2019-12-02 22:28:26,2020-03-08 15:48:26,True,2020-03-08 15:48:26,4
+caddyserver/caddy,evtr,,,2912,closed,2019-12-02 22:08:50,2019-12-02 22:17:25,False,,0
+caddyserver/caddy,bemasher,Douglas Hall,,2909,closed,2019-12-02 00:45:56,2020-01-21 21:17:38,False,,17
+caddyserver/caddy,lu4p,,Germany,2908,closed,2019-11-30 19:39:49,2019-12-04 23:28:14,True,2019-12-04 23:28:14,0
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",2901,closed,2019-11-27 05:34:46,2019-11-29 20:05:23,True,2019-11-29 20:05:23,1
+caddyserver/caddy,sarge,Mark Sargent,"Hamilton, New Zealand",2900,closed,2019-11-27 00:41:13,2019-11-27 05:35:08,False,,0
+caddyserver/caddy,colinaaa,Colin Wang,"Beijing, P.R.C",2890,closed,2019-11-19 15:34:18,2020-03-20 15:52:28,False,,0
+caddyserver/caddy,hi-rustin,二手掉包工程师,China,2886,closed,2019-11-18 05:13:52,2019-11-18 19:02:09,True,2019-11-18 19:02:09,0
+caddyserver/caddy,AbdelmalekIhdene,Abdelmalek Ihdene,,2884,closed,2019-11-17 13:53:20,2019-12-15 19:58:02,True,2019-12-15 19:58:02,0
+caddyserver/caddy,MisterDuval,,,2882,closed,2019-11-15 19:18:03,2019-11-15 19:54:40,True,2019-11-15 19:54:40,0
+caddyserver/caddy,iamd3vil,Sarat Chandra,India,2872,closed,2019-11-09 20:45:55,2019-11-11 18:04:41,True,2019-11-11 18:04:41,2
+caddyserver/caddy,marten-seemann,Marten Seemann,,2871,closed,2019-11-09 11:16:02,2019-11-09 15:10:43,True,2019-11-09 15:10:43,0
+caddyserver/caddy,yuqianma,Yuqian Ma,,2866,closed,2019-11-08 18:01:43,2019-11-15 19:59:04,True,2019-11-15 19:59:04,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,2862,closed,2019-11-05 08:06:54,2019-11-06 07:30:31,True,2019-11-06 07:30:30,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2859,closed,2019-11-04 16:56:10,2019-11-11 22:33:39,True,2019-11-11 22:33:39,10
+caddyserver/caddy,aca,,,2848,closed,2019-10-31 15:44:34,2019-10-31 17:35:10,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2846,closed,2019-10-30 22:42:40,2019-10-30 22:49:19,True,2019-10-30 22:49:19,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2844,closed,2019-10-30 20:39:30,2019-10-30 20:57:23,True,2019-10-30 20:57:23,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2841,closed,2019-10-29 15:59:49,2019-10-29 19:20:35,True,2019-10-29 19:20:35,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2835,closed,2019-10-27 15:40:05,2019-10-28 17:45:56,True,2019-10-28 17:45:56,1
+caddyserver/caddy,aksdb,Andreas Schneider,,2834,closed,2019-10-26 17:23:41,2019-10-30 21:12:43,True,2019-10-30 21:12:43,0
+caddyserver/caddy,mholt,Matt Holt,,2831,closed,2019-10-24 23:47:05,2019-10-28 20:39:38,True,2019-10-28 20:39:38,0
+caddyserver/caddy,jaysonsantos,Jayson Reis,"Berlin, Germany",2830,closed,2019-10-23 20:48:00,2020-05-11 20:12:52,False,,29
+caddyserver/caddy,gsquire,Garrett Squire,"Seattle, WA",2828,closed,2019-10-23 20:01:09,2019-10-29 20:54:52,False,,1
+caddyserver/caddy,aca,,,2826,closed,2019-10-23 14:42:00,2019-11-06 20:04:52,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2821,closed,2019-10-18 23:10:27,2019-10-19 00:55:28,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2818,closed,2019-10-17 20:02:55,2019-10-17 20:58:23,True,2019-10-17 20:58:23,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2812,closed,2019-10-14 16:24:54,2019-10-15 21:37:47,True,2019-10-15 21:37:47,1
+caddyserver/caddy,pascalgn,Pascal,Germany,2810,closed,2019-10-13 18:53:17,2019-10-14 17:29:37,True,2019-10-14 17:29:37,6
+caddyserver/caddy,yzongyue,,,2809,closed,2019-10-12 04:46:15,2019-10-12 05:57:12,True,2019-10-12 05:57:12,2
+caddyserver/caddy,titanous,Jonathan Rudenberg,,2807,closed,2019-10-11 23:01:06,2019-10-14 16:07:36,True,2019-10-14 16:07:36,0
+caddyserver/caddy,hairyhenderson,Dave Henderson,"Ottawa, Canada",2806,closed,2019-10-11 15:04:32,2019-10-11 16:00:01,False,,0
+caddyserver/caddy,pascalgn,Pascal,Germany,2801,closed,2019-10-10 18:25:33,2019-10-10 19:37:09,True,2019-10-10 19:37:08,0
+caddyserver/caddy,mholt,Matt Holt,,2799,closed,2019-10-10 05:22:29,2019-10-10 17:27:45,True,2019-10-10 17:27:45,0
+caddyserver/caddy,jsha,Jacob Hoffman-Andrews,,2798,closed,2019-10-10 00:35:57,2019-10-10 01:04:29,True,2019-10-10 01:04:29,0
+caddyserver/caddy,adam12,Adam Daniels,Canada,2796,closed,2019-10-09 20:18:09,2019-10-15 21:38:21,True,2019-10-15 21:38:21,0
+caddyserver/caddy,yzongyue,,,2794,closed,2019-10-08 09:09:29,2019-10-09 02:12:16,True,2019-10-09 02:12:16,0
+caddyserver/caddy,tmob24,,,2793,closed,2019-10-08 03:54:36,2019-10-08 05:43:55,False,,0
+caddyserver/caddy,Xjs,Jannis Andrija Schnitzer,"Heidelberg, Germany",2792,closed,2019-10-07 10:45:48,2019-10-07 16:22:54,True,2019-10-07 16:22:53,0
+caddyserver/caddy,BradyBromley,,,2790,closed,2019-10-06 20:08:30,2019-10-15 22:07:16,False,,2
+caddyserver/caddy,didil,Adil H,,2787,closed,2019-10-04 18:24:45,2019-10-08 15:49:41,True,2019-10-08 15:49:41,2
+caddyserver/caddy,mholt,Matt Holt,,2782,closed,2019-10-01 23:49:31,2019-10-15 22:05:54,True,2019-10-15 22:05:54,0
+caddyserver/caddy,corny,Julian Kornberger,"Bremen, Germany",2781,closed,2019-09-30 22:58:35,2019-11-06 20:06:35,True,2019-11-06 20:06:35,5
+caddyserver/caddy,evtr,,,2776,closed,2019-09-30 09:26:16,2019-12-03 08:57:47,False,,0
+caddyserver/caddy,aca,,,2770,closed,2019-09-28 03:28:16,2019-10-03 05:12:38,False,,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2768,closed,2019-09-27 16:14:39,2019-10-01 22:47:29,True,2019-10-01 22:47:29,15
+caddyserver/caddy,aca,,,2764,closed,2019-09-24 03:48:44,2019-10-01 03:23:59,True,2019-10-01 03:23:59,0
+caddyserver/caddy,tobiasmuehl,Tobias Mühl,,2763,closed,2019-09-23 16:34:29,2019-09-24 04:01:45,True,2019-09-24 04:01:45,0
+caddyserver/caddy,mholt,Matt Holt,,2756,closed,2019-09-17 22:53:42,2019-09-24 22:46:40,True,2019-09-24 22:46:40,0
+caddyserver/caddy,anarchyrucks,Ashish Acharya,Nepal,2755,closed,2019-09-17 20:24:28,2019-09-17 20:46:51,False,,1
+caddyserver/caddy,mholt,Matt Holt,,2754,closed,2019-09-17 17:30:25,2019-09-17 21:16:17,True,2019-09-17 21:16:17,0
+caddyserver/caddy,linquize,,Hong Kong,2753,closed,2019-09-17 15:00:38,2019-09-22 20:17:17,True,2019-09-22 20:17:17,0
+caddyserver/caddy,anarchyrucks,Ashish Acharya,Nepal,2751,closed,2019-09-15 17:11:38,2019-09-15 17:41:21,True,2019-09-15 17:41:21,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2750,closed,2019-09-14 05:25:02,2019-09-14 05:40:30,True,2019-09-14 05:40:30,0
+caddyserver/caddy,gottwald,Ingo Gottwald,,2740,closed,2019-09-06 19:42:21,2019-09-07 20:25:04,True,2019-09-07 20:25:04,0
+caddyserver/caddy,mholt,Matt Holt,,2737,closed,2019-09-03 04:06:56,2019-09-10 03:46:22,True,2019-09-10 03:46:22,0
+caddyserver/caddy,alexandrestein,Alexandre Stein,France,2731,closed,2019-08-28 17:21:36,2019-09-03 15:35:37,True,2019-09-03 15:35:37,21
+caddyserver/caddy,carlwgeorge,Carl George,San Antonio,2728,closed,2019-08-27 02:40:03,2019-09-13 19:39:15,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2727,closed,2019-08-26 17:39:43,2019-09-10 14:03:38,True,2019-09-10 14:03:37,0
+caddyserver/caddy,brownjohnf,Jack Brown,"Seattle, WA",2726,closed,2019-08-26 17:34:58,2019-08-26 18:07:08,True,2019-08-26 18:07:07,0
+caddyserver/caddy,ingenieroariel,Ariel Núñez,New York,2725,closed,2019-08-23 16:00:44,2019-08-23 16:57:52,True,2019-08-23 16:57:52,0
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2723,closed,2019-08-23 13:41:30,2019-10-26 00:52:17,True,2019-10-26 00:52:17,7
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,2721,closed,2019-08-22 18:22:12,2019-08-22 18:26:49,True,2019-08-22 18:26:49,0
+caddyserver/caddy,jgsqware,Julien Garcia Gonzalez,Liege,2720,closed,2019-08-22 14:58:26,2019-10-15 22:07:00,False,,3
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2718,closed,2019-08-21 13:24:06,2019-08-21 13:48:46,False,,1
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2717,closed,2019-08-20 22:56:24,2019-08-21 17:13:35,True,2019-08-21 17:13:35,0
+caddyserver/caddy,agbaraka,Albert Shirima,Tanzania,2712,closed,2019-08-17 23:55:55,2019-08-18 01:14:56,True,2019-08-18 01:14:55,0
+caddyserver/caddy,mholt,Matt Holt,,2699,closed,2019-08-09 18:10:44,2019-08-21 17:28:04,True,2019-08-21 17:28:04,0
+caddyserver/caddy,Dreamacro,Dreamacro,"Amoy, China",2688,closed,2019-07-24 07:08:52,2019-07-24 07:28:34,True,2019-07-24 07:28:34,0
+caddyserver/caddy,dominikbraun,Dominik Braun,"Straubing, Germany",2687,closed,2019-07-22 18:42:29,2019-08-08 05:59:03,True,2019-08-08 05:59:03,3
+caddyserver/caddy,muesli,Christian Muehlhaeuser,,2682,closed,2019-07-19 03:40:45,2019-07-19 04:05:49,True,2019-07-19 04:05:49,0
+caddyserver/caddy,aligator,Johannes Hörmann,Landshut,2675,closed,2019-07-16 20:48:05,2019-07-21 15:57:35,True,2019-07-21 15:57:35,23
+caddyserver/caddy,mholt,Matt Holt,,2674,closed,2019-07-16 17:32:28,2019-07-16 18:27:12,True,2019-07-16 18:27:12,0
+caddyserver/caddy,iseth,Seth Horsley,,2672,closed,2019-07-14 22:36:17,2019-07-14 23:40:41,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2671,closed,2019-07-14 21:49:31,2019-07-20 16:48:47,True,2019-07-20 16:48:47,15
+caddyserver/caddy,tobya,Toby Allen,Ireland,2670,closed,2019-07-14 21:06:06,2019-07-20 16:44:54,True,2019-07-20 16:44:54,16
+caddyserver/caddy,defund,William Wang,,2664,closed,2019-07-11 03:04:55,2019-07-11 19:37:28,True,2019-07-11 19:37:28,0
+caddyserver/caddy,mholt,Matt Holt,,2663,closed,2019-07-09 19:01:07,2019-07-11 21:32:35,True,2019-07-11 21:32:35,0
+caddyserver/caddy,hartzell,George Hartzell,,2655,closed,2019-06-28 19:19:33,2019-07-18 21:19:22,True,2019-07-18 21:19:22,0
+caddyserver/caddy,hartzell,George Hartzell,,2652,closed,2019-06-21 22:20:04,2019-07-18 19:58:41,True,2019-07-18 19:58:41,0
+caddyserver/caddy,shouya,,,2648,closed,2019-06-14 10:35:26,2019-06-19 17:25:57,True,2019-06-19 17:25:57,7
+caddyserver/caddy,jaredririe,Jared Ririe,"Lehi, UT, USA",2644,closed,2019-06-11 20:18:13,2019-06-11 21:24:36,True,2019-06-11 21:24:36,0
+caddyserver/caddy,dhaavi,Daniel,Österreich,2639,closed,2019-06-07 14:19:07,2019-06-12 16:15:18,True,2019-06-12 16:15:18,0
+caddyserver/caddy,forewing,Forewing,,2633,closed,2019-05-31 16:20:41,2019-07-18 19:55:13,False,,0
+caddyserver/caddy,rouzier,,,2630,closed,2019-05-29 21:10:34,2019-07-18 19:52:49,False,,0
+caddyserver/caddy,rouzier,,,2626,closed,2019-05-24 20:33:33,2019-07-18 19:50:02,True,2019-07-18 19:50:02,0
+caddyserver/caddy,lukenowak,Łukasz Nowak,,2624,closed,2019-05-24 07:19:48,2019-05-24 15:59:07,True,2019-05-24 15:59:07,0
+caddyserver/caddy,aspeteRakete,,,2620,closed,2019-05-23 05:00:14,2019-07-18 19:46:01,True,2019-07-18 19:46:01,0
+caddyserver/caddy,dvic,Damir Vandic,Netherlands,2618,closed,2019-05-21 10:59:14,2019-06-23 22:24:14,True,2019-06-23 22:24:14,0
+caddyserver/caddy,doobeh,Anthony Plunkett,Turks and Caicos Islands,2611,closed,2019-05-14 01:04:27,2019-05-14 04:17:37,True,2019-05-14 04:17:37,0
+caddyserver/caddy,AndreKR,,,2592,closed,2019-04-29 18:50:16,2019-05-24 18:00:28,True,2019-05-24 18:00:27,0
+caddyserver/caddy,paolobarbolini,Paolo Barbolini,Reggio Emilia (Italy UTC+2),2590,closed,2019-04-26 17:53:12,2019-07-16 18:30:50,False,,0
+caddyserver/caddy,jung-kurt,Kurt Jung,"Holly, Michigan, United States",2589,closed,2019-04-26 15:24:18,2019-04-26 18:32:44,True,2019-04-26 18:32:43,0
+caddyserver/caddy,Inconnu08,Taufiq Rahman,,2582,closed,2019-04-24 21:10:32,2019-06-03 07:55:34,False,,0
+caddyserver/caddy,stefansundin,Stefan Sundin,,2575,closed,2019-04-22 06:21:09,2019-07-18 19:45:08,False,,0
+caddyserver/caddy,whalehub,Aaron,Germany,2572,closed,2019-04-20 18:44:26,2019-04-20 18:50:50,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2571,closed,2019-04-20 17:52:31,2019-04-20 18:11:28,True,2019-04-20 18:11:28,0
+caddyserver/caddy,whalehub,Aaron,Germany,2570,closed,2019-04-20 11:42:40,2019-04-20 12:26:13,True,2019-04-20 12:26:13,0
+caddyserver/caddy,elcore,elcore,,2565,closed,2019-04-12 20:12:12,2019-04-12 20:31:39,True,2019-04-12 20:31:39,0
+caddyserver/caddy,akawhy,Aka.Why,,2564,closed,2019-04-12 11:36:07,2019-07-18 19:29:57,False,,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,2562,closed,2019-04-12 01:59:42,2019-04-17 18:13:45,True,2019-04-17 18:13:45,0
+caddyserver/caddy,jcchavezs,José Carlos Chávez,Barcelona - Cataluña,2558,closed,2019-04-10 14:41:59,2019-04-17 11:36:06,False,,0
+caddyserver/caddy,u5surf,Y.Horie,,2554,closed,2019-04-08 09:13:35,2019-07-18 19:18:19,False,,15
+caddyserver/caddy,johncming,johncming,Beijing,2553,closed,2019-04-07 12:43:10,2019-07-18 19:24:20,False,,0
+caddyserver/caddy,johncming,johncming,Beijing,2552,closed,2019-04-07 11:48:19,2019-04-07 16:39:53,True,2019-04-07 16:39:52,0
+caddyserver/caddy,Inconnu08,Taufiq Rahman,,2551,closed,2019-04-06 07:52:31,2019-04-22 16:20:38,True,2019-04-22 16:20:38,14
+caddyserver/caddy,l3dlp,L3DLP,France,2543,closed,2019-03-31 17:54:48,2019-03-31 18:11:33,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2540,closed,2019-03-29 21:10:24,2019-03-30 00:57:03,True,2019-03-30 00:57:03,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",2531,closed,2019-03-19 06:29:59,2019-07-18 19:14:42,False,,0
+caddyserver/caddy,furkanmustafa,Furkan Mustafa,Land of the Rising Sun,2528,closed,2019-03-17 04:59:25,2019-07-18 19:14:23,False,,1
+caddyserver/caddy,johncming,johncming,Beijing,2527,closed,2019-03-17 03:47:36,2019-03-30 04:29:17,True,2019-03-30 04:29:17,0
+caddyserver/caddy,johncming,johncming,Beijing,2526,closed,2019-03-17 03:13:14,2019-03-17 05:33:12,True,2019-03-17 05:33:12,0
+caddyserver/caddy,johncming,johncming,Beijing,2525,closed,2019-03-16 04:18:00,2019-03-16 04:43:29,True,2019-03-16 04:43:29,0
+caddyserver/caddy,johncming,johncming,Beijing,2523,closed,2019-03-16 01:45:32,2019-07-18 19:10:20,False,,0
+caddyserver/caddy,johncming,johncming,Beijing,2522,closed,2019-03-16 01:35:47,2019-03-16 01:40:05,False,,0
+caddyserver/caddy,linkonoid,Linkonoid,,2521,closed,2019-03-15 18:30:08,2019-03-15 23:43:02,True,2019-03-15 23:43:02,0
+caddyserver/caddy,jimen0,M. Ángel Jimeno,Madrid,2517,closed,2019-03-11 22:27:05,2019-03-11 23:50:05,True,2019-03-11 23:50:05,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",2511,closed,2019-03-09 17:31:16,2019-03-19 06:26:16,False,,0
+caddyserver/caddy,akawhy,Aka.Why,,2508,closed,2019-03-07 11:48:42,2019-03-11 03:01:57,True,2019-03-11 03:01:57,0
+caddyserver/caddy,chengsurf,,,2507,closed,2019-03-07 08:09:52,2019-07-18 19:07:49,False,,0
+caddyserver/caddy,vcsjones,Kevin Jones,Washington DC,2506,closed,2019-03-05 17:10:44,2019-04-09 16:48:11,False,,1
+caddyserver/caddy,stp-ip,Michael Grosser,,2504,closed,2019-03-05 14:58:05,2019-03-30 02:30:49,True,2019-03-30 02:30:49,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2501,closed,2019-03-04 21:20:05,2019-03-05 02:14:19,True,2019-03-05 02:14:19,0
+caddyserver/caddy,Conor-Burns,Conor Burns,Germany,2498,closed,2019-03-03 19:33:34,2019-03-04 05:38:01,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2497,closed,2019-03-03 10:10:21,2019-03-04 19:06:04,True,2019-03-04 19:06:04,0
+caddyserver/caddy,mschneider82,Matthias Schneider,"Munich, Germany",2494,closed,2019-03-01 12:56:33,2019-03-01 15:35:06,True,2019-03-01 15:35:06,0
+caddyserver/caddy,longsleep,Simon Eisenmann,Stuttgart,2489,closed,2019-02-27 10:59:52,2019-07-18 19:07:36,False,,0
+caddyserver/caddy,longsleep,Simon Eisenmann,Stuttgart,2488,closed,2019-02-27 10:37:27,2019-07-18 19:05:36,False,,2
+caddyserver/caddy,whalehub,Aaron,Germany,2485,closed,2019-02-26 06:32:02,2019-02-26 11:18:53,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2482,closed,2019-02-24 21:25:00,2019-02-24 21:44:18,True,2019-02-24 21:44:18,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2481,closed,2019-02-24 10:10:30,2019-04-09 17:11:27,True,2019-04-09 17:11:27,1
+caddyserver/caddy,mswart,Malte Swart,"Potsdam, Germany",2477,closed,2019-02-22 20:33:03,2019-07-25 00:36:07,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2472,closed,2019-02-18 21:35:26,2019-03-04 19:00:28,True,2019-03-04 19:00:28,2
+caddyserver/caddy,tobya,Toby Allen,Ireland,2470,closed,2019-02-17 22:46:20,2019-03-04 19:02:25,True,2019-03-04 19:02:25,2
+caddyserver/caddy,tobya,Toby Allen,Ireland,2469,closed,2019-02-17 22:23:45,2019-02-24 10:04:24,True,2019-02-24 10:04:24,35
+caddyserver/caddy,tobya,Toby Allen,Ireland,2468,closed,2019-02-17 22:12:39,2019-02-17 22:35:56,False,,2
+caddyserver/caddy,awoodbeck,Adam Woodbeck,"Detroit, MI, USA",2464,closed,2019-02-12 18:53:06,2019-03-18 18:17:56,False,,3
+caddyserver/caddy,mholt,Matt Holt,,2459,closed,2019-02-08 19:27:40,2019-02-08 20:06:22,True,2019-02-08 20:06:22,0
+caddyserver/caddy,sundbry,Ryan R Sundberg,"Campbell, California",2456,closed,2019-02-06 02:30:45,2019-04-09 16:38:55,False,,0
+caddyserver/caddy,CodeLingoBot,CodeLingo Bot,New Zealand,2455,closed,2019-02-05 05:50:06,2019-02-05 14:10:08,False,,0
+caddyserver/caddy,dannav,Danny Navarro,,2454,closed,2019-02-04 23:14:26,2019-02-05 17:16:09,True,2019-02-05 17:16:09,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2453,closed,2019-02-03 19:05:37,2019-02-04 20:59:14,True,2019-02-04 20:59:14,0
+caddyserver/caddy,mholt,Matt Holt,,2452,closed,2019-02-02 21:52:04,2019-02-05 16:30:24,True,2019-02-05 16:30:23,6
+caddyserver/caddy,jsoref,Josh Soref,Toronto,2448,closed,2019-01-29 07:52:40,2019-01-29 17:51:11,True,2019-01-29 17:51:11,9
+caddyserver/caddy,oscartbeaumont,Oscar Beaumont,Australia,2447,closed,2019-01-28 18:27:31,2019-02-02 21:54:10,False,,0
+caddyserver/caddy,jsoref,Josh Soref,Toronto,2446,closed,2019-01-28 17:39:14,2019-01-28 17:58:13,False,,0
+caddyserver/caddy,BTBurke,Bryan Burke,"Washington, DC",2444,closed,2019-01-26 01:36:08,2019-01-26 07:12:43,True,2019-01-26 07:12:43,0
+caddyserver/caddy,maxheyer,Max Heyer,Germany,2443,closed,2019-01-25 23:51:11,2019-01-26 07:30:13,True,2019-01-26 07:30:13,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2434,closed,2019-01-18 20:16:51,2019-02-15 18:50:32,True,2019-02-15 18:50:32,0
+caddyserver/caddy,crvv,Wèi Cōngruì,People's Republic of China,2432,closed,2019-01-17 10:43:20,2019-01-18 14:25:42,True,2019-01-18 14:25:41,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,2431,closed,2019-01-17 03:49:35,2019-01-17 04:38:11,True,2019-01-17 04:38:11,0
+caddyserver/caddy,awoodbeck,Adam Woodbeck,"Detroit, MI, USA",2430,closed,2019-01-17 03:31:41,2019-07-18 19:00:14,False,,0
+caddyserver/caddy,awoodbeck,Adam Woodbeck,"Detroit, MI, USA",2428,closed,2019-01-14 20:44:32,2019-01-15 05:08:54,True,2019-01-15 05:08:54,2
+caddyserver/caddy,maxheyer,Max Heyer,Germany,2424,closed,2019-01-11 19:57:17,2019-01-25 20:54:34,True,2019-01-25 20:54:34,0
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,2417,closed,2019-01-05 17:12:05,2019-01-08 13:30:19,True,2019-01-08 13:30:19,0
+caddyserver/caddy,sebastianhutter,Sebastian Hutter,Switzerland,2415,closed,2019-01-03 13:09:02,2019-01-28 10:26:23,True,2019-01-28 10:26:23,2
+caddyserver/caddy,cristaloleg,Oleg Kovalov,"Warsaw, Poland",2413,closed,2018-12-30 12:56:11,2019-01-17 05:51:55,True,2019-01-17 05:51:55,0
+caddyserver/caddy,gregdel,Grégoire Delattre,"Lille, FR",2406,closed,2018-12-23 14:10:03,2019-02-17 22:14:02,False,,5
+caddyserver/caddy,marten-seemann,Marten Seemann,,2404,closed,2018-12-21 14:11:35,2019-01-14 04:39:17,True,2019-01-14 04:39:17,2
+caddyserver/caddy,crvv,Wèi Cōngruì,People's Republic of China,2399,closed,2018-12-20 04:36:50,2019-02-26 01:39:31,True,2019-02-26 01:39:31,4
+caddyserver/caddy,yuewko,Yue Ko,,2398,closed,2018-12-19 18:59:53,2019-02-13 18:51:58,True,2019-02-13 18:51:58,2
+caddyserver/caddy,sebastianhutter,Sebastian Hutter,Switzerland,2397,closed,2018-12-19 06:13:50,2019-01-03 12:27:41,False,,0
+caddyserver/caddy,jeffreyzh,Jeffrey Zhao,"hangzhou,China",2396,closed,2018-12-19 05:45:32,2019-01-17 05:43:32,True,2019-01-17 05:43:32,0
+caddyserver/caddy,sebastianhutter,Sebastian Hutter,Switzerland,2393,closed,2018-12-17 13:50:20,2018-12-19 06:05:50,False,,0
+caddyserver/caddy,virtualdxs,Duncan X Simpson,"Tucson, AZ",2390,closed,2018-12-14 22:20:54,2019-07-18 18:56:24,False,,0
+caddyserver/caddy,alimy,Michael Li,"Shanghai, China",2389,closed,2018-12-14 15:56:09,2019-02-05 17:33:52,True,2019-02-05 17:33:52,2
+caddyserver/caddy,jiemotongxue,,,2388,closed,2018-12-14 10:08:01,2018-12-18 22:44:45,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",2384,closed,2018-12-08 08:56:34,2018-12-08 09:10:02,True,2018-12-08 09:10:02,0
+caddyserver/caddy,techknowlogick,,,2383,closed,2018-12-08 02:06:37,2018-12-08 02:17:37,True,2018-12-08 02:17:37,0
+caddyserver/caddy,lukenowak,Łukasz Nowak,,2380,closed,2018-12-05 16:26:23,2019-02-05 00:34:27,False,,0
+caddyserver/caddy,linquize,,Hong Kong,2375,closed,2018-12-02 14:50:01,2018-12-02 22:39:58,True,2018-12-02 22:39:58,0
+caddyserver/caddy,linquize,,Hong Kong,2374,closed,2018-12-02 14:44:48,2019-02-13 21:30:15,True,2019-02-13 21:30:15,4
+caddyserver/caddy,simon04,Simon Legner,"Innsbruck, Austria",2368,closed,2018-11-24 18:09:34,2018-11-25 19:35:16,True,2018-11-25 19:35:16,0
+caddyserver/caddy,Zenexer,Paul Buonopane,,2367,closed,2018-11-24 07:09:59,2019-02-05 17:35:03,False,,0
+caddyserver/caddy,krader1961,Kurtis Rader,United States,2363,closed,2018-11-22 04:28:21,2018-12-18 22:42:06,True,2018-12-18 22:42:06,2
+caddyserver/caddy,linquize,,Hong Kong,2359,closed,2018-11-21 14:53:36,2019-07-19 19:29:50,True,2019-07-19 19:29:50,0
+caddyserver/caddy,envygeeks,Jordon Bedwell,"Atlanta, GA",2352,closed,2018-11-18 10:47:08,2018-11-18 10:52:49,False,,0
+caddyserver/caddy,cblecker,Christoph Blecker,"BC, Canada",2351,closed,2018-11-18 04:44:52,2018-11-18 21:04:21,True,2018-11-18 21:04:21,0
+caddyserver/caddy,neolit123,Lubomir I. Ivanov,"Varna, BG",2349,closed,2018-11-18 01:32:14,2018-11-18 21:03:52,False,,0
+caddyserver/caddy,linquize,,Hong Kong,2347,closed,2018-11-15 13:19:22,2018-11-17 21:51:08,True,2018-11-17 21:51:08,0
+caddyserver/caddy,linquize,,Hong Kong,2345,closed,2018-11-14 16:02:23,2018-11-17 16:24:55,True,2018-11-17 16:24:55,0
+caddyserver/caddy,mholt,Matt Holt,,2339,closed,2018-11-12 19:46:24,2018-11-12 21:24:07,True,2018-11-12 21:24:07,0
+caddyserver/caddy,crvv,Wèi Cōngruì,People's Republic of China,2338,closed,2018-11-12 04:36:48,2018-11-18 21:06:55,True,2018-11-18 21:06:55,2
+caddyserver/caddy,jiusanzhou,Zoe,Hangzhou,2324,closed,2018-10-15 11:18:54,2018-10-16 17:56:41,True,2018-10-16 17:56:41,0
+caddyserver/caddy,kriskwiatkowski,Kris Kwiatkowski,"London, UK",2323,closed,2018-10-14 19:50:24,2018-10-19 17:51:10,True,2018-10-19 17:51:10,3
+caddyserver/caddy,rdrozhdzh,Ruslan Drozhdzh,,2320,closed,2018-10-12 12:38:46,2018-10-30 00:25:37,True,2018-10-30 00:25:37,3
+caddyserver/caddy,16yuki0702,16yuki0702,,2318,closed,2018-10-12 08:01:04,2018-10-30 17:59:24,True,2018-10-30 17:59:24,0
+caddyserver/caddy,jiusanzhou,Zoe,Hangzhou,2315,closed,2018-10-11 14:12:24,2018-10-30 01:10:35,False,,0
+caddyserver/caddy,ghost,Deleted user,"Nothing to see here, move along.",2309,closed,2018-10-02 03:35:38,2018-10-30 18:03:00,True,2018-10-30 18:03:00,0
+caddyserver/caddy,ghost,Deleted user,"Nothing to see here, move along.",2305,closed,2018-09-30 02:44:15,2018-09-30 14:17:05,True,2018-09-30 14:17:04,0
+caddyserver/caddy,bhcleek,Billie Cleek,"Portland, OR",2304,closed,2018-09-29 23:51:11,2018-10-30 17:58:38,True,2018-10-30 17:58:38,0
+caddyserver/caddy,Ranger-X,Makeev Ivan,"Russian Federation, Togliatty",2297,closed,2018-09-19 10:40:56,2018-11-16 20:52:34,True,2018-11-16 20:52:34,5
+caddyserver/caddy,yyqbuct,,,2296,closed,2018-09-18 09:31:14,2018-09-18 15:00:11,True,2018-09-18 15:00:11,0
+caddyserver/caddy,ehazlett,Evan Hazlett,"Indianapolis, IN",2294,closed,2018-09-16 03:07:38,2018-12-03 19:41:03,False,,9
+caddyserver/caddy,cgatrell,,,2293,closed,2018-09-16 01:22:20,2018-09-17 17:05:28,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2289,closed,2018-09-06 17:28:03,2018-09-07 21:11:25,True,2018-09-07 21:11:25,0
+caddyserver/caddy,marten-seemann,Marten Seemann,,2288,closed,2018-08-31 03:57:52,2018-09-02 21:18:55,True,2018-09-02 21:18:55,0
+caddyserver/caddy,ZakMiller,Zak Miller,"Cary, NC",2285,closed,2018-08-28 03:36:20,2018-09-07 21:24:08,True,2018-09-07 21:24:08,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2279,closed,2018-08-24 08:09:38,2018-08-24 17:10:23,False,,0
+caddyserver/caddy,Henrocker,Henrik,Germany,2278,closed,2018-08-24 07:54:27,2018-08-24 17:11:41,False,,0
+caddyserver/caddy,laszlo-kiss,,"Scottsdale, Arizona USA",2276,closed,2018-08-22 15:34:22,2018-08-22 21:17:32,False,,0
+caddyserver/caddy,cgatrell,,,2274,closed,2018-08-22 14:38:06,2019-07-18 17:52:07,False,,116
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,2273,closed,2018-08-22 07:42:03,2018-08-22 15:19:38,True,2018-08-22 15:19:38,0
+caddyserver/caddy,cgatrell,,,2272,closed,2018-08-21 21:57:14,2018-08-22 00:08:11,False,,0
+caddyserver/caddy,cmulk,,,2271,closed,2018-08-21 16:20:50,2018-08-22 02:06:28,True,2018-08-22 02:06:28,0
+caddyserver/caddy,cgatrell,,,2270,closed,2018-08-20 23:24:41,2018-08-20 23:26:56,False,,0
+caddyserver/caddy,BradBeveridge,Brad Beveridge,"St. Louis, MO",2267,closed,2018-08-16 14:27:37,2018-08-24 17:09:49,True,2018-08-24 17:09:49,0
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2266,closed,2018-08-16 00:43:05,2018-08-16 05:35:08,True,2018-08-16 05:35:07,0
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2265,closed,2018-08-15 00:35:26,2018-09-02 21:28:11,True,2018-09-02 21:28:11,2
+caddyserver/caddy,ekleiner,Eugen Kleiner,,2262,closed,2018-08-09 16:27:15,2018-10-30 00:00:45,True,2018-10-30 00:00:45,20
+caddyserver/caddy,Ranger-X,Makeev Ivan,"Russian Federation, Togliatty",2260,closed,2018-08-08 10:14:10,2018-08-28 10:08:56,True,2018-08-28 10:08:56,0
+caddyserver/caddy,darshanime,Darshan Chaudhary,India,2253,closed,2018-08-05 17:16:53,2018-10-30 17:41:42,True,2018-10-30 17:41:42,0
+caddyserver/caddy,u5surf,Y.Horie,,2252,closed,2018-08-05 08:49:03,2019-07-18 17:51:39,False,,2
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2244,closed,2018-07-30 22:36:03,2018-08-16 10:28:45,False,,0
+caddyserver/caddy,elcore,elcore,,2241,closed,2018-07-26 18:10:24,2018-08-24 22:43:57,True,2018-08-24 22:43:57,0
+caddyserver/caddy,emersion,Simon Ser,France,2239,closed,2018-07-25 22:47:38,2018-07-26 19:50:19,True,2018-07-26 19:50:19,0
+caddyserver/caddy,sssilver,Silver,"Austin, TX",2238,closed,2018-07-25 20:33:58,2018-07-26 19:54:10,True,2018-07-26 19:54:10,0
+caddyserver/caddy,jtyr,Jiri Tyr,"London, UK",2236,closed,2018-07-25 10:49:46,2018-07-30 14:36:21,True,2018-07-30 14:36:21,0
+caddyserver/caddy,RichiH,Richard Hartmann,Europe,2235,closed,2018-07-25 08:46:03,2018-07-26 19:55:43,True,2018-07-26 19:55:43,0
+caddyserver/caddy,atennapel,Albert ten Napel,Netherlands,2227,closed,2018-07-16 15:28:03,2018-07-26 20:03:38,True,2018-07-26 20:03:38,0
+caddyserver/caddy,hartwork,Sebastian Pipping,"Berlin, Europe",2222,closed,2018-07-12 19:50:18,2018-07-13 00:22:32,True,2018-07-13 00:22:32,0
+caddyserver/caddy,hartwork,Sebastian Pipping,"Berlin, Europe",2221,closed,2018-07-12 19:36:40,2018-07-19 17:03:45,True,2018-07-19 17:03:45,0
+caddyserver/caddy,jtyr,Jiri Tyr,"London, UK",2217,closed,2018-07-05 17:18:22,2018-07-28 08:26:25,True,2018-07-28 08:26:25,12
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,2211,closed,2018-06-27 19:40:25,2018-07-26 20:15:19,True,2018-07-26 20:15:19,0
+caddyserver/caddy,augustoroman,Augusto Roman,"Longmont, CO",2205,closed,2018-06-16 04:18:25,2018-06-28 16:06:53,True,2018-06-28 16:06:53,2
+caddyserver/caddy,mholt,Matt Holt,,2201,closed,2018-06-14 00:36:27,2018-12-06 00:33:24,True,2018-12-06 00:33:24,0
+caddyserver/caddy,fjl,Felix Lange,"Berlin, Germany",2191,closed,2018-06-05 08:46:39,2018-07-26 20:16:31,True,2018-07-26 20:16:31,1
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2188,closed,2018-05-29 23:57:37,2018-08-07 23:01:25,True,2018-08-07 23:01:25,3
+caddyserver/caddy,tobya,Toby Allen,Ireland,2184,closed,2018-05-26 19:45:10,2018-10-31 16:40:31,False,,0
+caddyserver/caddy,magikstm,,"Quebec, Canada",2182,closed,2018-05-26 02:39:37,2018-06-08 05:38:55,True,2018-06-08 05:38:55,0
+caddyserver/caddy,sirkon,Denis,"Moscow, Russia",2178,closed,2018-05-23 14:25:33,2018-06-12 23:00:53,True,2018-06-12 23:00:53,6
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2176,closed,2018-05-21 00:15:49,2018-05-28 15:22:22,True,2018-05-28 15:22:22,35
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2172,closed,2018-05-17 00:15:22,2018-05-18 02:57:40,True,2018-05-18 02:57:40,7
+caddyserver/caddy,SmilingNavern,Alexander Danilov,"Russia, Moscow",2171,closed,2018-05-16 22:39:56,2018-05-17 00:19:20,False,,0
+caddyserver/caddy,darshanime,Darshan Chaudhary,India,2165,closed,2018-05-12 21:42:35,2018-05-23 17:50:53,False,,4
+caddyserver/caddy,elcore,elcore,,2161,closed,2018-05-10 21:20:07,2019-01-18 17:46:22,True,2019-01-18 17:46:21,0
+caddyserver/caddy,caldwell,David Caldwell,,2158,closed,2018-05-09 00:29:54,2018-05-17 19:25:37,True,2018-05-17 19:25:37,2
+caddyserver/caddy,jimjimovich,Jim Mendenhall,,2155,closed,2018-05-07 19:44:16,2019-07-18 17:51:24,False,,0
+caddyserver/caddy,whitestrake,Matthew Fay,,2151,closed,2018-05-04 01:52:12,2019-02-15 18:53:15,True,2019-02-15 18:53:15,5
+caddyserver/caddy,fellou89,Alfredo Uribe,,2149,closed,2018-05-02 03:51:07,2018-05-02 03:51:42,False,,0
+caddyserver/caddy,lbguilherme,Guilherme Bernal,"Salvador, Bahia, Brazil",2147,closed,2018-05-01 17:42:27,2018-05-01 19:45:24,True,2018-05-01 19:45:24,0
+caddyserver/caddy,comp500,,United Kingdom,2144,closed,2018-04-28 01:04:26,2019-03-06 21:35:08,True,2019-03-06 21:35:07,6
+caddyserver/caddy,jimjimovich,Jim Mendenhall,,2143,closed,2018-04-27 20:49:41,2019-07-18 17:50:20,False,,18
+caddyserver/caddy,crvv,Wèi Cōngruì,People's Republic of China,2134,closed,2018-04-24 06:37:09,2018-04-28 14:32:21,True,2018-04-28 14:32:21,0
+caddyserver/caddy,magikstm,,"Quebec, Canada",2133,closed,2018-04-23 21:18:20,2019-02-17 21:32:23,True,2019-02-17 21:32:22,1
+caddyserver/caddy,smlx,Scott Leggett,,2130,closed,2018-04-23 05:14:15,2018-06-19 15:15:39,True,2018-06-19 15:15:38,0
+caddyserver/caddy,zhsj,,,2128,closed,2018-04-21 21:48:15,2018-11-27 01:28:00,True,2018-11-27 01:27:59,9
+caddyserver/caddy,theodesp,Theofanis Despoudis,Ireland,2120,closed,2018-04-17 12:12:07,2019-07-18 17:49:32,False,,2
+caddyserver/caddy,tosone,Tosone,Beijing,2111,closed,2018-04-09 13:37:49,2018-04-09 13:43:19,False,,0
+caddyserver/caddy,simnalamburt,Hyeon Kim (김지현),"Seoul, Republic of Korea",2108,closed,2018-04-07 19:54:48,2018-07-16 04:45:35,False,,2
+caddyserver/caddy,theodesp,Theofanis Despoudis,Ireland,2105,closed,2018-04-03 19:03:19,2018-04-05 06:04:06,True,2018-04-05 06:04:06,4
+caddyserver/caddy,mholt,Matt Holt,,2099,closed,2018-03-30 18:20:24,2018-03-30 20:40:04,True,2018-03-30 20:40:04,0
+caddyserver/caddy,sarathi-startsmartlabs,SARATHI K,,2098,closed,2018-03-30 13:09:46,2018-03-30 13:11:12,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2097,closed,2018-03-30 06:15:30,2018-04-03 17:54:33,True,2018-04-03 17:54:33,0
+caddyserver/caddy,mholt,Matt Holt,,2093,closed,2018-03-28 18:34:25,2018-03-28 18:42:47,True,2018-03-28 18:42:47,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",2089,closed,2018-03-27 23:14:09,2018-03-28 00:05:53,True,2018-03-28 00:05:53,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",2082,closed,2018-03-24 19:52:16,2018-04-15 01:40:56,True,2018-04-15 01:40:56,4
+caddyserver/caddy,mholt,Matt Holt,,2079,closed,2018-03-23 00:12:30,2018-05-09 10:52:41,True,2018-05-09 10:52:41,45
+caddyserver/caddy,whitestrake,Matthew Fay,,2075,closed,2018-03-16 06:08:14,2018-03-19 02:42:44,True,2018-03-19 02:42:44,5
+caddyserver/caddy,MrToy,Toy,,2074,closed,2018-03-16 05:06:31,2018-03-23 09:34:41,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2072,closed,2018-03-15 04:21:33,2018-03-26 04:09:05,True,2018-03-26 04:09:04,0
+caddyserver/caddy,tchaudhry91,Tanmay Chaudhry,India,2070,closed,2018-03-15 03:15:50,2018-04-17 14:09:22,True,2018-04-17 14:09:22,7
+caddyserver/caddy,aablinov,Andrey Blinov,Cyprus,2066,closed,2018-03-13 12:37:44,2018-03-15 13:30:26,True,2018-03-15 13:30:26,0
+caddyserver/caddy,aablinov,Andrey Blinov,Cyprus,2065,closed,2018-03-13 11:04:57,2018-03-13 12:35:48,False,,0
+caddyserver/caddy,omz13,David Somers,Luxembourg,2062,closed,2018-03-11 18:30:37,2018-03-17 23:27:10,True,2018-03-17 23:27:10,27
+caddyserver/caddy,lucaslorentz,Lucas Lorentz,Netherlands,2061,closed,2018-03-11 00:16:17,2018-03-31 23:31:36,True,2018-03-31 23:31:36,0
+caddyserver/caddy,elcore,elcore,,2059,closed,2018-03-07 10:59:18,2018-03-10 15:38:04,False,,0
+caddyserver/caddy,cwrau,Chris Werner Rau,"Gütersloh, NRW, Germany",2053,closed,2018-03-01 22:37:19,2018-03-10 15:39:08,True,2018-03-10 15:39:08,0
+caddyserver/caddy,cwrau,Chris Werner Rau,"Gütersloh, NRW, Germany",2052,closed,2018-03-01 22:12:15,2018-03-01 22:28:04,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2048,closed,2018-02-26 02:22:47,2018-08-16 17:13:16,False,,0
+caddyserver/caddy,elcore,elcore,,2047,closed,2018-02-24 08:30:38,2018-03-18 00:29:23,True,2018-03-18 00:29:23,8
+caddyserver/caddy,tobya,Toby Allen,Ireland,2039,closed,2018-02-21 11:44:07,2018-03-17 23:17:43,True,2018-03-17 23:17:42,0
+caddyserver/caddy,mholt,Matt Holt,,2037,closed,2018-02-20 15:24:17,2018-03-17 23:03:13,True,2018-03-17 23:03:12,0
+caddyserver/caddy,sirkon,Denis,"Moscow, Russia",2034,closed,2018-02-20 12:09:22,2018-03-26 03:32:31,True,2018-03-26 03:32:31,4
+caddyserver/caddy,elcore,elcore,,2033,closed,2018-02-19 16:45:32,2018-02-21 17:56:09,True,2018-02-21 17:56:09,0
+caddyserver/caddy,tgulacsi,Tamás Gulácsi,"Budapest, Hungary",2032,closed,2018-02-19 10:47:09,2018-02-21 19:40:31,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2029,closed,2018-02-18 08:12:09,2018-02-18 21:21:07,True,2018-02-18 21:21:06,3
+caddyserver/caddy,tobya,Toby Allen,Ireland,2028,closed,2018-02-18 07:56:47,2018-03-26 23:17:44,True,2018-03-26 23:17:44,4
+caddyserver/caddy,mholt,Matt Holt,,2027,closed,2018-02-17 05:59:22,2018-03-22 23:23:10,False,,0
+caddyserver/caddy,MOZGIII,MOZGIII,,2025,closed,2018-02-15 23:05:44,2018-02-15 23:11:34,False,,0
+caddyserver/caddy,deefour,Jason Daly,"Seymour, CT",2024,closed,2018-02-15 14:31:09,2018-02-15 15:05:59,True,2018-02-15 15:05:59,0
+caddyserver/caddy,elcore,elcore,,2020,closed,2018-02-09 17:25:51,2018-02-09 17:39:22,True,2018-02-09 17:39:22,0
+caddyserver/caddy,magikstm,,"Quebec, Canada",2016,closed,2018-02-05 17:35:08,2018-02-05 22:19:28,False,,0
+caddyserver/caddy,mholt,Matt Holt,,2015,closed,2018-02-04 08:09:27,2018-02-16 19:46:29,True,2018-02-16 19:46:28,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2014,closed,2018-02-03 21:20:37,2018-02-16 21:18:03,True,2018-02-16 21:18:03,5
+caddyserver/caddy,tobya,Toby Allen,Ireland,2013,closed,2018-02-03 20:41:40,2018-02-03 21:48:03,True,2018-02-03 21:48:03,0
+caddyserver/caddy,tw4452852,Tw,,2009,closed,2018-01-30 14:45:26,2018-02-03 06:52:54,True,2018-02-03 06:52:54,2
+caddyserver/caddy,schu,Michael Schubert,,2008,closed,2018-01-30 11:27:27,2018-01-30 14:19:03,True,2018-01-30 14:19:03,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,2007,closed,2018-01-29 20:39:39,2018-02-03 16:05:03,False,,1
+caddyserver/caddy,zottelchin,Phillipp Engelke,Magdeburg,2004,closed,2018-01-24 12:42:20,2018-02-03 06:53:41,True,2018-02-03 06:53:41,0
+caddyserver/caddy,tw4452852,Tw,,1997,closed,2018-01-14 10:08:16,2018-01-16 01:32:20,True,2018-01-16 01:32:20,0
+caddyserver/caddy,tw4452852,Tw,,1996,closed,2018-01-14 09:59:59,2018-01-16 01:27:56,True,2018-01-16 01:27:56,0
+caddyserver/caddy,miekg,Miek Gieben,"Nijmegen, NL",1995,closed,2018-01-13 12:45:34,2018-01-16 22:55:34,True,2018-01-16 22:55:34,2
+caddyserver/caddy,magikstm,,"Quebec, Canada",1990,closed,2018-01-05 04:32:28,2018-02-03 18:13:24,True,2018-02-03 18:13:24,2
+caddyserver/caddy,magikstm,,"Quebec, Canada",1989,closed,2018-01-02 01:57:05,2018-02-03 07:06:35,False,,3
+caddyserver/caddy,root360-AndreasUlm,Andreas Ulm,Leipzig,1984,closed,2017-12-25 09:58:52,2018-01-16 01:22:54,True,2018-01-16 01:22:54,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1979,closed,2017-12-17 09:30:55,2018-01-07 14:44:50,True,2018-01-07 14:44:50,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1978,closed,2017-12-17 09:20:50,2017-12-17 09:25:49,False,,0
+caddyserver/caddy,EtienneBruines,Etienne Bruines,Germany,1975,closed,2017-12-14 12:11:06,2018-02-11 21:45:46,True,2018-02-11 21:45:46,0
+caddyserver/caddy,whitestrake,Matthew Fay,,1973,closed,2017-12-13 06:49:37,2018-01-16 18:37:49,True,2018-01-16 18:37:49,0
+caddyserver/caddy,seanlane,Sean Lane,Virginia,1970,closed,2017-12-04 22:07:21,2018-01-16 01:15:17,True,2018-01-16 01:15:17,0
+caddyserver/caddy,detaoin,,,1969,closed,2017-12-04 19:47:34,2018-01-16 01:17:28,True,2018-01-16 01:17:28,0
+caddyserver/caddy,lflare,Amos (LFlare) Ng,Singapore,1968,closed,2017-12-02 08:31:13,2018-02-17 05:29:54,True,2018-02-17 05:29:54,0
+caddyserver/caddy,yuewko,Yue Ko,,1963,closed,2017-11-22 19:39:57,2018-01-14 00:19:13,False,,0
+caddyserver/caddy,dhaavi,Daniel,Österreich,1959,closed,2017-11-15 15:11:34,2017-11-15 15:50:34,False,,0
+caddyserver/caddy,iseth,Seth Horsley,,1956,closed,2017-11-13 20:53:10,2018-01-16 01:24:12,False,,0
+caddyserver/caddy,magikstm,,"Quebec, Canada",1954,closed,2017-11-13 07:12:34,2018-01-16 01:18:26,True,2018-01-16 01:18:26,0
+caddyserver/caddy,magikstm,,"Quebec, Canada",1953,closed,2017-11-13 05:32:11,2017-12-17 09:13:42,True,2017-12-17 09:13:42,0
+caddyserver/caddy,mholt,Matt Holt,,1948,closed,2017-11-09 19:26:35,2019-02-18 05:07:34,False,,0
+caddyserver/caddy,insomniacslk,insomniac,,1946,closed,2017-11-06 13:33:19,2017-11-07 17:08:55,True,2017-11-07 17:08:55,2
+caddyserver/caddy,heri16,Heri Sim,Singapore,1943,closed,2017-11-03 07:55:51,2018-01-16 04:01:00,True,2018-01-16 04:01:00,0
+caddyserver/caddy,Gufran,Mohammad Gufran,India,1942,closed,2017-11-03 06:30:13,2017-11-06 16:43:43,True,2017-11-06 16:43:43,7
+caddyserver/caddy,tantalic,Kevin Stock,"Bellingham, WA",1939,closed,2017-10-31 05:55:01,2017-11-04 05:01:31,True,2017-11-04 05:01:31,6
+caddyserver/caddy,arxdsilva,Arthur Silva,,1938,closed,2017-10-29 15:12:00,2017-10-31 16:19:52,True,2017-10-31 16:19:52,0
+caddyserver/caddy,kujenga,Aaron Taylor,"Cambridge, MA",1937,closed,2017-10-29 14:29:41,2017-11-07 17:10:04,True,2017-11-07 17:10:04,13
+caddyserver/caddy,arxdsilva,Arthur Silva,,1936,closed,2017-10-25 17:33:14,2017-10-31 16:12:06,True,2017-10-31 16:12:06,0
+caddyserver/caddy,elcore,elcore,,1934,closed,2017-10-22 21:05:39,2017-10-22 22:27:45,True,2017-10-22 22:27:45,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1932,closed,2017-10-22 10:11:12,2017-10-22 12:43:41,True,2017-10-22 12:43:41,0
+caddyserver/caddy,kujenga,Aaron Taylor,"Cambridge, MA",1931,closed,2017-10-22 01:33:29,2017-11-06 12:40:30,False,,5
+caddyserver/caddy,tobya,Toby Allen,Ireland,1930,closed,2017-10-21 08:22:18,2017-12-23 10:52:12,True,2017-12-23 10:52:12,6
+caddyserver/caddy,elcore,elcore,,1929,closed,2017-10-19 16:12:19,2017-10-19 17:02:57,True,2017-10-19 17:02:57,0
+caddyserver/caddy,snsinfu,snsinfu,,1924,closed,2017-10-16 18:29:13,2017-10-31 16:31:10,True,2017-10-31 16:31:10,2
+caddyserver/caddy,alex,Alex Gaynor,Washington D.C.,1922,closed,2017-10-15 16:19:49,2017-10-16 23:23:22,True,2017-10-16 23:23:22,2
+caddyserver/caddy,captncraig,Craig Peterson,Brooklyn,1921,closed,2017-10-13 15:07:50,2017-11-13 17:56:48,True,2017-11-13 17:56:48,9
+caddyserver/caddy,crvv,Wèi Cōngruì,People's Republic of China,1919,closed,2017-10-13 08:17:16,2017-10-13 14:01:30,True,2017-10-13 14:01:30,0
+caddyserver/caddy,sayem314,Sayem Chowdhury,"Maulvibazar, BD",1916,closed,2017-10-12 11:13:56,2017-11-02 12:11:19,True,2017-11-02 12:11:19,1
+caddyserver/caddy,Gufran,Mohammad Gufran,India,1915,closed,2017-10-12 10:30:08,2017-11-06 06:01:10,True,2017-11-06 06:01:10,1
+caddyserver/caddy,ekini,Eugene Dementyev,"Wellington, New Zealand",1914,closed,2017-10-12 08:27:21,2017-10-12 23:02:46,True,2017-10-12 23:02:46,0
+caddyserver/caddy,lbguilherme,Guilherme Bernal,"Salvador, Bahia, Brazil",1913,closed,2017-10-12 00:50:07,2017-10-12 16:11:51,True,2017-10-12 16:11:51,0
+caddyserver/caddy,tw4452852,Tw,,1909,closed,2017-10-11 03:39:02,2017-11-04 17:37:00,True,2017-11-04 17:36:59,2
+caddyserver/caddy,Mohammed90,Mohammed Al Sahaf,,1906,closed,2017-10-06 17:32:34,2017-10-29 21:13:11,True,2017-10-29 21:13:11,15
+caddyserver/caddy,elcore,elcore,,1902,closed,2017-10-02 05:25:54,2017-10-03 13:18:30,True,2017-10-03 13:18:30,0
+caddyserver/caddy,tantalic,Kevin Stock,"Bellingham, WA",1888,closed,2017-09-20 06:46:57,2017-10-02 02:36:23,True,2017-10-02 02:36:23,1
+caddyserver/caddy,timothywlewis,Tim Lewis,,1884,closed,2017-09-18 23:20:57,2017-09-22 14:45:56,True,2017-09-22 14:45:56,0
+caddyserver/caddy,infinityCounter,Emile Keith,,1883,closed,2017-09-18 17:17:36,2017-09-23 00:11:48,False,,4
+caddyserver/caddy,elcore,elcore,,1880,closed,2017-09-16 22:05:10,2017-10-02 02:41:46,True,2017-10-02 02:41:46,6
+caddyserver/caddy,elcore,elcore,,1879,closed,2017-09-16 21:34:40,2017-10-01 17:25:31,True,2017-10-01 17:25:31,6
+caddyserver/caddy,fakeid30,Fake ID,Antarctica,1875,closed,2017-09-15 07:33:33,2017-09-16 15:35:59,True,2017-09-16 15:35:59,0
+caddyserver/caddy,fakeid30,Fake ID,Antarctica,1874,closed,2017-09-15 07:18:29,2017-09-15 07:29:03,False,,0
+caddyserver/caddy,jkrzefski,Julian Krzefski,"Bremen, Germany",1872,closed,2017-09-14 15:23:43,2017-09-14 15:45:40,False,,0
+caddyserver/caddy,Gufran,Mohammad Gufran,India,1870,closed,2017-09-14 13:15:23,2017-10-03 13:17:55,True,2017-10-03 13:17:55,7
+caddyserver/caddy,tw4452852,Tw,,1869,closed,2017-09-14 09:52:39,2017-09-23 00:10:49,True,2017-09-23 00:10:49,0
+caddyserver/caddy,dvrkps,Davor Kapsa,"Europe, Croatia, Bjelovar",1868,closed,2017-09-14 06:51:33,2017-09-16 15:48:28,True,2017-09-16 15:48:28,0
+caddyserver/caddy,dzervas,Dimitris Zervas,"Athens, Greece",1867,closed,2017-09-13 22:06:04,2018-08-16 17:05:55,False,,18
+caddyserver/caddy,lol768,Adam Williams,,1866,closed,2017-09-13 18:11:14,2017-09-15 03:42:23,True,2017-09-15 03:42:23,0
+caddyserver/caddy,elcore,elcore,,1864,closed,2017-09-12 19:59:28,2017-10-01 17:24:50,True,2017-10-01 17:24:50,12
+caddyserver/caddy,mholt,Matt Holt,,1861,closed,2017-09-08 13:03:35,2017-09-08 17:04:10,True,2017-09-08 17:04:10,0
+caddyserver/caddy,wgliang,Leon Wang,Beijing,1857,closed,2017-09-06 05:24:23,2017-09-06 12:33:49,True,2017-09-06 12:33:49,0
+caddyserver/caddy,twdkeule,,Belgium,1856,closed,2017-09-04 13:50:48,2017-09-06 12:59:55,True,2017-09-06 12:59:55,0
+caddyserver/caddy,jchv,,United States,1852,closed,2017-09-01 04:34:09,2017-09-02 04:15:54,True,2017-09-02 04:15:53,2
+caddyserver/caddy,wader,Mattias Wadman,"Stockholm, Sweden",1848,closed,2017-08-29 19:53:42,2017-08-29 22:04:36,True,2017-08-29 22:04:36,1
+caddyserver/caddy,elcore,elcore,,1842,closed,2017-08-27 11:31:22,2017-09-02 22:18:26,False,,2
+caddyserver/caddy,mholt,Matt Holt,,1839,closed,2017-08-25 22:49:48,2017-08-25 22:52:44,True,2017-08-25 22:52:44,0
+caddyserver/caddy,sergeyfrolov,Sergey Frolov,"Boulder, Colorado, USA",1833,closed,2017-08-18 15:03:35,2017-08-18 17:43:52,True,2017-08-18 17:43:52,1
+caddyserver/caddy,zaolin,Zaolin,"Bochum, Germany",1832,closed,2017-08-18 12:38:29,2018-03-27 02:10:08,False,,2
+caddyserver/caddy,thejmazz,Julian Mazzitelli,Toronto,1825,closed,2017-08-14 16:55:14,2017-08-23 16:45:15,True,2017-08-23 16:45:15,0
+caddyserver/caddy,klingtnet,Andreas Linz,Leipzig,1823,closed,2017-08-13 12:14:34,2017-08-13 15:46:27,True,2017-08-13 15:46:27,0
+caddyserver/caddy,mholt,Matt Holt,,1821,closed,2017-08-12 06:19:37,2017-08-23 18:26:02,True,2017-08-23 18:26:02,0
+caddyserver/caddy,miquella,Mark Severson,,1818,closed,2017-08-10 20:13:49,2017-08-12 15:28:54,True,2017-08-12 15:28:54,0
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,1817,closed,2017-08-10 11:08:17,2017-08-12 15:28:06,True,2017-08-12 15:28:06,0
+caddyserver/caddy,wader,Mattias Wadman,"Stockholm, Sweden",1815,closed,2017-08-08 18:13:01,2017-08-12 18:19:26,True,2017-08-12 18:19:26,6
+caddyserver/caddy,mholt,Matt Holt,,1814,closed,2017-08-08 17:02:06,2017-08-12 17:04:33,True,2017-08-12 17:04:32,5
+caddyserver/caddy,dusty,Dusty Doris,"Phoenix, AZ",1812,closed,2017-08-07 23:22:05,2017-08-08 00:10:47,True,2017-08-08 00:10:47,2
+caddyserver/caddy,mholt,Matt Holt,,1800,closed,2017-08-02 05:44:06,2017-08-02 15:32:37,True,2017-08-02 15:32:37,0
+caddyserver/caddy,dbalan,Dhananjay Balan,Germany,1799,closed,2017-08-01 22:05:15,2017-08-05 00:20:01,True,2017-08-05 00:20:01,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1798,closed,2017-07-31 09:34:42,2017-08-29 01:38:30,True,2017-08-29 01:38:30,18
+caddyserver/caddy,slightfoot,Simon Lightfoot,"London, UK",1796,closed,2017-07-30 21:57:17,2017-08-12 21:17:28,True,2017-08-12 21:17:28,10
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",1789,closed,2017-07-28 16:06:33,2017-07-28 17:53:22,True,2017-07-28 17:53:22,0
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,1787,closed,2017-07-28 10:00:28,2017-07-28 15:19:01,True,2017-07-28 15:19:01,0
+caddyserver/caddy,sergeyfrolov,Sergey Frolov,"Boulder, Colorado, USA",1784,closed,2017-07-27 21:28:13,2017-07-27 21:53:08,True,2017-07-27 21:53:08,0
+caddyserver/caddy,twdkeule,,Belgium,1782,closed,2017-07-26 09:51:48,2017-09-12 01:49:03,True,2017-09-12 01:49:03,9
+caddyserver/caddy,sergeyfrolov,Sergey Frolov,"Boulder, Colorado, USA",1781,closed,2017-07-25 20:13:23,2017-07-26 01:55:15,True,2017-07-26 01:55:15,0
+caddyserver/caddy,sergeyfrolov,Sergey Frolov,"Boulder, Colorado, USA",1780,closed,2017-07-25 19:02:05,2017-07-25 19:33:26,True,2017-07-25 19:33:26,6
+caddyserver/caddy,mholt,Matt Holt,,1779,closed,2017-07-25 19:01:59,2017-07-25 21:35:52,True,2017-07-25 21:35:52,0
+caddyserver/caddy,tw4452852,Tw,,1777,closed,2017-07-25 07:21:36,2017-07-25 15:59:43,True,2017-07-25 15:59:43,0
+caddyserver/caddy,tw4452852,Tw,,1775,closed,2017-07-20 07:36:41,2017-07-20 20:19:17,True,2017-07-20 20:19:17,1
+caddyserver/caddy,Xumeiquer,Jaume Martin,,1770,closed,2017-07-17 18:49:08,2017-07-17 19:19:23,False,,0
+caddyserver/caddy,Xumeiquer,Jaume Martin,,1767,closed,2017-07-16 00:32:46,2017-07-17 18:39:07,True,2017-07-17 18:39:07,3
+caddyserver/caddy,andyxning,Ning Xie,"Beijing, China",1760,closed,2017-07-12 15:07:31,2017-07-13 01:32:25,True,2017-07-13 01:32:25,0
+caddyserver/caddy,nicolasazrak,Nicolas,"Buenos Aires, Argentina",1759,closed,2017-07-12 12:27:30,2017-07-13 11:28:01,True,2017-07-13 11:28:01,7
+caddyserver/caddy,tobya,Toby Allen,Ireland,1757,closed,2017-07-09 08:56:08,2017-07-10 20:47:49,True,2017-07-10 20:47:49,0
+caddyserver/caddy,spacewander,罗泽轩,"Guangzhou,China",1754,closed,2017-07-08 04:08:44,2017-07-08 20:20:44,True,2017-07-08 20:20:44,0
+caddyserver/caddy,spacewander,罗泽轩,"Guangzhou,China",1753,closed,2017-07-08 03:37:09,2017-07-14 04:36:01,True,2017-07-14 04:36:01,1
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,1752,closed,2017-07-07 18:47:18,2017-07-11 15:43:57,True,2017-07-11 15:43:57,0
+caddyserver/caddy,zikes,Jason Hutchinson,,1751,closed,2017-07-07 15:42:07,2017-07-10 20:44:08,True,2017-07-10 20:44:08,3
+caddyserver/caddy,astei,Andrew Steinborn,"Georgia, USA",1750,closed,2017-07-06 08:09:52,2018-02-16 20:25:47,False,,0
+caddyserver/caddy,b-m-f,Maximilian Ehlers,Berlin,1748,closed,2017-07-05 20:10:28,2017-07-06 07:46:20,True,2017-07-06 07:46:20,0
+caddyserver/caddy,twdkeule,,Belgium,1747,closed,2017-07-05 10:22:01,2017-07-24 20:00:28,True,2017-07-24 20:00:28,7
+caddyserver/caddy,JoshHarmon,Josh Harmon,"Washington, USA",1746,closed,2017-07-05 05:50:08,2017-07-05 06:23:33,True,2017-07-05 06:23:33,0
+caddyserver/caddy,richardbowden,Richard Bowden,Singapore,1740,closed,2017-07-02 13:05:57,2017-07-10 22:20:31,True,2017-07-10 22:20:31,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",1739,closed,2017-06-30 21:39:29,2017-07-18 18:52:54,True,2017-07-18 18:52:54,9
+caddyserver/caddy,tw4452852,Tw,,1734,closed,2017-06-29 10:37:47,2017-06-29 14:28:58,True,2017-06-29 14:28:58,0
+caddyserver/caddy,fern4lvarez,Fernando Álvarez,València,1731,closed,2017-06-27 18:34:50,2017-06-28 15:06:32,True,2017-06-28 15:06:32,2
+caddyserver/caddy,mholt,Matt Holt,,1730,closed,2017-06-25 15:12:10,2017-06-25 15:26:58,True,2017-06-25 15:26:58,0
+caddyserver/caddy,elcore,elcore,,1727,closed,2017-06-24 19:54:29,2017-06-24 20:55:37,True,2017-06-24 20:55:37,0
+caddyserver/caddy,zikes,Jason Hutchinson,,1725,closed,2017-06-20 15:39:24,2017-06-24 21:58:34,True,2017-06-24 21:58:34,0
+caddyserver/caddy,juju2013,,"Paris, France",1720,closed,2017-06-16 15:34:20,2017-07-10 21:34:32,False,,3
+caddyserver/caddy,klingtnet,Andreas Linz,Leipzig,1719,closed,2017-06-16 08:56:52,2017-08-12 16:58:49,False,,2
+caddyserver/caddy,freman,Shannon Wynter,"Queensland, Australia",1716,closed,2017-06-15 12:07:08,2017-06-24 21:42:41,True,2017-06-24 21:42:41,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1711,closed,2017-06-10 07:08:58,2017-06-24 20:54:36,True,2017-06-24 20:54:36,18
+caddyserver/caddy,malud,Marcel Ludwig,Germany,1709,closed,2017-06-09 09:37:42,2017-06-24 18:17:07,True,2017-06-24 18:17:07,0
+caddyserver/caddy,messyidea,Messyidea,Zhejiang Hangzhou ,1703,closed,2017-06-04 04:20:46,2017-06-04 18:32:58,True,2017-06-04 18:32:58,0
+caddyserver/caddy,gmacon,George Macon,,1702,closed,2017-06-03 16:19:59,2017-06-24 18:15:13,True,2017-06-24 18:15:13,0
+caddyserver/caddy,bamling,Benjamin Amling,Germany,1700,closed,2017-06-02 09:35:11,2017-06-06 15:23:01,True,2017-06-06 15:23:01,2
+caddyserver/caddy,zikes,Jason Hutchinson,,1699,closed,2017-06-01 15:43:43,2017-06-24 18:10:45,True,2017-06-24 18:10:45,5
+caddyserver/caddy,lbogdan,Bogdan Luca,,1696,closed,2017-05-31 19:26:58,2017-06-15 22:45:43,True,2017-06-15 22:45:43,0
+caddyserver/caddy,astei,Andrew Steinborn,"Georgia, USA",1695,closed,2017-05-30 21:44:23,2017-05-31 00:29:28,True,2017-05-31 00:29:28,0
+caddyserver/caddy,pieterlouw,Pieter Louw,"Johannesburg, South Africa",1694,closed,2017-05-28 21:23:11,2017-05-30 15:57:25,True,2017-05-30 15:57:25,4
+caddyserver/caddy,hsluoyz,Yang Luo,Beijing,1693,closed,2017-05-27 07:27:36,2017-06-03 15:34:14,True,2017-06-03 15:34:14,0
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,1692,closed,2017-05-26 18:27:50,2017-06-03 13:28:16,True,2017-06-03 13:28:16,0
+caddyserver/caddy,reds,Martin Redmond,"Greenville, SC",1691,closed,2017-05-26 17:34:04,2017-06-28 21:54:29,True,2017-06-28 21:54:29,16
+caddyserver/caddy,ConnorVG,Connor S. Parks,"Doncaster, United Kingdom",1688,closed,2017-05-25 10:53:53,2017-05-25 12:01:24,True,2017-05-25 12:01:24,0
+caddyserver/caddy,taylorotwell,Taylor Otwell,"Little Rock, AR",1687,closed,2017-05-24 15:04:07,2017-05-24 15:32:54,True,2017-05-24 15:32:54,0
+caddyserver/caddy,pieterlouw,Pieter Louw,"Johannesburg, South Africa",1686,closed,2017-05-24 13:22:59,2017-05-28 21:24:07,False,,0
+caddyserver/caddy,tw4452852,Tw,,1682,closed,2017-05-22 06:31:57,2017-06-28 05:03:00,True,2017-06-28 05:03:00,10
+caddyserver/caddy,cez81,,,1679,closed,2017-05-17 12:39:51,2017-05-17 16:46:58,True,2017-05-17 16:46:58,2
+caddyserver/caddy,cez81,,,1678,closed,2017-05-16 21:55:13,2017-05-17 15:57:57,True,2017-05-17 15:57:57,1
+caddyserver/caddy,cez81,,,1676,closed,2017-05-16 10:54:41,2017-05-17 15:57:12,True,2017-05-17 15:57:11,0
+caddyserver/caddy,astei,Andrew Steinborn,"Georgia, USA",1675,closed,2017-05-16 04:20:15,2017-05-17 16:45:17,True,2017-05-17 16:45:17,2
+caddyserver/caddy,cez81,,,1672,closed,2017-05-15 19:08:53,2017-05-17 15:51:59,True,2017-05-17 15:51:59,3
+caddyserver/caddy,lxfontes,Lucas Fontes,"Waterloo, ON, Canada",1669,closed,2017-05-14 17:43:58,2017-05-14 18:27:20,True,2017-05-14 18:27:20,0
+caddyserver/caddy,cez81,,,1667,closed,2017-05-12 09:17:19,2017-06-01 12:18:08,True,2017-06-01 12:18:08,6
+caddyserver/caddy,lxfontes,Lucas Fontes,"Waterloo, ON, Canada",1666,closed,2017-05-11 22:19:06,2017-05-13 22:49:06,True,2017-05-13 22:49:06,4
+caddyserver/caddy,cez81,,,1665,closed,2017-05-11 14:12:35,2017-06-01 00:57:40,False,,11
+caddyserver/caddy,tw4452852,Tw,,1664,closed,2017-05-11 08:21:07,2017-05-12 00:10:50,True,2017-05-12 00:10:50,0
+caddyserver/caddy,tw4452852,Tw,,1656,closed,2017-05-08 08:40:14,2017-05-08 17:39:11,True,2017-05-08 17:39:11,0
+caddyserver/caddy,thibaultmeyer,Thibault Meyer,"Strasbourg, France",1655,closed,2017-05-07 09:08:54,2017-05-08 17:48:23,True,2017-05-08 17:48:23,0
+caddyserver/caddy,tw4452852,Tw,,1654,closed,2017-05-07 03:54:38,2017-05-09 03:16:19,True,2017-05-09 03:16:19,6
+caddyserver/caddy,glesica,George Lesica,"Missoula, MT",1653,closed,2017-05-06 22:28:01,2017-05-08 16:32:15,True,2017-05-08 16:32:15,0
+caddyserver/caddy,mholt,Matt Holt,,1651,closed,2017-05-06 00:50:43,2017-05-28 14:22:44,True,2017-05-28 14:22:44,0
+caddyserver/caddy,mholt,Matt Holt,,1649,closed,2017-05-05 05:29:09,2017-08-24 13:13:54,True,2017-08-24 13:13:54,6
+caddyserver/caddy,smancke,Sebastian Mancke,Bonn,1648,closed,2017-05-03 07:37:42,2017-05-04 11:17:53,True,2017-05-04 11:17:53,0
+caddyserver/caddy,tw4452852,Tw,,1644,closed,2017-05-02 08:03:04,2017-05-05 15:42:07,True,2017-05-05 15:42:07,8
+caddyserver/caddy,tw4452852,Tw,,1642,closed,2017-05-02 02:58:48,2017-05-02 05:06:45,True,2017-05-02 05:06:45,0
+caddyserver/caddy,tw4452852,Tw,,1641,closed,2017-05-02 01:20:41,2017-05-05 23:36:21,True,2017-05-05 23:36:21,0
+caddyserver/caddy,slightfoot,Simon Lightfoot,"London, UK",1637,closed,2017-05-01 02:20:05,2017-05-01 14:47:45,True,2017-05-01 14:47:45,0
+caddyserver/caddy,aaronellington,Aaron Ellington,"Danbury, CT",1635,closed,2017-04-30 00:44:25,2017-04-30 05:50:00,True,2017-04-30 05:50:00,0
+caddyserver/caddy,mholt,Matt Holt,,1633,closed,2017-04-29 22:55:08,2017-05-02 05:11:10,True,2017-05-02 05:11:10,13
+caddyserver/caddy,tobya,Toby Allen,Ireland,1629,closed,2017-04-27 17:26:37,2017-05-01 19:45:40,True,2017-05-01 19:45:40,5
+caddyserver/caddy,tw4452852,Tw,,1618,closed,2017-04-25 12:16:41,2017-04-26 06:23:50,True,2017-04-26 06:23:50,11
+caddyserver/caddy,tw4452852,Tw,,1616,closed,2017-04-25 06:54:52,2017-04-29 23:16:59,False,,1
+caddyserver/caddy,tw4452852,Tw,,1613,closed,2017-04-24 07:30:35,2017-04-30 14:09:54,True,2017-04-30 14:09:54,7
+caddyserver/caddy,emersion,Simon Ser,France,1612,closed,2017-04-23 10:32:11,2017-04-26 16:45:58,True,2017-04-26 16:45:58,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",1609,closed,2017-04-22 05:16:18,2017-04-22 05:17:35,False,,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",1607,closed,2017-04-21 15:29:42,2017-04-26 18:00:50,True,2017-04-26 18:00:50,0
+caddyserver/caddy,tw4452852,Tw,,1605,closed,2017-04-21 11:40:38,2017-04-21 18:07:14,True,2017-04-21 18:07:14,0
+caddyserver/caddy,coolaj86,AJ ONeal,"Provo, UT",1600,closed,2017-04-20 02:57:01,2017-04-26 19:44:32,True,2017-04-26 19:44:32,2
+caddyserver/caddy,cez81,,,1599,closed,2017-04-19 18:47:46,2017-04-20 11:38:55,True,2017-04-20 11:38:55,7
+caddyserver/caddy,tw4452852,Tw,,1598,closed,2017-04-19 15:01:56,2017-04-30 14:19:03,True,2017-04-30 14:19:03,2
+caddyserver/caddy,mholt,Matt Holt,,1596,closed,2017-04-18 22:01:53,2017-04-20 11:39:43,True,2017-04-20 11:39:43,0
+caddyserver/caddy,jannickfahlbusch,Jannick Fahlbusch,GMXX8514,1595,closed,2017-04-18 21:19:11,2017-04-19 22:20:16,True,2017-04-19 22:20:16,3
+caddyserver/caddy,tw4452852,Tw,,1594,closed,2017-04-18 14:52:06,2017-04-18 15:23:06,True,2017-04-18 15:23:06,0
+caddyserver/caddy,alex,Alex Gaynor,Washington D.C.,1593,closed,2017-04-18 12:37:58,2018-02-16 20:29:54,False,,26
+caddyserver/caddy,tw4452852,Tw,,1591,closed,2017-04-18 08:21:09,2017-04-18 14:14:01,True,2017-04-18 14:14:01,0
+caddyserver/caddy,lhecker,Leonard Hecker,"Dresden, Germany",1588,closed,2017-04-17 20:08:46,2017-05-13 16:08:34,True,2017-05-13 16:08:34,5
+caddyserver/caddy,tw4452852,Tw,,1586,closed,2017-04-17 09:26:10,2017-04-17 16:04:20,False,,0
+caddyserver/caddy,tw4452852,Tw,,1585,closed,2017-04-17 09:24:00,2017-04-17 09:24:52,False,,0
+caddyserver/caddy,tw4452852,Tw,,1584,closed,2017-04-17 09:10:24,2017-04-18 05:39:15,True,2017-04-18 05:39:15,5
+caddyserver/caddy,tw4452852,Tw,,1583,closed,2017-04-17 08:57:26,2017-04-17 16:01:16,True,2017-04-17 16:01:16,0
+caddyserver/caddy,francislavoie,Francis Lavoie,"Ottawa, Ontario, Canada",1577,closed,2017-04-14 03:40:14,2017-04-17 15:58:48,True,2017-04-17 15:58:48,6
+caddyserver/caddy,elcore,elcore,,1567,closed,2017-04-07 00:35:20,2017-04-17 17:02:45,True,2017-04-17 17:02:45,4
+caddyserver/caddy,coolaj86,AJ ONeal,"Provo, UT",1566,closed,2017-04-06 22:31:06,2017-05-31 23:15:40,False,,37
+caddyserver/caddy,tobya,Toby Allen,Ireland,1559,closed,2017-04-02 16:05:21,2017-04-08 06:47:34,True,2017-04-08 06:47:34,3
+caddyserver/caddy,JuliCodes,Juli,Germany,1558,closed,2017-04-01 17:01:01,2017-04-03 21:16:32,True,2017-04-03 21:16:32,9
+caddyserver/caddy,tobya,Toby Allen,Ireland,1551,closed,2017-03-30 20:56:45,2017-04-02 19:38:15,True,2017-04-02 19:38:14,0
+caddyserver/caddy,AndreKR,,,1547,closed,2017-03-29 15:04:56,2017-04-17 16:13:59,False,,0
+caddyserver/caddy,wmark,Mark Kubacki,"Germany, European Union",1546,closed,2017-03-29 14:48:16,2017-04-08 00:32:03,True,2017-04-08 00:32:03,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1542,closed,2017-03-28 21:52:54,2017-10-23 12:05:56,False,,15
+caddyserver/caddy,lucafavatella,Luca Favatella,,1541,closed,2017-03-28 21:10:02,2017-03-31 18:45:56,True,2017-03-31 18:45:56,4
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,1540,closed,2017-03-28 12:57:13,2017-03-28 14:19:29,True,2017-03-28 14:19:29,3
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,1537,closed,2017-03-26 20:38:57,2017-03-28 00:06:00,True,2017-03-28 00:06:00,6
+caddyserver/caddy,tobya,Toby Allen,Ireland,1536,closed,2017-03-26 20:31:34,2017-03-30 20:57:34,False,,7
+caddyserver/caddy,tobya,Toby Allen,Ireland,1527,closed,2017-03-19 12:30:47,2017-03-25 04:54:16,True,2017-03-25 04:54:16,0
+caddyserver/caddy,MixedMessages,Angel Santiago,"New York, New York",1524,closed,2017-03-18 16:15:35,2017-04-02 20:58:16,True,2017-04-02 20:58:15,5
+caddyserver/caddy,jeremiahmegel,Jer Megel,,1522,closed,2017-03-17 21:29:00,2017-08-06 21:41:51,False,,6
+caddyserver/caddy,realguess,Chao Huang,,1515,closed,2017-03-13 14:47:18,2017-03-13 21:24:04,True,2017-03-13 21:24:04,0
+caddyserver/caddy,JuliCodes,Juli,Germany,1513,closed,2017-03-13 10:45:54,2017-03-14 15:57:09,True,2017-03-14 15:57:08,5
+caddyserver/caddy,lhecker,Leonard Hecker,"Dresden, Germany",1512,closed,2017-03-12 16:36:20,2017-04-17 19:48:51,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1511,closed,2017-03-12 07:25:16,2017-03-13 15:22:47,True,2017-03-13 15:22:46,3
+caddyserver/caddy,zmwangx,Zhiming Wang,"Princeton, NJ",1510,closed,2017-03-12 03:46:05,2017-03-12 07:03:25,True,2017-03-12 07:03:25,0
+caddyserver/caddy,tsusanka,Tomas Susanka,Prague,1505,closed,2017-03-08 12:32:29,2017-04-14 23:01:18,False,,3
+caddyserver/caddy,ssut,Suhun Han,"Gangnam-gu, Seoul",1501,closed,2017-03-07 14:14:23,2017-03-10 02:36:04,True,2017-03-10 02:36:04,5
+caddyserver/caddy,mholt,Matt Holt,,1500,closed,2017-03-07 01:21:59,2017-03-07 18:31:48,True,2017-03-07 18:31:48,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1499,closed,2017-03-06 21:58:10,2017-03-10 00:45:07,True,2017-03-10 00:45:07,0
+caddyserver/caddy,ssut,Suhun Han,"Gangnam-gu, Seoul",1498,closed,2017-03-06 14:58:09,2017-03-07 14:14:44,False,,3
+caddyserver/caddy,ericdreeves,,,1497,closed,2017-03-05 14:52:56,2017-03-15 16:17:12,True,2017-03-15 16:17:12,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1496,closed,2017-03-05 09:33:59,2017-03-10 17:42:28,False,,1
+caddyserver/caddy,mbertschler,Martin Bertschler,Berlin,1492,closed,2017-03-04 00:32:04,2017-03-12 22:41:50,True,2017-03-12 22:41:50,3
+caddyserver/caddy,jung-kurt,Kurt Jung,"Holly, Michigan, United States",1491,closed,2017-03-03 22:59:04,2017-03-09 20:20:15,True,2017-03-09 20:20:15,9
+caddyserver/caddy,lhecker,Leonard Hecker,"Dresden, Germany",1488,closed,2017-03-02 12:08:31,2017-03-10 17:41:37,True,2017-03-10 17:41:37,0
+caddyserver/caddy,crvv,Wèi Cōngruì,People's Republic of China,1482,closed,2017-02-28 10:47:55,2017-03-10 00:26:08,True,2017-03-10 00:26:08,1
+caddyserver/caddy,tobya,Toby Allen,Ireland,1481,closed,2017-02-27 19:42:09,2017-03-11 21:59:47,True,2017-03-11 21:59:47,16
+caddyserver/caddy,samber,Samuel Berthe,Nantes (France),1478,closed,2017-02-27 14:11:37,2017-03-03 06:25:29,True,2017-03-03 06:25:29,0
+caddyserver/caddy,jtyr,Jiri Tyr,"London, UK",1474,closed,2017-02-25 00:24:07,2017-03-07 15:55:40,True,2017-03-07 15:55:40,5
+caddyserver/caddy,mholt,Matt Holt,,1466,closed,2017-02-21 04:14:35,2017-02-21 16:49:23,True,2017-02-21 16:49:23,2
+caddyserver/caddy,mholt,Matt Holt,,1465,closed,2017-02-20 15:37:17,2017-02-20 15:47:57,True,2017-02-20 15:47:57,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1462,closed,2017-02-20 12:44:06,2017-02-20 15:20:11,True,2017-02-20 15:20:11,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1457,closed,2017-02-19 16:03:40,2017-02-21 04:20:30,False,,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1456,closed,2017-02-19 10:28:13,2017-02-19 15:09:36,True,2017-02-19 15:09:36,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1453,closed,2017-02-18 15:31:46,2017-02-18 22:50:36,True,2017-02-18 22:50:36,4
+caddyserver/caddy,tobya,Toby Allen,Ireland,1448,closed,2017-02-17 22:55:50,2017-02-24 05:15:22,False,,2
+caddyserver/caddy,mholt,Matt Holt,,1444,closed,2017-02-16 23:32:48,2017-02-16 23:37:13,True,2017-02-16 23:37:13,0
+caddyserver/caddy,elcore,elcore,,1443,closed,2017-02-16 22:05:52,2017-02-17 05:16:30,True,2017-02-17 05:16:30,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1442,closed,2017-02-16 21:26:50,2017-02-16 21:27:42,False,,0
+caddyserver/caddy,elcore,elcore,,1441,closed,2017-02-16 21:19:01,2017-02-16 23:46:57,False,,0
+caddyserver/caddy,augustoroman,Augusto Roman,"Longmont, CO",1438,closed,2017-02-15 06:58:28,2017-02-15 15:09:43,True,2017-02-15 15:09:42,4
+caddyserver/caddy,rohanpai,Rohan Pai,"Cupertino, CA",1436,closed,2017-02-14 22:33:19,2017-02-14 23:32:55,True,2017-02-14 23:32:55,0
+caddyserver/caddy,rickb777,Rick Beton,UK,1435,closed,2017-02-14 17:59:47,2017-02-18 22:52:51,True,2017-02-18 22:52:51,4
+caddyserver/caddy,rickb777,Rick Beton,UK,1434,closed,2017-02-14 17:36:43,2017-02-14 17:47:20,False,,0
+caddyserver/caddy,rickb777,Rick Beton,UK,1432,closed,2017-02-13 21:59:04,2017-02-14 17:34:16,False,,4
+caddyserver/caddy,tobya,Toby Allen,Ireland,1431,closed,2017-02-13 21:28:43,2017-02-14 10:23:46,True,2017-02-14 10:23:46,0
+caddyserver/caddy,mholt,Matt Holt,,1430,closed,2017-02-13 17:20:11,2017-02-17 21:07:58,True,2017-02-17 21:07:58,3
+caddyserver/caddy,pennywisdom,,"Kent, UK",1429,closed,2017-02-13 12:35:14,2017-02-16 05:02:52,True,2017-02-16 05:02:52,0
+caddyserver/caddy,pennywisdom,,"Kent, UK",1428,closed,2017-02-13 11:49:57,2017-02-13 11:53:35,False,,0
+caddyserver/caddy,jung-kurt,Kurt Jung,"Holly, Michigan, United States",1426,closed,2017-02-11 17:53:14,2017-02-17 22:37:59,True,2017-02-17 22:37:59,6
+caddyserver/caddy,jung-kurt,Kurt Jung,"Holly, Michigan, United States",1425,closed,2017-02-11 14:45:19,2017-02-14 13:59:32,True,2017-02-14 13:59:32,0
+caddyserver/caddy,juergenhoetzel,Jürgen Hötzel,Germany,1421,closed,2017-02-10 07:54:04,2017-04-14 22:22:16,False,,1
+caddyserver/caddy,tobya,Toby Allen,Ireland,1414,closed,2017-02-08 17:09:25,2017-02-12 21:29:02,False,,0
+caddyserver/caddy,JRaspass,James Raspass,"Fleet, UK",1410,closed,2017-02-07 23:56:21,2017-02-08 00:10:05,True,2017-02-08 00:10:05,0
+caddyserver/caddy,mastercactapus,Nathaniel Caza,"Eagan, MN",1409,closed,2017-02-07 13:48:46,2017-02-16 01:34:02,True,2017-02-16 01:34:02,3
+caddyserver/caddy,mholt,Matt Holt,,1404,closed,2017-02-06 13:40:38,2017-02-07 03:08:51,True,2017-02-07 03:08:51,3
+caddyserver/caddy,tobya,Toby Allen,Ireland,1399,closed,2017-02-04 17:31:11,2017-02-04 22:29:30,True,2017-02-04 22:29:30,0
+caddyserver/caddy,augustoroman,Augusto Roman,"Longmont, CO",1392,closed,2017-02-01 06:23:51,2017-02-16 04:59:25,True,2017-02-16 04:59:25,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1389,closed,2017-01-30 16:23:10,2017-02-18 22:26:24,True,2017-02-18 22:26:24,6
+caddyserver/caddy,tw4452852,Tw,,1381,closed,2017-01-26 06:57:50,2017-01-28 16:40:15,True,2017-01-28 16:40:15,4
+caddyserver/caddy,julianvmodesto,Julian V. Modesto,"New York, NY",1379,closed,2017-01-26 05:13:01,2017-02-08 16:23:34,True,2017-02-08 16:23:34,2
+caddyserver/caddy,tw4452852,Tw,,1378,closed,2017-01-26 04:26:32,2017-02-17 04:22:12,True,2017-02-17 04:22:12,3
+caddyserver/caddy,elcore,elcore,,1376,closed,2017-01-25 15:32:23,2017-02-17 00:19:58,True,2017-02-17 00:19:58,0
+caddyserver/caddy,mholt,Matt Holt,,1374,closed,2017-01-25 03:12:18,2017-02-16 23:51:01,True,2017-02-16 23:51:01,0
+caddyserver/caddy,mholt,Matt Holt,,1373,closed,2017-01-25 03:10:44,2017-02-16 23:56:06,True,2017-02-16 23:56:06,0
+caddyserver/caddy,mholt,Matt Holt,,1368,closed,2017-01-23 15:26:03,2017-01-24 15:15:26,True,2017-01-24 15:15:25,0
+caddyserver/caddy,mholt,Matt Holt,,1366,closed,2017-01-21 21:40:26,2017-01-21 22:05:23,True,2017-01-21 22:05:23,0
+caddyserver/caddy,tw4452852,Tw,,1365,closed,2017-01-21 01:55:26,2017-02-16 00:59:29,True,2017-02-16 00:59:29,2
+caddyserver/caddy,tobya,Toby Allen,Ireland,1364,closed,2017-01-18 22:06:46,2017-01-24 05:15:28,True,2017-01-24 05:15:28,2
+caddyserver/caddy,tw4452852,Tw,,1360,closed,2017-01-18 07:56:09,2017-01-18 22:34:25,True,2017-01-18 22:34:25,0
+caddyserver/caddy,tw4452852,Tw,,1358,closed,2017-01-18 03:04:06,2017-01-24 01:03:43,True,2017-01-24 01:03:43,0
+caddyserver/caddy,tw4452852,Tw,,1357,closed,2017-01-18 02:59:54,2017-01-18 03:00:50,False,,0
+caddyserver/caddy,lhecker,Leonard Hecker,"Dresden, Germany",1356,closed,2017-01-17 20:26:36,2017-01-23 16:40:48,True,2017-01-23 16:40:48,4
+caddyserver/caddy,mholt,Matt Holt,,1354,closed,2017-01-15 16:32:03,2017-02-16 23:43:03,True,2017-02-16 23:43:03,0
+caddyserver/caddy,maruel,M-A,"Ottawa, Canada",1353,closed,2017-01-14 21:00:49,2017-01-14 22:54:27,True,2017-01-14 22:54:27,3
+caddyserver/caddy,mastercactapus,Nathaniel Caza,"Eagan, MN",1349,closed,2017-01-12 22:10:33,2017-03-10 05:31:38,True,2017-03-10 05:31:38,17
+caddyserver/caddy,tobya,Toby Allen,Ireland,1344,closed,2017-01-10 21:55:34,2017-01-14 06:42:01,True,2017-01-14 06:42:01,13
+caddyserver/caddy,bengadbois,Ben Gadbois,"Portland, OR",1343,closed,2017-01-10 21:17:56,2017-01-11 00:46:01,True,2017-01-11 00:46:01,0
+caddyserver/caddy,bengadbois,Ben Gadbois,"Portland, OR",1342,closed,2017-01-10 21:05:38,2017-01-10 22:09:07,True,2017-01-10 22:09:07,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1340,closed,2017-01-10 08:45:03,2017-01-21 17:50:27,False,,1
+caddyserver/caddy,tw4452852,Tw,,1338,closed,2017-01-09 08:48:35,2017-01-10 16:36:38,False,,0
+caddyserver/caddy,mwpastore,Mike Pastore,"Chicago, Illinois",1337,closed,2017-01-09 07:26:51,2017-01-17 17:34:18,True,2017-01-17 17:34:18,0
+caddyserver/caddy,JuliCodes,Juli,Germany,1335,closed,2017-01-08 15:39:08,2017-01-23 02:16:39,True,2017-01-23 02:16:39,4
+caddyserver/caddy,tw4452852,Tw,,1334,closed,2017-01-08 13:25:21,2017-01-09 02:29:39,True,2017-01-09 02:29:39,0
+caddyserver/caddy,ericdreeves,,,1331,closed,2017-01-07 20:18:12,2017-02-28 12:54:13,True,2017-02-28 12:54:13,25
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,1330,closed,2017-01-06 21:04:21,2017-01-14 14:25:57,True,2017-01-14 14:25:57,5
+caddyserver/caddy,mholt,Matt Holt,,1325,closed,2017-01-04 00:41:34,2017-01-08 02:41:56,True,2017-01-08 02:41:56,0
+caddyserver/caddy,blaubaer,Gregor Noczinski,"Berlin, Germany",1323,closed,2017-01-03 15:44:11,2017-01-03 16:03:13,True,2017-01-03 16:03:13,2
+caddyserver/caddy,ibnesayeed,Sawood Alam,"Norfolk, Virginia - 23529 (USA)",1317,closed,2016-12-31 19:35:22,2017-01-01 03:29:14,True,2017-01-01 03:29:14,13
+caddyserver/caddy,joerocklin,Joe Rocklin,"Cincinnati, OH",1316,closed,2016-12-31 11:25:40,2017-04-14 22:18:53,False,,2
+caddyserver/caddy,lhecker,Leonard Hecker,"Dresden, Germany",1314,closed,2016-12-29 17:22:29,2017-01-11 20:02:26,True,2017-01-11 20:02:26,20
+caddyserver/caddy,lhecker,Leonard Hecker,"Dresden, Germany",1309,closed,2016-12-26 19:56:40,2017-01-01 02:51:30,True,2017-01-01 02:51:30,17
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1304,closed,2016-12-19 19:23:57,2016-12-27 22:53:17,True,2016-12-27 22:53:17,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1301,closed,2016-12-18 21:49:11,2017-02-08 15:02:10,True,2017-02-08 15:02:10,2
+caddyserver/caddy,lhecker,Leonard Hecker,"Dresden, Germany",1300,closed,2016-12-18 19:01:44,2016-12-21 19:44:08,True,2016-12-21 19:44:08,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1290,closed,2016-12-05 19:43:42,2016-12-17 18:30:08,True,2016-12-17 18:30:08,2
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1289,closed,2016-12-05 11:53:35,2016-12-19 16:51:09,True,2016-12-19 16:51:09,26
+caddyserver/caddy,sguiheux,Guiheux Steven,Rennes,1288,closed,2016-12-05 08:51:30,2016-12-08 01:59:02,True,2016-12-08 01:59:02,0
+caddyserver/caddy,jbub,Juraj Bubniak,Slovakia,1286,closed,2016-12-04 17:22:55,2016-12-04 20:04:20,True,2016-12-04 20:04:20,0
+caddyserver/caddy,lbischof,,#movingtogitlab,1285,closed,2016-12-04 11:53:03,2016-12-04 14:42:55,True,2016-12-04 14:42:55,0
+caddyserver/caddy,ericdreeves,,,1284,closed,2016-12-03 22:37:08,2016-12-08 01:58:05,True,2016-12-08 01:58:05,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1280,closed,2016-11-29 22:06:07,2016-11-30 04:24:12,True,2016-11-30 04:24:12,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1278,closed,2016-11-29 13:27:15,2016-12-03 06:35:33,True,2016-12-03 06:35:33,2
+caddyserver/caddy,elcore,elcore,,1275,closed,2016-11-27 09:16:35,2016-11-27 12:35:54,True,2016-11-27 12:35:54,0
+caddyserver/caddy,ericdreeves,,,1274,closed,2016-11-25 16:38:23,2016-11-30 01:13:12,True,2016-11-30 01:13:12,6
+caddyserver/caddy,elcore,elcore,,1273,closed,2016-11-24 15:21:01,2016-11-27 06:44:15,True,2016-11-27 06:44:15,5
+caddyserver/caddy,genofire,genofire,,1272,closed,2016-11-23 12:19:29,2016-11-23 21:12:19,True,2016-11-23 21:12:19,0
+caddyserver/caddy,ericdreeves,,,1268,closed,2016-11-19 14:42:40,2016-11-19 15:47:54,True,2016-11-19 15:47:54,0
+caddyserver/caddy,DenBeke,,"Antwerp, Belgium",1267,closed,2016-11-18 17:01:34,2016-11-18 22:00:09,True,2016-11-18 22:00:09,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1264,closed,2016-11-16 20:51:26,2016-11-17 04:29:43,True,2016-11-17 04:29:43,0
+caddyserver/caddy,ericdreeves,,,1257,closed,2016-11-12 00:14:57,2016-11-19 16:05:30,True,2016-11-19 16:05:29,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1256,closed,2016-11-11 22:31:01,2016-12-02 20:36:20,False,,0
+caddyserver/caddy,elcore,elcore,,1247,closed,2016-11-09 17:02:44,2016-11-09 22:15:41,False,,0
+caddyserver/caddy,elcore,elcore,,1245,closed,2016-11-08 21:43:10,2016-11-09 13:34:41,False,,0
+caddyserver/caddy,gyulavoros,Gyula Voros,Hungary,1239,closed,2016-11-06 17:29:52,2016-11-17 04:41:53,True,2016-11-17 04:41:53,4
+caddyserver/caddy,tw4452852,Tw,,1238,closed,2016-11-03 14:56:55,2016-11-03 18:13:39,True,2016-11-03 18:13:39,0
+caddyserver/caddy,tpng,Benny Ng,,1232,closed,2016-11-01 04:51:44,2016-11-08 11:24:38,True,2016-11-08 11:24:38,2
+caddyserver/caddy,ericdreeves,,,1226,closed,2016-10-29 13:57:42,2016-11-02 04:04:53,True,2016-11-02 04:04:53,4
+caddyserver/caddy,ericdreeves,,,1224,closed,2016-10-28 01:26:11,2016-10-29 12:32:11,False,,0
+caddyserver/caddy,ghost,Deleted user,"Nothing to see here, move along.",1223,closed,2016-10-27 23:08:54,2016-10-27 23:13:05,False,,0
+caddyserver/caddy,elcore,elcore,,1221,closed,2016-10-27 20:03:11,2016-10-29 14:44:49,True,2016-10-29 14:44:49,2
+caddyserver/caddy,javimuu,,,1220,closed,2016-10-27 02:29:21,2016-10-27 11:45:45,False,,2
+caddyserver/caddy,tobya,Toby Allen,Ireland,1219,closed,2016-10-26 22:01:26,2016-11-04 17:55:36,False,,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1218,closed,2016-10-26 21:50:32,2016-10-26 21:52:06,False,,0
+caddyserver/caddy,chris-bandce,,,1217,closed,2016-10-26 15:29:40,2016-10-26 18:55:28,False,,0
+caddyserver/caddy,chris-bandce,,,1216,closed,2016-10-26 15:27:41,2016-10-26 17:23:00,True,2016-10-26 17:23:00,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1215,closed,2016-10-26 13:40:14,2017-02-17 16:25:23,True,2017-02-17 16:25:23,13
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1214,closed,2016-10-26 09:44:01,2016-11-03 18:24:26,True,2016-11-03 18:24:26,2
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1213,closed,2016-10-25 17:22:20,2016-10-26 06:05:08,True,2016-10-26 06:05:08,8
+caddyserver/caddy,tw4452852,Tw,,1212,closed,2016-10-25 03:04:57,2016-11-02 04:08:02,True,2016-11-02 04:08:02,4
+caddyserver/caddy,tobya,Toby Allen,Ireland,1211,closed,2016-10-24 19:50:00,2016-10-24 20:26:55,True,2016-10-24 20:26:55,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1210,closed,2016-10-24 19:05:27,2016-10-25 15:31:22,True,2016-10-25 15:31:22,3
+caddyserver/caddy,tobya,Toby Allen,Ireland,1209,closed,2016-10-24 18:35:56,2016-10-24 18:36:07,False,,0
+caddyserver/caddy,tw4452852,Tw,,1207,closed,2016-10-24 03:14:49,2016-10-25 15:30:11,True,2016-10-25 15:30:11,0
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,1199,closed,2016-10-20 19:32:20,2016-10-20 20:52:43,True,2016-10-20 20:52:43,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1197,closed,2016-10-20 13:59:52,2016-10-25 15:28:53,True,2016-10-25 15:28:53,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,1196,closed,2016-10-20 11:32:13,2016-11-16 20:57:49,False,,28
+caddyserver/caddy,andrewsmedina,Andrews Medina,Salvador,1194,closed,2016-10-19 22:08:16,2016-10-19 22:10:38,False,,0
+caddyserver/caddy,elcore,elcore,,1193,closed,2016-10-19 21:30:40,2016-10-20 00:00:00,True,2016-10-20 00:00:00,0
+caddyserver/caddy,radarhere,Andrew Murray,,1191,closed,2016-10-18 18:11:36,2016-10-18 18:12:02,False,,0
+caddyserver/caddy,tw4452852,Tw,,1190,closed,2016-10-18 01:21:11,2016-10-18 02:48:45,True,2016-10-18 02:48:45,1
+caddyserver/caddy,rndmh3ro,Sebastian Gumprich,"Dresden, Germany",1189,closed,2016-10-17 19:59:30,2016-10-19 14:13:44,True,2016-10-19 14:13:44,0
+caddyserver/caddy,tobya,Toby Allen,Ireland,1184,closed,2016-10-13 21:00:40,2016-10-16 18:11:52,True,2016-10-16 18:11:52,6
+caddyserver/caddy,tw4452852,Tw,,1178,closed,2016-10-11 09:08:51,2016-10-11 16:26:51,True,2016-10-11 16:26:51,0
+caddyserver/caddy,tw4452852,Tw,,1175,closed,2016-10-10 08:43:28,2016-10-10 18:41:00,True,2016-10-10 18:41:00,0
+caddyserver/caddy,tw4452852,Tw,,1174,closed,2016-10-10 07:37:10,2016-10-14 05:09:21,True,2016-10-14 05:09:21,3
+caddyserver/caddy,bengadbois,Ben Gadbois,"Portland, OR",1169,closed,2016-10-04 19:12:32,2016-10-05 21:38:27,True,2016-10-05 21:38:27,0
+caddyserver/caddy,blaubaer,Gregor Noczinski,"Berlin, Germany",1167,closed,2016-10-04 12:31:24,2016-10-15 15:31:23,True,2016-10-15 15:31:23,0
+caddyserver/caddy,aishraj,Aish Raj Dahal,San Francisco,1165,closed,2016-10-04 03:41:48,2016-10-08 20:48:49,True,2016-10-08 20:48:48,0
+caddyserver/caddy,Ngo-The-Trung,Ngo The Trung,London,1163,closed,2016-10-03 18:29:21,2016-11-04 00:25:50,True,2016-11-04 00:25:49,55
+caddyserver/caddy,elcore,elcore,,1161,closed,2016-10-03 18:08:26,2016-10-03 23:15:23,True,2016-10-03 23:15:23,0
+caddyserver/caddy,elcore,elcore,,1159,closed,2016-10-03 07:21:50,2016-10-03 16:52:46,True,2016-10-03 16:52:46,1
+caddyserver/caddy,tw4452852,Tw,,1158,closed,2016-10-02 10:51:27,2016-10-02 19:39:55,True,2016-10-02 19:39:55,0
+caddyserver/caddy,elcore,elcore,,1155,closed,2016-10-01 13:29:50,2016-10-01 15:24:40,False,,0
+caddyserver/caddy,tw4452852,Tw,,1145,closed,2016-09-28 09:03:05,2016-09-28 16:42:42,True,2016-09-28 16:42:42,0
+caddyserver/caddy,JuliCodes,Juli,Germany,1144,closed,2016-09-28 08:14:03,2016-09-28 18:23:44,True,2016-09-28 18:23:44,4
+caddyserver/caddy,krishamoud,Kris,"Austin, Texas",1143,closed,2016-09-27 21:46:18,2016-09-28 14:07:58,True,2016-09-28 14:07:58,0
+caddyserver/caddy,tw4452852,Tw,,1140,closed,2016-09-27 07:41:04,2016-09-28 01:02:28,True,2016-09-28 01:02:28,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",1139,closed,2016-09-27 04:57:35,2016-09-27 23:54:26,False,,0
+caddyserver/caddy,mholt,Matt Holt,,1135,closed,2016-09-24 22:39:06,2016-09-27 23:53:44,True,2016-09-27 23:53:44,2
+caddyserver/caddy,Echsecutor,Sebastian Schmittner,Germany,1134,closed,2016-09-24 22:19:39,2016-09-28 00:12:22,True,2016-09-28 00:12:22,24
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",1129,closed,2016-09-23 17:01:00,2016-09-24 05:29:23,True,2016-09-24 05:29:23,11
+caddyserver/caddy,bdaehlie,Josh Aas,"Brooklyn, NY",1127,closed,2016-09-22 21:23:07,2016-09-23 22:50:39,True,2016-09-23 22:50:39,6
+caddyserver/caddy,Echsecutor,Sebastian Schmittner,Germany,1126,closed,2016-09-22 21:19:45,2016-09-24 00:24:25,False,,0
+caddyserver/caddy,hlidotbe,Hugues Lismonde,Belgium,1125,closed,2016-09-22 20:50:07,2016-09-25 03:11:30,True,2016-09-25 03:11:30,0
+caddyserver/caddy,namsral,Lars Wiegman,Netherlands,1120,closed,2016-09-20 09:35:07,2016-09-20 15:06:28,True,2016-09-20 15:06:28,0
+caddyserver/caddy,tw4452852,Tw,,1115,closed,2016-09-18 02:20:53,2016-09-19 22:28:55,True,2016-09-19 22:28:55,1
+caddyserver/caddy,mholt,Matt Holt,,1113,closed,2016-09-17 05:26:11,2016-09-19 22:29:28,False,,0
+caddyserver/caddy,tw4452852,Tw,,1112,closed,2016-09-17 01:47:27,2016-09-25 03:02:19,True,2016-09-25 03:02:19,17
+caddyserver/caddy,coopernurse,James Cooper,"Seattle, WA",1102,closed,2016-09-10 14:53:16,2016-09-13 22:47:10,True,2016-09-13 22:47:10,0
+caddyserver/caddy,coopernurse,James Cooper,"Seattle, WA",1099,closed,2016-09-09 04:12:16,2016-09-09 14:23:47,False,,0
+caddyserver/caddy,dprandzioch,David Prandzioch,Germany,1098,closed,2016-09-08 15:39:36,2016-09-09 03:02:28,True,2016-09-09 03:02:28,0
+caddyserver/caddy,dprandzioch,David Prandzioch,Germany,1097,closed,2016-09-08 15:32:11,2016-09-08 15:35:35,False,,0
+caddyserver/caddy,mikepulaski,Mikey,"Paris, France",1091,closed,2016-09-05 16:35:31,2016-09-05 19:14:35,True,2016-09-05 19:14:35,0
+caddyserver/caddy,Echsecutor,Sebastian Schmittner,Germany,1087,closed,2016-09-01 11:42:43,2016-09-10 12:47:47,True,2016-09-10 12:47:47,39
+caddyserver/caddy,Echsecutor,Sebastian Schmittner,Germany,1084,closed,2016-08-31 12:18:30,2016-08-31 12:41:38,False,,0
+caddyserver/caddy,ijt,Issac Trotts,"Colorado Springs, CO",1079,closed,2016-08-30 01:29:22,2016-08-30 14:10:57,True,2016-08-30 14:10:57,0
+caddyserver/caddy,FiloSottile,Filippo Valsorda,"Manhattan, NYC",1070,closed,2016-08-25 17:33:36,2016-08-25 22:33:12,True,2016-08-25 22:33:12,0
+caddyserver/caddy,tw4452852,Tw,,1068,closed,2016-08-25 03:27:00,2016-08-25 04:40:32,True,2016-08-25 04:40:32,0
+caddyserver/caddy,stp-ip,Michael Grosser,,1064,closed,2016-08-23 22:06:59,2016-08-23 22:46:43,True,2016-08-23 22:46:43,0
+caddyserver/caddy,tdsmith,Tim D. Smith,"Vancouver, BC",1063,closed,2016-08-23 06:28:37,2016-08-31 23:04:30,False,,10
+caddyserver/caddy,nemosupremo,Nimi Wariboko Jr.,"San Francisco, CA",1062,closed,2016-08-23 01:03:27,2016-08-23 16:39:17,True,2016-08-23 16:39:17,0
+caddyserver/caddy,tw4452852,Tw,,1060,closed,2016-08-22 08:00:24,2016-08-24 04:55:17,True,2016-08-24 04:55:17,0
+caddyserver/caddy,luna-duclos,Luna Duclos,"Stockholm, Sweden",1059,closed,2016-08-21 10:11:52,2016-08-23 21:31:20,True,2016-08-23 21:31:20,2
+caddyserver/caddy,miekg,Miek Gieben,"Nijmegen, NL",1058,closed,2016-08-21 09:20:16,2016-08-23 06:23:48,False,,0
+caddyserver/caddy,tw4452852,Tw,,1049,closed,2016-08-19 05:18:57,2016-08-23 00:49:17,True,2016-08-23 00:49:17,0
+caddyserver/caddy,miekg,Miek Gieben,"Nijmegen, NL",1048,closed,2016-08-19 00:21:25,2016-08-19 17:48:07,True,2016-08-19 17:48:07,8
+caddyserver/caddy,luna-duclos,Luna Duclos,"Stockholm, Sweden",1046,closed,2016-08-18 16:30:57,2016-08-20 22:52:18,True,2016-08-20 22:52:18,0
+caddyserver/caddy,evvvvr,Volodymyr Halkin,"Berlin, Germany",1042,closed,2016-08-16 14:48:36,2016-08-29 15:41:28,True,2016-08-29 15:41:27,8
+caddyserver/caddy,ghost,Deleted user,"Nothing to see here, move along.",1041,closed,2016-08-16 13:04:53,2016-08-30 19:38:44,True,2016-08-30 19:38:44,7
+caddyserver/caddy,slightfoot,Simon Lightfoot,"London, UK",1037,closed,2016-08-15 19:54:16,2016-08-15 21:41:26,True,2016-08-15 21:41:26,0
+caddyserver/caddy,evvvvr,Volodymyr Halkin,"Berlin, Germany",1036,closed,2016-08-15 13:48:55,2016-08-15 16:09:46,True,2016-08-15 16:09:46,0
+caddyserver/caddy,slightfoot,Simon Lightfoot,"London, UK",1035,closed,2016-08-14 20:11:10,2016-08-15 17:15:58,True,2016-08-15 17:15:58,10
+caddyserver/caddy,evvvvr,Volodymyr Halkin,"Berlin, Germany",1032,closed,2016-08-12 13:54:06,2016-08-12 15:28:51,True,2016-08-12 15:28:51,0
+caddyserver/caddy,evvvvr,Volodymyr Halkin,"Berlin, Germany",1028,closed,2016-08-11 13:05:29,2016-08-12 05:33:44,True,2016-08-12 05:33:44,3
+caddyserver/caddy,definitelycarter,Adam Carter,"Tampa, Florida",1023,closed,2016-08-10 14:12:52,2016-08-12 02:32:33,True,2016-08-12 02:32:33,18
+caddyserver/caddy,shawnps,Shawn Smith,"Tokyo, Japan",1017,closed,2016-08-09 05:57:21,2016-08-09 08:18:42,True,2016-08-09 08:18:42,0
+caddyserver/caddy,slightfoot,Simon Lightfoot,"London, UK",1013,closed,2016-08-08 01:32:09,2016-08-08 02:31:50,False,,0
+caddyserver/caddy,jesselucas,Jesse Lucas,United States,1010,closed,2016-08-07 15:46:23,2016-09-21 05:47:43,False,,14
+caddyserver/caddy,elcore,elcore,,1009,closed,2016-08-07 10:54:36,2016-08-08 17:13:10,True,2016-08-08 17:13:10,0
+caddyserver/caddy,djvdorp,Daniel van Dorp,"Rotterdam Area, Netherlands",1008,closed,2016-08-07 10:24:30,2016-08-10 04:29:13,True,2016-08-10 04:29:13,0
+caddyserver/caddy,skorokithakis,Stavros Korokithakis,"Thessaloniki, Greece",1007,closed,2016-08-07 01:30:25,2016-08-07 13:50:36,True,2016-08-07 13:50:36,0
+caddyserver/caddy,definitelycarter,Adam Carter,"Tampa, Florida",1005,closed,2016-08-06 23:13:52,2016-08-08 16:14:53,True,2016-08-08 16:14:53,0
+caddyserver/caddy,elcore,elcore,,1004,closed,2016-08-06 13:53:10,2016-08-06 21:00:54,True,2016-08-06 21:00:54,0
+caddyserver/caddy,djvdorp,Daniel van Dorp,"Rotterdam Area, Netherlands",1003,closed,2016-08-05 14:35:50,2016-08-05 14:49:24,True,2016-08-05 14:49:24,0
+caddyserver/caddy,djvdorp,Daniel van Dorp,"Rotterdam Area, Netherlands",1002,closed,2016-08-05 14:02:33,2016-08-05 14:15:32,True,2016-08-05 14:15:32,0
+caddyserver/caddy,djvdorp,Daniel van Dorp,"Rotterdam Area, Netherlands",1001,closed,2016-08-05 12:07:13,2016-08-05 12:13:34,True,2016-08-05 12:13:34,0
+caddyserver/caddy,meyskens,Maartje Eyskens,Belgium ,998,closed,2016-08-04 15:18:49,2016-08-26 22:41:32,False,,22
+caddyserver/caddy,tw4452852,Tw,,996,closed,2016-08-04 05:09:03,2016-08-05 22:20:06,True,2016-08-05 22:20:06,0
+caddyserver/caddy,nullstyle,Scott Fleckenstein,The West Side,994,closed,2016-08-04 03:53:04,2016-08-04 15:57:12,False,,0
+caddyserver/caddy,tw4452852,Tw,,989,closed,2016-08-02 07:33:00,2016-08-02 12:03:15,True,2016-08-02 12:03:15,0
+caddyserver/caddy,nemosupremo,Nimi Wariboko Jr.,"San Francisco, CA",987,closed,2016-08-02 02:17:26,2016-08-05 23:59:38,True,2016-08-05 23:59:38,0
+caddyserver/caddy,nemosupremo,Nimi Wariboko Jr.,"San Francisco, CA",984,closed,2016-08-01 22:55:49,2016-08-05 23:57:44,True,2016-08-05 23:57:44,5
+caddyserver/caddy,djvdorp,Daniel van Dorp,"Rotterdam Area, Netherlands",983,closed,2016-08-01 11:34:20,2016-08-01 19:34:07,True,2016-08-01 19:34:07,2
+caddyserver/caddy,s7v7nislands,s7v7nislands,China,982,closed,2016-08-01 08:17:03,2016-08-03 03:01:36,True,2016-08-03 03:01:36,2
+caddyserver/caddy,tw4452852,Tw,,981,closed,2016-08-01 06:46:04,2016-08-01 18:36:06,True,2016-08-01 18:36:06,0
+caddyserver/caddy,slightfoot,Simon Lightfoot,"London, UK",980,closed,2016-08-01 01:40:20,2016-08-08 05:16:34,True,2016-08-08 05:16:34,0
+caddyserver/caddy,krishamoud,Kris,"Austin, Texas",978,closed,2016-07-31 09:29:25,2016-08-02 17:25:52,True,2016-08-02 17:25:52,8
+caddyserver/caddy,jwkohnen,Johannes Kohnen,"Amsterdam, NLD",976,closed,2016-07-30 18:30:05,2016-08-01 21:06:44,True,2016-08-01 21:06:44,1
+caddyserver/caddy,tw4452852,Tw,,973,closed,2016-07-30 09:13:40,2016-08-06 21:02:21,False,,0
+caddyserver/caddy,ponychicken,ponychicken,,970,closed,2016-07-29 20:59:35,2016-07-29 21:24:27,True,2016-07-29 21:24:27,0
+caddyserver/caddy,vchimishuk,Viacheslav Chimishuk,"Ukraine, Khmelnitsky",966,closed,2016-07-28 14:04:25,2016-08-03 16:20:43,False,,0
+caddyserver/caddy,phifty,Philipp Brüll,Berlin,960,closed,2016-07-24 09:55:37,2016-07-25 14:53:54,True,2016-07-25 14:53:54,0
+caddyserver/caddy,xuqingfeng,Xu Qingfeng,"Shanghai, China",956,closed,2016-07-23 02:51:41,2016-07-23 16:39:17,True,2016-07-23 16:39:17,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",952,closed,2016-07-21 14:44:45,2016-07-21 18:03:33,True,2016-07-21 18:03:33,0
+caddyserver/caddy,vchimishuk,Viacheslav Chimishuk,"Ukraine, Khmelnitsky",951,closed,2016-07-21 13:50:40,2016-07-22 17:33:50,True,2016-07-22 17:33:50,0
+caddyserver/caddy,tw4452852,Tw,,950,closed,2016-07-21 06:01:56,2016-07-21 18:01:10,True,2016-07-21 18:01:10,0
+caddyserver/caddy,gsquire,Garrett Squire,"Seattle, WA",949,closed,2016-07-21 05:18:24,2016-07-21 06:28:29,True,2016-07-21 06:28:29,0
+caddyserver/caddy,gsquire,Garrett Squire,"Seattle, WA",947,closed,2016-07-20 21:25:05,2016-07-21 05:18:55,False,,0
+caddyserver/caddy,tw4452852,Tw,,946,closed,2016-07-20 03:27:02,2016-07-21 01:06:14,True,2016-07-21 01:06:14,3
+caddyserver/caddy,mmlkrx,Matthias Michael,Berlin,940,closed,2016-07-19 13:43:39,2016-07-19 13:50:31,True,2016-07-19 13:50:31,0
+caddyserver/caddy,miekg,Miek Gieben,"Nijmegen, NL",935,closed,2016-07-17 12:44:53,2016-07-18 20:24:10,True,2016-07-18 20:24:10,5
+caddyserver/caddy,pedronasser,Pedro Nasser,Brazil,932,closed,2016-07-15 00:50:38,2016-07-15 02:30:28,True,2016-07-15 02:30:28,0
+caddyserver/caddy,pedronasser,Pedro Nasser,Brazil,931,closed,2016-07-14 18:30:38,2016-07-15 00:46:24,True,2016-07-15 00:46:24,0
+caddyserver/caddy,pedronasser,Pedro Nasser,Brazil,929,closed,2016-07-13 06:10:42,2016-07-13 16:58:43,True,2016-07-13 16:58:43,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",928,closed,2016-07-08 18:41:22,2016-07-08 18:52:19,True,2016-07-08 18:52:19,0
+caddyserver/caddy,pedronasser,Pedro Nasser,Brazil,927,closed,2016-07-08 17:11:40,2016-07-08 17:52:45,True,2016-07-08 17:52:45,0
+caddyserver/caddy,uhthomas,Thomas,London,926,closed,2016-07-08 16:21:39,2016-07-19 21:02:42,False,,0
+caddyserver/caddy,ianwalter,Ian Walter,"Farmington Valley, CT",920,closed,2016-07-05 17:49:05,2016-07-06 05:32:01,True,2016-07-06 05:32:01,0
+caddyserver/caddy,atenart,Antoine Ténart,,919,closed,2016-07-04 16:46:43,2016-07-05 18:23:39,False,,0
+caddyserver/caddy,cretz,Chad Retz,"Dallas, TX",913,closed,2016-07-01 20:44:24,2016-07-08 13:32:31,True,2016-07-08 13:32:31,24
+caddyserver/caddy,evermax,Maxime Lasserre,WA,909,closed,2016-06-29 23:55:47,2016-06-30 00:53:15,True,2016-06-30 00:53:15,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",908,closed,2016-06-29 23:17:43,2016-07-09 00:12:52,True,2016-07-09 00:12:52,12
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",907,closed,2016-06-29 12:43:06,2016-06-29 13:09:37,True,2016-06-29 13:09:37,0
+caddyserver/caddy,nesl247,Alexander Kim,FL,905,closed,2016-06-26 18:41:05,2016-06-27 14:32:27,True,2016-06-27 14:32:27,0
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,900,closed,2016-06-23 15:03:26,2016-06-27 14:32:54,True,2016-06-27 14:32:54,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",899,closed,2016-06-22 04:38:08,2016-06-22 04:49:46,True,2016-06-22 04:49:46,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",898,closed,2016-06-21 19:42:29,2016-06-21 19:52:51,True,2016-06-21 19:52:51,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",897,closed,2016-06-21 19:29:50,2016-06-21 19:37:25,False,,0
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",896,closed,2016-06-21 15:48:34,2016-06-21 15:55:08,False,,0
+caddyserver/caddy,zmb3,Zac Bergquist,"Denver, CO",895,closed,2016-06-20 23:39:16,2016-06-21 00:04:08,False,,0
+caddyserver/caddy,RobbieMcKinstry,Robbie McKinstry,"Pittsburgh, PA",894,closed,2016-06-20 23:17:07,2016-06-21 00:02:27,True,2016-06-21 00:02:27,0
+caddyserver/caddy,wendigo,"Mateusz ""Serafin"" Gajewski",Poland,892,closed,2016-06-20 09:28:08,2016-06-20 19:50:25,True,2016-06-20 19:50:25,0
+caddyserver/caddy,andrewhamon,Andy Hamon,San Francisco,891,closed,2016-06-18 20:59:32,2016-06-20 15:27:48,True,2016-06-20 15:27:48,0
+caddyserver/caddy,pedronasser,Pedro Nasser,Brazil,890,closed,2016-06-17 22:04:33,2016-06-22 00:44:16,True,2016-06-22 00:44:16,7
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",889,closed,2016-06-17 18:58:26,2016-06-21 14:59:30,True,2016-06-21 14:59:30,5
+caddyserver/caddy,dulldave,David Dyke,United Kingdom,887,closed,2016-06-16 21:40:45,2016-06-20 15:49:21,True,2016-06-20 15:49:21,1
+caddyserver/caddy,pedronasser,Pedro Nasser,Brazil,885,closed,2016-06-15 22:57:46,2016-06-16 14:30:34,True,2016-06-16 14:30:34,5
+caddyserver/caddy,dulldave,David Dyke,United Kingdom,881,closed,2016-06-12 18:56:14,2016-06-14 18:03:31,True,2016-06-14 18:03:30,0
+caddyserver/caddy,andrewhamon,Andy Hamon,San Francisco,880,closed,2016-06-12 03:35:34,2016-06-14 21:43:06,True,2016-06-14 21:43:06,0
+caddyserver/caddy,hacdias,Henrique Dias,Eindhoven,876,closed,2016-06-09 14:15:09,2016-06-14 21:44:05,True,2016-06-14 21:44:04,3
+caddyserver/caddy,tpng,Benny Ng,,873,closed,2016-06-08 09:05:53,2016-06-08 23:40:16,True,2016-06-08 23:40:16,12
+caddyserver/caddy,gchaincl,Gustavo Chaín,Siurana,871,closed,2016-06-07 09:19:49,2016-06-07 17:06:25,True,2016-06-07 17:06:24,2
+caddyserver/caddy,tpng,Benny Ng,,870,closed,2016-06-07 05:04:50,2016-06-07 15:38:58,True,2016-06-07 15:38:58,0
+caddyserver/caddy,tpng,Benny Ng,,869,closed,2016-06-07 04:09:16,2016-06-07 04:09:52,True,2016-06-07 04:09:52,0
+caddyserver/caddy,mholt,Matt Holt,,866,closed,2016-06-06 06:00:42,2016-06-06 13:39:16,True,2016-06-06 13:39:16,0
+caddyserver/caddy,marc-gr,Marc Guasch,Barcelona,861,closed,2016-06-03 19:50:48,2016-06-03 23:50:33,True,2016-06-03 23:50:33,4
+caddyserver/caddy,jupiter,Pieter Raubenheimer,London,859,closed,2016-06-01 17:41:10,2016-06-02 22:43:34,True,2016-06-02 22:43:34,0
+caddyserver/caddy,lucas-clemente,Lucas Clemente,Zurich,857,closed,2016-05-31 12:17:17,2016-06-04 17:33:10,False,,1
+caddyserver/caddy,abiosoft,Abiola Ibrahim,"Abuja, Nigeria",855,closed,2016-05-29 07:01:09,2016-05-29 07:11:27,True,2016-05-29 07:11:27,0
+caddyserver/caddy,nesl247,Alexander Kim,FL,846,closed,2016-05-24 19:21:20,2016-05-24 19:56:55,True,2016-05-24 19:56:55,0
+caddyserver/caddy,wmark,Mark Kubacki,"Germany, European Union",840,closed,2016-05-20 22:56:11,2016-05-21 20:44:58,True,2016-05-21 20:44:58,0
+caddyserver/caddy,juliuse,juliuse,,838,closed,2016-05-20 05:19:57,2016-05-20 21:34:55,False,,5
+caddyserver/caddy,juliuse,juliuse,,837,closed,2016-05-20 05:07:38,2016-05-20 05:18:50,False,,0
+caddyserver/caddy,juliuse,juliuse,,836,closed,2016-05-20 04:50:29,2016-05-20 05:05:51,False,,0
+caddyserver/caddy,juliuse,juliuse,,835,closed,2016-05-20 04:41:49,2016-05-20 04:45:58,False,,0
+caddyserver/caddy,juliuse,juliuse,,834,closed,2016-05-20 03:21:58,2016-05-20 04:33:28,False,,0
+caddyserver/caddy,ponychicken,ponychicken,,824,closed,2016-05-14 18:19:32,2016-06-06 13:32:28,True,2016-06-06 13:32:28,11
+caddyserver/caddy,ponychicken,ponychicken,,823,closed,2016-05-14 14:39:52,2016-05-14 21:20:20,True,2016-05-14 21:20:20,0
+caddyserver/caddy,wmark,Mark Kubacki,"Germany, European Union",817,closed,2016-05-11 19:05:26,2016-05-12 13:15:32,True,2016-05-12 13:15:32,1
+caddyserver/caddy,wmark,Mark Kubacki,"Germany, European Union",811,closed,2016-05-07 18:18:05,2016-05-07 18:19:22,True,2016-05-07 18:19:22,0
+caddyserver/caddy,oddtazz,Gaurav Chaturvedi,Mumbai,810,closed,2016-05-06 19:34:45,2016-06-05 05:21:39,False,,0

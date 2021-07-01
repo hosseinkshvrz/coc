@@ -1,0 +1,1293 @@
+repository_url,user_login,user_name,user_location,pull_number,pull_current_state,pull_creation_date,pull_closing_date,pull_merged,pull_merge_date,pull_comment_count
+airbnb/javascript,igayoso,igayoso,World,2433,closed,2021-06-01 21:30:42,2021-06-01 21:50:02,False,,0
+airbnb/javascript,jsec,Jarrod Seccombe,"Bloomfield Twp, Michigan",2429,closed,2021-05-18 16:51:21,2021-05-18 16:52:04,False,,0
+airbnb/javascript,cihat,Cihat Salik,İstanbul,2426,closed,2021-05-14 11:45:59,2021-05-16 09:36:31,False,,0
+airbnb/javascript,cihat,Cihat Salik,İstanbul,2425,closed,2021-05-14 09:14:33,2021-05-15 11:13:22,False,,0
+airbnb/javascript,hsh2001,Asher Hwang,Republic of Korea.,2423,closed,2021-05-11 00:09:07,2021-05-11 01:22:44,True,2021-05-11 01:22:44,0
+airbnb/javascript,amirvatani,,,2422,closed,2021-05-09 07:10:51,2021-05-11 16:45:15,True,2021-05-11 16:45:14,0
+airbnb/javascript,kirans08,Kiran S,India,2420,closed,2021-05-03 16:12:17,2021-05-03 20:25:54,True,2021-05-03 20:25:54,0
+airbnb/javascript,kirans08,Kiran S,India,2419,closed,2021-05-03 15:32:03,2021-05-09 20:36:14,True,2021-05-09 20:36:14,0
+airbnb/javascript,miko-github,mikoloism,world,2416,closed,2021-04-29 17:49:28,2021-04-29 20:39:18,False,,3
+airbnb/javascript,Kelta-King,Kushang Shah,"Gujarat, India",2413,closed,2021-04-23 03:44:18,2021-05-03 23:45:39,True,2021-05-03 23:45:39,7
+airbnb/javascript,henriquebarrosx,Henrique Barros,Brasil,2412,closed,2021-04-22 13:32:32,2021-04-22 14:46:03,False,,2
+airbnb/javascript,7ahery,M. Tahery,,2410,closed,2021-03-31 09:47:27,2021-03-31 09:49:14,False,,0
+airbnb/javascript,kimhanui,,"Gimpo, Korea",2408,closed,2021-03-25 15:09:33,2021-03-25 19:26:03,True,2021-03-25 19:26:03,0
+airbnb/javascript,backwardok,Diane Ko,"Hayward, CA",2407,closed,2021-03-25 01:38:59,2021-03-25 06:57:17,True,2021-03-25 06:57:17,0
+airbnb/javascript,dancerphil,Cong Zhang,"Beijing, China",2406,closed,2021-03-24 10:17:50,2021-03-25 19:26:03,True,2021-03-25 19:26:03,0
+airbnb/javascript,kimhanui,,"Gimpo, Korea",2404,closed,2021-03-17 23:44:49,2021-03-20 19:36:21,True,2021-03-20 19:36:21,0
+airbnb/javascript,JuliaMll,Volkova Nastya,,2401,closed,2021-03-04 17:25:09,2021-03-04 17:41:26,False,,0
+airbnb/javascript,iamraufu,Eftykhar Rahman,127.0.0.1,2398,closed,2021-02-25 18:19:31,2021-02-25 19:15:45,False,,0
+airbnb/javascript,vgtstptlk,,,2397,closed,2021-02-25 16:11:19,2021-02-25 16:11:39,False,,0
+airbnb/javascript,YuvRaj6392,,,2396,closed,2021-02-25 16:08:06,2021-02-25 16:34:32,False,,0
+airbnb/javascript,soupria,,,2371,closed,2021-02-03 09:07:13,2021-02-03 15:12:03,False,,0
+airbnb/javascript,eltociear,Ikko Ashimine,"Tokyo, Japan",2366,closed,2021-01-08 11:40:09,2021-01-08 16:52:16,True,2021-01-08 16:52:16,0
+airbnb/javascript,xrkffgg,,"Beijing, China",2365,closed,2021-01-08 09:48:26,2021-01-09 01:08:31,False,,0
+airbnb/javascript,NisH-ChW18,,,2364,closed,2021-01-07 11:10:41,2021-01-07 12:07:36,False,,0
+airbnb/javascript,tamojit-123,Tamojit Das,kolkata,2363,closed,2021-01-05 16:26:23,2021-01-05 17:27:25,False,,0
+airbnb/javascript,marsonya,akhil marsonya,"Hyderabad, India",2362,closed,2020-12-30 05:18:18,2020-12-30 05:49:28,True,2020-12-30 05:49:27,0
+airbnb/javascript,maco,Mackenzie,"Silver Spring, MD",2356,closed,2020-12-17 05:23:59,2021-03-25 19:49:35,True,2021-03-25 19:49:35,1
+airbnb/javascript,yazish,,,2354,closed,2020-12-16 06:41:11,2020-12-16 06:45:07,False,,0
+airbnb/javascript,Xenia18,,,2351,closed,2020-12-06 21:51:14,2020-12-06 23:00:30,False,,0
+airbnb/javascript,HollowMan6,Hollow Man,"Lanzhou, Gansu, P.R.China",2341,closed,2020-11-20 14:50:25,2020-11-21 09:31:13,True,2020-11-21 09:31:13,0
+airbnb/javascript,drdogbot7,Jeremy,"Lawrence, KS",2333,closed,2020-11-12 02:17:46,2020-11-21 09:10:34,True,2020-11-21 09:10:34,0
+airbnb/javascript,Kocal,Hugo Alliaume,"Lyon, France",2329,closed,2020-11-07 07:19:41,2020-11-09 18:53:59,True,2020-11-09 18:53:59,0
+airbnb/javascript,iamrajesh-CODER,Rajesh,New Delhi,2326,closed,2020-10-30 12:02:44,2020-10-30 14:55:29,False,,0
+airbnb/javascript,msaevan101,Shahriar Azad Evan (MSA Evan),"Pirganj,Rangpur,Bangladesh",2325,closed,2020-10-29 06:11:12,2020-10-29 06:18:39,False,,0
+airbnb/javascript,Danirashid,,,2324,closed,2020-10-27 11:56:12,2020-10-27 20:49:33,False,,0
+airbnb/javascript,cihat,Cihat Salik,İstanbul,2323,closed,2020-10-27 10:52:49,2020-11-06 07:34:19,False,,0
+airbnb/javascript,k-yle,Kyℓe Hensel,"Tāmaki Makaurau, New Zealand",2322,closed,2020-10-26 19:57:55,2020-11-06 07:31:29,True,2020-11-06 07:31:29,0
+airbnb/javascript,naoisegolden,Naoise Golden Santos,"Barcelona, Spain",2321,closed,2020-10-26 19:30:01,2020-10-26 19:40:29,False,,2
+airbnb/javascript,samsch,Samuel Scheiderich,"PA, USA",2320,closed,2020-10-24 20:32:31,2020-10-25 17:43:33,True,2020-10-25 17:43:33,0
+airbnb/javascript,Midhuna-sudo,,,2319,closed,2020-10-24 03:57:54,2020-10-24 04:19:31,False,,0
+airbnb/javascript,amercier,Alex Mercier,Remote,2318,closed,2020-10-23 12:31:09,2020-11-06 05:54:15,True,2020-11-06 05:54:15,1
+airbnb/javascript,yannoff,Yann B.,"Lyon, France",2316,closed,2020-10-22 13:48:09,2020-10-22 17:27:20,False,,1
+airbnb/javascript,michaelaflores,Michael Flores,"Austin, TX",2315,closed,2020-10-22 04:10:59,2020-10-22 05:05:26,True,2020-10-22 05:05:25,0
+airbnb/javascript,JamesBagula,,,2314,closed,2020-10-20 06:20:13,2020-10-20 06:41:58,False,,0
+airbnb/javascript,shuank10,,,2313,closed,2020-10-18 13:55:59,2020-10-18 14:32:46,False,,0
+airbnb/javascript,Amir-ASattar,,,2312,closed,2020-10-17 20:41:40,2020-10-17 20:49:34,False,,0
+airbnb/javascript,technicalreju,,,2311,closed,2020-10-17 14:36:20,2020-10-17 20:51:09,False,,0
+airbnb/javascript,danielpaz6,Daniel Paz,"Tel Aviv, Israel",2310,closed,2020-10-16 11:02:55,2020-10-17 07:17:53,True,2020-10-17 07:17:53,0
+airbnb/javascript,hemantsaini-7,Hemant Saini,"Jaipur, Rajasthan",2309,closed,2020-10-16 07:12:36,2020-10-16 07:42:00,False,,0
+airbnb/javascript,dipanshumishra,,,2308,closed,2020-10-15 17:18:37,2020-10-15 17:22:28,False,,0
+airbnb/javascript,danielpaz6,Daniel Paz,"Tel Aviv, Israel",2306,closed,2020-10-14 15:50:00,2020-10-14 17:46:55,True,2020-10-14 17:46:55,0
+airbnb/javascript,danielpaz6,Daniel Paz,"Tel Aviv, Israel",2305,closed,2020-10-13 21:35:41,2020-10-14 01:36:46,False,,3
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",2304,closed,2020-10-11 14:31:59,2020-10-12 05:14:52,True,2020-10-12 05:14:52,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",2303,closed,2020-10-06 14:38:17,2020-10-06 17:01:04,True,2020-10-06 17:01:04,0
+airbnb/javascript,shettyAnish,Shetty Anish,mumbai,2300,closed,2020-10-04 04:10:43,2020-10-04 04:20:23,False,,0
+airbnb/javascript,mitul3737,Md Shahriyar Al Mustakim Mitul,"Dhaka,Bangladesh",2298,closed,2020-10-02 16:11:22,2020-10-02 17:14:45,False,,0
+airbnb/javascript,soni-111,Devendra Kumar Soni,"Jhunjhunu, Rajasthan",2296,closed,2020-10-02 11:53:00,2020-10-02 17:14:22,False,,0
+airbnb/javascript,aakashpoddarr,,,2295,closed,2020-10-02 10:42:43,2020-10-02 17:14:34,False,,0
+airbnb/javascript,soni-111,Devendra Kumar Soni,"Jhunjhunu, Rajasthan",2294,closed,2020-10-02 05:06:55,2020-10-02 05:21:48,False,,0
+airbnb/javascript,Chaitanya31612,Chaitanya Gupta,India,2292,closed,2020-10-01 15:52:28,2020-10-01 17:57:11,False,,0
+airbnb/javascript,abhijit121,Abhijit Karmakar,Jamshedpur,2291,closed,2020-10-01 14:27:48,2020-10-01 17:56:33,False,,0
+airbnb/javascript,soumyadipdaripa100,Soumyadip Daripa,,2290,closed,2020-10-01 14:21:26,2020-10-01 17:56:47,False,,0
+airbnb/javascript,alvyn279,Alvyn Duy-Khoi Le,"Vancouver, Canada",2287,closed,2020-09-23 05:40:39,2020-11-06 05:32:05,True,2020-11-06 05:32:05,0
+airbnb/javascript,jiahao-c,Jiahao,"Montreal, QC",2284,closed,2020-09-08 08:29:36,2020-09-12 07:27:44,False,,2
+airbnb/javascript,androiddevnotes,Android Dev Notes,,2283,closed,2020-09-05 20:32:38,2020-09-06 07:17:42,True,2020-09-06 07:17:42,0
+airbnb/javascript,PareshRadadiya,Paresh Radadiya,"Surat, India",2281,closed,2020-08-29 17:52:18,2020-08-29 17:53:00,False,,0
+airbnb/javascript,Yuanzhuo123,,,2280,closed,2020-08-27 16:18:09,2020-08-27 22:24:23,False,,0
+airbnb/javascript,heyitaki,Akshath Sivaprasad,SF,2269,closed,2020-08-06 04:43:31,2020-08-06 05:44:09,True,2020-08-06 05:44:09,0
+airbnb/javascript,GilbertoDev,Fri3ndv1,,2264,closed,2020-08-02 02:21:55,2021-03-17 16:01:46,False,,0
+airbnb/javascript,solidw,Taewan Go,대전광역시,2258,closed,2020-07-11 06:40:25,2020-07-14 15:20:16,False,,0
+airbnb/javascript,boeric,Bo Ericsson,"Los Gatos, CA",2250,closed,2020-06-21 03:30:56,2020-06-27 20:55:59,True,2020-06-27 20:55:59,0
+airbnb/javascript,philihp,Philihp Busby,"San Francisco, CA",2249,closed,2020-06-20 23:34:43,2020-06-27 20:56:00,True,2020-06-27 20:56:00,0
+airbnb/javascript,nescalante,Nicolas Escalante,"Buenos Aires, Argentina",2246,closed,2020-06-19 19:52:43,2020-06-19 20:16:20,False,,0
+airbnb/javascript,chrishrtmn,Chris Hartman,"Cleveland/Akron, Ohio Area",2244,closed,2020-06-19 13:04:29,2020-06-19 16:16:38,False,,1
+airbnb/javascript,vaibhavkaul69,Vaibhav Kaul,,2242,closed,2020-06-11 16:42:39,2020-06-11 17:17:44,False,,0
+airbnb/javascript,MichaelDeBoey,Michaël De Boey,"Sint-Niklaas, Belgium",2240,closed,2020-06-09 17:34:37,2020-06-10 23:55:21,True,2020-06-10 23:55:21,3
+airbnb/javascript,vladshcherbin,Vlad Shcherbin,,2238,closed,2020-06-06 21:14:02,2020-06-09 06:27:28,True,2020-06-09 06:27:28,0
+airbnb/javascript,seve,Severiano Badajoz,San Francisco,2237,closed,2020-06-05 22:11:03,2020-06-05 22:29:52,True,2020-06-05 22:29:52,0
+airbnb/javascript,ValeryVS,Valery,,2235,closed,2020-06-02 17:51:27,2020-06-10 22:12:57,True,2020-06-10 22:12:56,0
+airbnb/javascript,vladshcherbin,Vlad Shcherbin,,2230,closed,2020-05-20 10:26:20,2020-06-09 06:37:24,True,2020-06-09 06:37:24,0
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",2207,closed,2020-04-09 23:03:27,2020-06-10 22:12:57,True,2020-06-10 22:12:57,2
+airbnb/javascript,wenzi0github,小蚊酱,,2204,closed,2020-03-31 09:44:44,2020-03-31 18:42:55,True,2020-03-31 18:42:54,0
+airbnb/javascript,adrianprzybyla,,,2203,closed,2020-03-28 10:55:28,2020-03-31 09:39:54,False,,2
+airbnb/javascript,roshal,,saint-petersburg,2201,closed,2020-03-23 00:33:00,2021-03-25 21:09:46,False,,3
+airbnb/javascript,bl00mber,Nick Reiley,,2198,closed,2020-03-16 18:42:32,2020-03-22 06:36:37,True,2020-03-22 06:36:36,0
+airbnb/javascript,bl00mber,Nick Reiley,,2197,closed,2020-03-16 18:29:28,2020-03-22 06:46:23,True,2020-03-22 06:46:22,0
+airbnb/javascript,davidjbradshaw,David J. Bradshaw,London,2194,closed,2020-03-14 07:37:05,2020-03-14 22:39:52,True,2020-03-14 22:39:52,0
+airbnb/javascript,jiahao-c,Jiahao,"Montreal, QC",2193,closed,2020-03-11 03:25:04,2020-03-29 20:52:56,True,2020-03-29 20:52:56,0
+airbnb/javascript,Semigradsky,Dmitry Semigradsky,"Minsk, Belarus",2192,closed,2020-03-09 09:55:40,2020-03-10 06:30:50,True,2020-03-10 06:30:50,0
+airbnb/javascript,umairx97,Umair Bajwa,"karachi, Pakistan",2188,closed,2020-03-02 22:46:46,2020-03-03 22:13:22,False,,0
+airbnb/javascript,cain,Cain Hall,"Sydney, Australia",2186,closed,2020-03-02 05:32:06,2020-03-06 00:59:06,True,2020-03-06 00:59:06,6
+airbnb/javascript,lagagain,lagagain,,2184,closed,2020-02-28 06:55:20,2020-03-10 06:21:32,True,2020-03-10 06:21:31,0
+airbnb/javascript,Luis729,Paul Matthew Barrameda,USA,2168,closed,2020-02-20 07:02:29,2020-04-01 20:25:22,True,2020-04-01 20:25:21,0
+airbnb/javascript,bertho-zero,Kévin Berthommier,"Paris, France",2157,closed,2020-02-07 15:53:21,2020-02-07 18:55:03,True,2020-02-07 18:55:03,0
+airbnb/javascript,ooca-pratchaya,nslog0,,2154,closed,2020-01-27 12:31:28,2020-01-27 16:13:19,False,,3
+airbnb/javascript,geo4orce,Geo,,2138,closed,2019-11-23 03:06:54,2019-12-11 01:03:03,True,2019-12-11 01:03:03,2
+airbnb/javascript,wenzi0github,小蚊酱,,2137,closed,2019-11-20 06:04:59,2020-03-27 08:05:15,False,,2
+airbnb/javascript,guoyunhe,Guo Yunhe,"Shenzhen, China",2136,closed,2019-11-19 14:08:06,2019-11-19 16:46:09,False,,0
+airbnb/javascript,roygopal,Gopal roy,India,2133,closed,2019-11-09 13:50:34,2019-11-09 13:50:51,False,,0
+airbnb/javascript,vsemozhetbyt,Vse Mozhe Buty,"Kyiv, Ukraine",2132,closed,2019-11-08 14:05:35,2019-11-09 04:32:41,True,2019-11-09 04:32:41,0
+airbnb/javascript,IGassmann,Igor Gassmann,Switzerland,2130,closed,2019-11-03 20:08:30,2019-11-07 19:27:01,True,2019-11-07 19:27:00,0
+airbnb/javascript,simatei,robert kimutai ,Nairobi,2128,closed,2019-10-30 11:33:23,2019-10-30 11:33:34,False,,0
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",2126,closed,2019-10-29 18:49:41,2019-10-29 21:39:00,False,,0
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",2125,closed,2019-10-29 10:53:26,2019-10-29 15:25:56,False,,0
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",2124,closed,2019-10-29 10:23:41,2019-10-29 15:25:45,False,,0
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",2123,closed,2019-10-29 09:56:51,2019-10-29 15:26:34,False,,0
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",2122,closed,2019-10-29 08:47:00,2019-10-29 15:27:53,False,,1
+airbnb/javascript,jscheffner,Jonas Scheffner,"Berlin, Germany",2121,closed,2019-10-28 12:45:23,2019-11-09 04:58:54,True,2019-11-09 04:58:54,0
+airbnb/javascript,smartjayansh,Jayansh Goyal,,2115,closed,2019-10-07 16:00:06,2019-10-07 16:10:41,False,,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",2113,closed,2019-10-05 02:00:30,2019-10-06 23:30:38,True,2019-10-06 23:30:37,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",2112,closed,2019-10-05 01:24:03,2019-10-06 23:22:55,True,2019-10-06 23:22:55,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",2111,closed,2019-10-05 01:20:23,2019-10-06 23:18:13,False,,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",2110,closed,2019-10-05 01:04:49,2019-10-06 23:38:16,True,2019-10-06 23:38:16,0
+airbnb/javascript,foglerek,Alexander Wesolowski,"San Francisco, CA",2109,closed,2019-10-04 22:59:05,2019-10-06 23:45:37,True,2019-10-06 23:45:37,0
+airbnb/javascript,Hypnosphi,Hypnos Phi,"Gilching, Bayern",2108,closed,2019-10-03 19:31:39,2019-10-04 00:52:15,True,2019-10-04 00:52:15,0
+airbnb/javascript,ShehanLiyanaarachchi,,,2103,closed,2019-10-01 17:53:19,2019-10-01 17:57:03,False,,0
+airbnb/javascript,ShehanLiyanaarachchi,,,2102,closed,2019-10-01 17:51:15,2019-10-01 17:56:54,False,,0
+airbnb/javascript,Cactusx09,trg,,2101,closed,2019-09-30 22:29:07,2019-10-08 21:08:10,True,2019-10-08 21:08:10,0
+airbnb/javascript,KeitaForCode,,,2097,closed,2019-09-24 15:05:41,2019-09-24 16:51:13,False,,0
+airbnb/javascript,perrin4869,Julian Grinblat,"Tokyo, Japan",2090,closed,2019-09-16 10:41:22,2020-02-14 06:45:16,True,2020-02-14 06:45:16,2
+airbnb/javascript,zhongzhi107,Zhi Zhong,"Beijing, China",2087,closed,2019-09-06 04:14:31,2019-09-18 02:27:40,False,,2
+airbnb/javascript,julianjca11,Julian Christian Anderson,Indonesia,2086,closed,2019-09-05 08:11:14,2019-09-09 11:31:27,False,,0
+airbnb/javascript,tomprats,Tom Prats,"Baltimore, MD",2085,closed,2019-09-04 18:12:10,2019-09-04 18:13:24,True,2019-09-04 18:13:24,0
+airbnb/javascript,christophehurpeau,Christophe Hurpeau,"Nantes, France",2083,closed,2019-08-30 11:44:50,2019-08-30 20:55:05,False,,0
+airbnb/javascript,DanielFGray,Daniel Gray,"Galveston, TX",2074,closed,2019-08-18 00:15:05,2019-08-18 06:14:55,True,2019-08-18 06:14:55,0
+airbnb/javascript,utsavkarkee,Utsav Karkee,,2067,closed,2019-08-12 02:23:35,2021-03-25 21:10:00,False,,0
+airbnb/javascript,miclaus,Iosif Miclaus,"Vienna, Austria",2065,closed,2019-08-09 20:58:26,2019-08-09 20:58:44,False,,0
+airbnb/javascript,Crow-EH,Yohan Siguret,"Bordeaux, France",2064,closed,2019-08-02 23:10:15,2019-08-03 02:18:21,True,2019-08-03 02:18:21,0
+airbnb/javascript,heymath,Mathieu Dutto,Paris,2062,closed,2019-07-24 13:39:23,2019-07-24 15:26:48,True,2019-07-24 15:26:48,0
+airbnb/javascript,rahilvora,Rahil Vora,"San Jose, CA",2060,closed,2019-07-22 16:28:03,2019-08-10 04:59:18,True,2019-08-10 04:59:17,0
+airbnb/javascript,DarkPark,,,2059,closed,2019-07-22 13:24:29,2019-07-22 14:27:16,False,,0
+airbnb/javascript,amazing-co,Amazing Co,"Melbourne, Australia",2057,closed,2019-07-09 04:48:32,2019-07-09 05:44:43,False,,0
+airbnb/javascript,behnammodi,Behnam Mohammadi,"Tehran, Iran",2056,closed,2019-07-06 19:17:51,2019-08-10 05:35:27,True,2019-08-10 05:35:27,3
+airbnb/javascript,rodrigoregis,Rodrigo Regis,,2054,closed,2019-07-04 14:05:32,2019-08-10 05:30:52,False,,2
+airbnb/javascript,Shipyar,Oliver Abraham,Sheffield,2053,closed,2019-07-04 12:23:37,2019-07-04 12:28:07,False,,0
+airbnb/javascript,ristinolla,Perttu Ristimella,"Helsinki, Finland",2052,closed,2019-07-04 12:01:38,2019-07-07 05:36:16,True,2019-07-07 05:36:16,0
+airbnb/javascript,glgoose,Glenn Goossens,Belgium,2050,closed,2019-06-27 09:38:44,2019-06-29 04:51:56,True,2019-06-29 04:51:56,0
+airbnb/javascript,ninaing,Nina Ingilevich,Saint-Petersburg,2048,closed,2019-06-25 12:25:40,2019-06-25 12:36:03,False,,0
+airbnb/javascript,ninaing,Nina Ingilevich,Saint-Petersburg,2047,closed,2019-06-25 12:05:00,2019-06-25 12:36:39,False,,0
+airbnb/javascript,coliff,Christian Oliff,"London, UK ✈️ Osaka, JP",2046,closed,2019-06-24 13:45:43,2019-06-27 00:20:53,True,2019-06-27 00:20:53,0
+airbnb/javascript,felpin,Felipe de Alencar Pinheiro,"São José, SC - Brazil",2043,closed,2019-06-17 16:08:18,2019-08-10 05:06:35,True,2019-08-10 05:06:35,4
+airbnb/javascript,JBallin,JBallin,,2042,closed,2019-06-10 20:51:22,2019-08-10 04:52:17,True,2019-08-10 04:52:17,0
+airbnb/javascript,yuezk,Kevin Yue,"Hangzhou, China",2039,closed,2019-05-24 08:29:46,2019-05-25 17:22:53,True,2019-05-25 17:22:53,0
+airbnb/javascript,philihp,Philihp Busby,"San Francisco, CA",2038,closed,2019-05-15 23:43:45,2019-08-10 05:30:35,False,,1
+airbnb/javascript,kbighorse,Kimball Bighorse,"Spokane, WA",2035,closed,2019-05-09 16:41:31,2019-05-14 19:22:12,True,2019-05-14 19:22:12,0
+airbnb/javascript,DannyNemer,Danny Nemer,San Francisco,2031,closed,2019-05-01 18:20:16,2019-05-02 01:50:32,False,,2
+airbnb/javascript,jnields,Joseph Nields,,2029,closed,2019-04-27 21:02:33,2019-04-28 07:01:41,True,2019-04-28 07:01:40,0
+airbnb/javascript,beckettrowan,Beckett Rowan,"Brooklyn, NY",2028,closed,2019-04-26 19:37:28,2019-04-26 19:38:38,False,,0
+airbnb/javascript,bertho-zero,Kévin Berthommier,"Paris, France",2026,closed,2019-04-10 08:23:12,2019-04-17 00:37:58,True,2019-04-17 00:37:58,0
+airbnb/javascript,aiokswhatever,,,2023,closed,2019-03-17 13:59:26,2019-03-17 14:04:49,False,,0
+airbnb/javascript,wsmd,Waseem Dahman,United States,2022,closed,2019-03-13 03:57:53,2019-08-10 02:19:41,True,2019-08-10 02:19:41,11
+airbnb/javascript,Ensive,Anton Honcharuk,"Ukraine, Kyiv",2017,closed,2019-02-27 18:28:16,2019-03-04 07:48:58,True,2019-03-04 07:48:58,3
+airbnb/javascript,Ensive,Anton Honcharuk,"Ukraine, Kyiv",2014,closed,2019-02-24 13:14:54,2019-02-25 08:51:40,True,2019-02-25 08:51:40,8
+airbnb/javascript,yovasx2,Giovanni Alberto,"Guadalajara, Jalisco",2012,closed,2019-02-22 22:58:04,2019-02-24 18:33:50,False,,1
+airbnb/javascript,kimkimhun3,RinKimhun,Cambodia,2011,closed,2019-02-20 07:00:12,2019-02-20 08:32:53,False,,0
+airbnb/javascript,alexanderfry,Alexander J. Fry,,2010,closed,2019-02-19 21:15:08,2019-02-19 21:16:34,False,,0
+airbnb/javascript,jamiebuilds,Jamie Kyle,California,2006,closed,2019-02-14 19:57:45,2019-02-15 07:38:42,True,2019-02-15 07:38:42,0
+airbnb/javascript,aboyton,Andrew Boyton,"Sydney, Australia",2005,closed,2019-02-14 05:51:16,2019-02-17 22:21:51,True,2019-02-17 22:21:56,0
+airbnb/javascript,mapb,Matthias Pries,Berlin,2004,closed,2019-02-13 12:56:21,2019-02-18 18:45:26,True,2019-02-18 18:45:26,0
+airbnb/javascript,biggieman,Aleksander,"Russia, Saint-Petersburg",2003,closed,2019-02-13 06:29:21,2019-02-13 06:39:46,False,,2
+airbnb/javascript,plbrault,Pier-Luc Brault,"Sherbrooke, Québec, Canada",2001,closed,2019-02-07 16:56:34,2019-02-08 23:51:42,True,2019-02-08 23:51:42,1
+airbnb/javascript,ziishaned,Zeeshan Ahmad,"Dubai, UAE",2000,closed,2019-02-06 10:09:39,2019-02-06 21:48:22,True,2019-02-06 21:48:22,2
+airbnb/javascript,byCedric,Cedric van Putten,Amsterdam,1999,closed,2019-02-05 12:48:26,2019-02-24 14:15:53,False,,3
+airbnb/javascript,tclindner,Thomas Lindner,,1998,closed,2019-01-30 04:11:57,2019-02-05 21:27:14,True,2019-02-05 21:27:14,0
+airbnb/javascript,telmen,Telmen,,1997,closed,2019-01-26 08:55:41,2019-01-27 21:45:39,True,2019-01-27 21:45:39,0
+airbnb/javascript,remcohaszing,Remco Haszing,"Veldhoven, Netherlands",1996,closed,2019-01-21 12:44:53,2019-01-28 05:21:48,True,2019-01-28 05:21:48,2
+airbnb/javascript,fnwbr,Florian Weber,"Berlin, Germany",1994,closed,2019-01-16 15:00:28,2019-04-08 14:18:26,False,,0
+airbnb/javascript,dangkyokhoang,Hoang,,1992,closed,2019-01-13 12:19:40,2019-02-05 21:23:51,True,2019-02-05 21:23:51,0
+airbnb/javascript,nakhodkin,Artem,,1991,closed,2019-01-12 22:46:06,2019-01-12 22:49:13,False,,2
+airbnb/javascript,lilymatcha,Lily George,"Seattle, WA",1990,closed,2019-01-12 00:47:55,2019-01-12 21:53:51,False,,0
+airbnb/javascript,leonidlebedev,Leonid Lebedev,Moscow,1985,closed,2019-01-06 20:21:04,2019-02-10 14:01:29,False,,3
+airbnb/javascript,rahilvora,Rahil Vora,"San Jose, CA",1984,closed,2019-01-05 18:31:49,2019-01-07 23:51:14,True,2019-01-07 23:51:14,3
+airbnb/javascript,mesner,Ian German Mesner,,1977,closed,2018-12-20 18:58:28,2018-12-20 18:58:47,False,,0
+airbnb/javascript,emilyrohrbough,Emily Rohrbough ,"Kansas City, MO",1976,closed,2018-12-19 19:09:37,2018-12-19 23:09:28,True,2018-12-19 23:09:28,0
+airbnb/javascript,dhruvdeveloper,Dhruv Thakkar,Dallas-Fort Worth,1974,closed,2018-12-18 19:23:24,2018-12-18 21:33:32,False,,0
+airbnb/javascript,honzajavorek,Honza Javorek,Europe,1972,closed,2018-12-18 15:11:51,2018-12-18 21:32:45,True,2018-12-18 21:32:45,0
+airbnb/javascript,jeffvandyke,Jeff VanDyke,"Grand Rapids, Michigan, USA",1966,closed,2018-11-29 14:15:12,2019-08-10 05:32:48,True,2019-08-10 05:32:48,1
+airbnb/javascript,michaelKaefer,Michael Käfer,Vienna,1965,closed,2018-11-27 19:51:37,2018-11-28 23:32:45,True,2018-11-28 23:32:45,0
+airbnb/javascript,bernie-haxx,Ben,kenya,1964,closed,2018-11-21 11:51:05,2018-11-22 02:44:49,False,,0
+airbnb/javascript,NullDev,NullDev // Chris,Austria,1963,closed,2018-11-21 09:54:54,2018-11-22 02:37:41,True,2018-11-22 02:37:41,0
+airbnb/javascript,edmorley,Ed Morley,"London, UK",1962,closed,2018-11-20 12:08:13,2019-08-10 02:07:08,True,2019-08-10 02:07:08,0
+airbnb/javascript,edmorley,Ed Morley,"London, UK",1961,closed,2018-11-20 09:40:50,2018-11-22 02:31:13,True,2018-11-22 02:31:13,0
+airbnb/javascript,NullDev,NullDev // Chris,Austria,1960,closed,2018-11-19 15:46:07,2018-11-21 09:55:18,False,,1
+airbnb/javascript,danwenzel,Dan Wenzel,"Madison, WI",1957,closed,2018-11-14 19:54:21,2018-11-27 16:24:59,False,,4
+airbnb/javascript,ZhouYangS,Zhou Yangsheng,Dongguan,1956,closed,2018-11-14 00:49:54,2018-11-14 20:36:23,False,,1
+airbnb/javascript,KY3LxD,,,1955,closed,2018-11-13 07:43:32,2018-11-22 02:27:02,True,2018-11-22 02:27:02,1
+airbnb/javascript,dlwalsh,David Walsh,"Sydney, Australia",1951,closed,2018-11-05 02:48:09,2018-11-05 03:14:23,False,,0
+airbnb/javascript,driftblaze,,,1948,closed,2018-10-31 16:52:38,2018-10-31 18:22:47,False,,0
+airbnb/javascript,theBstar,Bikram Sutar,bangalore,1946,closed,2018-10-30 09:36:25,2018-11-05 23:28:53,True,2018-11-05 23:28:53,4
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",1941,closed,2018-10-23 23:07:33,2018-11-22 02:52:58,False,,1
+airbnb/javascript,habibfath,Habib Nur Fathan,,1939,closed,2018-10-23 07:43:33,2018-10-23 15:40:53,False,,0
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",1938,closed,2018-10-20 19:02:25,2018-10-20 19:05:41,False,,0
+airbnb/javascript,vikr01,Vik R,San Francisco Bay Area,1936,closed,2018-10-17 06:52:50,2018-10-17 06:57:40,False,,0
+airbnb/javascript,martjanz,Martín Anzorena,"Buenos Aires, Argentina.",1934,closed,2018-10-16 17:51:36,2018-10-18 23:25:23,True,2018-10-18 23:25:23,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1930,closed,2018-10-04 13:30:14,2018-10-05 20:10:47,True,2018-10-05 20:10:47,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1929,closed,2018-10-03 16:58:02,2018-10-03 20:41:49,True,2018-10-03 20:41:49,0
+airbnb/javascript,deepakchandh,Deepak Chandh,"Chennai,India",1928,closed,2018-10-03 14:04:39,2018-10-08 16:29:24,False,,0
+airbnb/javascript,parulgupta26,Parul Gupta,Mumbai,1927,closed,2018-10-02 10:57:01,2018-10-02 21:37:28,True,2018-10-02 21:37:28,0
+airbnb/javascript,jameskip,James Kip,"Austin, Texas",1924,closed,2018-09-26 22:09:03,2018-09-28 11:38:06,False,,0
+airbnb/javascript,lin-123,Kakaka Hou,,1923,closed,2018-09-25 05:16:10,2018-10-09 00:55:58,False,,4
+airbnb/javascript,ernestodebesto,,,1916,closed,2018-09-14 15:20:44,2018-11-22 03:02:14,True,2018-11-22 03:02:14,0
+airbnb/javascript,A-Tokyo,Ahmed Tarek,Palo Alto,1914,closed,2018-09-12 14:39:33,2018-09-12 19:21:32,True,2018-09-12 19:21:32,0
+airbnb/javascript,darksun27,Siddharth Batra,"Delhi, India",1908,closed,2018-09-02 17:31:04,2018-09-03 04:57:33,True,2018-09-03 04:57:33,11
+airbnb/javascript,JBallin,JBallin,,1907,closed,2018-09-01 23:37:29,2018-09-03 04:20:21,True,2018-09-03 04:20:21,0
+airbnb/javascript,darksun27,Siddharth Batra,"Delhi, India",1906,closed,2018-09-01 13:24:34,2018-09-01 15:24:39,False,,0
+airbnb/javascript,alvarezr,Robert alvarez,"Fort Worth, TX",1905,closed,2018-08-31 20:12:51,2018-08-31 23:40:59,True,2018-08-31 23:40:59,0
+airbnb/javascript,odykyi,,World,1904,closed,2018-08-31 09:06:20,2018-09-01 07:23:17,False,,1
+airbnb/javascript,odykyi,,World,1903,closed,2018-08-31 09:02:04,2018-09-01 07:23:43,False,,1
+airbnb/javascript,kevinweber,Kevin Weber,"San Francisco, CA",1901,closed,2018-08-27 13:58:24,2018-08-27 18:40:46,True,2018-08-27 18:40:46,0
+airbnb/javascript,kevinweber,Kevin Weber,"San Francisco, CA",1899,closed,2018-08-27 00:51:01,2018-08-27 18:40:45,True,2018-08-27 18:40:45,3
+airbnb/javascript,kevinweber,Kevin Weber,"San Francisco, CA",1898,closed,2018-08-27 00:19:36,2018-08-27 05:21:06,True,2018-08-27 05:21:06,0
+airbnb/javascript,kevinweber,Kevin Weber,"San Francisco, CA",1897,closed,2018-08-26 05:55:34,2018-08-27 05:22:04,True,2018-08-27 05:22:04,0
+airbnb/javascript,kevinweber,Kevin Weber,"San Francisco, CA",1896,closed,2018-08-26 05:20:28,2018-11-22 03:05:09,True,2018-11-22 03:05:09,0
+airbnb/javascript,lin-123,Kakaka Hou,,1895,closed,2018-08-25 11:37:17,2018-09-05 21:36:33,True,2018-09-05 21:36:33,4
+airbnb/javascript,MichelML,Michel Moreau,"Montreal, Canada",1894,closed,2018-08-24 18:56:44,2018-08-24 18:57:02,False,,0
+airbnb/javascript,GregorSondermeier,Gregor Sondermeier,"Berlin, GER",1891,closed,2018-08-21 13:47:22,2018-08-21 13:48:55,False,,0
+airbnb/javascript,CodeDotJS,Rishi Giri,"Gorakhpur, India.",1889,closed,2018-08-18 10:10:37,2018-08-20 06:46:04,False,,0
+airbnb/javascript,irvinktang,Irvin Tang,"New York, NY",1887,closed,2018-08-16 16:05:43,2018-08-16 16:14:04,False,,0
+airbnb/javascript,wsabransky,Will Sabransky,"San Francisco, CA",1883,closed,2018-08-13 18:42:03,2018-08-13 18:42:34,False,,1
+airbnb/javascript,schalivendri,Srikanth Chalivendri,,1879,closed,2018-08-09 16:51:55,2018-08-09 16:52:58,False,,0
+airbnb/javascript,danielchangNYC,Daniel Chang,,1878,closed,2018-08-08 21:53:05,2018-08-08 21:54:06,False,,0
+airbnb/javascript,pschreibs85,Paul-Michael Schreiber,"Austin, TX",1871,closed,2018-07-18 16:35:58,2018-11-22 03:15:45,False,,1
+airbnb/javascript,a15n,Andrew Scheuermann,United States,1867,closed,2018-07-11 23:27:03,2018-07-12 07:47:59,True,2018-07-12 07:47:59,0
+airbnb/javascript,kumarannamreddi,Kumar Raja Annamreddi,,1866,closed,2018-07-11 23:08:58,2018-07-12 07:49:47,False,,0
+airbnb/javascript,aladdin-add,薛定谔的猫,China,1865,closed,2018-07-11 13:21:52,2018-07-11 16:08:09,False,,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1864,closed,2018-07-11 01:02:04,2019-08-09 23:51:24,True,2019-08-09 23:51:24,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1863,closed,2018-07-10 02:14:46,2019-08-09 23:16:01,True,2019-08-09 23:16:01,2
+airbnb/javascript,vsemozhetbyt,Vse Mozhe Buty,"Kyiv, Ukraine",1859,closed,2018-07-05 13:49:19,2018-07-05 22:42:04,True,2018-07-05 22:42:09,2
+airbnb/javascript,aladdin-add,薛定谔的猫,China,1857,closed,2018-07-04 15:40:01,2018-07-04 15:42:41,False,,0
+airbnb/javascript,aladdin-add,薛定谔的猫,China,1856,closed,2018-07-04 15:39:24,2018-07-04 15:42:15,False,,0
+airbnb/javascript,A-Tokyo,Ahmed Tarek,Palo Alto,1855,closed,2018-07-03 19:19:09,2018-07-04 01:12:13,True,2018-07-04 01:12:13,0
+airbnb/javascript,maurozenoni,Mauro Zenoni,,1854,closed,2018-07-03 09:57:14,2018-07-05 05:22:51,True,2018-07-05 05:22:50,3
+airbnb/javascript,combizs,,,1852,closed,2018-07-02 23:56:51,2018-07-03 00:13:22,False,,1
+airbnb/javascript,noahbenham,Noah Benham,"Seattle, WA",1849,closed,2018-07-02 14:17:45,2018-07-02 20:06:39,True,2018-07-02 20:06:39,0
+airbnb/javascript,liyuhang1997,liyuhang,"Shenzhen, China",1841,closed,2018-06-25 08:09:17,2018-06-25 08:12:04,True,2018-06-25 08:12:04,0
+airbnb/javascript,aladdin-add,薛定谔的猫,China,1839,closed,2018-06-24 18:09:41,2018-06-25 05:20:40,True,2018-06-25 05:20:40,0
+airbnb/javascript,aladdin-add,薛定谔的猫,China,1838,closed,2018-06-24 18:08:24,2018-06-25 02:38:45,True,2018-06-25 02:38:45,0
+airbnb/javascript,frenzzy,Vladimir Kutepov,"Saint Petersburg, Russia",1836,closed,2018-06-22 22:59:32,2018-06-23 05:11:56,False,,0
+airbnb/javascript,SandroMiguel,Sandro Miguel Marques,"Guarda, Portugal",1832,closed,2018-06-20 21:11:07,2018-06-20 21:15:17,False,,0
+airbnb/javascript,paliwalgaurav,Gaurav Paliwal,India,1831,closed,2018-06-20 12:10:47,2018-06-21 20:42:42,True,2018-06-21 20:42:42,1
+airbnb/javascript,vsemozhetbyt,Vse Mozhe Buty,"Kyiv, Ukraine",1829,closed,2018-06-08 16:51:22,2018-06-08 18:17:57,True,2018-06-08 18:17:57,0
+airbnb/javascript,sangaman,Daniel McNally,"Spotsylvania, VA",1828,closed,2018-06-08 05:38:27,2018-06-08 06:27:48,True,2018-06-08 06:27:48,3
+airbnb/javascript,shinxi,Jonathan Xi,Shanghai,1827,closed,2018-06-07 15:05:33,2018-06-07 15:06:23,False,,0
+airbnb/javascript,dietergeerts,Dieter Geerts,Belgium,1825,closed,2018-06-05 11:19:22,2018-06-21 20:39:24,False,,0
+airbnb/javascript,stefanbuck,Stefan Buck,"Stuttgart, Germany",1824,closed,2018-06-03 20:35:27,2018-06-03 20:39:50,False,,0
+airbnb/javascript,alejandrogarciasalas,Alejandro García Salas,"Lima, Perú → California, USA",1823,closed,2018-06-03 17:48:50,2018-06-03 20:44:06,True,2018-06-03 20:44:06,0
+airbnb/javascript,fuzzbomb,Andrew Macpherson,"Leeds, United Kingdom",1822,closed,2018-06-01 00:11:32,2018-06-01 00:13:54,True,2018-06-01 00:13:54,0
+airbnb/javascript,alexpirine,Alexandre Syenchuk,"Paris, France",1820,closed,2018-05-30 07:08:23,2018-05-31 05:02:42,True,2018-05-31 05:02:42,0
+airbnb/javascript,csanda87,Chad Sanda,,1819,closed,2018-05-29 22:23:51,2018-05-29 22:27:50,False,,0
+airbnb/javascript,brettwsanders,Brett Sanders,"San Francisco, CA",1818,closed,2018-05-26 20:48:08,2018-05-27 15:32:58,True,2018-05-27 15:32:58,0
+airbnb/javascript,MoritzKn,Moritz Kneilmann,"Cologne, Germany",1809,closed,2018-05-15 21:54:43,2018-06-21 20:38:46,True,2018-06-21 20:38:46,0
+airbnb/javascript,SebastianKurp,Sebastian Kurpiel,"Chicago, IL",1808,closed,2018-05-15 16:29:34,2018-05-15 16:29:48,False,,0
+airbnb/javascript,SebastianKurp,Sebastian Kurpiel,"Chicago, IL",1807,closed,2018-05-15 16:28:26,2018-05-15 16:28:41,False,,0
+airbnb/javascript,taion,Jimmy Jia,New York,1802,closed,2018-05-06 02:35:39,2018-05-07 05:41:37,True,2018-05-07 05:41:37,2
+airbnb/javascript,parksb,Simon Park,"Yongin, South Korea",1801,closed,2018-05-04 18:08:41,2018-05-07 05:44:59,True,2018-05-07 05:44:59,0
+airbnb/javascript,vsemozhetbyt,Vse Mozhe Buty,"Kyiv, Ukraine",1799,closed,2018-05-04 08:16:10,2018-05-04 15:55:25,True,2018-05-04 15:55:25,0
+airbnb/javascript,sangaman,Daniel McNally,"Spotsylvania, VA",1798,closed,2018-05-02 05:05:31,2018-05-04 06:12:16,True,2018-05-04 06:12:16,11
+airbnb/javascript,graingert,Thomas Grainger,,1794,closed,2018-04-30 08:31:03,2018-05-02 04:37:18,True,2018-05-02 04:37:18,0
+airbnb/javascript,feross,Feross Aboukhadijeh,"Stanford, CA",1793,closed,2018-04-26 03:29:03,2018-04-26 07:36:58,True,2018-04-26 07:36:57,0
+airbnb/javascript,m-inh,Minh Nguyen,"Tokyo, Japan",1790,closed,2018-04-21 06:52:27,2018-04-22 22:00:37,True,2018-04-22 22:00:37,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1787,closed,2018-04-18 18:28:14,2018-04-18 20:15:40,True,2018-04-18 20:15:40,0
+airbnb/javascript,vansi99,,,1785,closed,2018-04-16 15:22:42,2018-04-16 17:54:45,False,,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",1784,closed,2018-04-12 22:48:57,2018-04-12 22:58:13,True,2018-04-12 22:58:13,0
+airbnb/javascript,Zakini,Josh Wells,"West Yorkshire, UK",1782,closed,2018-04-11 12:52:53,2018-06-21 20:36:40,True,2018-06-21 20:36:40,0
+airbnb/javascript,eraycetinay,Eray Çetinay,London,1781,closed,2018-04-08 19:51:53,2018-04-11 05:00:49,True,2018-04-11 05:00:56,0
+airbnb/javascript,HenrYxZ,Hernaldo Jesus Henriquez Nuñez,Texas,1780,closed,2018-04-06 17:57:42,2018-04-09 18:39:32,True,2018-04-09 18:39:32,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1779,closed,2018-04-04 23:18:08,2018-04-05 07:10:32,True,2018-04-05 07:10:32,1
+airbnb/javascript,PramodGarg,Pramod Garg,"Chandigarh, India",1778,closed,2018-04-04 17:16:36,2018-04-05 07:11:50,True,2018-04-05 07:11:50,0
+airbnb/javascript,xyzdata,xyzdata,UFO,1777,closed,2018-03-31 08:08:01,2018-07-05 05:47:32,False,,7
+airbnb/javascript,njafei,阿飞,NanJing China,1775,closed,2018-03-29 07:06:44,2018-03-29 08:13:09,False,,0
+airbnb/javascript,s10wen,Simon Owen,Manchester UK,1774,closed,2018-03-28 14:39:23,2018-03-28 21:16:11,True,2018-03-28 21:16:11,0
+airbnb/javascript,chentsulin,C. T. Lin,"Taipei, Taiwan",1772,closed,2018-03-28 05:06:22,2018-04-05 07:18:33,True,2018-04-05 07:18:33,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1770,closed,2018-03-23 15:42:51,2018-03-23 21:03:15,True,2018-03-23 21:03:15,0
+airbnb/javascript,naomiajacobs,Naomi Jacobs,,1768,closed,2018-03-20 18:41:51,2018-03-23 22:24:08,True,2018-03-23 22:24:08,0
+airbnb/javascript,nikdojo,Nik,,1766,closed,2018-03-20 06:54:23,2018-03-20 10:17:04,False,,0
+airbnb/javascript,remcohaszing,Remco Haszing,"Veldhoven, Netherlands",1761,closed,2018-03-13 14:13:11,2018-03-14 21:56:19,True,2018-03-14 21:56:19,0
+airbnb/javascript,michaeljaltamirano,Michael Altamirano,"Minneapolis, MN",1760,closed,2018-03-11 01:33:33,2018-03-12 22:44:16,True,2018-03-12 22:44:16,1
+airbnb/javascript,eraycetinay,Eray Çetinay,London,1757,closed,2018-03-07 17:50:50,2018-04-08 19:52:18,False,,0
+airbnb/javascript,raunofreiberg,Rauno,Estonia,1756,closed,2018-03-05 20:26:45,2018-03-12 20:38:44,True,2018-03-12 20:38:44,0
+airbnb/javascript,nikdojo,Nik,,1755,closed,2018-03-05 07:03:59,2018-03-05 07:10:20,False,,0
+airbnb/javascript,gotoplanb,Dave Stanton,"Gainesville, FL",1753,closed,2018-03-02 21:38:25,2018-03-02 21:39:16,False,,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1751,closed,2018-03-01 05:22:39,2018-03-01 07:14:01,True,2018-03-01 07:14:01,1
+airbnb/javascript,thejordanprice,Jordan Price,"Ohio, USA",1750,closed,2018-02-28 03:56:04,2018-02-28 03:56:40,False,,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1749,closed,2018-02-27 22:10:55,2018-03-01 03:01:56,True,2018-03-01 03:01:56,6
+airbnb/javascript,xalexec,alex,,1748,closed,2018-02-25 01:18:51,2018-02-25 01:19:58,False,,0
+airbnb/javascript,apoorvtomar2222,Apoorv Tomar,India,1747,closed,2018-02-24 19:40:35,2018-02-24 19:53:33,False,,1
+airbnb/javascript,honzajavorek,Honza Javorek,Europe,1746,closed,2018-02-22 14:51:43,2018-02-22 21:39:06,True,2018-02-22 21:39:06,0
+airbnb/javascript,honzajavorek,Honza Javorek,Europe,1745,closed,2018-02-22 14:38:48,2018-02-22 14:47:07,False,,0
+airbnb/javascript,graingert,Thomas Grainger,,1743,closed,2018-02-22 01:07:33,2018-02-23 01:18:59,True,2018-02-23 01:18:59,0
+airbnb/javascript,aifreedom,Song Xie,San Francisco,1742,closed,2018-02-21 22:46:01,2018-02-21 23:37:29,True,2018-02-21 23:37:29,1
+airbnb/javascript,raunofreiberg,Rauno,Estonia,1740,closed,2018-02-20 17:29:31,2018-02-22 21:40:36,True,2018-02-22 21:40:36,2
+airbnb/javascript,caub,Cyril Auburtin,fr,1737,closed,2018-02-19 15:20:03,2018-02-20 08:09:09,True,2018-02-20 08:09:09,0
+airbnb/javascript,raunofreiberg,Rauno,Estonia,1736,closed,2018-02-19 12:58:30,2018-02-19 23:31:56,True,2018-02-19 23:31:56,0
+airbnb/javascript,raunofreiberg,Rauno,Estonia,1735,closed,2018-02-19 12:55:11,2018-02-19 12:56:12,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1732,closed,2018-02-15 19:58:23,2018-04-27 06:16:25,True,2018-04-27 06:16:24,0
+airbnb/javascript,gilbox,Gil Birman,,1729,closed,2018-02-08 21:07:42,2018-02-08 21:10:13,True,2018-02-08 21:10:13,0
+airbnb/javascript,gilbox,Gil Birman,,1728,closed,2018-02-08 20:58:46,2018-02-08 21:07:53,False,,1
+airbnb/javascript,kevinji,Kevin Ji,,1727,closed,2018-02-08 19:30:08,2018-02-09 04:29:52,True,2018-02-09 04:29:52,0
+airbnb/javascript,noahblon,Noah Blon,"Minneapolis, MN",1724,closed,2018-02-06 14:48:48,2018-02-06 14:49:32,False,,0
+airbnb/javascript,not-an-aardvark,Teddy Katz,"Cambridge, MA",1722,closed,2018-02-04 22:12:22,2018-02-07 08:35:22,True,2018-02-07 08:35:22,2
+airbnb/javascript,AjayPoshak,Ajay Poshak,"Mumbai,India",1721,closed,2018-02-04 13:29:10,2018-02-07 08:55:34,True,2018-02-07 08:55:34,0
+airbnb/javascript,parksb,Simon Park,"Yongin, South Korea",1714,closed,2018-01-30 02:53:24,2018-01-31 07:35:17,True,2018-01-31 07:35:17,0
+airbnb/javascript,SlothFriend,David Clark,"Arvada, CO",1712,closed,2018-01-28 07:40:46,2018-01-30 00:35:55,True,2018-01-30 00:35:55,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1710,closed,2018-01-26 19:35:25,2018-01-26 23:19:37,True,2018-01-26 23:19:37,1
+airbnb/javascript,astorije,Jérémie Astori,"Boston, MA, USA",1708,closed,2018-01-26 18:17:53,2018-01-27 00:49:43,True,2018-01-27 00:49:43,0
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",1707,closed,2018-01-25 22:22:29,2018-01-25 22:27:13,False,,0
+airbnb/javascript,alexbaulch,Alex Baulch,,1704,closed,2018-01-22 10:47:58,2018-01-23 19:53:10,True,2018-01-23 19:53:10,0
+airbnb/javascript,BenFortner,Ben Fortner,,1699,closed,2018-01-16 14:58:45,2018-01-16 21:39:38,True,2018-01-16 21:39:38,0
+airbnb/javascript,kvker,程序员有点田,Hangzhou,1698,closed,2018-01-16 08:22:03,2018-01-22 07:57:20,True,2018-01-22 07:57:20,0
+airbnb/javascript,totalamd,,,1697,closed,2018-01-15 09:33:55,2018-01-15 14:53:38,False,,1
+airbnb/javascript,shannonarcher,Shannon Archer,"Chicago, IL",1695,closed,2018-01-12 18:49:21,2018-01-12 18:49:32,False,,0
+airbnb/javascript,itaditya,Aditya Agarwal,"Bangalore, India",1694,closed,2018-01-10 14:37:58,2018-01-12 22:45:15,True,2018-01-12 22:45:15,4
+airbnb/javascript,AntonioErdeljac,Antonio Erdeljac,"Rijeka, Croatia",1693,closed,2018-01-10 08:09:59,2018-01-29 07:52:07,True,2018-01-29 07:52:07,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1691,closed,2018-01-08 22:43:57,2018-01-08 22:57:11,True,2018-01-08 22:57:11,0
+airbnb/javascript,liujuntao123,jtliu,,1690,closed,2018-01-05 09:45:33,2018-11-22 03:06:02,False,,1
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",1688,closed,2018-01-03 20:16:10,2019-08-10 05:14:14,False,,0
+airbnb/javascript,m1guelpf,Miguel Piedrafita,"Oviedo, Spain",1685,closed,2017-12-31 23:51:07,2018-01-01 19:35:53,True,2018-01-01 19:35:53,3
+airbnb/javascript,raunofreiberg,Rauno,Estonia,1683,closed,2017-12-28 14:22:08,2018-02-22 00:09:29,False,,0
+airbnb/javascript,gergoerdosi,Gergő Erdősi,"Budapest, Hungary",1681,closed,2017-12-25 18:54:11,2017-12-25 20:07:57,False,,0
+airbnb/javascript,him2him2,Ronald Eddy Jr,"Portland, OR",1669,closed,2017-12-24 21:20:53,2017-12-24 21:49:03,True,2017-12-24 21:49:03,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1668,closed,2017-12-24 03:11:26,2017-12-24 05:20:42,True,2017-12-24 05:20:42,0
+airbnb/javascript,pftom,Tom Huang,"Shang Hai, China",1664,closed,2017-12-19 03:18:30,2017-12-19 06:03:07,False,,6
+airbnb/javascript,lzbabd,治兵,Beijing,1663,closed,2017-12-16 01:55:36,2017-12-16 01:55:55,False,,0
+airbnb/javascript,tbroadley,Thomas Broadley,"Kitchener, Canada",1662,closed,2017-12-16 01:31:13,2017-12-16 17:56:11,True,2017-12-16 17:56:11,4
+airbnb/javascript,laurentiu-ilici,Laurentiu Ilici,,1661,closed,2017-12-14 22:35:11,2017-12-14 22:36:39,True,2017-12-14 22:36:39,0
+airbnb/javascript,lzbabd,治兵,Beijing,1654,closed,2017-12-07 09:28:39,2017-12-07 21:18:13,False,,0
+airbnb/javascript,remcohaszing,Remco Haszing,"Veldhoven, Netherlands",1652,closed,2017-12-04 09:11:45,2018-03-20 10:20:21,True,2018-03-20 10:20:21,0
+airbnb/javascript,MaxShalom,Max Shalom,"Brooklyn, NY",1651,closed,2017-12-04 02:52:51,2017-12-04 05:23:36,False,,2
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",1648,closed,2017-11-28 18:47:11,2017-11-30 08:00:16,True,2017-11-30 08:00:16,0
+airbnb/javascript,christophehurpeau,Christophe Hurpeau,"Nantes, France",1641,closed,2017-11-20 16:18:08,2017-11-20 18:07:50,False,,0
+airbnb/javascript,davidtimmons,David Timmons,"Texas, USA",1638,closed,2017-11-13 20:41:24,2017-11-13 20:42:09,False,,0
+airbnb/javascript,vorpus,Li Zhang,NYC,1637,closed,2017-11-07 23:26:49,2017-11-08 00:20:44,False,,3
+airbnb/javascript,olistic,Matías Olivera,"Montevideo, Uruguay",1635,closed,2017-11-05 16:27:49,2018-01-03 06:52:02,True,2018-01-03 06:52:02,4
+airbnb/javascript,dubbha,Oleksiy Dubovyk,,1631,closed,2017-11-02 08:54:38,2017-11-04 17:47:36,False,,1
+airbnb/javascript,maggielove,Maggie Love,,1629,closed,2017-10-31 01:19:23,2017-11-04 06:05:03,True,2017-11-04 06:05:03,1
+airbnb/javascript,edmorley,Ed Morley,"London, UK",1628,closed,2017-10-30 13:20:13,2017-10-30 20:46:03,True,2017-10-30 20:46:03,0
+airbnb/javascript,vsemozhetbyt,Vse Mozhe Buty,"Kyiv, Ukraine",1625,closed,2017-10-28 00:42:01,2017-10-28 04:50:10,True,2017-10-28 04:50:10,0
+airbnb/javascript,IntelligenceStar,IntelligenceStar,AnHui province in China,1624,closed,2017-10-27 14:32:26,2017-10-27 17:45:55,False,,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1622,closed,2017-10-25 19:38:49,2017-10-25 20:30:53,True,2017-10-25 20:30:53,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1621,closed,2017-10-25 19:23:18,2017-10-25 20:31:31,True,2017-10-25 20:31:31,0
+airbnb/javascript,lasota-piotr,Piotr lasota,Warsaw,1620,closed,2017-10-25 19:00:20,2017-10-25 20:33:53,True,2017-10-25 20:33:53,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1618,closed,2017-10-25 00:39:27,2017-10-25 01:01:29,True,2017-10-25 01:01:29,1
+airbnb/javascript,leonidlebedev,Leonid Lebedev,Moscow,1616,closed,2017-10-24 11:35:01,2017-10-24 20:27:04,True,2017-10-24 20:27:04,0
+airbnb/javascript,vsemozhetbyt,Vse Mozhe Buty,"Kyiv, Ukraine",1613,closed,2017-10-23 21:07:39,2017-10-23 21:17:38,True,2017-10-23 21:17:38,0
+airbnb/javascript,arnav-aggarwal,,,1612,closed,2017-10-23 19:35:16,2017-10-23 23:56:17,True,2017-10-23 23:56:17,2
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1611,closed,2017-10-23 17:58:13,2017-10-23 18:58:08,True,2017-10-23 18:58:08,2
+airbnb/javascript,liuchong,刘冲,北京,1610,closed,2017-10-22 06:08:30,2017-10-22 06:14:25,True,2017-10-22 06:14:25,0
+airbnb/javascript,jcwilson,Josh Wilson,,1609,closed,2017-10-21 19:31:03,2017-10-21 19:31:15,False,,0
+airbnb/javascript,liuchong,刘冲,北京,1608,closed,2017-10-21 14:13:23,2017-10-22 05:21:13,True,2017-10-22 05:21:13,0
+airbnb/javascript,jabacchetta,Jason Bacchetta,"Fort Worth, Texas",1607,closed,2017-10-20 00:54:35,2017-10-20 17:47:05,True,2017-10-20 17:47:05,0
+airbnb/javascript,jabacchetta,Jason Bacchetta,"Fort Worth, Texas",1606,closed,2017-10-20 00:04:44,2017-10-20 17:46:23,True,2017-10-20 17:46:23,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1605,closed,2017-10-19 04:17:37,2017-10-19 04:51:31,True,2017-10-19 04:51:31,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1602,closed,2017-10-18 21:35:21,2017-10-18 21:53:56,True,2017-10-18 21:53:56,0
+airbnb/javascript,sharmilajesupaul,Sharmila Jesupaul,San Francisco,1600,closed,2017-10-18 19:38:12,2017-10-18 21:26:53,True,2017-10-18 21:26:53,3
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1596,closed,2017-10-16 14:22:55,2017-10-16 18:56:41,True,2017-10-16 18:56:41,0
+airbnb/javascript,graingert,Thomas Grainger,,1595,closed,2017-10-16 10:21:05,2017-10-18 21:17:26,True,2017-10-18 21:17:26,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1591,closed,2017-10-13 03:39:32,2017-10-13 03:44:03,True,2017-10-13 03:44:03,0
+airbnb/javascript,DavidKuennen,David Künnen,,1588,closed,2017-10-12 11:31:24,2017-10-12 15:06:09,True,2017-10-12 15:06:09,0
+airbnb/javascript,minimooooz,Adisorn Artwichai,,1587,closed,2017-10-12 04:18:43,2018-06-21 20:33:43,True,2018-06-21 20:33:43,2
+airbnb/javascript,Runrioter,Runrioter Wung,Beijing China,1585,closed,2017-10-11 13:52:57,2017-10-12 05:24:31,False,,0
+airbnb/javascript,frenzzy,Vladimir Kutepov,"Saint Petersburg, Russia",1583,closed,2017-10-10 15:22:01,2019-08-10 05:25:46,True,2019-08-10 05:25:46,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1581,closed,2017-10-09 07:32:46,2017-10-09 22:44:31,False,,0
+airbnb/javascript,pqkluan,Phạm Quan Khiết Luân,Việt Nam,1579,closed,2017-10-05 08:20:32,2017-10-05 08:28:33,False,,1
+airbnb/javascript,thepeoplesbourgeois,,............. Earth.,1578,closed,2017-10-04 20:48:25,2017-11-15 06:29:35,True,2017-11-15 06:29:35,16
+airbnb/javascript,RslnMtvv,,,1576,closed,2017-10-02 13:42:36,2017-10-03 12:52:52,False,,5
+airbnb/javascript,leonidlebedev,Leonid Lebedev,Moscow,1574,closed,2017-10-01 14:36:53,2017-10-01 16:00:12,True,2017-10-01 16:00:12,0
+airbnb/javascript,thepeoplesbourgeois,,............. Earth.,1573,closed,2017-10-01 03:41:00,2017-10-01 05:07:12,False,,0
+airbnb/javascript,thepeoplesbourgeois,,............. Earth.,1570,closed,2017-09-27 19:59:30,2017-09-27 20:30:07,True,2017-09-27 20:30:07,6
+airbnb/javascript,odykyi,,World,1565,closed,2017-09-21 14:41:01,2017-09-21 22:07:48,False,,0
+airbnb/javascript,cn007b,V. K.,Ukraine,1564,closed,2017-09-20 23:11:51,2017-09-20 23:15:25,True,2017-09-20 23:15:25,0
+airbnb/javascript,cn007b,V. K.,Ukraine,1563,closed,2017-09-20 21:07:51,2017-09-20 23:15:25,True,2017-09-20 23:15:25,3
+airbnb/javascript,shawnydev,"Seung Hyeon, Lee",Korea,1559,closed,2017-09-18 02:29:48,2017-09-18 02:31:16,False,,0
+airbnb/javascript,cultome,Carlos Soria,Mexico,1558,closed,2017-09-14 21:14:23,2017-09-20 21:08:00,True,2017-09-20 21:08:00,0
+airbnb/javascript,epetrsn,Eric Peterson,,1557,closed,2017-09-14 04:44:47,2017-09-14 04:54:14,False,,0
+airbnb/javascript,dsyne,Thomas Currell,United Kingdom,1554,closed,2017-09-12 09:49:18,2017-09-13 06:23:53,False,,0
+airbnb/javascript,JayneTosh,Jayne Tosh,,1552,closed,2017-09-08 11:37:42,2017-09-08 12:51:48,False,,0
+airbnb/javascript,vitalymak,Vitaly Makarevich,"Minsk, Belarus",1551,closed,2017-09-07 14:26:43,2017-09-07 17:27:57,True,2017-09-07 17:27:57,0
+airbnb/javascript,bl00mber,Nick Reiley,,1549,closed,2017-09-06 13:32:03,2017-09-20 21:24:32,True,2017-09-20 21:24:32,8
+airbnb/javascript,alioguzhan,Ali Oğuzhan Yıldız,"Istanbul, TR",1547,closed,2017-09-03 21:02:16,2018-01-29 07:53:19,True,2018-01-29 07:53:19,0
+airbnb/javascript,inoas,,Europe,1546,closed,2017-09-01 15:11:45,2017-09-01 16:00:20,False,,0
+airbnb/javascript,ahmehri,Ahmed Mehri,"Berlin, Germany",1543,closed,2017-08-29 14:30:48,2017-09-02 05:53:25,True,2017-09-02 05:53:25,0
+airbnb/javascript,lanceli,Lance Li,Shanghai,1538,closed,2017-08-26 06:49:52,2018-01-10 06:32:16,True,2018-01-10 06:32:16,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1533,closed,2017-08-22 22:40:45,2017-08-23 00:09:38,True,2017-08-23 00:09:38,0
+airbnb/javascript,nurbakhyt,Nurbakhyt,"Almaty, Kazakhstan",1531,closed,2017-08-22 06:24:35,2017-08-22 06:24:53,False,,0
+airbnb/javascript,kaplanmaxe,Max Kaplan,,1530,closed,2017-08-20 13:26:03,2017-08-22 07:06:18,True,2017-08-22 07:06:18,0
+airbnb/javascript,dhruvdutt,Dhruvdutt Jadhav,India: C-137,1528,closed,2017-08-17 17:25:52,2017-08-22 07:08:07,True,2017-08-22 07:08:07,0
+airbnb/javascript,thevasya,Anton Vasyunin,"Russia, Gorno-Altaisk",1526,closed,2017-08-17 10:02:02,2017-08-22 07:04:27,True,2017-08-22 07:04:27,0
+airbnb/javascript,tsmirnov,Timofey Smirnov,"Vancouver, Canada",1525,closed,2017-08-17 09:09:09,2017-08-17 16:08:15,False,,1
+airbnb/javascript,chatoo2412,Jun Wooram,Korea,1524,closed,2017-08-17 06:36:12,2017-08-17 07:14:29,True,2017-08-17 07:14:29,0
+airbnb/javascript,magicmark,Mark Larah,San Francisco,1522,closed,2017-08-15 02:52:58,2017-08-15 06:51:21,True,2017-08-15 06:51:21,0
+airbnb/javascript,deckar01,Jared Deckard,"Tulsa, OK, USA",1518,closed,2017-08-07 20:38:36,2017-08-08 06:40:20,True,2017-08-08 06:40:20,0
+airbnb/javascript,tshamz,Tyler Shambora,"Secret Moon Base, The Moon",1517,closed,2017-08-07 18:13:58,2017-08-07 18:14:09,False,,0
+airbnb/javascript,marhub,,Poland,1516,closed,2017-08-07 10:49:05,2017-08-07 17:51:16,True,2017-08-07 17:51:16,0
+airbnb/javascript,koooge,koooge,"Stockholm, Sweden",1514,closed,2017-08-03 16:01:41,2017-09-02 05:35:05,True,2017-09-02 05:35:05,0
+airbnb/javascript,epan,Eric Pan,San Francisco,1511,closed,2017-07-31 18:21:04,2017-08-01 08:45:43,True,2017-08-01 08:45:43,0
+airbnb/javascript,atkinchris,Chris Atkin,"Manchester, UK",1510,closed,2017-07-31 16:13:35,2017-07-31 16:36:24,True,2017-07-31 16:36:24,3
+airbnb/javascript,knpwrs,Ken Powers,,1507,closed,2017-07-29 01:00:49,2017-07-29 03:07:52,False,,0
+airbnb/javascript,asherdale,Asher Dale,"Boston, MA",1505,closed,2017-07-25 19:52:15,2017-07-26 06:35:25,True,2017-07-26 06:35:25,0
+airbnb/javascript,PyMonar,彭一,Peking,1504,closed,2017-07-25 11:27:54,2017-07-25 11:54:26,False,,0
+airbnb/javascript,willclarktech,Will Clark,"Berlin, Germany",1503,closed,2017-07-25 09:41:50,2017-07-26 17:52:26,True,2017-07-26 17:52:26,2
+airbnb/javascript,asherdale,Asher Dale,"Boston, MA",1502,closed,2017-07-24 14:51:38,2017-07-25 15:49:51,True,2017-07-25 15:49:51,0
+airbnb/javascript,Rush-YL,,Wuhan China,1501,closed,2017-07-24 00:46:53,2017-07-24 03:19:19,False,,0
+airbnb/javascript,atkinchris,Chris Atkin,"Manchester, UK",1500,closed,2017-07-23 13:31:29,2017-07-23 16:57:15,True,2017-07-23 16:57:15,0
+airbnb/javascript,pratyushtewari,Pratyush Tewari,New York,1498,closed,2017-07-21 16:21:04,2017-07-25 18:43:34,False,,0
+airbnb/javascript,mohalobaidi,Mohammed Alobaidi,,1494,closed,2017-07-16 13:39:43,2017-07-16 15:38:23,False,,1
+airbnb/javascript,chytanya,Chaitanya Mutyala,"Palo Alto, CA",1491,closed,2017-07-12 17:44:22,2017-07-14 00:20:07,True,2017-07-14 00:20:07,0
+airbnb/javascript,VLNTNA,Valentina Miclaus,"Vienna, Austria",1490,closed,2017-07-12 16:15:14,2017-07-13 23:48:37,True,2017-07-13 23:48:37,0
+airbnb/javascript,djy0,,,1484,closed,2017-07-06 14:28:25,2017-07-09 06:00:26,False,,2
+airbnb/javascript,dsyne,Thomas Currell,United Kingdom,1483,closed,2017-07-06 10:48:41,2017-07-06 14:08:06,False,,0
+airbnb/javascript,wyattdanger,swb,,1482,closed,2017-07-05 22:53:04,2017-09-02 18:24:42,True,2017-09-02 18:24:42,3
+airbnb/javascript,IvanKalinin,Ivan Kalinin,"Vancouver, WA",1480,closed,2017-07-05 07:07:56,2017-07-05 07:42:43,False,,0
+airbnb/javascript,dlwalsh,David Walsh,"Sydney, Australia",1477,closed,2017-07-04 02:45:31,2017-09-02 05:40:37,True,2017-09-02 05:40:37,4
+airbnb/javascript,JPeer264,Jan Peer Stöcklmair,Vienna / AUT / Europe / Earth ,1475,closed,2017-07-03 14:20:48,2017-07-03 19:42:23,False,,0
+airbnb/javascript,hallaji,Vahid Hallaji,"Melbourne, Australia",1472,closed,2017-06-29 10:18:24,2017-06-30 00:29:42,False,,4
+airbnb/javascript,sravanti,Sravanti Tekumalla,"San Francisco, CA",1471,closed,2017-06-28 19:20:27,2017-06-28 19:21:11,False,,0
+airbnb/javascript,xgqfrms-GitHub,anonymous,UFO,1470,closed,2017-06-28 13:42:01,2017-06-28 18:52:35,False,,0
+airbnb/javascript,HouCoder,Tonni,Hangzhou,1469,closed,2017-06-26 15:36:35,2017-07-24 06:55:40,True,2017-07-24 06:55:40,2
+airbnb/javascript,dandv,Dan Dascalescu,Digital nomad,1467,closed,2017-06-24 05:16:39,2017-06-24 05:44:29,True,2017-06-24 05:44:29,0
+airbnb/javascript,dandv,Dan Dascalescu,Digital nomad,1464,closed,2017-06-22 16:22:19,2017-06-24 04:55:35,True,2017-06-24 04:55:35,1
+airbnb/javascript,dandv,Dan Dascalescu,Digital nomad,1463,closed,2017-06-22 16:22:12,2017-06-24 04:55:35,True,2017-06-24 04:55:34,4
+airbnb/javascript,jason-ellis,Jason Ellis,"Little Elm, TX",1460,closed,2017-06-20 14:38:01,2017-06-20 20:56:49,True,2017-06-20 20:56:49,0
+airbnb/javascript,gandhirahul,Rahul Gandhi,"London, United Kingdom",1458,closed,2017-06-17 12:55:41,2017-06-17 16:42:53,True,2017-06-17 16:42:53,0
+airbnb/javascript,ahmehri,Ahmed Mehri,"Berlin, Germany",1456,closed,2017-06-15 16:00:27,2017-06-17 17:58:52,True,2017-06-17 17:58:52,0
+airbnb/javascript,btpschroeder,Benjamin Schroeder,"Costa Mesa, CA",1455,closed,2017-06-14 13:14:03,2017-06-14 19:11:05,True,2017-06-14 19:11:05,0
+airbnb/javascript,lancempoe,Lance Poehler,,1453,closed,2017-06-13 21:23:26,2017-06-13 21:29:12,False,,0
+airbnb/javascript,fernandopasik,Fernando Pasik,"London, UK",1452,closed,2017-06-13 21:07:17,2017-06-13 23:56:08,True,2017-06-13 23:56:08,0
+airbnb/javascript,gustavoisensee,Gustavo Isensee,"Utrecht, Netherlands",1450,closed,2017-06-13 04:01:26,2017-06-13 04:33:33,True,2017-06-13 04:33:33,0
+airbnb/javascript,fvgs,Felipe Vargas,San Francisco,1449,closed,2017-06-12 22:48:21,2017-06-14 02:27:52,True,2017-06-14 02:27:52,0
+airbnb/javascript,isnifer,Anton Kuznetsov,"Ivanovo, Russia",1442,closed,2017-06-09 13:44:07,2017-06-09 13:44:18,False,,0
+airbnb/javascript,raduserbanescu,Radu Serbanescu,"Buzau / Brasov, Romania",1440,closed,2017-06-07 10:27:05,2017-06-11 18:59:55,True,2017-06-11 18:59:55,0
+airbnb/javascript,JPeer264,Jan Peer Stöcklmair,Vienna / AUT / Europe / Earth ,1438,closed,2017-06-04 08:05:12,2017-06-04 16:12:58,False,,1
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1437,closed,2017-06-02 19:05:59,2017-06-02 21:39:28,True,2017-06-02 21:39:28,0
+airbnb/javascript,daxelrod,Daniel Axelrod,,1436,closed,2017-06-02 18:32:27,2017-06-04 06:43:16,True,2017-06-04 06:43:16,10
+airbnb/javascript,getjll,passerby,hangzhou,1434,closed,2017-05-31 11:48:14,2017-05-31 11:57:33,False,,0
+airbnb/javascript,mcmar,Mike Martin,San Francisco,1431,closed,2017-05-26 17:21:53,2017-06-13 08:09:29,False,,1
+airbnb/javascript,noblica,Dušan Perković,"Belgrade, Serbia",1429,closed,2017-05-25 12:49:02,2017-05-25 12:50:58,False,,0
+airbnb/javascript,knpwrs,Ken Powers,,1427,closed,2017-05-24 19:45:26,2017-05-25 23:48:32,True,2017-05-25 23:48:32,4
+airbnb/javascript,sharils,sharils,,1426,closed,2017-05-24 13:58:32,2017-05-25 13:13:34,False,,0
+airbnb/javascript,daxelrod,Daniel Axelrod,,1424,closed,2017-05-24 01:05:59,2017-05-24 04:06:35,True,2017-05-24 04:06:35,0
+airbnb/javascript,sidoshi,Siddharth Doshi,,1420,closed,2017-05-20 10:20:47,2017-05-20 23:37:54,True,2017-05-20 23:37:54,0
+airbnb/javascript,vladshcherbin,Vlad Shcherbin,,1419,closed,2017-05-19 12:05:06,2017-05-19 19:56:24,True,2017-05-19 19:56:24,0
+airbnb/javascript,Ollo,Joshua Ray,"Boulder, CO",1416,closed,2017-05-15 17:09:26,2017-05-15 17:09:37,False,,0
+airbnb/javascript,billyjanitsch,Billy Janitsch,NYC,1415,closed,2017-05-15 16:40:25,2017-05-15 20:23:07,True,2017-05-15 20:23:07,0
+airbnb/javascript,sidoshi,Siddharth Doshi,,1411,closed,2017-05-11 19:49:00,2017-05-14 23:55:19,True,2017-05-14 23:55:19,1
+airbnb/javascript,TrevorSayre,Trevor Sayre,"Boston, MA",1409,closed,2017-05-09 17:14:34,2017-05-09 17:40:30,True,2017-05-09 17:40:30,0
+airbnb/javascript,graingert,Thomas Grainger,,1403,closed,2017-05-05 10:42:58,2017-09-02 05:50:00,True,2017-09-02 05:50:00,0
+airbnb/javascript,thomasbell1985,Thomas Bell,"Louisville, Kentucky",1400,closed,2017-05-03 18:17:43,2017-05-04 03:10:52,True,2017-05-04 03:10:52,0
+airbnb/javascript,vladshcherbin,Vlad Shcherbin,,1398,closed,2017-05-01 07:58:14,2017-05-01 18:39:27,True,2017-05-01 18:39:27,0
+airbnb/javascript,DenisIzmaylov,Denis Izmaylov,"Moscow, New York",1396,closed,2017-04-29 15:22:05,2017-05-01 04:18:33,True,2017-05-01 04:18:33,0
+airbnb/javascript,ndresx,Martin V.,"Graz, Austria",1395,closed,2017-04-29 11:27:26,2017-05-01 18:37:55,True,2017-05-01 18:37:55,5
+airbnb/javascript,diegoteliz,Diego Teliz,"Auckland, New Zealand",1391,closed,2017-04-27 03:07:03,2017-04-28 06:52:01,True,2017-04-28 06:52:01,0
+airbnb/javascript,sapegin,Artem Sapegin,"Berlin, Germany",1389,closed,2017-04-25 17:49:32,2017-04-25 17:52:26,False,,0
+airbnb/javascript,jondubin,Jonathan Dubin,"Philadelphia, PA",1388,closed,2017-04-25 17:48:21,2017-04-25 17:51:08,True,2017-04-25 17:51:08,0
+airbnb/javascript,jondubin,Jonathan Dubin,"Philadelphia, PA",1387,closed,2017-04-25 17:39:15,2017-04-25 17:41:49,True,2017-04-25 17:41:49,0
+airbnb/javascript,njakob,Nicolas Jakob,"Zurich, Switzerland",1385,closed,2017-04-24 14:37:00,2017-04-24 15:45:57,True,2017-04-24 15:45:57,0
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",1383,closed,2017-04-24 08:15:40,2017-04-24 08:17:04,False,,1
+airbnb/javascript,ndresx,Martin V.,"Graz, Austria",1381,closed,2017-04-21 19:18:06,2017-04-22 18:16:47,True,2017-04-22 18:16:47,6
+airbnb/javascript,rixth,Thomas Rix,"Brooklyn, New York",1378,closed,2017-04-20 20:51:59,2017-04-21 06:22:25,True,2017-04-21 06:22:25,0
+airbnb/javascript,ashusta,Alex Shusta,,1376,closed,2017-04-19 16:51:10,2017-04-19 18:26:39,False,,0
+airbnb/javascript,rafagarcia,,,1375,closed,2017-04-18 15:05:36,2017-04-18 16:36:27,False,,0
+airbnb/javascript,Willibaur,William Bautista,London,1372,closed,2017-04-13 10:21:49,2017-04-17 11:16:06,False,,3
+airbnb/javascript,suprekaka,Kaka,"Beijing, China",1370,closed,2017-04-12 08:43:32,2017-04-12 14:17:10,True,2017-04-12 14:17:10,0
+airbnb/javascript,marcobrunodev,Marco Bruno,,1369,closed,2017-04-11 19:37:57,2017-04-11 19:39:23,False,,0
+airbnb/javascript,bl00mber,Nick Reiley,,1368,closed,2017-04-11 19:09:34,2017-04-11 21:26:04,True,2017-04-11 21:26:04,0
+airbnb/javascript,tommg,Tom Garbutt,UK,1366,closed,2017-04-11 16:12:44,2017-04-11 16:13:00,False,,0
+airbnb/javascript,matthopson,Matt,Digital Nomad,1364,closed,2017-04-08 16:37:53,2017-04-08 16:39:38,False,,0
+airbnb/javascript,diaswrd,William Dias,"Toronto, Canada",1363,closed,2017-04-07 14:47:29,2017-04-07 14:47:49,False,,1
+airbnb/javascript,lfkwtz,Michael Lefkowitz,"Austin, TX",1361,closed,2017-04-06 01:33:06,2017-04-06 01:35:15,False,,0
+airbnb/javascript,kaplanmaxe,Max Kaplan,,1357,closed,2017-04-04 14:06:45,2017-04-04 17:50:27,True,2017-04-04 17:50:27,0
+airbnb/javascript,kaplanmaxe,Max Kaplan,,1356,closed,2017-04-04 13:54:21,2017-04-04 14:01:34,False,,0
+airbnb/javascript,marcobrunodev,Marco Bruno,,1354,closed,2017-04-03 22:13:54,2017-04-03 22:17:22,False,,0
+airbnb/javascript,aimicheng,chengliu,,1348,closed,2017-03-24 09:15:45,2017-03-27 07:59:22,False,,0
+airbnb/javascript,jadnco,Jaden Dessureault,"Winnipeg, Canada",1345,closed,2017-03-23 01:00:31,2017-03-23 05:45:57,True,2017-03-23 05:45:57,0
+airbnb/javascript,renaissains,Shabrina,,1343,closed,2017-03-22 05:09:01,2017-03-22 05:55:37,False,,1
+airbnb/javascript,hugomd,Hugo,"Melbourne, Australia",1341,closed,2017-03-21 01:48:13,2017-03-21 01:54:12,True,2017-03-21 01:54:12,0
+airbnb/javascript,JPeer264,Jan Peer Stöcklmair,Vienna / AUT / Europe / Earth ,1339,closed,2017-03-16 08:15:03,2017-03-19 06:48:00,True,2017-03-19 06:48:00,1
+airbnb/javascript,leonidlebedev,Leonid Lebedev,Moscow,1330,closed,2017-03-06 18:06:30,2017-06-11 16:29:48,False,,0
+airbnb/javascript,christianbundy,Christian Bundy,,1325,closed,2017-03-03 23:10:23,2017-03-16 01:04:19,True,2017-03-16 01:04:19,5
+airbnb/javascript,flyingace,David Cameron,"Brooklyn, NY",1324,closed,2017-03-03 19:47:19,2017-03-03 21:12:02,True,2017-03-03 21:12:02,0
+airbnb/javascript,thomaswrenn,Tom Wrenn,,1323,closed,2017-03-03 19:36:18,2017-03-03 21:11:05,True,2017-03-03 21:11:05,0
+airbnb/javascript,mkitt,Matthew Kitt,"Denver, CO",1322,closed,2017-03-03 04:44:49,2017-03-03 04:52:20,False,,0
+airbnb/javascript,TimeDropsSB,DZ,,1320,closed,2017-03-02 09:30:01,2017-03-02 15:09:58,False,,0
+airbnb/javascript,tihomiro,Tihomir Opacic,"Belgrade, Serbia",1319,closed,2017-03-01 19:35:49,2017-03-02 18:12:36,True,2017-03-02 18:12:35,0
+airbnb/javascript,tihomiro,Tihomir Opacic,"Belgrade, Serbia",1318,closed,2017-03-01 14:46:03,2017-03-01 19:37:31,False,,0
+airbnb/javascript,ivanzusko,Ivan Zusko,"Berlin, Germany",1317,closed,2017-02-28 22:33:54,2017-03-03 21:14:39,True,2017-03-03 21:14:39,0
+airbnb/javascript,hshoff,Harrison Shoff,,1314,closed,2017-02-25 22:18:17,2017-02-26 06:59:32,True,2017-02-26 06:59:32,0
+airbnb/javascript,rajington,Raj Nigam,,1312,closed,2017-02-23 16:36:34,2017-02-23 19:46:05,True,2017-02-23 19:46:05,0
+airbnb/javascript,jacobwalton,Jacob W,London,1310,closed,2017-02-23 10:58:51,2017-02-23 10:59:17,False,,0
+airbnb/javascript,stevemao,Steve Mao,Sydney,1309,closed,2017-02-23 03:13:45,2017-02-23 06:52:50,True,2017-02-23 06:52:50,0
+airbnb/javascript,walshie4,Adam Walsh,"LA, USA",1308,closed,2017-02-22 18:08:49,2017-02-23 06:50:47,True,2017-02-23 06:50:47,0
+airbnb/javascript,scott-joe,Scott Williams,,1304,closed,2017-02-14 22:22:53,2017-02-15 18:20:52,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1303,closed,2017-02-14 18:46:34,2017-02-14 19:44:20,True,2017-02-14 19:44:20,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1302,closed,2017-02-14 18:34:26,2017-02-14 18:44:51,True,2017-02-14 18:44:51,0
+airbnb/javascript,dragossh,Ioan Serban,"London, UK",1301,closed,2017-02-14 16:04:27,2017-02-14 16:04:33,False,,0
+airbnb/javascript,grahammcculloch,Graham McCulloch,"Chiang Mai, Thailand",1300,closed,2017-02-14 12:32:59,2017-02-14 13:53:18,False,,0
+airbnb/javascript,joshduck,Josh Duck,"Brisbane, AU",1299,closed,2017-02-14 00:45:05,2017-02-14 06:09:26,True,2017-02-14 06:09:26,0
+airbnb/javascript,ivanzusko,Ivan Zusko,"Berlin, Germany",1298,closed,2017-02-13 16:07:22,2017-02-13 23:18:35,False,,0
+airbnb/javascript,sotayamashita,Sam Yamashita,"Tokyo, Japan",1295,closed,2017-02-12 03:15:11,2017-02-12 18:38:19,True,2017-02-12 18:38:19,2
+airbnb/javascript,colin-ch,Colin Hamer,The Netherlands,1294,closed,2017-02-09 09:23:30,2017-02-09 17:44:23,True,2017-02-09 17:44:23,0
+airbnb/javascript,marcodeltongo,Marco Del Tongo,"Milan, Italy",1291,closed,2017-02-05 16:33:15,2017-02-05 21:52:36,False,,1
+airbnb/javascript,ericmarkmartin,Eric Mark Martin,"New York, NY",1289,closed,2017-02-03 00:13:29,2017-02-05 18:22:42,True,2017-02-05 18:22:42,0
+airbnb/javascript,robinpokorny,Robin Pokorny,"Berlin, Germany",1288,closed,2017-02-02 12:33:53,2017-02-05 18:15:19,True,2017-02-05 18:15:19,0
+airbnb/javascript,floftar,Florian Berger,"Helsinki, Finland",1287,closed,2017-02-01 17:23:46,2017-02-05 18:13:36,True,2017-02-05 18:13:36,0
+airbnb/javascript,floftar,Florian Berger,"Helsinki, Finland",1286,closed,2017-02-01 16:44:28,2017-02-01 16:49:53,True,2017-02-01 16:49:53,0
+airbnb/javascript,k1rd3rf,Fredrik Oterholt,"Oslo, Norway",1278,closed,2017-01-24 07:13:40,2017-01-24 07:19:30,False,,1
+airbnb/javascript,NathanielPrescott,Nathaniel Prescott,,1273,closed,2017-01-22 16:18:14,2017-02-12 08:25:10,True,2017-02-12 08:25:10,2
+airbnb/javascript,IrvingAxelB,Irving,Los Angeles,1270,closed,2017-01-19 02:36:52,2017-01-19 02:42:08,True,2017-01-19 02:42:08,0
+airbnb/javascript,leonidlebedev,Leonid Lebedev,Moscow,1269,closed,2017-01-18 19:18:22,2017-01-21 05:28:42,True,2017-01-21 05:28:42,0
+airbnb/javascript,iancanderson,Ian C. Anderson,"Swampscott, MA",1268,closed,2017-01-18 16:08:52,2017-01-21 19:46:02,False,,0
+airbnb/javascript,vsemozhetbyt,Vse Mozhe Buty,"Kyiv, Ukraine",1267,closed,2017-01-18 05:55:17,2017-01-20 21:19:52,True,2017-01-20 21:19:52,7
+airbnb/javascript,vsemozhetbyt,Vse Mozhe Buty,"Kyiv, Ukraine",1263,closed,2017-01-17 23:06:16,2017-01-18 07:20:31,False,,7
+airbnb/javascript,jinxac,Harkirat Saluja,Bangalore,1262,closed,2017-01-17 14:28:09,2017-01-17 16:46:51,False,,0
+airbnb/javascript,jinxac,Harkirat Saluja,Bangalore,1261,closed,2017-01-17 10:32:36,2017-01-17 12:21:50,False,,0
+airbnb/javascript,jinxac,Harkirat Saluja,Bangalore,1260,closed,2017-01-17 09:29:55,2017-01-20 18:46:33,True,2017-01-20 18:46:33,1
+airbnb/javascript,coliff,Christian Oliff,"London, UK ✈️ Osaka, JP",1259,closed,2017-01-17 08:09:35,2017-01-17 09:00:08,True,2017-01-17 09:00:08,0
+airbnb/javascript,oliviertassinari,Olivier Tassinari,"Paris, France",1258,closed,2017-01-15 11:39:42,2017-01-17 07:13:34,True,2017-01-17 07:13:34,0
+airbnb/javascript,91aman,Aman Jain,India,1255,closed,2017-01-12 06:50:29,2019-08-10 05:18:57,True,2019-08-10 05:18:57,1
+airbnb/javascript,wonism,Jaewon,Seoul,1254,closed,2017-01-11 23:59:37,2017-01-12 00:32:45,False,,0
+airbnb/javascript,wonism,Jaewon,Seoul,1253,closed,2017-01-11 23:55:20,2017-01-11 23:56:34,False,,0
+airbnb/javascript,oshalygin,Oleg Shalygin,"Los Angeles, CA",1252,closed,2017-01-11 23:39:59,2017-01-17 07:05:49,True,2017-01-17 07:05:49,0
+airbnb/javascript,oshalygin,Oleg Shalygin,"Los Angeles, CA",1251,closed,2017-01-11 23:22:25,2017-01-12 01:37:55,False,,3
+airbnb/javascript,jgwerner,Greg Werner,Planet Earth,1250,closed,2017-01-11 04:29:15,2017-01-11 06:49:18,True,2017-01-11 06:49:18,0
+airbnb/javascript,jgwerner,Greg Werner,Planet Earth,1246,closed,2017-01-10 21:03:30,2017-01-11 04:26:46,False,,2
+airbnb/javascript,chatoo2412,Jun Wooram,Korea,1244,closed,2017-01-10 11:34:07,2017-01-10 17:25:47,True,2017-01-10 17:25:47,0
+airbnb/javascript,jeffcousins,Jeff Cousins,"Gulfport, MS, USA",1243,closed,2017-01-09 23:18:28,2017-01-09 23:21:22,True,2017-01-09 23:21:22,0
+airbnb/javascript,frosas,Francesc Rosas,,1242,closed,2017-01-09 12:13:25,2017-01-09 16:27:26,False,,2
+airbnb/javascript,ivanzusko,Ivan Zusko,"Berlin, Germany",1241,closed,2017-01-09 09:48:38,2017-01-09 17:13:30,True,2017-01-09 17:13:30,0
+airbnb/javascript,ivanzusko,Ivan Zusko,"Berlin, Germany",1239,closed,2017-01-08 23:45:03,2017-01-09 00:03:34,False,,0
+airbnb/javascript,KadoBOT,Ricardo Ambrogi,"Amsterdam, Netherlands",1236,closed,2017-01-08 13:20:12,2017-01-08 18:34:24,True,2017-01-08 18:34:24,0
+airbnb/javascript,nathanhleung,Nathan H. Leung,"San Francisco, CA",1234,closed,2017-01-06 22:06:13,2017-01-07 05:46:03,True,2017-01-07 05:46:03,0
+airbnb/javascript,felixsanz,Félix Sanz,Madrid,1227,closed,2016-12-29 01:25:55,2016-12-29 08:47:07,True,2016-12-29 08:47:07,0
+airbnb/javascript,kamronbatman,Kamron Batman,Los Angeles,1223,closed,2016-12-28 20:56:05,2016-12-29 08:58:22,True,2016-12-29 08:58:22,0
+airbnb/javascript,kamronbatman,Kamron Batman,Los Angeles,1222,closed,2016-12-28 19:57:20,2016-12-28 22:00:47,True,2016-12-28 22:00:47,0
+airbnb/javascript,Nitive,Maxim Samoilov,Saint Petersburg,1221,closed,2016-12-25 03:28:11,2016-12-25 05:39:54,True,2016-12-25 05:39:54,0
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",1220,closed,2016-12-23 11:42:23,2016-12-23 19:18:50,True,2016-12-23 19:18:50,0
+airbnb/javascript,wachunei,Pedro Pablo Aste Kompen,"Santiago, Chile",1219,closed,2016-12-21 19:07:56,2016-12-21 21:56:38,True,2016-12-21 21:56:38,0
+airbnb/javascript,jankohofmann,Janko Hofmann,"Berlin, Germany",1215,closed,2016-12-19 17:05:11,2016-12-19 17:07:14,False,,0
+airbnb/javascript,woojoo666,,,1214,closed,2016-12-19 15:25:16,2016-12-21 02:01:41,True,2016-12-21 02:01:41,1
+airbnb/javascript,milesj,Miles Johnson,"Portland, OR",1208,closed,2016-12-15 07:02:02,2016-12-15 07:17:40,False,,0
+airbnb/javascript,mikelambert,Mike Lambert,"New York, NY",1206,closed,2016-12-14 01:28:29,2016-12-14 01:33:52,False,,0
+airbnb/javascript,davidkna,David Knaack,"Berlin, Germany",1204,closed,2016-12-12 16:53:57,2016-12-14 01:53:48,True,2016-12-14 01:53:48,0
+airbnb/javascript,arturopie,Arturo Pie,,1203,closed,2016-12-11 16:48:09,2016-12-11 18:23:39,True,2016-12-11 18:23:39,0
+airbnb/javascript,churchie317,Eric Churchill,SFCA,1202,closed,2016-12-11 07:20:53,2016-12-11 18:22:34,True,2016-12-11 18:22:34,0
+airbnb/javascript,sara-gudeman,Sara Gudeman,United States,1201,closed,2016-12-10 02:59:18,2016-12-10 20:16:30,True,2016-12-10 20:16:30,0
+airbnb/javascript,sara-gudeman,Sara Gudeman,United States,1200,closed,2016-12-09 19:32:32,2016-12-09 19:54:46,False,,5
+airbnb/javascript,fmcosta,,,1198,closed,2016-12-08 22:04:19,2016-12-09 21:46:00,False,,0
+airbnb/javascript,kevinboudot,Kevin Boudot,Paris,1197,closed,2016-12-08 14:30:47,2016-12-08 18:44:44,True,2016-12-08 18:44:44,0
+airbnb/javascript,agrcrobles,Zetta Garcia,Barcelona,1196,closed,2016-12-07 18:22:24,2016-12-08 09:17:48,True,2016-12-08 09:17:48,1
+airbnb/javascript,soulchainer,Juan Riquelme,"Murcia, Spain",1194,closed,2016-12-04 01:25:43,2016-12-04 01:41:58,True,2016-12-04 01:41:58,0
+airbnb/javascript,walshie4,Adam Walsh,"LA, USA",1193,closed,2016-12-02 17:51:32,2016-12-02 17:51:40,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1190,closed,2016-12-01 17:12:51,2016-12-01 17:19:53,True,2016-12-01 17:19:53,0
+airbnb/javascript,nerdylocks,Abiy Seifu,"San Francisco, CA",1189,closed,2016-12-01 07:39:13,2016-12-01 07:41:15,False,,0
+airbnb/javascript,jongold,Jon Gold,"Portland, OR",1188,closed,2016-11-29 03:36:10,2016-12-12 07:12:00,False,,0
+airbnb/javascript,apsavin,Alexander Savin,"Moscow, Russia",1187,closed,2016-11-28 20:34:19,2016-11-28 20:58:03,False,,0
+airbnb/javascript,salzhrani,Samy Al Zahrani,Saudi Arabia,1186,closed,2016-11-24 07:05:25,2016-11-24 07:11:58,False,,0
+airbnb/javascript,zelias500,Zack Elias,,1183,closed,2016-11-21 21:50:34,2016-11-21 21:51:28,False,,0
+airbnb/javascript,tamasfabi,Tamas Fabi,Debrecen,1181,closed,2016-11-21 12:06:29,2016-11-21 16:04:42,False,,0
+airbnb/javascript,gblejman,German Blejman,"Buenos Aires, Argentina",1177,closed,2016-11-15 14:28:04,2016-11-15 16:05:11,False,,0
+airbnb/javascript,andrepolischuk,Andrey Polischuk,,1175,closed,2016-11-12 11:34:51,2016-11-15 01:58:34,True,2016-11-15 01:58:33,0
+airbnb/javascript,necinc,Max Vyz.,Ukraine,1171,closed,2016-11-09 14:29:38,2016-11-09 15:17:56,False,,0
+airbnb/javascript,chentsulin,C. T. Lin,"Taipei, Taiwan",1170,closed,2016-11-09 04:46:24,2016-11-09 05:17:16,True,2016-11-09 05:17:16,4
+airbnb/javascript,CyberiumShadow,Johnson Chen,,1167,closed,2016-11-09 00:02:28,2016-11-09 00:07:14,False,,1
+airbnb/javascript,ViZhe,,Moscow,1166,closed,2016-11-08 16:40:06,2016-11-15 01:52:39,True,2016-11-15 01:52:39,0
+airbnb/javascript,spen,Spen Taylor,,1160,closed,2016-11-06 23:43:17,2016-11-07 06:53:18,True,2016-11-07 06:53:18,0
+airbnb/javascript,negativetwelve,Mark Miyashita,"San Francisco, California",1159,closed,2016-11-06 13:22:36,2016-11-06 17:11:50,True,2016-11-06 17:11:50,0
+airbnb/javascript,BusbyActual,Ryan Busby,Los Angeles,1158,closed,2016-11-03 03:19:34,2016-11-03 03:20:11,False,,0
+airbnb/javascript,BusbyActual,Ryan Busby,Los Angeles,1157,closed,2016-11-02 19:41:15,2016-11-03 03:14:50,True,2016-11-03 03:14:50,0
+airbnb/javascript,vanillajonathan,Jonathan,,1156,closed,2016-11-02 15:02:45,2016-11-06 17:13:28,True,2016-11-06 17:13:28,0
+airbnb/javascript,vp2177,,,1155,closed,2016-11-02 12:43:04,2016-11-02 16:13:00,False,,0
+airbnb/javascript,KevinGrandon,Kevin Grandon,"San Francisco, CA",1154,closed,2016-11-01 20:54:54,2016-11-02 01:10:26,True,2016-11-02 01:10:26,0
+airbnb/javascript,graingert,Thomas Grainger,,1153,closed,2016-11-01 19:06:45,2016-11-02 08:15:55,True,2016-11-02 08:15:55,6
+airbnb/javascript,dijonkitchen,Jonathan (JC) Chen,Country of Fire and Wine,1152,closed,2016-11-01 10:31:21,2016-11-06 17:15:58,True,2016-11-06 17:15:58,0
+airbnb/javascript,gianpaj,Gianfrancø Null,"Dublin, Ireland",1151,closed,2016-10-31 23:55:32,2016-11-01 00:13:03,True,2016-11-01 00:13:03,0
+airbnb/javascript,nischayv,Nischay Venkatram,,1150,closed,2016-10-31 23:52:03,2016-11-01 04:43:22,True,2016-11-01 04:43:22,4
+airbnb/javascript,dan-h-ch,Daniel Chang,,1149,closed,2016-10-31 19:25:40,2016-10-31 21:50:58,True,2016-10-31 21:50:58,0
+airbnb/javascript,frenzzy,Vladimir Kutepov,"Saint Petersburg, Russia",1148,closed,2016-10-30 21:29:07,2016-10-30 21:31:26,False,,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1144,closed,2016-10-26 20:35:44,2016-10-26 20:40:28,True,2016-10-26 20:40:28,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1143,closed,2016-10-26 20:07:34,2016-11-07 07:17:29,True,2016-11-07 07:17:29,0
+airbnb/javascript,1pete,Pirasis Leelatanon,"Bangkok, Thailand",1142,closed,2016-10-26 19:02:48,2016-10-26 19:22:20,True,2016-10-26 19:22:20,0
+airbnb/javascript,spen,Spen Taylor,,1141,closed,2016-10-26 04:57:57,2016-10-26 05:52:07,True,2016-10-26 05:52:07,0
+airbnb/javascript,AndrewSouthpaw,Andrew Smith,"Seattle, WA",1140,closed,2016-10-25 21:50:37,2016-11-06 17:18:35,True,2016-11-06 17:18:35,9
+airbnb/javascript,graingert,Thomas Grainger,,1137,closed,2016-10-18 18:17:13,2016-10-18 18:17:50,False,,0
+airbnb/javascript,graingert,Thomas Grainger,,1136,closed,2016-10-18 13:50:46,2016-10-18 18:07:24,False,,0
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",1134,closed,2016-10-17 06:07:22,2016-10-17 06:11:37,True,2016-10-17 06:11:37,0
+airbnb/javascript,mifi,Mikael Finstad,World,1133,closed,2016-10-16 15:00:04,2016-10-16 16:42:00,True,2016-10-16 16:42:00,0
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",1132,closed,2016-10-16 08:04:44,2016-10-17 05:57:27,True,2016-10-17 05:57:27,3
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",1131,closed,2016-10-15 11:56:10,2016-10-15 15:11:42,False,,0
+airbnb/javascript,KeKs0r,Marc Höffl,"Berlin, Germany",1129,closed,2016-10-14 18:17:10,2016-10-14 18:37:49,False,,0
+airbnb/javascript,elliottsj,Spencer Elliott,"Toronto, ON",1128,closed,2016-10-14 15:54:39,2016-10-14 17:15:59,False,,0
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",1123,closed,2016-10-13 07:01:40,2016-10-13 07:33:46,True,2016-10-13 07:33:46,0
+airbnb/javascript,milesburton,Miles Burton,London,1118,closed,2016-10-11 07:45:00,2016-10-11 07:45:58,True,2016-10-11 07:45:58,0
+airbnb/javascript,chesterhow,Chester How,Singapore,1117,closed,2016-10-10 03:24:13,2016-10-10 03:29:54,True,2016-10-10 03:29:54,0
+airbnb/javascript,calebjanderson,Caleb Anderson,,1114,closed,2016-10-09 02:02:19,2016-10-09 02:56:15,False,,1
+airbnb/javascript,randallreedjr,"Randall Reed, Jr.","Glen Allen, VA",1113,closed,2016-10-08 20:44:51,2016-10-09 01:03:49,True,2016-10-09 01:03:49,0
+airbnb/javascript,JaKXz,Jason Kurian,,1111,closed,2016-10-06 18:56:07,2016-10-06 19:08:48,False,,0
+airbnb/javascript,karanjthakkar,Karan Thakkar,London,1110,closed,2016-10-06 09:26:05,2016-10-07 07:19:12,True,2016-10-07 07:19:12,8
+airbnb/javascript,graingert,Thomas Grainger,,1108,closed,2016-10-05 10:53:10,2016-10-05 15:54:20,False,,0
+airbnb/javascript,randallreedjr,"Randall Reed, Jr.","Glen Allen, VA",1105,closed,2016-10-04 17:57:22,2016-10-08 20:13:48,True,2016-10-08 20:13:48,6
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",1102,closed,2016-10-02 21:51:54,2016-12-14 08:24:34,True,2016-12-14 08:24:34,7
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",1101,closed,2016-10-02 06:54:10,2016-10-13 06:51:38,True,2016-10-13 06:51:38,2
+airbnb/javascript,albertstill,Albert Still,"Sydney, Australia ",1097,closed,2016-09-30 05:59:58,2016-09-30 06:11:30,False,,0
+airbnb/javascript,jcreamer898,Jonathan Creamer,"Nashville, TN",1095,closed,2016-09-27 14:14:02,2016-09-27 17:52:00,True,2016-09-27 17:52:00,0
+airbnb/javascript,vdh,Tim van der Horst,Australia,1094,closed,2016-09-27 08:08:28,2016-09-27 08:10:19,True,2016-09-27 08:10:19,0
+airbnb/javascript,jonase,Jonas Enlund,Finland,1090,closed,2016-09-25 08:58:40,2016-09-25 18:05:42,True,2016-09-25 18:05:42,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1083,closed,2016-09-19 18:43:31,2016-09-19 18:52:12,True,2016-09-19 18:52:12,2
+airbnb/javascript,yamadashy,Kazuki Yamada,Japan,1079,closed,2016-09-15 17:45:03,2016-09-15 20:01:45,True,2016-09-15 20:01:45,0
+airbnb/javascript,dyllan-to-yu,Dyllan To,,1076,closed,2016-09-15 08:17:40,2016-09-15 08:19:44,False,,0
+airbnb/javascript,timaschew,Anton W,Berlin,1074,closed,2016-09-14 12:42:07,2016-09-14 15:58:59,False,,0
+airbnb/javascript,learning,Learning,,1072,closed,2016-09-13 02:19:30,2016-09-14 15:04:15,False,,4
+airbnb/javascript,kesne,Jordan Gensler,"San Francisco, CA",1070,closed,2016-09-12 23:12:44,2016-11-06 18:47:40,True,2016-11-06 18:47:40,6
+airbnb/javascript,Doweig,William Vbl,,1067,closed,2016-09-12 11:09:09,2016-09-12 18:05:15,True,2016-09-12 18:05:15,0
+airbnb/javascript,alexeyraspopov,Alexey Raspopov,"Boston, MA",1066,closed,2016-09-12 07:07:12,2016-09-12 07:23:01,True,2016-09-12 07:23:01,0
+airbnb/javascript,Doweig,William Vbl,,1065,closed,2016-09-12 04:21:44,2016-09-12 04:33:12,True,2016-09-12 04:33:12,0
+airbnb/javascript,kentcdodds,Kent C. Dodds,"Salt Lake City, Utah, USA",1062,closed,2016-09-08 16:00:15,2016-10-25 19:13:31,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1061,closed,2016-09-08 15:39:56,2016-09-08 17:04:41,True,2016-09-08 17:04:41,2
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1060,closed,2016-09-08 15:31:25,2016-09-08 16:05:40,True,2016-09-08 16:05:40,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1059,closed,2016-09-08 15:22:02,2016-09-08 16:03:29,True,2016-09-08 16:03:29,0
+airbnb/javascript,mozartdiniz,Mozart Diniz,"London, UK",1056,closed,2016-09-06 11:49:38,2016-09-06 14:38:04,False,,0
+airbnb/javascript,cshg,Chris,Berlin,1055,closed,2016-09-06 11:15:02,2016-09-07 15:58:52,True,2016-09-07 15:58:52,0
+airbnb/javascript,niedzielski,Stephen Niedzielski,"Denver, CO",1053,closed,2016-09-05 04:22:37,2016-09-05 16:29:52,False,,6
+airbnb/javascript,captbaritone,Jordan Eldredge,"Alameda, CA",1052,closed,2016-09-03 05:08:31,2016-09-08 17:01:35,True,2016-09-08 17:01:35,0
+airbnb/javascript,Willdorf,Will Armstrong,,1050,closed,2016-09-02 17:03:21,2016-09-02 17:03:54,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1047,closed,2016-08-31 19:52:06,2016-09-02 20:21:10,True,2016-09-02 20:21:10,5
+airbnb/javascript,gburtini,Giuseppe Burtini,"British Columbia, Canada",1044,closed,2016-08-29 15:16:38,2016-11-18 19:21:24,True,2016-11-18 19:21:24,2
+airbnb/javascript,heejongahn,Ahn Heejong,"Seoul, Korea",1041,closed,2016-08-28 14:09:20,2016-08-28 17:09:21,True,2016-08-28 17:09:21,0
+airbnb/javascript,hshoff,Harrison Shoff,,1037,closed,2016-08-26 06:29:03,2016-08-26 06:32:27,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,1036,closed,2016-08-26 04:49:37,2016-08-26 06:41:46,True,2016-08-26 06:41:46,0
+airbnb/javascript,hshoff,Harrison Shoff,,1035,closed,2016-08-26 04:34:39,2016-09-14 17:46:53,True,2016-09-14 17:46:53,0
+airbnb/javascript,thecodegoddess,Amber-Lee,,1034,closed,2016-08-25 20:21:19,2016-08-25 20:21:37,False,,0
+airbnb/javascript,zhongjie-chen,Null,Hangzhou,1032,closed,2016-08-25 04:35:18,2016-08-25 05:26:37,False,,0
+airbnb/javascript,ttmarek,Thomas Marek,Toronto,1025,closed,2016-08-21 15:41:54,2016-08-29 22:30:17,True,2016-08-29 22:30:17,7
+airbnb/javascript,wdoug,Will Douglas,,1023,closed,2016-08-19 03:55:07,2016-08-19 04:03:52,False,,1
+airbnb/javascript,soul-wish,Sergey Lysenko,Ukraine,1022,closed,2016-08-18 19:41:42,2016-08-18 20:04:27,True,2016-08-18 20:04:27,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",1021,closed,2016-08-18 17:36:52,2016-08-18 17:45:17,True,2016-08-18 17:45:16,0
+airbnb/javascript,lespacedunmatin,Olivier G.,"Paris, France",1020,closed,2016-08-18 15:16:24,2016-08-18 15:33:23,True,2016-08-18 15:33:23,0
+airbnb/javascript,camazorro,Gerardo Renovales,"Lakeland, FL",1018,closed,2016-08-17 23:48:05,2016-08-17 23:49:02,True,2016-08-17 23:49:02,0
+airbnb/javascript,anrddh,Aniruddh Agarwal,"Ann Arbor, MI",1017,closed,2016-08-17 05:31:07,2016-08-18 07:54:03,True,2016-08-18 07:54:03,5
+airbnb/javascript,sstern6,Scott Stern,"Remote, CA",1012,closed,2016-08-14 22:40:09,2016-09-06 19:21:23,True,2016-09-06 19:21:23,12
+airbnb/javascript,Gisleburt,Daniel Mason,"London, UK",1010,closed,2016-08-11 15:55:11,2016-08-11 19:19:59,False,,0
+airbnb/javascript,mcrapts,,,1009,closed,2016-08-11 14:29:43,2016-08-11 14:32:24,False,,0
+airbnb/javascript,mitsuruog,Mitsuru Ogawa,Japan Tokyo,1006,closed,2016-08-09 14:12:24,2016-08-09 16:15:12,True,2016-08-09 16:15:12,0
+airbnb/javascript,alexanderjarvis,Alexander Jarvis,,1005,closed,2016-08-09 11:49:44,2016-08-09 14:56:29,False,,0
+airbnb/javascript,uzumaxy,Max,Ukraine,1003,closed,2016-08-08 08:15:07,2016-08-08 20:03:50,True,2016-08-08 20:03:50,0
+airbnb/javascript,felipethome,Felipe Thome,Brazil,1001,closed,2016-08-05 15:12:57,2016-08-06 00:06:46,True,2016-08-06 00:06:46,7
+airbnb/javascript,felipethome,Felipe Thome,Brazil,997,closed,2016-08-04 18:05:18,2016-08-04 18:23:16,True,2016-08-04 18:23:16,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",995,closed,2016-08-04 16:39:27,2016-08-04 16:53:09,True,2016-08-04 16:53:09,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",994,closed,2016-08-04 16:19:15,2016-08-04 16:42:17,True,2016-08-04 16:42:17,7
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",991,closed,2016-08-03 21:42:16,2016-08-03 21:53:09,True,2016-08-03 21:53:09,0
+airbnb/javascript,felipethome,Felipe Thome,Brazil,989,closed,2016-08-03 19:28:15,2016-08-03 21:23:22,True,2016-08-03 21:23:22,0
+airbnb/javascript,felipethome,Felipe Thome,Brazil,986,closed,2016-08-02 21:17:37,2016-08-03 01:06:47,True,2016-08-03 01:06:47,0
+airbnb/javascript,KevinGrandon,Kevin Grandon,"San Francisco, CA",985,closed,2016-08-02 20:45:52,2016-08-02 20:48:43,False,,0
+airbnb/javascript,jongold,Jon Gold,"Portland, OR",984,closed,2016-08-02 17:21:12,2016-09-06 18:40:38,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",983,closed,2016-08-02 16:11:58,2016-08-02 16:12:49,True,2016-08-02 16:12:49,0
+airbnb/javascript,xdream86,,余杭,977,closed,2016-08-01 14:56:10,2016-08-01 14:58:11,False,,0
+airbnb/javascript,zanemountcastle,Zane Mountcastle,California,976,closed,2016-08-01 02:49:17,2016-08-01 03:35:50,True,2016-08-01 03:35:50,0
+airbnb/javascript,akozhemiakin,Artyom Kozhemiakin,"Saint-Petersburg, Russia",975,closed,2016-07-30 22:35:56,2016-07-31 00:45:50,False,,0
+airbnb/javascript,tsnodgrass96,Trevor Snodgrass,"San Antonio, Texas",974,closed,2016-07-29 23:24:43,2016-07-29 23:26:20,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",972,closed,2016-07-27 16:55:26,2016-07-27 17:05:42,True,2016-07-27 17:05:42,0
+airbnb/javascript,jglover,James Glover,"Brisbane, Australia",971,closed,2016-07-27 10:22:47,2016-07-27 15:39:25,True,2016-07-27 15:39:24,0
+airbnb/javascript,jglover,James Glover,"Brisbane, Australia",970,closed,2016-07-27 00:27:04,2016-07-27 07:44:13,False,,1
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",969,closed,2016-07-26 23:52:53,2016-07-26 23:53:52,True,2016-07-26 23:53:52,0
+airbnb/javascript,jr-k,JRK,Lyon,962,closed,2016-07-24 15:33:14,2016-07-24 16:14:31,False,,0
+airbnb/javascript,idugcoal,Doug Cole,"Portland, OR",961,closed,2016-07-23 18:55:57,2016-07-23 19:55:46,True,2016-07-23 19:55:46,0
+airbnb/javascript,samsjchi,Sam Chi,"New York, NY",960,closed,2016-07-22 04:58:18,2016-07-22 05:00:14,False,,0
+airbnb/javascript,ronal2do,Ronaldo Lima,Amsterdam | Netherlands,955,closed,2016-07-18 21:22:38,2016-07-18 21:47:38,True,2016-07-18 21:47:38,0
+airbnb/javascript,kennyt,Kenny Tran,"San Francisco, CA",953,closed,2016-07-15 18:14:33,2016-07-15 18:29:42,True,2016-07-15 18:29:42,0
+airbnb/javascript,yangsu,Yang Su,"San Francisco, CA",946,closed,2016-07-09 18:00:26,2016-08-20 22:38:19,True,2016-08-20 22:38:19,0
+airbnb/javascript,khan4019,That JS Dude,Chicago,943,closed,2016-07-08 01:47:40,2016-07-09 16:08:33,False,,0
+airbnb/javascript,LukeL99,Luke,"Chicago, IL",942,closed,2016-07-07 20:49:34,2016-07-08 00:04:41,True,2016-07-08 00:04:41,0
+airbnb/javascript,cmalard,Cédric Malard,"Paris, France",940,closed,2016-07-06 15:01:26,2016-07-06 16:04:16,True,2016-07-06 16:04:16,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",939,closed,2016-07-05 17:27:55,2016-07-05 17:29:05,False,,0
+airbnb/javascript,cmalard,Cédric Malard,"Paris, France",938,closed,2016-07-05 16:31:12,2016-07-05 16:38:52,True,2016-07-05 16:38:52,0
+airbnb/javascript,filso,Filip Sobczak,London,935,closed,2016-07-01 11:05:13,2016-07-01 16:19:50,False,,0
+airbnb/javascript,steveosneu,,,931,closed,2016-06-26 23:05:58,2016-06-27 21:06:30,False,,0
+airbnb/javascript,gemscng,GemNg,,929,closed,2016-06-24 04:34:55,2016-06-24 04:48:05,False,,0
+airbnb/javascript,shreevatsa,Shreevatsa,,928,closed,2016-06-23 17:58:45,2016-06-23 18:00:55,True,2016-06-23 18:00:55,0
+airbnb/javascript,billyjanitsch,Billy Janitsch,NYC,925,closed,2016-06-20 17:06:07,2016-06-20 18:18:11,False,,0
+airbnb/javascript,mjclawar,Michael Clawar,"Durham, NC",923,closed,2016-06-19 19:48:07,2016-06-20 00:53:31,True,2016-06-20 00:53:31,0
+airbnb/javascript,staticshock,Anton Backer,United States,922,closed,2016-06-17 22:27:12,2016-06-18 15:40:28,True,2016-06-18 15:40:28,1
+airbnb/javascript,WataruKay,Wataru Kay,Singapore,921,closed,2016-06-16 14:18:40,2016-12-21 01:41:15,False,,0
+airbnb/javascript,WataruKay,Wataru Kay,Singapore,920,closed,2016-06-16 09:04:01,2016-06-16 09:36:27,False,,0
+airbnb/javascript,apple77y,Hun-yong Song,South Korea,919,closed,2016-06-16 01:22:14,2016-06-16 04:15:19,True,2016-06-16 04:15:19,0
+airbnb/javascript,apple77y,Hun-yong Song,South Korea,917,closed,2016-06-15 09:34:17,2016-06-16 01:18:30,False,,0
+airbnb/javascript,andrzejdus,Andrzej Duś,"Warsaw, Poland",916,closed,2016-06-15 09:27:40,2016-06-15 17:42:30,True,2016-06-15 17:42:30,0
+airbnb/javascript,mattcasey,Matt Casey,"Brooklyn, NY",915,closed,2016-06-14 14:54:50,2016-06-14 14:55:01,False,,0
+airbnb/javascript,mattcasey,Matt Casey,"Brooklyn, NY",914,closed,2016-06-14 14:54:03,2016-06-14 14:54:29,False,,0
+airbnb/javascript,graingert,Thomas Grainger,,913,closed,2016-06-13 14:42:51,2016-06-13 14:47:25,False,,0
+airbnb/javascript,Zeludon,,,911,closed,2016-06-13 09:24:28,2016-06-13 15:20:54,True,2016-06-13 15:20:54,0
+airbnb/javascript,psimyn,Simon Knox,Melbourne,910,closed,2016-06-11 12:53:44,2016-06-11 14:30:12,False,,0
+airbnb/javascript,pietraszekl,Lukasz Pietraszek,"Zabrze, Poland",909,closed,2016-06-11 08:39:22,2016-06-12 07:16:34,True,2016-06-12 07:16:34,0
+airbnb/javascript,wesww,Wesley Windrose,San Francisco,905,closed,2016-06-04 22:17:16,2016-06-05 00:19:42,True,2016-06-05 00:19:42,0
+airbnb/javascript,pedrohenriquerls,Pedro Henrique,,903,closed,2016-06-03 20:14:32,2016-06-06 15:30:18,False,,5
+airbnb/javascript,KevinGrandon,Kevin Grandon,"San Francisco, CA",902,closed,2016-06-03 18:30:45,2016-06-28 17:43:42,True,2016-06-28 17:43:42,0
+airbnb/javascript,rkirsling,Ross Kirsling,"San Mateo, CA",901,closed,2016-06-02 17:43:14,2016-06-02 17:44:27,True,2016-06-02 17:44:27,0
+airbnb/javascript,petertdinh,,Los Angeles,900,closed,2016-06-01 17:55:49,2016-06-02 16:41:34,False,,0
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",899,closed,2016-06-01 08:04:47,2016-06-01 08:06:32,True,2016-06-01 08:06:32,0
+airbnb/javascript,mifi,Mikael Finstad,World,896,closed,2016-05-26 20:56:17,2016-05-27 06:46:49,True,2016-05-27 06:46:49,0
+airbnb/javascript,alvinsng,Alvin Sng,"San Francisco, CA",895,closed,2016-05-25 19:26:37,2016-05-27 22:01:51,False,,0
+airbnb/javascript,ascott,Alanna Scott,"Victoria, BC",894,closed,2016-05-25 19:09:07,2016-05-26 03:48:33,True,2016-05-26 03:48:33,8
+airbnb/javascript,sergiitk,Sergii Tkachenko,"New York, US",893,closed,2016-05-25 14:54:03,2016-05-25 16:19:29,True,2016-05-25 16:19:29,0
+airbnb/javascript,JasonBoy,jason,Shanghai,890,closed,2016-05-25 08:52:38,2016-05-25 09:01:21,True,2016-05-25 09:01:21,0
+airbnb/javascript,mcdado,David Gasperoni,"San Marino (SMR) <✈️> Madrid, Spain",886,closed,2016-05-17 20:24:33,2016-05-17 20:39:48,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",883,closed,2016-05-17 16:19:32,2016-05-17 17:16:57,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",882,closed,2016-05-16 18:27:42,2016-05-17 16:59:20,True,2016-05-17 16:59:20,2
+airbnb/javascript,akai,akai,Hangzhou,881,closed,2016-05-16 15:33:03,2016-05-17 03:40:38,True,2016-05-17 03:40:38,3
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",878,closed,2016-05-13 18:27:49,2016-05-13 22:15:20,True,2016-05-13 22:15:20,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",876,closed,2016-05-12 19:11:48,2016-05-12 22:27:48,True,2016-05-12 22:27:48,2
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",875,closed,2016-05-12 18:46:16,2016-05-12 22:10:29,True,2016-05-12 22:10:29,0
+airbnb/javascript,fvgs,Felipe Vargas,San Francisco,870,closed,2016-05-08 22:04:40,2016-05-08 22:19:07,True,2016-05-08 22:19:07,0
+airbnb/javascript,a0viedo,Alejandro Oviedo,"Buenos Aires, Argentina",868,closed,2016-05-08 14:34:34,2016-05-08 21:56:07,True,2016-05-08 21:56:07,0
+airbnb/javascript,taion,Jimmy Jia,New York,864,closed,2016-05-04 23:31:27,2016-05-04 23:34:36,True,2016-05-04 23:34:36,0
+airbnb/javascript,Agnostic,Gilberto Avalos,Mexico,861,closed,2016-05-03 02:45:57,2016-05-03 04:09:44,False,,1
+airbnb/javascript,chollier,Loic CHOLLIER,San Francisco,860,closed,2016-05-01 19:48:17,2016-05-01 19:50:21,False,,0
+airbnb/javascript,NameFILIP,Filip Spiridonov,San Francisco,857,closed,2016-04-27 03:55:25,2016-04-27 04:06:20,True,2016-04-27 04:06:20,0
+airbnb/javascript,kripod,Kristóf Poduszló,"Budapest, Hungary",854,closed,2016-04-25 17:32:20,2016-04-25 17:39:49,True,2016-04-25 17:39:49,0
+airbnb/javascript,Oliboy50,Oliver THEBAULT,"Loire/Rhone, France",852,closed,2016-04-24 17:49:48,2016-04-24 17:57:45,True,2016-04-24 17:57:45,0
+airbnb/javascript,taion,Jimmy Jia,New York,850,closed,2016-04-22 16:14:15,2016-04-22 16:18:10,True,2016-04-22 16:18:10,0
+airbnb/javascript,sohkai,Brett Sun,Berlin,849,closed,2016-04-22 11:51:21,2016-04-22 11:52:35,False,,0
+airbnb/javascript,pjerem,Jérémy P.,Nantes,847,closed,2016-04-22 08:22:22,2016-04-22 08:29:23,False,,0
+airbnb/javascript,alexpausan,,,845,closed,2016-04-21 07:23:37,2016-04-21 07:25:23,True,2016-04-21 07:25:23,0
+airbnb/javascript,willseeyou,Amos Chu,"Qingdao, Shandong, China",842,closed,2016-04-20 09:28:35,2016-04-20 15:54:01,False,,0
+airbnb/javascript,rpunkfu,Oskar Cieslik,"Koteże, Poland",841,closed,2016-04-20 08:40:46,2016-04-20 15:55:13,True,2016-04-20 15:55:13,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",838,closed,2016-04-20 00:24:58,2016-04-20 00:52:21,True,2016-04-20 00:52:21,0
+airbnb/javascript,rpunkfu,Oskar Cieslik,"Koteże, Poland",837,closed,2016-04-19 22:58:52,2016-04-20 08:40:00,False,,1
+airbnb/javascript,vintik,Victor Brouk,San Francisco,836,closed,2016-04-19 22:43:28,2016-04-19 23:04:10,True,2016-04-19 23:04:10,0
+airbnb/javascript,vintik,Victor Brouk,San Francisco,835,closed,2016-04-19 22:34:22,2016-04-19 22:37:32,False,,0
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",834,closed,2016-04-19 06:40:10,2016-04-19 06:41:41,True,2016-04-19 06:41:41,0
+airbnb/javascript,bae-unidev,Joy,"Seoul, Korea",833,closed,2016-04-19 06:16:22,2016-04-19 07:45:02,True,2016-04-19 07:45:02,2
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",829,closed,2016-04-16 19:03:11,2016-04-19 22:35:22,True,2016-04-19 22:35:21,25
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",827,closed,2016-04-14 16:07:51,2016-04-14 16:31:14,True,2016-04-14 16:31:14,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",826,closed,2016-04-14 05:38:33,2016-04-16 02:21:20,True,2016-04-16 02:21:19,2
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",825,closed,2016-04-13 22:15:01,2016-04-14 00:55:14,True,2016-04-14 00:55:14,4
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",824,closed,2016-04-13 21:25:39,2016-04-13 22:28:02,True,2016-04-13 22:28:02,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",822,closed,2016-04-12 22:28:49,2016-04-14 05:32:01,True,2016-04-14 05:32:01,0
+airbnb/javascript,FGRibreau,Francois-Guillaume Ribreau,France,821,closed,2016-04-12 09:42:59,2016-04-12 09:43:30,False,,0
+airbnb/javascript,chentsulin,C. T. Lin,"Taipei, Taiwan",820,closed,2016-04-12 04:47:00,2016-04-12 05:41:31,True,2016-04-12 05:41:31,5
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",816,closed,2016-04-08 19:48:28,2016-04-09 02:24:58,True,2016-04-09 02:24:58,0
+airbnb/javascript,brettwsanders,Brett Sanders,"San Francisco, CA",815,closed,2016-04-07 17:45:48,2016-04-07 21:21:09,True,2016-04-07 21:21:09,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",813,closed,2016-04-06 21:39:20,2016-04-06 22:04:51,True,2016-04-06 22:04:51,2
+airbnb/javascript,kbravest,Kevin Bravestone,,810,closed,2016-04-05 00:10:27,2016-04-05 00:16:34,True,2016-04-05 00:16:34,0
+airbnb/javascript,peterkuiper,Peter Kuiper,The Netherlands,809,closed,2016-04-04 12:21:27,2016-04-04 16:22:53,True,2016-04-04 16:22:53,0
+airbnb/javascript,Mohamed-amin,Amin,Amsterdam,808,closed,2016-04-04 07:40:00,2016-04-04 07:41:27,True,2016-04-04 07:41:27,0
+airbnb/javascript,softwarespot,SoftwareSpot,,807,closed,2016-04-03 17:02:05,2016-04-03 17:35:23,False,,0
+airbnb/javascript,softwarespot,SoftwareSpot,,806,closed,2016-04-03 16:44:26,2016-04-08 18:34:04,False,,0
+airbnb/javascript,clickthisnick,Nick Smith,New York,805,closed,2016-04-03 13:59:47,2016-04-03 15:15:04,True,2016-04-03 15:15:04,0
+airbnb/javascript,yarunluon,Yarun Luon,"SF Bay Area, CA",802,closed,2016-04-01 01:20:12,2016-04-01 05:45:21,True,2016-04-01 05:45:21,0
+airbnb/javascript,saadq,Saad Quadri,"Seattle, WA",800,closed,2016-03-30 06:52:18,2016-03-30 07:30:42,True,2016-03-30 07:30:42,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",798,closed,2016-03-27 06:29:07,2016-03-28 20:53:11,True,2016-03-28 20:53:11,0
+airbnb/javascript,juanscolari,Juan Scolari,Prague,796,closed,2016-03-22 00:04:49,2016-03-22 00:07:50,True,2016-03-22 00:07:49,0
+airbnb/javascript,juanscolari,Juan Scolari,Prague,795,closed,2016-03-21 23:10:50,2016-03-21 23:46:57,False,,0
+airbnb/javascript,Arnavion,Arnav Singh,,793,closed,2016-03-21 05:40:44,2016-03-21 05:47:41,True,2016-03-21 05:47:41,0
+airbnb/javascript,timche,Tim Cheung,"London, United Kingdom",790,closed,2016-03-15 14:13:35,2016-03-15 16:06:50,True,2016-03-15 16:06:50,0
+airbnb/javascript,JeremyBernier,Jeremy Bernier,Earth,789,closed,2016-03-14 16:14:36,2016-03-14 17:06:02,False,,0
+airbnb/javascript,TimDaub,Tim Daubenschütz,Berlin,787,closed,2016-03-11 08:42:20,2016-03-11 16:44:40,True,2016-03-11 16:44:40,0
+airbnb/javascript,aaqibhabib,Aaqib Habib,New York,785,closed,2016-03-10 21:30:56,2016-04-03 01:08:42,False,,0
+airbnb/javascript,jabacchetta,Jason Bacchetta,"Fort Worth, Texas",783,closed,2016-03-10 01:29:46,2016-03-10 01:32:47,True,2016-03-10 01:32:47,0
+airbnb/javascript,gilbox,Gil Birman,,782,closed,2016-03-09 17:02:13,2016-03-21 22:10:05,True,2016-03-21 22:10:05,4
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",780,closed,2016-03-08 18:30:06,2016-03-08 18:39:13,True,2016-03-08 18:39:13,0
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",778,closed,2016-03-07 07:13:59,2016-03-07 07:17:44,True,2016-03-07 07:17:44,0
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",777,closed,2016-03-07 04:19:49,2016-03-07 04:30:42,False,,0
+airbnb/javascript,fxmaxvl,Maks Sadowsky,"Ukraine, Kiev",776,closed,2016-03-06 09:10:04,2016-03-07 06:35:23,True,2016-03-07 06:35:23,0
+airbnb/javascript,jontejada,Jon Tejada,"San Francisco, CA",775,closed,2016-03-03 23:21:59,2016-03-03 23:23:28,True,2016-03-03 23:23:28,0
+airbnb/javascript,petersendidit,David Petersen,"Austin, Texas",772,closed,2016-03-02 15:18:23,2016-03-05 22:31:58,True,2016-03-05 22:31:58,0
+airbnb/javascript,maduhaime,Marc-Antoine Duhaime,"Montréal,Qc, Canada",771,closed,2016-03-02 14:43:19,2016-03-02 16:28:50,True,2016-03-02 16:28:50,0
+airbnb/javascript,incleaf,Hyeonsu Lee,"Seoul, South Korea",770,closed,2016-03-02 01:26:00,2016-03-02 01:29:32,True,2016-03-02 01:29:32,0
+airbnb/javascript,chief10,,"Los Angeles, CA",768,closed,2016-03-01 21:31:58,2016-03-01 21:45:16,True,2016-03-01 21:45:16,0
+airbnb/javascript,afeld,Aidan Feldman,"Brooklyn, NY",767,closed,2016-03-01 17:04:17,2016-03-01 18:58:50,False,,0
+airbnb/javascript,chollier,Loic CHOLLIER,San Francisco,765,closed,2016-02-25 17:43:29,2016-02-25 17:43:53,False,,0
+airbnb/javascript,blurrah,Boris Besemer,"Arnhem, The Netherlands",764,closed,2016-02-25 08:14:16,2016-02-25 16:27:45,True,2016-02-25 16:27:45,0
+airbnb/javascript,geekjuice,Nicholas Hwang,"Los Angeles, CA",763,closed,2016-02-24 18:57:18,2016-02-24 19:23:26,True,2016-02-24 19:23:26,0
+airbnb/javascript,jahvi,Javier Villanueva,"Bournemouth, UK",762,closed,2016-02-24 11:04:01,2016-02-24 16:55:39,True,2016-02-24 16:55:39,0
+airbnb/javascript,dbowsbsk,David Bows,"Waltham, MA",760,closed,2016-02-23 12:20:05,2016-02-23 20:54:43,False,,0
+airbnb/javascript,felixsanz,Félix Sanz,Madrid,757,closed,2016-02-23 00:25:26,2016-02-23 00:54:49,True,2016-02-23 00:54:49,0
+airbnb/javascript,NakShi,,,756,closed,2016-02-22 23:42:14,2016-02-22 23:52:09,True,2016-02-22 23:52:09,0
+airbnb/javascript,felixsanz,Félix Sanz,Madrid,755,closed,2016-02-22 23:34:57,2016-02-23 00:27:00,False,,2
+airbnb/javascript,armyofgnomes,Robert Stern,Pennsylvania,754,closed,2016-02-22 20:32:14,2016-02-22 20:32:56,False,,0
+airbnb/javascript,maxbeier,Max Beier,Berlin,753,closed,2016-02-22 14:45:01,2016-02-23 18:02:27,True,2016-02-23 18:02:27,4
+airbnb/javascript,Keksike,Cihan Bebek,"Tampere, Finland",749,closed,2016-02-21 19:38:49,2016-02-21 20:13:16,True,2016-02-21 20:13:16,0
+airbnb/javascript,GeyseR,Sergey Fursov,"Russia, Lipetsk",744,closed,2016-02-20 22:32:21,2016-02-21 08:01:07,True,2016-02-21 08:01:07,0
+airbnb/javascript,Vunovati,Vladimir Adamić,Zagreb,742,closed,2016-02-19 16:42:07,2016-02-19 16:42:22,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,730,closed,2016-02-12 20:02:04,2016-02-21 08:51:20,True,2016-02-21 08:51:20,16
+airbnb/javascript,silvenon,Matija Marohnić,"Zagreb, Croatia",729,closed,2016-02-12 19:23:45,2016-02-12 19:26:47,False,,0
+airbnb/javascript,sukrosono,Adi Prasetyo,Central Java Indonesia,724,closed,2016-02-10 19:44:03,2016-02-10 20:02:18,False,,3
+airbnb/javascript,dapids,David Sorrentino,Italy,721,closed,2016-02-09 15:47:45,2016-02-09 15:48:15,False,,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",715,closed,2016-02-04 19:03:38,2016-02-04 23:26:39,True,2016-02-04 23:26:39,0
+airbnb/javascript,RaySinlao,Raymund Sinlao,San Diego,714,closed,2016-02-04 08:02:28,2016-02-04 08:05:21,True,2016-02-04 08:05:21,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",712,closed,2016-02-02 23:34:30,2016-02-03 21:04:52,True,2016-02-03 21:04:51,12
+airbnb/javascript,johangirod,Johan Girod,Albi,711,closed,2016-02-02 15:28:42,2016-02-12 20:04:23,False,,0
+airbnb/javascript,steverydzmb,,,709,closed,2016-02-01 14:22:23,2016-02-01 14:29:05,False,,0
+airbnb/javascript,prayagverma,Prayag Verma ,Noida,707,closed,2016-01-30 05:12:45,2016-01-30 07:32:24,True,2016-01-30 07:32:24,0
+airbnb/javascript,MissedMemo,Andrew Lloyd,"Berkeley, CA",706,closed,2016-01-29 19:54:50,2016-01-29 19:56:54,False,,0
+airbnb/javascript,framerate,Justin Reynard,"Los Angeles, CA",703,closed,2016-01-28 23:52:18,2016-01-29 00:26:36,False,,0
+airbnb/javascript,marksanghoonkim,Mark Sanghoon Kim,,702,closed,2016-01-28 07:16:06,2016-01-28 07:23:06,True,2016-01-28 07:23:06,0
+airbnb/javascript,fredrikolovsson,Fredrik Olovsson,,701,closed,2016-01-27 10:56:52,2016-01-27 17:20:20,True,2016-01-27 17:20:20,0
+airbnb/javascript,LarryBattle,Larry Battle,Texas,700,closed,2016-01-27 05:59:16,2016-01-27 06:04:23,True,2016-01-27 06:04:23,0
+airbnb/javascript,ethanrubio,Ethaniel Rubio,"Los Angeles, CA",699,closed,2016-01-26 23:09:13,2016-01-26 23:10:17,True,2016-01-26 23:10:17,0
+airbnb/javascript,apaleslimghost,Kara Brightwell,London,698,closed,2016-01-26 14:21:03,2016-01-26 17:15:27,True,2016-01-26 17:15:27,0
+airbnb/javascript,alejofernandez,Alejo Fernandez,,697,closed,2016-01-26 13:09:41,2016-01-26 13:22:47,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,695,closed,2016-01-26 06:00:11,2016-01-26 06:40:21,True,2016-01-26 06:40:21,0
+airbnb/javascript,danielrussellLA,Daniel Russell,"Austin, TX",692,closed,2016-01-25 04:52:36,2016-01-25 05:18:51,True,2016-01-25 05:18:51,0
+airbnb/javascript,dapids,David Sorrentino,Italy,691,closed,2016-01-22 10:46:27,2016-01-22 16:53:33,True,2016-01-22 16:53:33,0
+airbnb/javascript,rickyeh,Rick Yeh,"Los Angeles, CA",690,closed,2016-01-22 06:56:22,2016-01-22 06:57:25,True,2016-01-22 06:57:25,0
+airbnb/javascript,brettjurgens,Brett Jurgens,"San Francisco, CA",689,closed,2016-01-20 21:15:03,2016-01-20 21:16:11,True,2016-01-20 21:16:11,0
+airbnb/javascript,joaomilho,Juan Lulkin,"Stockholm, Sweden",688,closed,2016-01-20 14:54:17,2016-01-21 21:17:47,True,2016-01-21 21:17:47,12
+airbnb/javascript,joaomilho,Juan Lulkin,"Stockholm, Sweden",687,closed,2016-01-20 14:47:42,2016-01-20 16:57:16,False,,0
+airbnb/javascript,sveinhal,Svein Halvor Halvorsen,"Oslo, Norway",686,closed,2016-01-19 12:08:23,2016-01-19 18:15:51,True,2016-01-19 18:15:51,0
+airbnb/javascript,kvzivn,Kevin Ivan,here and there,683,closed,2016-01-17 13:57:00,2016-01-20 02:02:42,True,2016-01-20 02:02:42,0
+airbnb/javascript,hzoo,Henry Zhu,,682,closed,2016-01-17 02:47:45,2016-01-18 02:10:49,True,2016-01-18 02:10:49,2
+airbnb/javascript,prayagverma,Prayag Verma ,Noida,681,closed,2016-01-16 12:03:59,2016-01-16 19:02:34,True,2016-01-16 19:02:34,0
+airbnb/javascript,willseeyou,Amos Chu,"Qingdao, Shandong, China",680,closed,2016-01-16 06:09:31,2016-01-16 06:09:48,False,,0
+airbnb/javascript,jshen212,Jeff Shen,"Los Angeles, CA",679,closed,2016-01-15 07:30:24,2016-01-22 17:52:15,True,2016-01-22 17:52:15,0
+airbnb/javascript,simono,Simon Olofsson,"Cologne, Germany",678,closed,2016-01-14 16:03:53,2016-01-15 16:33:58,True,2016-01-15 16:33:58,2
+airbnb/javascript,simono,Simon Olofsson,"Cologne, Germany",677,closed,2016-01-13 16:32:52,2016-01-13 16:36:05,True,2016-01-13 16:36:05,0
+airbnb/javascript,simono,Simon Olofsson,"Cologne, Germany",676,closed,2016-01-13 12:02:31,2016-01-13 20:19:56,True,2016-01-13 20:19:56,0
+airbnb/javascript,simono,Simon Olofsson,"Cologne, Germany",675,closed,2016-01-13 11:25:45,2016-01-13 16:26:03,True,2016-01-13 16:26:03,0
+airbnb/javascript,pgeiss,Peter Geiss,New York,674,closed,2016-01-12 22:28:31,2016-01-14 04:15:38,True,2016-01-14 04:15:38,0
+airbnb/javascript,bgits,Barry G,Earth,673,closed,2016-01-11 23:41:24,2016-02-02 18:33:25,True,2016-02-02 18:33:25,12
+airbnb/javascript,johnmanong,John Ong,"New York, NY",669,closed,2016-01-08 20:31:50,2016-01-08 20:32:34,False,,0
+airbnb/javascript,sahat,Sahat Yalkabov,Remote,668,closed,2016-01-08 06:10:33,2016-01-08 06:15:49,False,,0
+airbnb/javascript,foray1010,Alex Young,Hong Kong,667,closed,2016-01-08 03:48:42,2016-01-08 07:22:33,False,,2
+airbnb/javascript,silvenon,Matija Marohnić,"Zagreb, Croatia",664,closed,2016-01-07 00:16:12,2016-01-07 01:03:58,True,2016-01-07 01:03:58,0
+airbnb/javascript,silvenon,Matija Marohnić,"Zagreb, Croatia",663,closed,2016-01-06 23:19:14,2016-01-06 23:22:11,True,2016-01-06 23:22:11,0
+airbnb/javascript,silvenon,Matija Marohnić,"Zagreb, Croatia",662,closed,2016-01-06 22:00:12,2016-01-06 22:02:08,False,,0
+airbnb/javascript,silvenon,Matija Marohnić,"Zagreb, Croatia",661,closed,2016-01-06 21:44:46,2016-01-06 22:58:10,False,,0
+airbnb/javascript,foaly-nr1,Jonny Schmid,"London, UK",658,closed,2016-01-06 11:15:43,2016-01-06 16:27:12,True,2016-01-06 16:27:12,0
+airbnb/javascript,mccambridge,Sean McCambridge,Charleston,657,closed,2016-01-05 22:13:51,2016-01-05 22:15:57,True,2016-01-05 22:15:57,0
+airbnb/javascript,eddiemonge,Eddie Monge Jr,California,656,closed,2016-01-04 22:12:13,2016-01-13 23:08:37,True,2016-01-13 23:08:37,3
+airbnb/javascript,awitherow,Austin Witherow,Remote,655,closed,2016-01-04 15:20:13,2016-01-04 19:03:18,True,2016-01-04 19:03:18,0
+airbnb/javascript,strburst,Allen Zheng,SF Bay Area,652,closed,2016-01-01 01:40:03,2016-01-01 17:16:48,True,2016-01-01 17:16:48,0
+airbnb/javascript,gergoerdosi,Gergő Erdősi,"Budapest, Hungary",651,closed,2015-12-31 00:39:41,2015-12-31 01:45:52,True,2015-12-31 01:45:52,0
+airbnb/javascript,NigelKibodeaux,Nigel Kibodeaux,"Anchorage, AK",650,closed,2015-12-30 20:16:53,2015-12-30 20:17:14,False,,0
+airbnb/javascript,AlicanC,Alican Çubukçuoğlu,"Istanbul, Turkey",649,closed,2015-12-29 23:55:51,2015-12-29 23:59:17,True,2015-12-29 23:59:17,0
+airbnb/javascript,yuyokk,Iurii Kucherov,,648,closed,2015-12-29 21:54:51,2015-12-29 23:32:39,True,2015-12-29 23:32:39,0
+airbnb/javascript,AlicanC,Alican Çubukçuoğlu,"Istanbul, Turkey",647,closed,2015-12-29 17:57:00,2015-12-29 23:47:26,True,2015-12-29 23:47:26,4
+airbnb/javascript,rajansubedi32,,,645,closed,2015-12-29 17:28:01,2015-12-29 18:40:37,False,,0
+airbnb/javascript,rajansubedi32,,,644,closed,2015-12-29 17:24:25,2015-12-29 17:25:18,False,,0
+airbnb/javascript,AlicanC,Alican Çubukçuoğlu,"Istanbul, Turkey",643,closed,2015-12-29 17:13:28,2015-12-29 17:26:24,True,2015-12-29 17:26:24,0
+airbnb/javascript,chrisngobanh,Christopher Banh,"Irvine, California",639,closed,2015-12-24 02:00:41,2015-12-24 16:35:04,True,2015-12-24 16:35:04,2
+airbnb/javascript,evenfrost,Aleksey Kislov,"Minsk, Belarus",637,closed,2015-12-23 14:37:44,2015-12-24 16:35:26,True,2015-12-24 16:35:26,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",636,closed,2015-12-23 06:48:41,2015-12-23 19:44:40,True,2015-12-23 19:44:40,0
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",635,closed,2015-12-22 19:55:51,2015-12-22 20:07:04,True,2015-12-22 20:07:04,2
+airbnb/javascript,lencioni,Joe Lencioni,"Northfield, Minnesota, USA",634,closed,2015-12-22 19:44:04,2015-12-22 19:47:34,True,2015-12-22 19:47:34,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",632,closed,2015-12-22 17:50:01,2016-01-04 21:36:34,True,2016-01-04 21:36:34,2
+airbnb/javascript,Fakerr,Walid Berrahal,"Tunis, Tunisia",631,closed,2015-12-21 22:03:56,2015-12-21 22:23:44,False,,0
+airbnb/javascript,trshafer,Thomas Shafer,"Seattle, WA",627,closed,2015-12-16 23:42:23,2015-12-17 19:25:13,True,2015-12-17 19:25:13,7
+airbnb/javascript,colevoss,Cole Voss,"Lincoln, NE",624,closed,2015-12-16 17:50:28,2015-12-17 00:20:44,False,,5
+airbnb/javascript,billyjanitsch,Billy Janitsch,NYC,622,closed,2015-12-15 21:01:59,2015-12-15 21:03:17,True,2015-12-15 21:03:16,0
+airbnb/javascript,camazorro,Gerardo Renovales,"Lakeland, FL",620,closed,2015-12-14 20:07:28,2015-12-15 00:21:02,True,2015-12-15 00:21:02,0
+airbnb/javascript,kesne,Jordan Gensler,"San Francisco, CA",619,closed,2015-12-14 02:40:02,2015-12-23 23:04:00,True,2015-12-23 23:04:00,8
+airbnb/javascript,kesne,Jordan Gensler,"San Francisco, CA",618,closed,2015-12-12 02:48:41,2015-12-12 07:17:25,True,2015-12-12 07:17:25,8
+airbnb/javascript,frenzzy,Vladimir Kutepov,"Saint Petersburg, Russia",617,closed,2015-12-11 08:39:16,2015-12-11 08:55:22,True,2015-12-11 08:55:22,2
+airbnb/javascript,winterbe,Benjamin Winterberg,Germany,615,closed,2015-12-09 09:54:47,2015-12-09 09:58:14,True,2015-12-09 09:58:14,0
+airbnb/javascript,freesteph,Stéphane Maniaci,"London, United Kingdom",613,closed,2015-12-07 13:18:38,2015-12-07 19:15:49,False,,0
+airbnb/javascript,jtangelder,J. Tangelder,"Zürich, Switzerland",610,closed,2015-12-04 10:56:02,2015-12-04 11:08:32,False,,0
+airbnb/javascript,jzarzeckis,Jānis Zaržeckis,"Riga, Latvia",609,closed,2015-12-04 08:56:57,2015-12-04 08:57:25,False,,0
+airbnb/javascript,goatslacker,Josh Perez,"San Jose, CA",608,closed,2015-12-03 23:41:26,2015-12-03 23:47:53,True,2015-12-03 23:47:52,0
+airbnb/javascript,JonAbrams,Jon Abrams,"San Mateo, CA",607,closed,2015-12-03 22:38:04,2015-12-03 22:41:41,True,2015-12-03 22:41:41,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",606,closed,2015-12-03 08:09:48,2015-12-03 21:16:51,True,2015-12-03 21:16:51,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",605,closed,2015-12-03 07:05:24,2015-12-03 21:33:45,True,2015-12-03 21:33:45,3
+airbnb/javascript,camazorro,Gerardo Renovales,"Lakeland, FL",604,closed,2015-12-03 04:11:33,2015-12-03 04:58:08,True,2015-12-03 04:58:08,0
+airbnb/javascript,kesne,Jordan Gensler,"San Francisco, CA",602,closed,2015-12-02 20:25:39,2015-12-02 20:26:57,True,2015-12-02 20:26:57,0
+airbnb/javascript,camazorro,Gerardo Renovales,"Lakeland, FL",601,closed,2015-12-02 18:48:27,2015-12-02 21:36:16,False,,0
+airbnb/javascript,zwhitchcox,Zane Hitchcox,"Knoxville, TN",600,closed,2015-12-02 17:48:55,2015-12-02 21:46:57,True,2015-12-02 21:46:57,0
+airbnb/javascript,camazorro,Gerardo Renovales,"Lakeland, FL",599,closed,2015-12-02 15:41:56,2015-12-02 18:14:01,False,,0
+airbnb/javascript,pigoz,Stefano Pigozzi,Italy,594,closed,2015-11-28 12:40:45,2015-11-30 23:18:50,True,2015-11-30 23:18:50,1
+airbnb/javascript,ariporad,Ari Porad,"Seattle, WA | Boston, MA",592,closed,2015-11-26 04:49:04,2015-11-26 06:55:51,True,2015-11-26 06:55:51,0
+airbnb/javascript,nosajio,Jason Howmans,Manchester,591,closed,2015-11-25 13:34:11,2015-11-25 13:34:54,False,,0
+airbnb/javascript,styliii,Li Ouyang,NYC,586,closed,2015-11-20 01:26:17,2015-11-20 01:27:04,False,,0
+airbnb/javascript,svenheden,Jonathan Svenheden,,584,closed,2015-11-17 18:13:26,2015-11-17 19:58:18,True,2015-11-17 19:58:18,0
+airbnb/javascript,prestonvanloon,Preston Van Loon,"Nashville, TN",583,closed,2015-11-16 22:28:48,2015-11-16 22:29:44,False,,0
+airbnb/javascript,jkrems,Jan Olaf Krems,California,582,closed,2015-11-16 21:46:28,2015-12-15 07:49:00,True,2015-12-15 07:49:00,0
+airbnb/javascript,tikotzky,Mordy Tikotzky,,581,closed,2015-11-13 18:57:45,2015-12-24 02:56:40,True,2015-12-24 02:56:40,14
+airbnb/javascript,teamcreed,hyrax.io,U.S.A.,580,closed,2015-11-13 05:44:41,2016-03-02 00:18:16,False,,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,579,closed,2015-11-12 07:14:53,2016-01-04 19:38:20,True,2016-01-04 19:38:20,9
+airbnb/javascript,adrienverge,Adrien Vergé,,578,closed,2015-11-11 18:29:16,2015-11-11 18:57:24,True,2015-11-11 18:57:24,0
+airbnb/javascript,jzarzeckis,Jānis Zaržeckis,"Riga, Latvia",576,closed,2015-11-11 12:24:32,2015-12-23 20:12:07,True,2015-12-23 20:12:07,0
+airbnb/javascript,SimenB,Simen Bekkhus,"Oslo, Norway",575,closed,2015-11-10 14:32:46,2016-01-07 18:24:48,True,2016-01-07 18:24:48,0
+airbnb/javascript,dsgriffin,Daniel Griffin,"London, United Kingdom",574,closed,2015-11-09 12:25:40,2015-11-09 20:18:12,False,,4
+airbnb/javascript,joscha,Joscha Feth,"Sydney, Australia",572,closed,2015-11-09 03:44:26,2015-11-09 05:36:10,True,2015-11-09 05:36:10,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",570,closed,2015-11-06 23:19:48,2015-11-07 00:36:22,True,2015-11-07 00:36:22,3
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,569,closed,2015-11-05 23:33:48,2015-11-05 23:35:20,True,2015-11-05 23:35:20,0
+airbnb/javascript,isair,Baris Sencan,London,568,closed,2015-11-05 21:19:53,2015-11-05 21:30:17,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,566,closed,2015-11-04 10:13:53,2015-11-04 10:13:56,True,2015-11-04 10:13:56,0
+airbnb/javascript,ReadmeCritic,,,564,closed,2015-11-03 04:11:57,2015-11-04 10:07:13,True,2015-11-04 10:07:13,0
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",563,closed,2015-11-02 17:55:35,2015-11-05 23:46:56,False,,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",562,closed,2015-10-31 20:51:29,2015-11-03 07:33:30,True,2015-11-03 07:33:30,0
+airbnb/javascript,adrienverge,Adrien Vergé,,561,closed,2015-10-30 16:04:15,2015-10-30 17:49:53,True,2015-10-30 17:49:53,0
+airbnb/javascript,rhbecker,RH Becker,,560,closed,2015-10-30 05:47:24,2015-10-30 05:48:46,True,2015-10-30 05:48:46,0
+airbnb/javascript,teamcreed,hyrax.io,U.S.A.,557,closed,2015-10-25 23:27:11,2015-11-05 23:26:47,False,,1
+airbnb/javascript,mjkaufer,Matthew Kaufer,"San Francisco, CA",556,closed,2015-10-23 15:12:14,2015-11-04 10:14:00,False,,2
+airbnb/javascript,mr-sudaca,Jhon Henry Quintero,Colombia,555,closed,2015-10-23 14:02:35,2015-10-23 14:02:48,False,,0
+airbnb/javascript,adrienverge,Adrien Vergé,,554,closed,2015-10-23 08:39:30,2015-10-23 16:11:47,True,2015-10-23 16:11:47,0
+airbnb/javascript,teamcreed,hyrax.io,U.S.A.,553,closed,2015-10-22 21:48:46,2015-12-23 20:18:42,False,,0
+airbnb/javascript,majapw,Maja Wichrowska,"San Francisco, CA",551,closed,2015-10-21 00:31:32,2015-11-04 10:17:53,True,2015-11-04 10:17:53,0
+airbnb/javascript,minoobeyzavi,Minoo Beyzavi,San Francisco Bay Area,549,closed,2015-10-17 06:58:19,2015-11-05 23:32:13,False,,0
+airbnb/javascript,chrisngobanh,Christopher Banh,"Irvine, California",547,closed,2015-10-16 01:24:27,2015-11-06 00:45:47,True,2015-11-06 00:45:47,2
+airbnb/javascript,teamcreed,hyrax.io,U.S.A.,546,closed,2015-10-15 20:08:58,2015-10-15 21:35:36,False,,0
+airbnb/javascript,krilo,Kristofer Forsell,Amsterdam,545,closed,2015-10-15 11:55:02,2015-10-15 11:55:54,False,,0
+airbnb/javascript,geekjuice,Nicholas Hwang,"Los Angeles, CA",544,closed,2015-10-14 03:24:13,2015-10-14 04:31:29,True,2015-10-14 04:31:28,0
+airbnb/javascript,ludofischer,Ludovico Fischer,,542,closed,2015-10-12 20:07:07,2016-04-20 05:16:16,False,,0
+airbnb/javascript,kogai,Shinichi Kogai,Japan/Tokyo,541,closed,2015-10-07 07:57:11,2015-10-07 07:57:26,False,,0
+airbnb/javascript,amsardesai,Ankit Sardesai,"Toronto, ON",537,closed,2015-10-04 07:30:44,2015-10-08 19:03:51,False,,0
+airbnb/javascript,amsardesai,Ankit Sardesai,"Toronto, ON",536,closed,2015-10-04 07:17:01,2015-12-23 20:17:27,True,2015-12-23 20:17:27,0
+airbnb/javascript,cooperka,Kevin Cooper,"San Francisco, CA",534,closed,2015-10-01 22:14:03,2015-10-05 22:41:04,True,2015-10-05 22:41:04,0
+airbnb/javascript,gmccue,Gregory McCue,,533,closed,2015-10-01 09:36:26,2015-10-01 17:14:02,True,2015-10-01 17:14:02,2
+airbnb/javascript,taion,Jimmy Jia,New York,530,closed,2015-09-29 16:19:59,2015-09-29 16:20:35,True,2015-09-29 16:20:35,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,528,closed,2015-09-28 03:04:13,2015-09-28 03:04:23,True,2015-09-28 03:04:23,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,527,closed,2015-09-28 02:39:49,2015-09-28 02:53:55,True,2015-09-28 02:53:55,0
+airbnb/javascript,taion,Jimmy Jia,New York,526,closed,2015-09-25 20:31:16,2015-09-27 19:29:48,True,2015-09-27 19:29:48,4
+airbnb/javascript,luqmaan,Luqmaan Dawoodjee,,525,closed,2015-09-25 20:01:01,2015-09-25 20:07:05,False,,0
+airbnb/javascript,DannyNemer,Danny Nemer,San Francisco,524,closed,2015-09-25 14:04:38,2015-09-25 14:21:27,True,2015-09-25 14:21:27,2
+airbnb/javascript,janraasch,Jan Raasch,"Lübeck, Germany",521,closed,2015-09-23 15:10:12,2015-10-23 05:04:08,False,,0
+airbnb/javascript,axyz,Andrea Moretti,Berlin,519,closed,2015-09-19 21:06:41,2015-09-20 12:09:56,False,,0
+airbnb/javascript,ariporad,Ari Porad,"Seattle, WA | Boston, MA",518,closed,2015-09-18 00:23:42,2015-12-23 20:05:47,False,,3
+airbnb/javascript,sindrenm,Sindre Moen,"Oslo, Norway",517,closed,2015-09-17 09:43:48,2015-09-18 03:19:56,True,2015-09-18 03:19:56,0
+airbnb/javascript,sindrenm,Sindre Moen,"Oslo, Norway",516,closed,2015-09-17 09:22:52,2015-09-23 00:14:19,True,2015-09-23 00:14:19,0
+airbnb/javascript,brad-decker,Brad Decker,"Austin, Tx",514,closed,2015-09-16 18:11:17,2015-12-23 20:03:12,False,,2
+airbnb/javascript,samuelleeuwenburg,Samuel,Netherlands,511,closed,2015-09-16 12:41:15,2015-09-16 13:10:53,False,,0
+airbnb/javascript,Ryan-McBride,Ryan McBride,Oakland CA,508,closed,2015-09-15 18:37:40,2015-12-23 20:05:21,False,,0
+airbnb/javascript,ariporad,Ari Porad,"Seattle, WA | Boston, MA",507,closed,2015-09-14 14:57:53,2015-09-17 01:22:18,False,,0
+airbnb/javascript,ariporad,Ari Porad,"Seattle, WA | Boston, MA",506,closed,2015-09-14 14:54:42,2015-09-17 01:23:05,False,,0
+airbnb/javascript,amsardesai,Ankit Sardesai,"Toronto, ON",505,closed,2015-09-13 01:20:58,2015-09-16 06:59:12,True,2015-09-16 06:59:12,0
+airbnb/javascript,againer,Alex Gainer,La Monde,502,closed,2015-09-10 03:38:54,2015-09-11 21:57:48,True,2015-09-11 21:57:48,0
+airbnb/javascript,Weblors,Shaun,In my head,500,closed,2015-09-09 07:03:26,2015-09-09 07:04:26,True,2015-09-09 07:04:26,0
+airbnb/javascript,honzi,Jan Hořava,Sol 3,499,closed,2015-09-09 03:25:41,2015-09-16 07:09:42,True,2015-09-16 07:09:42,0
+airbnb/javascript,abrkn,Andreas Brekken,St Kitts,497,closed,2015-09-04 16:36:02,2015-09-04 17:26:43,True,2015-09-04 17:26:43,0
+airbnb/javascript,johnmanong,John Ong,"New York, NY",494,closed,2015-08-30 19:01:10,2015-08-31 22:34:46,True,2015-08-31 22:34:46,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",492,closed,2015-08-28 20:57:35,2015-08-28 21:05:25,True,2015-08-28 21:05:25,0
+airbnb/javascript,gilbox,Gil Birman,,491,closed,2015-08-28 18:16:59,2015-09-16 07:08:56,True,2015-09-16 07:08:56,0
+airbnb/javascript,dace,Dace Willmott,"New York, NY",489,closed,2015-08-27 18:56:34,2015-08-28 03:55:07,True,2015-08-28 03:55:07,0
+airbnb/javascript,wyattanderson,Wyatt Anderson,New York City,488,closed,2015-08-26 21:16:27,2015-08-26 21:16:45,False,,0
+airbnb/javascript,tarikozket,Tarik,San Francisco Bay Area,486,closed,2015-08-24 15:38:25,2015-08-24 18:35:34,False,,0
+airbnb/javascript,aaronjensen,Aaron Jensen,"Seattle, WA",484,closed,2015-08-23 07:00:09,2015-08-24 06:20:45,True,2015-08-24 06:20:45,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,482,closed,2015-08-22 03:35:05,2015-08-22 03:35:10,True,2015-08-22 03:35:10,0
+airbnb/javascript,hshoff,Harrison Shoff,,481,closed,2015-08-21 22:09:57,2015-08-21 22:27:42,True,2015-08-21 22:27:42,1
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,480,closed,2015-08-19 22:51:25,2017-10-05 15:53:55,False,,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,479,closed,2015-08-19 01:16:56,2015-08-19 21:10:12,True,2015-08-19 21:10:12,1
+airbnb/javascript,tayre,Tom Ayre,,478,closed,2015-08-18 18:55:25,2015-08-18 19:23:04,True,2015-08-18 19:23:04,0
+airbnb/javascript,RamonGebben,Ramon Gebben,Utrecht,476,closed,2015-08-18 08:13:43,2015-08-18 08:14:12,False,,0
+airbnb/javascript,ljharb,Jordan Harband,"Hillsborough, CA",475,closed,2015-08-18 03:43:07,2015-08-18 18:22:16,True,2015-08-18 18:22:16,0
+airbnb/javascript,chrisngobanh,Christopher Banh,"Irvine, California",474,closed,2015-08-15 02:34:14,2015-08-15 03:12:54,False,,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,472,closed,2015-08-12 09:18:49,2015-08-13 16:44:17,True,2015-08-13 16:44:17,6
+airbnb/javascript,KimDongHwan,Choon-ho Yoon,Santiago,471,closed,2015-08-11 20:27:57,2015-08-11 20:43:09,True,2015-08-11 20:43:09,0
+airbnb/javascript,rohannair,Rohan Nair,"Toronto, ON",469,closed,2015-08-10 16:08:54,2015-08-10 16:10:32,False,,0
+airbnb/javascript,udivankin,allx,"Samara, Russia",468,closed,2015-08-10 11:27:12,2015-08-10 18:11:41,True,2015-08-10 18:11:41,0
+airbnb/javascript,chrisngobanh,Christopher Banh,"Irvine, California",467,closed,2015-08-10 02:50:56,2015-08-10 18:29:36,True,2015-08-10 18:29:36,0
+airbnb/javascript,lauritzsh,Lauritz Hilsøe,"Copenhagen, Denmark",464,closed,2015-08-08 19:13:59,2015-08-08 19:21:42,False,,0
+airbnb/javascript,nkt,Nikita Gusakov,Russia,463,closed,2015-08-08 14:51:09,2015-08-15 00:44:20,True,2015-08-15 00:44:20,0
+airbnb/javascript,slava-sh,Slava Shklyaev,"London, UK",461,closed,2015-08-07 14:44:00,2015-08-18 17:38:30,True,2015-08-18 17:38:30,0
+airbnb/javascript,Kyos,Olivier,,460,closed,2015-08-07 14:40:20,2015-08-07 14:41:02,False,,0
+airbnb/javascript,goatslacker,Josh Perez,"San Jose, CA",459,closed,2015-08-06 20:01:42,2015-08-07 03:41:19,True,2015-08-07 03:41:19,0
+airbnb/javascript,levithomason,Levi Thomason,"Post Falls, Idaho",458,closed,2015-08-06 19:51:29,2015-08-06 19:51:57,False,,0
+airbnb/javascript,naistran,Nathan Tran,Oceania ⇋ Asia,457,closed,2015-08-06 16:56:43,2015-08-06 19:54:03,False,,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,455,closed,2015-08-05 17:45:16,2015-08-05 18:49:54,True,2015-08-05 18:49:54,0
+airbnb/javascript,hshoff,Harrison Shoff,,453,closed,2015-08-04 17:00:24,2015-08-04 17:00:33,True,2015-08-04 17:00:33,0
+airbnb/javascript,thibaudcolas,Thibaud Colas,"Cambridge, UK",452,closed,2015-08-03 10:40:33,2015-08-03 15:24:54,True,2015-08-03 15:24:54,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,449,closed,2015-07-31 00:51:36,2015-07-31 00:57:00,True,2015-07-31 00:57:00,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,448,closed,2015-07-30 21:54:58,2015-07-31 00:40:55,True,2015-07-31 00:40:55,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,447,closed,2015-07-30 18:14:48,2015-08-25 08:17:26,False,,0
+airbnb/javascript,tschuy,Evan Tschuy,"San Francisco, CA",446,closed,2015-07-30 17:03:25,2015-08-18 18:25:30,True,2015-08-18 18:25:30,0
+airbnb/javascript,nkt,Nikita Gusakov,Russia,444,closed,2015-07-30 15:05:20,2015-10-11 16:47:06,False,,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,443,closed,2015-07-29 20:31:29,2015-07-30 21:13:03,False,,8
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,442,closed,2015-07-29 18:32:34,2015-07-29 18:33:25,True,2015-07-29 18:33:25,0
+airbnb/javascript,developerdizzle,Dizzle,,437,closed,2015-07-23 19:12:31,2015-07-23 19:13:54,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,436,closed,2015-07-23 17:29:01,2015-07-24 07:17:22,True,2015-07-24 07:17:22,0
+airbnb/javascript,lvarayut,Varayut Lerdkanlayanawat,"Berlin, Germany",432,closed,2015-07-21 16:13:29,2015-07-23 15:54:28,True,2015-07-23 15:54:28,4
+airbnb/javascript,pascalduez,Pascal Duez,,431,closed,2015-07-20 10:09:36,2015-07-30 21:12:39,True,2015-07-30 21:12:39,0
+airbnb/javascript,jessedijkstra,Jesse Dijkstra,"Utrecht, the Netherlands",428,closed,2015-07-17 09:43:42,2015-07-17 09:44:06,False,,0
+airbnb/javascript,jessedijkstra,Jesse Dijkstra,"Utrecht, the Netherlands",427,closed,2015-07-17 09:39:56,2015-07-17 09:40:13,False,,0
+airbnb/javascript,goatslacker,Josh Perez,"San Jose, CA",425,closed,2015-07-16 17:42:30,2015-07-20 19:26:09,True,2015-07-20 19:26:09,5
+airbnb/javascript,mattdaw,Matt Daw,"Ontario, Canada",424,closed,2015-07-16 00:03:57,2015-07-16 00:04:53,False,,0
+airbnb/javascript,eistrati,eistrati,New York NY,423,closed,2015-07-15 19:58:56,2015-07-15 19:59:16,True,2015-07-15 19:59:16,0
+airbnb/javascript,sospedra,Rubén Sospedra,Barcelona,422,closed,2015-07-15 17:13:50,2015-07-15 18:18:03,True,2015-07-15 18:18:03,0
+airbnb/javascript,chrisngobanh,Christopher Banh,"Irvine, California",421,closed,2015-07-15 16:25:11,2015-12-23 20:52:54,True,2015-12-23 20:52:54,0
+airbnb/javascript,iamstarkov,Vladimir Starkov,"Stockholm, Sweden",420,closed,2015-07-15 16:18:42,2015-07-20 19:24:45,True,2015-07-20 19:24:45,0
+airbnb/javascript,kasperekt,Tomek Kasperek,Poland,418,closed,2015-07-14 21:49:36,2015-08-19 21:28:19,False,,0
+airbnb/javascript,chrisngobanh,Christopher Banh,"Irvine, California",416,closed,2015-07-13 02:31:34,2015-07-29 18:35:33,False,,0
+airbnb/javascript,nkbt,Nikita Butenko,"Sydney, @nkbtnk",415,closed,2015-07-11 23:59:18,2015-07-31 01:04:11,False,,1
+airbnb/javascript,jtangelder,J. Tangelder,"Zürich, Switzerland",413,closed,2015-07-10 12:50:09,2015-07-10 12:53:11,False,,0
+airbnb/javascript,bramschulting,Bram Schulting,The Netherlands,412,closed,2015-07-09 15:30:22,2015-07-09 17:57:25,True,2015-07-09 17:57:25,0
+airbnb/javascript,wangzhiliangcn,,,411,closed,2015-07-08 11:23:23,2015-07-08 17:28:02,False,,0
+airbnb/javascript,denizozger,Deniz Ozger,"Zurich, Switzerland",410,closed,2015-07-08 09:23:41,2015-07-09 06:53:32,True,2015-07-09 06:53:32,0
+airbnb/javascript,benjaminapetersen,Ben Petersen,"Raleigh, NC",409,closed,2015-07-07 15:59:58,2015-07-07 16:38:56,True,2015-07-07 16:38:56,0
+airbnb/javascript,num-lock,,,407,closed,2015-07-07 11:55:15,2015-07-29 18:38:24,False,,0
+airbnb/javascript,fredericksilva,Fred,Earth,405,closed,2015-07-06 18:12:25,2015-07-06 18:17:08,True,2015-07-06 18:17:08,0
+airbnb/javascript,hshoff,Harrison Shoff,,404,closed,2015-07-06 16:18:23,2015-07-29 18:41:04,True,2015-07-29 18:41:04,0
+airbnb/javascript,jonchretien,Jon C.,"New York, NY",403,closed,2015-07-06 15:05:35,2015-07-06 16:14:16,True,2015-07-06 16:14:16,0
+airbnb/javascript,SangameshVK,,,401,closed,2015-07-06 07:56:19,2015-07-06 13:03:45,False,,0
+airbnb/javascript,SangameshVK,,,400,closed,2015-07-05 11:01:20,2015-07-05 16:48:20,False,,0
+airbnb/javascript,Ryan-McBride,Ryan McBride,Oakland CA,399,closed,2015-07-04 17:57:31,2015-07-04 18:41:14,True,2015-07-04 18:41:14,0
+airbnb/javascript,Ryan-McBride,Ryan McBride,Oakland CA,398,closed,2015-07-04 17:50:32,2015-07-04 22:40:23,True,2015-07-04 22:40:23,0
+airbnb/javascript,Ryan-McBride,Ryan McBride,Oakland CA,397,closed,2015-07-04 17:37:49,2015-07-04 17:39:03,True,2015-07-04 17:39:03,0
+airbnb/javascript,Ryan-McBride,Ryan McBride,Oakland CA,396,closed,2015-07-04 17:24:33,2015-07-20 18:46:55,True,2015-07-20 18:46:55,2
+airbnb/javascript,Ryan-McBride,Ryan McBride,Oakland CA,395,closed,2015-07-04 03:09:36,2015-07-29 18:45:30,True,2015-07-29 18:45:30,3
+airbnb/javascript,bettiolo,Marco Bettiolo,"London, UK",384,closed,2015-07-02 14:56:19,2015-07-02 16:39:29,True,2015-07-02 16:39:29,0
+airbnb/javascript,ppollo07,Ariel Porporatto,"Cordoba, Argentina",383,closed,2015-07-02 02:12:39,2015-07-02 02:32:23,False,,0
+airbnb/javascript,framini,Francisco Ramini,Stockholm,382,closed,2015-07-01 20:29:56,2015-07-01 20:44:19,True,2015-07-01 20:44:19,0
+airbnb/javascript,dimitardanailov,Dimitar Danailov,,381,closed,2015-07-01 13:22:59,2015-07-01 16:53:34,True,2015-07-01 16:53:34,0
+airbnb/javascript,rodocite,Rodolfo Yabut,San Francisco,380,closed,2015-07-01 13:22:13,2015-07-02 02:48:01,True,2015-07-02 02:48:01,0
+airbnb/javascript,dimitardanailov,Dimitar Danailov,,379,closed,2015-07-01 13:04:15,2015-07-29 18:48:34,False,,0
+airbnb/javascript,dimitardanailov,Dimitar Danailov,,378,closed,2015-07-01 09:37:41,2015-07-29 18:55:03,False,,0
+airbnb/javascript,dimitardanailov,Dimitar Danailov,,377,closed,2015-07-01 08:30:37,2015-07-01 08:46:57,False,,0
+airbnb/javascript,dimitardanailov,Dimitar Danailov,,376,closed,2015-06-30 14:56:18,2015-07-02 02:48:54,False,,0
+airbnb/javascript,mdarse,Mathieu Darse,Paris,375,closed,2015-06-30 10:40:17,2015-06-30 17:00:24,True,2015-06-30 17:00:24,0
+airbnb/javascript,horaceko,Horace Ko,"San Francisco, CA",374,closed,2015-06-25 18:57:13,2015-06-25 19:02:27,True,2015-06-25 19:02:27,0
+airbnb/javascript,nkt,Nikita Gusakov,Russia,373,closed,2015-06-25 13:31:42,2015-06-25 18:41:21,True,2015-06-25 18:41:21,0
+airbnb/javascript,chrisportela,Chris Portela,,372,closed,2015-06-24 19:51:38,2015-06-24 21:28:44,True,2015-06-24 21:28:44,0
+airbnb/javascript,framini,Francisco Ramini,Stockholm,371,closed,2015-06-24 18:32:03,2015-07-31 01:04:45,False,,0
+airbnb/javascript,M4N0JKUM4R,Manoj Kumar,"Chennai, India",370,closed,2015-06-23 16:45:31,2015-06-23 17:11:19,True,2015-06-23 17:11:19,0
+airbnb/javascript,alsotang,alsotang,"ShenZhen, China",369,closed,2015-06-23 11:43:24,2015-06-24 07:05:23,False,,3
+airbnb/javascript,christophehurpeau,Christophe Hurpeau,"Nantes, France",367,closed,2015-06-22 11:15:03,2015-07-17 20:13:20,True,2015-07-17 20:13:20,3
+airbnb/javascript,tgolen,Tim Golen,,365,closed,2015-06-17 19:30:43,2015-06-17 19:32:10,True,2015-06-17 19:32:10,0
+airbnb/javascript,aniss,Aniss Bouraba,United Kingdom,364,closed,2015-06-17 11:31:24,2015-06-17 14:58:11,True,2015-06-17 14:58:11,0
+airbnb/javascript,carterchung,Carter Chung,,363,closed,2015-06-14 04:56:49,2015-06-14 06:08:44,True,2015-06-14 06:08:44,0
+airbnb/javascript,carterchung,Carter Chung,,362,closed,2015-06-14 04:55:03,2015-06-14 06:08:55,True,2015-06-14 06:08:55,0
+airbnb/javascript,NigelKibodeaux,Nigel Kibodeaux,"Anchorage, AK",361,closed,2015-06-08 20:11:36,2015-06-08 20:12:57,False,,1
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,360,closed,2015-06-08 06:44:00,2015-07-29 18:59:27,False,,0
+airbnb/javascript,ycdesu,YC,"Taipei, Taiwan",359,closed,2015-06-08 05:02:08,2015-06-08 16:17:34,True,2015-06-08 16:17:34,0
+airbnb/javascript,arianf,Arian Faurtosh,,357,closed,2015-06-01 03:25:39,2015-06-19 23:01:09,True,2015-06-19 23:01:09,0
+airbnb/javascript,bhamodi,Baraa Hamodi,"San Francisco, CA",356,closed,2015-05-28 06:58:37,2015-05-28 07:00:01,True,2015-05-28 07:00:00,0
+airbnb/javascript,fdeurioste,,,354,closed,2015-05-27 13:29:46,2015-05-27 13:30:19,False,,0
+airbnb/javascript,joaosamouco,João Samouco,Portugal,353,closed,2015-05-25 16:04:16,2015-05-25 16:57:10,False,,0
+airbnb/javascript,sivan,Sivan,"Beijing/Wuhan, China",352,closed,2015-05-25 14:26:50,2015-06-17 15:37:35,True,2015-06-17 15:37:35,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,350,closed,2015-05-22 18:07:13,2015-05-26 18:03:30,True,2015-05-26 18:03:30,0
+airbnb/javascript,goatslacker,Josh Perez,"San Jose, CA",347,closed,2015-05-18 21:10:31,2015-05-18 21:40:50,True,2015-05-18 21:40:50,1
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,346,closed,2015-05-18 18:58:16,2015-05-18 21:21:08,True,2015-05-18 21:21:08,0
+airbnb/javascript,hshoff,Harrison Shoff,,343,closed,2015-05-14 00:53:18,2015-05-14 01:01:47,True,2015-05-14 01:01:47,0
+airbnb/javascript,michaeldeol,Michael Deol,"Costa Mesa, CA",341,closed,2015-05-12 19:00:22,2015-05-12 19:09:18,True,2015-05-12 19:09:18,0
+airbnb/javascript,michaeldeol,Michael Deol,"Costa Mesa, CA",340,closed,2015-05-12 18:39:26,2015-05-12 18:53:26,True,2015-05-12 18:53:26,0
+airbnb/javascript,Xuhao,Xuhao,Shanghai,338,closed,2015-05-11 16:01:32,2015-05-11 16:02:45,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,337,closed,2015-05-07 18:36:11,2015-05-07 19:15:00,True,2015-05-07 19:15:00,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,333,closed,2015-05-05 07:51:05,2015-05-05 08:21:10,True,2015-05-05 08:21:10,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,332,closed,2015-05-01 22:14:47,2015-06-25 21:21:48,True,2015-06-25 21:21:48,0
+airbnb/javascript,alvinsng,Alvin Sng,"San Francisco, CA",331,closed,2015-04-29 23:05:41,2015-04-30 20:10:00,True,2015-04-30 20:10:00,18
+airbnb/javascript,hshoff,Harrison Shoff,,330,closed,2015-04-29 19:26:31,2015-04-29 19:26:50,True,2015-04-29 19:26:50,0
+airbnb/javascript,hshoff,Harrison Shoff,,329,closed,2015-04-29 18:50:25,2015-04-29 18:53:44,True,2015-04-29 18:53:44,2
+airbnb/javascript,hshoff,Harrison Shoff,,328,closed,2015-04-29 17:40:50,2015-04-29 17:49:22,True,2015-04-29 17:49:22,0
+airbnb/javascript,hshoff,Harrison Shoff,,327,closed,2015-04-29 17:08:03,2015-04-29 17:22:59,True,2015-04-29 17:22:59,0
+airbnb/javascript,ericqweinstein,Eric Weinstein,Los Angeles,326,closed,2015-04-28 17:32:16,2015-04-28 17:33:35,False,,0
+airbnb/javascript,nkt,Nikita Gusakov,Russia,324,closed,2015-04-25 15:25:37,2015-04-28 17:30:22,True,2015-04-28 17:30:22,0
+airbnb/javascript,kzsh,Andrew Hunt,,322,closed,2015-04-23 13:12:45,2015-04-28 00:43:30,True,2015-04-28 00:43:30,2
+airbnb/javascript,uzumaxy,Max,Ukraine,321,closed,2015-04-23 12:27:04,2015-04-23 19:59:11,True,2015-04-23 19:59:11,0
+airbnb/javascript,heff,Steve Heffernan,San Francisco,320,closed,2015-04-22 00:56:59,2015-04-22 02:00:11,False,,0
+airbnb/javascript,jensechu,Jensen Kuras,,318,closed,2015-04-20 23:20:27,2015-04-20 23:57:11,True,2015-04-20 23:57:11,0
+airbnb/javascript,hshoff,Harrison Shoff,,317,closed,2015-04-19 22:42:45,2015-04-20 00:55:03,True,2015-04-20 00:55:03,0
+airbnb/javascript,hshoff,Harrison Shoff,,316,closed,2015-04-19 01:00:56,2015-04-20 02:31:24,True,2015-04-20 02:31:24,10
+airbnb/javascript,sinkswim,,"New York, NY",315,closed,2015-04-17 22:17:23,2015-04-18 18:41:37,True,2015-04-18 18:41:37,0
+airbnb/javascript,nag5000,Aleksey Nagovitsyn,"Russia, Perm",314,closed,2015-04-17 13:45:26,2015-04-17 15:28:46,True,2015-04-17 15:28:46,0
+airbnb/javascript,lvarayut,Varayut Lerdkanlayanawat,"Berlin, Germany",312,closed,2015-04-16 03:17:44,2015-04-16 04:20:33,True,2015-04-16 04:20:33,0
+airbnb/javascript,ck1125,Eli Ezeugoh,,310,closed,2015-04-14 11:20:33,2015-04-27 23:39:45,False,,0
+airbnb/javascript,jasonTheNorris,Jason Norris,United States,308,closed,2015-04-13 23:39:06,2015-04-14 05:39:48,False,,0
+airbnb/javascript,matiassingers,Matias Singers,Singapore,305,closed,2015-04-12 12:45:11,2015-04-12 20:13:36,True,2015-04-12 20:13:36,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,304,closed,2015-04-11 10:46:19,2015-04-12 20:15:33,True,2015-04-12 20:15:33,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,303,closed,2015-04-11 10:42:37,2015-04-11 10:44:31,False,,0
+airbnb/javascript,dschwertfeger,David Schwertfeger,Berlin,302,closed,2015-04-10 13:38:27,2015-04-10 18:33:29,True,2015-04-10 18:33:29,0
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,300,closed,2015-04-09 22:13:15,2015-04-28 17:25:47,True,2015-04-28 17:25:47,0
+airbnb/javascript,defli,Can Küçükyılmaz,Turkey / İstanbul,299,closed,2015-04-09 08:12:42,2015-04-27 23:49:00,False,,0
+airbnb/javascript,tesk9,Tessa,,298,closed,2015-04-08 19:20:19,2015-04-12 20:17:19,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,295,closed,2015-04-07 01:01:52,2015-04-07 01:02:06,True,2015-04-07 01:02:06,0
+airbnb/javascript,honzi,Jan Hořava,Sol 3,293,closed,2015-04-05 21:53:20,2015-04-06 04:03:36,True,2015-04-06 04:03:36,0
+airbnb/javascript,sunshinewyin,Sunshine Yin,"San Francisco, CA",292,closed,2015-04-05 20:06:48,2015-04-08 17:52:36,True,2015-04-08 17:52:36,0
+airbnb/javascript,sh6khan,Sadman Khan,,291,closed,2015-04-05 07:13:30,2015-04-05 19:29:06,False,,0
+airbnb/javascript,EndangeredMassa,Sean Massa,"Chicago, IL",290,closed,2015-04-05 06:34:52,2015-04-06 04:05:13,True,2015-04-06 04:05:13,0
+airbnb/javascript,sh6khan,Sadman Khan,,289,closed,2015-04-05 04:46:25,2015-04-05 07:13:41,False,,1
+airbnb/javascript,RKushnir,,Berlin,288,closed,2015-04-04 21:37:01,2015-04-06 04:05:41,True,2015-04-06 04:05:41,0
+airbnb/javascript,HerringtonDarkholme,Herrington Darkholme,Shinnippori,286,closed,2015-04-04 05:57:07,2015-04-27 23:56:30,True,2015-04-27 23:56:30,4
+airbnb/javascript,lukewestby,Luke Westby,California,284,closed,2015-04-04 02:14:27,2015-04-04 03:02:25,True,2015-04-04 03:02:25,0
+airbnb/javascript,marcioos,Marcio Oliveira,Stockholm,283,closed,2015-04-03 22:58:39,2015-04-06 04:05:51,True,2015-04-06 04:05:51,0
+airbnb/javascript,marcioos,Marcio Oliveira,Stockholm,282,closed,2015-04-03 22:55:43,2015-04-03 22:57:21,False,,0
+airbnb/javascript,RKushnir,,Berlin,279,closed,2015-04-03 21:40:58,2015-04-04 20:40:53,False,,0
+airbnb/javascript,caseyjenks,Casey Jenks,"Boulder, CO",278,closed,2015-04-03 01:42:54,2015-04-03 01:58:44,True,2015-04-03 01:58:44,0
+airbnb/javascript,jhumbug,Justin Gardner,"Atlanta, Georgia",277,closed,2015-04-02 19:46:10,2015-04-02 19:46:31,True,2015-04-02 19:46:31,0
+airbnb/javascript,goatslacker,Josh Perez,"San Jose, CA",276,closed,2015-04-02 16:14:55,2015-04-29 08:12:41,True,2015-04-29 08:12:41,17
+airbnb/javascript,architectcodes,Tomek Wiszniewski,EU,274,closed,2015-04-02 02:10:44,2015-04-02 16:09:46,True,2015-04-02 16:09:46,0
+airbnb/javascript,RobLoach,Rob Loach,"Toronto, Canada",272,closed,2015-04-01 21:41:07,2015-04-08 17:53:56,True,2015-04-08 17:53:56,4
+airbnb/javascript,jwreachlocal,Jack Wei,,271,closed,2015-04-01 20:39:38,2015-04-01 20:39:58,False,,0
+airbnb/javascript,jwreachlocal,Jack Wei,,270,closed,2015-04-01 17:27:20,2015-04-01 17:28:00,False,,0
+airbnb/javascript,jakeoverall,Jake Overall,Boise,268,closed,2015-03-30 22:29:09,2015-03-30 23:32:14,False,,0
+airbnb/javascript,Divineintervention45,,,267,closed,2015-03-30 09:09:02,2015-03-30 16:15:11,False,,0
+airbnb/javascript,sleeptillseven,Christoph Jasinski,"Bern, Switzerland",266,closed,2015-03-29 22:42:04,2015-03-30 16:16:19,True,2015-03-30 16:16:19,0
+airbnb/javascript,wcwung,William Wung,"San Francisco, CA",265,closed,2015-03-28 18:04:10,2015-04-20 00:55:06,False,,1
+airbnb/javascript,alexgb,Alex Gibbons,,264,closed,2015-03-28 15:52:21,2015-03-28 15:52:29,False,,0
+airbnb/javascript,marcel-me,,,262,closed,2015-03-27 21:08:43,2015-03-27 22:58:28,True,2015-03-27 22:58:28,1
+airbnb/javascript,hshoff,Harrison Shoff,,261,closed,2015-03-27 17:51:07,2015-03-27 17:55:39,False,,0
+airbnb/javascript,joeframbach,Joe Frambach,"San Francisco, CA",260,closed,2015-03-27 17:40:30,2015-03-27 18:00:59,True,2015-03-27 18:00:59,0
+airbnb/javascript,vepasto,Veikko Karsikko,"Helsinki, Finland",258,closed,2015-03-26 08:23:11,2015-03-26 08:30:30,True,2015-03-26 08:30:30,0
+airbnb/javascript,dpoindexter,Daniel Poindexter,"Austin, TX",256,closed,2015-03-24 19:16:37,2015-03-24 19:17:16,False,,0
+airbnb/javascript,estelle,Estelle Weyl,"California, USA",255,closed,2015-03-24 01:54:52,2018-03-23 22:29:21,True,2018-03-23 22:29:21,6
+airbnb/javascript,yemble,Zach Bagnall,NZ -> UK -> US (CO),254,closed,2015-03-23 15:48:12,2015-03-23 15:48:58,False,,0
+airbnb/javascript,brunogonncalves,Bruno Ferreira,Brazil - Araxá - MG,253,closed,2015-03-20 11:34:23,2015-03-21 18:05:45,True,2015-03-21 18:05:45,0
+airbnb/javascript,fvanderwielen,,,252,closed,2015-03-16 22:05:54,2015-03-16 22:46:04,True,2015-03-16 22:46:04,0
+airbnb/javascript,vprasanth,Prasanth Vaaheeswaran,"Toronto, Canada",250,closed,2015-03-13 17:43:51,2015-03-21 18:19:39,True,2015-03-21 18:19:39,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,249,closed,2015-03-11 22:12:15,2015-03-11 23:07:05,True,2015-03-11 23:07:05,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,248,closed,2015-03-10 23:59:04,2015-03-11 03:07:48,True,2015-03-11 03:07:48,1
+airbnb/javascript,sarbbottam,Sarbbottam Bandyopadhyay,"Cupertino, CA",246,closed,2015-02-22 19:15:48,2015-02-22 19:58:11,False,,2
+airbnb/javascript,omarduarte,Omar Duarte,"Tallinn, Estonia",242,closed,2015-02-12 08:24:36,2015-02-12 17:02:21,True,2015-02-12 17:02:21,0
+airbnb/javascript,caherrerapa,Carlos Andres Herrera,Bangkok,241,closed,2015-02-12 05:24:36,2015-02-12 17:03:00,True,2015-02-12 17:03:00,0
+airbnb/javascript,TheSavior,Eli White,"Redwood City, CA",239,closed,2015-02-08 07:28:39,2015-02-09 18:56:30,True,2015-02-09 18:56:30,4
+airbnb/javascript,jigsawye,Evan Ye,"Taipei, Taiwan.",238,closed,2015-02-04 11:19:00,2015-03-21 18:22:05,True,2015-03-21 18:22:05,0
+airbnb/javascript,Fonger,Fonger,"Taipei, Taiwan",237,closed,2015-02-04 05:42:46,2015-02-25 05:03:18,False,,0
+airbnb/javascript,jigsawye,Evan Ye,"Taipei, Taiwan.",236,closed,2015-02-04 03:36:18,2015-02-04 06:09:26,False,,0
+airbnb/javascript,DannyMoerkerke,Danny Moerkerke,"Amsterdam, Netherlands",235,closed,2015-02-02 11:28:35,2015-02-25 05:04:21,False,,0
+airbnb/javascript,davychiu,Davy Chiu,"Vancouver, BC",234,closed,2015-02-01 04:49:06,2015-02-01 21:24:58,True,2015-02-01 21:24:58,0
+airbnb/javascript,ClimbsRocks,Preston Parry,Oakland,232,closed,2015-01-28 01:53:47,2015-01-28 03:43:30,True,2015-01-28 03:43:30,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,230,closed,2015-01-23 01:43:47,2015-01-30 21:30:40,True,2015-01-30 21:30:40,0
+airbnb/javascript,ClimbsRocks,Preston Parry,Oakland,229,closed,2015-01-22 07:06:09,2015-01-22 15:54:49,True,2015-01-22 15:54:49,0
+airbnb/javascript,leomicheloni,Leonardo Micheloni,"Madrid, Spain",227,closed,2015-01-02 18:22:19,2015-01-05 03:29:29,True,2015-01-05 03:29:29,0
+airbnb/javascript,gpedro,Gabriel Pedro,,224,closed,2014-12-15 18:36:15,2014-12-16 01:06:46,True,2014-12-16 01:06:46,0
+airbnb/javascript,JoaoFOliveira,João Oliveira,"Porto, Portugal",222,closed,2014-12-12 10:33:41,2014-12-12 10:38:02,False,,0
+airbnb/javascript,justjake,Jake Teton-Landis,San Francisco,220,closed,2014-12-01 22:46:29,2014-12-04 01:54:30,True,2014-12-04 01:54:30,1
+airbnb/javascript,chilipote,Allan Bettarel,,219,closed,2014-11-26 17:30:20,2014-11-26 20:03:36,True,2014-11-26 20:03:36,0
+airbnb/javascript,Lebedancer,Андрей Лебедев,,218,closed,2014-11-25 19:40:47,2014-11-25 19:51:35,False,,0
+airbnb/javascript,markpop,,,217,closed,2014-11-20 04:37:28,2015-09-23 17:48:05,False,,0
+airbnb/javascript,andycreeth,Andy Creeth,"San Francisco, CA",215,closed,2014-11-18 21:57:36,2014-11-18 21:57:43,False,,0
+airbnb/javascript,mjurczyk,MJurczyk,Amsterdam / Katowice,214,closed,2014-11-14 23:50:55,2014-11-15 00:03:04,True,2014-11-15 00:03:04,0
+airbnb/javascript,mjurczyk,MJurczyk,Amsterdam / Katowice,213,closed,2014-11-14 23:46:43,2014-11-14 23:46:47,False,,0
+airbnb/javascript,gitter-badger,The Gitter Badger,Safe in the Gitter den,212,closed,2014-11-12 16:52:07,2014-11-12 17:04:38,False,,0
+airbnb/javascript,joseandro,Joseandro Luiz,São Paulo - Brazil,209,closed,2014-11-03 13:17:25,2014-11-03 23:34:08,True,2014-11-03 23:34:08,0
+airbnb/javascript,sronnlund,,,206,closed,2014-10-27 20:33:39,2014-10-27 20:38:44,True,2014-10-27 20:38:44,0
+airbnb/javascript,cormacmccarthy,Christopher McCulloh,,205,closed,2014-10-23 20:25:03,2014-10-23 20:25:39,False,,0
+airbnb/javascript,choskim,Cho S. Kim,"San Francisco, CA",204,closed,2014-10-18 05:06:33,2016-12-13 00:43:41,False,,0
+airbnb/javascript,infojobs-bcn,InfoJobs,Barcelona,203,closed,2014-10-16 10:08:09,2014-10-29 07:17:56,False,,0
+airbnb/javascript,fpmweb,Francesc Puig,Internet,202,closed,2014-10-02 14:40:40,2014-10-02 18:48:28,True,2014-10-02 18:48:28,0
+airbnb/javascript,ateich,Andrew Teich,,201,closed,2014-09-23 00:36:31,2014-09-23 01:44:42,True,2014-09-23 01:44:42,0
+airbnb/javascript,jjmerino,Joaquin Merino,Mountain View CA,200,closed,2014-09-22 19:35:44,2014-09-22 21:12:31,True,2014-09-22 21:12:31,0
+airbnb/javascript,AlexJeng,Alex Jeng,,199,closed,2014-09-22 04:35:23,2014-09-22 18:15:29,True,2014-09-22 18:15:29,0
+airbnb/javascript,kheiakiyama,kheiakiyama,Taitoku-Tokyo-Japan,197,closed,2014-09-15 12:37:26,2014-09-15 12:38:56,False,,0
+airbnb/javascript,justinsoliz,Justin Soliz,"Seattle, WA",195,closed,2014-09-08 17:12:26,2014-09-08 17:38:45,True,2014-09-08 17:38:45,0
+airbnb/javascript,ryanburgess,Ryan Burgess,San Francisco,194,closed,2014-09-05 02:35:36,2014-09-19 18:33:37,False,,0
+airbnb/javascript,hhuang2088,Henry Huang,San Francisco,190,closed,2014-08-29 07:56:19,2014-08-30 05:31:29,False,,0
+airbnb/javascript,tphummel,Tom Hummel,"Los Angeles, CA",187,closed,2014-08-13 17:29:04,2014-08-13 21:04:16,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,186,closed,2014-08-05 23:50:00,2014-08-06 01:02:00,True,2014-08-06 01:02:00,0
+airbnb/javascript,webfella,Adrian Bruinhout,Melbourne,185,closed,2014-08-05 16:19:29,2014-08-05 16:20:23,False,,0
+airbnb/javascript,webfella,Adrian Bruinhout,Melbourne,184,closed,2014-08-05 16:17:33,2014-08-05 17:53:22,True,2014-08-05 17:53:22,0
+airbnb/javascript,mstorus,Mark Storus,,182,closed,2014-07-29 23:15:14,2014-08-05 22:02:23,True,2014-08-05 22:02:23,0
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",181,closed,2014-07-14 17:14:40,2014-09-04 17:38:19,False,,0
+airbnb/javascript,FrancisPlaza,Francis Plaza,Manila,179,closed,2014-06-29 17:11:43,2014-06-30 16:16:44,True,2014-06-30 16:16:44,0
+airbnb/javascript,georgebabey,George Babey,,177,closed,2014-06-26 23:57:19,2014-06-30 12:58:34,False,,0
+airbnb/javascript,bmatto,Byron Matto,Portsmouth NH,176,closed,2014-06-20 14:52:48,2014-06-20 23:32:36,False,,0
+airbnb/javascript,jtfmumm,John Mumm,"The Hague, Netherlands",175,closed,2014-06-16 13:50:42,2014-06-16 18:10:25,True,2014-06-16 18:10:25,0
+airbnb/javascript,doshprompt,Rahul Doshi,USA,174,closed,2014-06-12 16:11:44,2014-06-12 16:46:10,True,2014-06-12 16:46:10,0
+airbnb/javascript,robertd,Robert Djurasaj,"Highlands Ranch, Colorado",172,closed,2014-06-05 17:03:41,2014-06-05 18:23:38,True,2014-06-05 18:23:38,0
+airbnb/javascript,Joe8Bit,Joe Pettersson,"London, UK",171,closed,2014-05-23 11:20:52,2014-05-24 21:44:05,True,2014-05-24 21:44:05,0
+airbnb/javascript,chromakode,Max Goodhart,♬,170,closed,2014-05-13 22:54:28,2014-05-14 02:42:27,True,2014-05-14 02:42:27,0
+airbnb/javascript,slawder,Stuart Lawder,"Atlanta, GA",169,closed,2014-05-12 12:40:36,2014-05-12 13:44:49,False,,0
+airbnb/javascript,ajacksified,Jack Lawson,Mars,167,closed,2014-05-06 19:24:46,2014-05-06 21:52:17,True,2014-05-06 21:52:17,0
+airbnb/javascript,unkillbob,James Bunt,"Auckland, New Zealand",166,closed,2014-04-24 02:56:50,2014-04-28 18:49:57,True,2014-04-28 18:49:57,0
+airbnb/javascript,unkillbob,James Bunt,"Auckland, New Zealand",164,closed,2014-04-24 02:53:08,2014-06-20 23:39:36,True,2014-06-20 23:39:36,0
+airbnb/javascript,unkillbob,James Bunt,"Auckland, New Zealand",162,closed,2014-04-24 02:51:24,2015-07-29 19:14:39,False,,0
+airbnb/javascript,unkillbob,James Bunt,"Auckland, New Zealand",161,closed,2014-04-24 02:50:52,2015-12-23 19:47:07,False,,0
+airbnb/javascript,unkillbob,James Bunt,"Auckland, New Zealand",160,closed,2014-04-24 02:50:18,2015-11-18 20:21:56,False,,0
+airbnb/javascript,unkillbob,James Bunt,"Auckland, New Zealand",159,closed,2014-04-24 02:49:18,2015-07-29 19:17:23,False,,0
+airbnb/javascript,unkillbob,James Bunt,"Auckland, New Zealand",158,closed,2014-04-24 02:48:07,2015-07-17 20:16:51,True,2015-07-17 20:16:51,0
+airbnb/javascript,justmoon,Stefan Thomas,San Francisco,156,closed,2014-04-15 01:32:06,2014-04-15 06:13:11,True,2014-04-15 06:13:11,0
+airbnb/javascript,wendall911,Wendall Cada,"Portland, OR",155,closed,2014-04-10 16:03:04,2014-04-10 16:04:31,False,,0
+airbnb/javascript,qorbani,Reza Qorbani,California - USA,154,closed,2014-04-06 15:12:27,2014-04-06 15:13:21,False,,0
+airbnb/javascript,wuher,Janne Kuuskeri,"Tampere, Finland",153,closed,2014-04-01 16:54:00,2014-04-23 14:37:03,False,,0
+airbnb/javascript,goldcaddy77,Dan Caddigan,"Boston, MA",152,closed,2014-03-25 17:09:44,2014-03-27 18:37:50,True,2014-03-27 18:37:50,0
+airbnb/javascript,goldcaddy77,Dan Caddigan,"Boston, MA",151,closed,2014-03-25 17:03:53,2014-03-25 17:13:35,True,2014-03-25 17:13:35,0
+airbnb/javascript,joaomilho,Juan Lulkin,"Stockholm, Sweden",150,closed,2014-03-20 19:10:44,2014-03-20 22:46:24,True,2014-03-20 22:46:24,0
+airbnb/javascript,koenpunt,Koen Punt,Utrecht NL,149,closed,2014-03-16 15:19:05,2014-03-17 16:41:51,True,2014-03-17 16:41:51,0
+airbnb/javascript,flurin,Flurin Egger,Utrecht,148,closed,2014-03-13 10:46:47,2014-03-13 17:05:05,True,2014-03-13 17:05:05,0
+airbnb/javascript,jakubpawlowicz,Jakub Pawlowicz,3rd planet to a G2 V star,147,closed,2014-02-26 12:06:48,2014-02-26 12:07:02,False,,0
+airbnb/javascript,gjvis,Gareth Visagie,United Kingdom,146,closed,2014-02-25 11:32:34,2014-02-25 22:24:31,True,2014-02-25 22:24:31,0
+airbnb/javascript,paultannenbaum,Paul Tannenbaum,Santa Barbara,144,closed,2014-02-07 07:14:43,2014-02-07 07:16:00,False,,0
+airbnb/javascript,paultannenbaum,Paul Tannenbaum,Santa Barbara,143,closed,2014-02-05 23:31:53,2014-02-06 17:29:59,False,,0
+airbnb/javascript,PatrickJS,PatrickJS,"Los Angeles, California",142,closed,2014-02-04 06:38:47,2014-02-04 17:55:56,True,2014-02-04 17:55:56,0
+airbnb/javascript,jeremiemv,Jérémie Meyer de Ville,San Francisco,141,closed,2014-02-03 22:38:21,2014-02-04 01:23:31,False,,0
+airbnb/javascript,unsignedzero,David Tran,Lost between Bits,140,closed,2014-02-01 23:10:55,2014-02-04 23:20:49,False,,0
+airbnb/javascript,godspeedelbow,Eelke Boezeman,Malmö,139,closed,2014-01-22 13:09:29,2014-01-22 18:26:30,True,2014-01-22 18:26:30,0
+airbnb/javascript,jeroenransijn,Jeroen Ransijn,San Francisco,138,closed,2014-01-16 09:25:08,2014-01-18 20:50:58,False,,0
+airbnb/javascript,gyfnice,,,137,closed,2014-01-06 09:18:19,2014-01-07 19:22:34,False,,0
+airbnb/javascript,gyfnice,,,135,closed,2013-12-27 08:32:34,2014-01-02 19:17:01,False,,0
+airbnb/javascript,spikebrehm,Spike Brehm,Jersey Shore / NYC,134,closed,2013-12-27 03:05:15,2014-01-02 19:20:46,True,2014-01-02 19:20:46,0
+airbnb/javascript,vahan-hartooni,,,132,closed,2013-12-17 21:08:27,2013-12-17 22:33:16,True,2013-12-17 22:33:16,0
+airbnb/javascript,ucarion,Ulysse Carion,San Francisco,131,closed,2013-12-13 03:03:29,2013-12-13 18:55:48,True,2013-12-13 18:55:48,0
+airbnb/javascript,maciej-gurban,Maciej Gurban,Finland,130,closed,2013-12-10 12:57:00,2013-12-15 21:08:25,False,,0
+airbnb/javascript,yorkie,Yorkie Liu,,129,closed,2013-12-07 05:37:06,2015-12-23 19:46:14,False,,0
+airbnb/javascript,iamnirav,Nirav Sanghani,"San Francisco, CA",127,closed,2013-12-06 00:37:15,2013-12-06 03:54:16,True,2013-12-06 03:54:16,0
+airbnb/javascript,Jabher,Vsevolod Rodionov,"St. Petersburg, Russia",126,closed,2013-12-05 08:42:07,2014-06-07 01:08:34,True,2014-06-07 01:08:34,0
+airbnb/javascript,vahan-hartooni,,,125,closed,2013-12-02 18:50:09,2013-12-03 18:16:59,True,2013-12-03 18:16:59,0
+airbnb/javascript,robatron,Rob McGuire,"Seattle, WA",123,closed,2013-11-27 02:54:19,2013-11-27 03:09:54,False,,0
+airbnb/javascript,bmorrall,Ben Morrall,,122,closed,2013-11-26 04:17:48,2013-11-26 05:43:37,True,2013-11-26 05:43:37,0
+airbnb/javascript,borislavib,,,121,closed,2013-11-23 20:10:16,2013-11-25 05:35:54,False,,0
+airbnb/javascript,Jabher,Vsevolod Rodionov,"St. Petersburg, Russia",120,closed,2013-11-22 08:03:27,2013-12-03 18:21:58,False,,0
+airbnb/javascript,sbezludny,Sergii Bezliudnyi,Berlin,119,closed,2013-11-21 22:02:16,2013-11-21 22:31:51,True,2013-11-21 22:31:51,0
+airbnb/javascript,nmussy,Jimmy Gaussen,France,117,closed,2013-11-19 18:35:09,2013-11-19 18:41:42,True,2013-11-19 18:41:42,0
+airbnb/javascript,aznn,Ahmed Azaan,Maldives,116,closed,2013-11-17 15:38:31,2013-11-18 15:39:15,True,2013-11-18 15:39:15,0
+airbnb/javascript,paolocarrasco,Paolo Carrasco,Peru,114,closed,2013-11-16 01:12:36,2014-01-02 20:20:11,False,,0
+airbnb/javascript,Nek-,Maxime Veber,"Paris, France",113,closed,2013-11-15 18:31:19,2013-11-15 21:27:30,False,,0
+airbnb/javascript,tipjs,SeungHyun PAEK,Seoul KOREA,108,closed,2013-11-13 05:04:54,2013-11-13 18:11:08,True,2013-11-13 18:11:08,0
+airbnb/javascript,jhanifen,Jim Hanifen,"Denver, CO",107,closed,2013-11-12 18:40:57,2013-11-12 18:43:22,False,,0
+airbnb/javascript,jellekralt,Jelle Kralt,The Netherlands,106,closed,2013-11-12 16:31:49,2013-11-13 01:27:28,True,2013-11-13 01:27:28,0
+airbnb/javascript,lfender6445,Luke Fender,,104,closed,2013-11-11 05:09:38,2013-11-14 03:51:29,False,,0
+airbnb/javascript,pborreli,Pascal Borreli,"Oujda, Morocco",103,closed,2013-11-10 23:28:12,2013-11-11 01:13:35,True,2013-11-11 01:13:35,0
+airbnb/javascript,ultimatedelman,Jason Edelman,San Francisco,99,closed,2013-11-08 19:08:17,2013-11-08 19:20:18,True,2013-11-08 19:20:18,0
+airbnb/javascript,lxe,Aleksey Smolenchuk,"San Francisco, CA",95,closed,2013-11-07 22:25:23,2013-12-27 02:31:36,True,2013-12-27 02:31:36,0
+airbnb/javascript,paolocarrasco,Paolo Carrasco,Peru,93,closed,2013-10-31 22:44:07,2013-10-31 23:30:48,True,2013-10-31 23:30:48,0
+airbnb/javascript,jdhartley,JD Hartley,"Portland, OR",91,closed,2013-10-28 19:18:41,2013-10-28 20:58:20,True,2013-10-28 20:58:20,0
+airbnb/javascript,AnSavvides,Andreas Savvides,London,89,closed,2013-10-21 14:07:06,2013-10-21 16:40:43,True,2013-10-21 16:40:43,0
+airbnb/javascript,DeanXu,Dean,,88,closed,2013-10-14 04:45:44,2013-10-14 14:37:49,True,2013-10-14 14:37:49,0
+airbnb/javascript,nicoder,Nicolas Dermine,Poland,87,closed,2013-10-10 21:05:42,2013-10-10 22:04:28,True,2013-10-10 22:04:28,0
+airbnb/javascript,nicoder,Nicolas Dermine,Poland,86,closed,2013-10-10 21:00:56,2013-10-10 22:05:07,True,2013-10-10 22:05:07,0
+airbnb/javascript,yitsushi,Balazs Nadasdi,Budapest,85,closed,2013-10-09 05:55:15,2013-10-09 20:08:18,False,,0
+airbnb/javascript,jasontbradshaw,Jason T. Bradshaw,"Austin, TX",83,closed,2013-09-10 15:47:42,2013-09-10 15:50:32,False,,0
+airbnb/javascript,canvaspixels,,,82,closed,2013-08-29 10:54:35,2014-06-07 01:16:08,False,,2
+airbnb/javascript,bishopZ,Bishop Zareh,"Denver, CO",79,closed,2013-08-05 21:21:05,2013-08-05 21:39:11,True,2013-08-05 21:39:11,0
+airbnb/javascript,adamlu,Adam,Beijing,78,closed,2013-08-01 13:00:33,2013-08-01 22:31:22,True,2013-08-01 22:31:22,0
+airbnb/javascript,christopherhein,Christopher Hein,San Jose,77,closed,2013-07-12 22:44:51,2013-07-15 23:01:17,False,,0
+airbnb/javascript,reqshark,Bent Cardan,Northern California,76,closed,2013-07-11 11:30:08,2014-01-02 20:14:20,False,,0
+airbnb/javascript,hshoff,Harrison Shoff,,73,closed,2013-07-01 19:46:06,2013-07-01 21:12:25,True,2013-07-01 21:12:25,4
+airbnb/javascript,Triang3l,Triang3l,"Saint Petersburg, Russia",66,closed,2013-04-19 11:25:11,2013-04-19 14:54:42,True,2013-04-19 14:54:42,0
+airbnb/javascript,armoucar,Arthur Moura Carvalho,"Brasília, DF - Brasil",65,closed,2013-04-03 17:42:53,2013-04-03 21:19:12,True,2013-04-03 21:19:12,0
+airbnb/javascript,t0k4rt,Alexandre Assouad,Paris,63,closed,2013-03-20 17:56:32,2013-03-20 20:36:39,True,2013-03-20 20:36:39,0
+airbnb/javascript,hshoff,Harrison Shoff,,59,closed,2013-03-11 23:56:58,2013-03-13 18:23:45,False,,0
+airbnb/javascript,astalker,Alasdair Stalker,,57,closed,2013-03-06 20:55:08,2013-03-07 00:59:33,False,,0
+airbnb/javascript,qorbani,Reza Qorbani,California - USA,56,closed,2013-03-06 18:27:26,2013-03-07 00:48:56,True,2013-03-07 00:48:56,0
+airbnb/javascript,Znarkus,Markus Hedlund,"Stockholm, Sweden",53,closed,2013-02-26 13:13:06,2013-02-26 18:24:14,True,2013-02-26 18:24:14,0
+airbnb/javascript,oslek,,,51,closed,2013-02-17 22:45:02,2013-02-19 01:21:58,True,2013-02-19 01:21:58,0
+airbnb/javascript,timofurrer,Timo Furrer,__switzerland__,50,closed,2013-02-16 11:00:53,2013-02-16 18:37:28,True,2013-02-16 18:37:28,0
+airbnb/javascript,timofurrer,Timo Furrer,__switzerland__,49,closed,2013-02-15 13:54:14,2013-02-15 13:54:24,False,,0
+airbnb/javascript,timofurrer,Timo Furrer,__switzerland__,48,closed,2013-02-15 13:53:08,2013-02-16 00:15:17,True,2013-02-16 00:15:17,0
+airbnb/javascript,mitsuruog,Mitsuru Ogawa,Japan Tokyo,47,closed,2013-02-14 15:35:49,2013-02-15 01:51:14,True,2013-02-15 01:51:14,0
+airbnb/javascript,mitsuruog,Mitsuru Ogawa,Japan Tokyo,46,closed,2013-02-10 16:24:46,2013-02-10 17:21:41,True,2013-02-10 17:21:41,0
+airbnb/javascript,adamalex,Adam Alexander,"Fishers, IN",45,closed,2013-02-10 14:55:29,2013-02-10 20:07:35,True,2013-02-10 20:07:34,0
+airbnb/javascript,mitsuruog,Mitsuru Ogawa,Japan Tokyo,43,closed,2013-01-27 15:31:06,2013-01-27 20:07:07,True,2013-01-27 20:07:07,0
+airbnb/javascript,asmblah,Dan Phillimore,"Leicester, UK",38,closed,2013-01-11 09:38:50,2013-01-11 17:31:47,True,2013-01-11 17:31:47,0
+airbnb/javascript,hshoff,Harrison Shoff,,37,closed,2012-12-27 00:48:40,2013-01-08 20:08:24,False,,10
+airbnb/javascript,thisconnect,tcme,Zürich,36,closed,2012-12-14 15:39:50,2012-12-18 20:43:00,True,2012-12-18 20:43:00,2
+airbnb/javascript,getify,Kyle Simpson,"Austin, TX",35,closed,2012-12-06 20:06:44,2013-01-07 17:40:01,False,,0
+airbnb/javascript,rmw,Rebecca Miller-Webster,"Chicago, IL",34,closed,2012-11-30 16:00:00,2012-11-30 16:00:14,False,,0
+airbnb/javascript,rma4ok,rma4ok,,33,closed,2012-11-19 15:51:10,2012-11-22 22:12:06,True,2012-11-22 22:12:06,0
+airbnb/javascript,Laboratory,Vitaly Nikitin,"Saint Petersburg, Russia",30,closed,2012-11-14 09:41:31,2012-11-14 18:15:20,True,2012-11-14 18:15:20,0
+airbnb/javascript,ssorallen,Ross Allen,USA,29,closed,2012-11-14 00:07:09,2012-11-14 00:53:07,True,2012-11-14 00:53:07,0
+airbnb/javascript,samdelagarza,Sam De La Garza,"Plano, Texas",28,closed,2012-11-13 16:55:50,2012-11-14 02:17:43,False,,0
+airbnb/javascript,jgable,Jacob Gable,"Redwood City, CA",26,closed,2012-11-09 14:42:11,2012-11-09 18:10:37,True,2012-11-09 18:10:37,0
+airbnb/javascript,siraskalot,Arunan Skanthan,"Melbourne, Australia",23,closed,2012-11-09 00:10:07,2012-11-09 00:22:10,True,2012-11-09 00:22:10,0
+airbnb/javascript,zealotous,Mikhail Feoktistov,Dublin,20,closed,2012-11-08 14:00:46,2012-11-08 15:32:55,True,2012-11-08 15:32:55,0
+airbnb/javascript,ryun,Ryun Shofner,Northern California,17,closed,2012-11-07 02:38:16,2012-11-07 03:17:48,True,2012-11-07 03:17:48,0
+airbnb/javascript,pyrotechnick,,,16,closed,2012-11-06 22:32:05,2012-11-06 22:41:38,True,2012-11-06 22:41:38,0
+airbnb/javascript,mattdennewitz,Matt Dennewitz,"Chicago, IL",14,closed,2012-11-05 23:36:46,2012-11-05 23:57:40,False,,0
+airbnb/javascript,spikebrehm,Spike Brehm,Jersey Shore / NYC,12,closed,2012-11-05 20:38:16,2012-11-05 20:42:22,True,2012-11-05 20:42:22,0
+airbnb/javascript,ssorallen,Ross Allen,USA,11,closed,2012-11-05 20:21:13,2012-11-05 21:38:13,True,2012-11-05 21:38:13,0
+airbnb/javascript,ssorallen,Ross Allen,USA,10,closed,2012-11-05 17:27:39,2012-11-05 17:39:55,True,2012-11-05 17:39:54,0
+airbnb/javascript,reissbaker,Matt Baker,"San Francisco, CA",7,closed,2012-11-02 01:11:46,2012-11-02 04:13:35,True,2012-11-02 04:13:35,0
+airbnb/javascript,ssorallen,Ross Allen,USA,6,closed,2012-11-02 00:52:46,2012-11-02 17:07:26,False,,0
+airbnb/javascript,reissbaker,Matt Baker,"San Francisco, CA",5,closed,2012-11-02 00:03:02,2012-11-02 00:41:51,False,,0
+airbnb/javascript,reissbaker,Matt Baker,"San Francisco, CA",3,closed,2012-11-01 23:45:50,2014-02-25 22:26:32,False,,0
+airbnb/javascript,wyattdanger,swb,,2,closed,2012-11-01 23:35:31,2012-11-01 23:38:06,True,2012-11-01 23:38:06,0
+airbnb/javascript,wyattdanger,swb,,1,closed,2012-11-01 23:32:03,2012-11-01 23:33:33,False,,0
+airbnb/javascript,lukeingalls,Luke Ingalls,,2438,open,2021-06-19 01:51:48,,False,,0
+airbnb/javascript,cojdev,Charles Ojukwu,"London, United Kingdom",2434,open,2021-06-02 10:41:58,,False,,0
+airbnb/javascript,gd-js,,,2431,open,2021-05-26 23:33:31,,False,,0
+airbnb/javascript,chety,Çetin,,2430,open,2021-05-24 12:14:49,,False,,7
+airbnb/javascript,gabrielslach,,,2389,open,2021-02-17 08:08:53,,False,,0
+airbnb/javascript,rivajunior,Rivaldo Junior,"Fortaleza, Ceará - Brasil",2350,open,2020-12-04 20:56:35,,False,,4
+airbnb/javascript,rohitjethoe,Rohit Jethoe,Amsterdam,2279,open,2020-08-25 18:00:44,,False,,2
+airbnb/javascript,biesiadamich,M,Poland,2252,open,2020-07-02 22:41:09,,False,,0
+airbnb/javascript,Jamil-Bailony,Jamil Bailony,Turkey,2213,open,2020-04-23 12:14:30,,False,,0
+airbnb/javascript,kneeki,Dave Tacker,Hawaii,2190,open,2020-03-04 20:20:48,,False,,0
+airbnb/javascript,mhjariwala,Mahek Jariwala,"Surat, India",2148,open,2020-01-05 06:33:48,,False,,0
+airbnb/javascript,agusID,Dwi Agustianto,Jakarta,2118,open,2019-10-12 13:01:26,,False,,0
+airbnb/javascript,douglasevaristo,Douglas Evaristo,Goiânia,2114,open,2019-10-05 17:06:14,,False,,0
+airbnb/javascript,vieira,João Vieira,"Lisbon, Portugal",2106,open,2019-10-03 10:26:13,,False,,5
+airbnb/javascript,julianjca11,Julian Christian Anderson,Indonesia,2089,open,2019-09-09 12:08:51,,False,,0
+airbnb/javascript,abhinavsharma629,Abhinav Sharma,Agra,2072,open,2019-08-15 06:23:57,,False,,4
+airbnb/javascript,asattelmaier,Alexander Sattelmaier,,2008,open,2019-02-15 09:16:00,,False,,0
+airbnb/javascript,meetzaveri,Meet Zaveri,India,1993,open,2019-01-16 07:27:11,,False,,4
+airbnb/javascript,MatiasOlivera,Matías Olivera ⚡,"Corrientes, Argentina",1973,open,2018-12-18 15:21:47,,False,,0
+airbnb/javascript,ghost,Deleted user,"Nothing to see here, move along.",1940,open,2018-10-23 21:59:18,,False,,2
+airbnb/javascript,brummelte,Jan Brummelte,,1917,open,2018-09-15 11:44:56,,False,,1
+airbnb/javascript,kaysiz,kudakwashe siziva,South Africa,1776,open,2018-03-30 07:09:12,,False,,0
+airbnb/javascript,Shyam-Chen,Shyam Chen,404,1771,open,2018-03-27 01:24:00,,False,,0
+airbnb/javascript,jfdnc,Jacob,"Denver, CO",1733,open,2018-02-18 02:01:57,,False,,1
+airbnb/javascript,drpicox,David Rodenas,"Barcelona, Catalonia",1726,open,2018-02-08 16:24:14,,False,,18
+airbnb/javascript,Fatehsandhu,Singh Sandhu,Windsor On.,1682,open,2017-12-26 16:54:37,,False,,4
+airbnb/javascript,mk-pmb,M.K.,"BaWue, Germany",1643,open,2017-11-22 12:58:45,,False,,4
+airbnb/javascript,nakhodkin,Artem,,1537,open,2017-08-24 22:38:33,,False,,3
+airbnb/javascript,graingert,Thomas Grainger,,1465,open,2017-06-23 12:53:59,,False,,0
+airbnb/javascript,reetesha,Reetesh Agrawal,Banagalore,1335,open,2017-03-10 00:41:19,,False,,7
+airbnb/javascript,anaisbetts,Anaïs Betts,San Francisco,1224,open,2016-12-28 22:20:24,,False,,0
+airbnb/javascript,alleroux,Alexander Leroux,,1173,open,2016-11-10 18:27:22,,False,,3
+airbnb/javascript,felipethome,Felipe Thome,Brazil,996,open,2016-08-04 16:52:30,,False,,0
+airbnb/javascript,AkarshSatija,Akarsh Satija,DEL-BLR | India,944,open,2016-07-09 14:37:30,,False,,0
+airbnb/javascript,adrienverge,Adrien Vergé,,590,open,2015-11-24 22:03:41,,False,,6
+airbnb/javascript,screendriver,Christian Rackerseder,"Munich, Germany",510,open,2015-09-16 07:16:26,,False,,17
+airbnb/javascript,Jabher,Vsevolod Rodionov,"St. Petersburg, Russia",348,open,2015-05-19 19:14:19,,False,,1
+airbnb/javascript,sumn2u,Suman Kunwar,"Berlin, Germany",319,open,2015-04-21 09:44:12,,False,,3
+airbnb/javascript,k-yak,Florian Rotagnon,"Nice, France",226,open,2014-12-30 16:17:22,,False,,0
+airbnb/javascript,autoboxer,Jared Collier,"Boston, MA",210,open,2014-11-06 19:32:57,,False,,0
+airbnb/javascript,vitorlopez,Vitor López,Brazil,188,open,2014-08-18 21:28:50,,False,,2
+airbnb/javascript,unkillbob,James Bunt,"Auckland, New Zealand",165,open,2014-04-24 02:54:42,,False,,3

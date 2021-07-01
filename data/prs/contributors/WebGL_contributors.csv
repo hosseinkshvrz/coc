@@ -1,0 +1,166 @@
+repository_url,user_login,user_name,n_pr_before_coc,n_pr_after_coc
+KhronosGroup/WebGL,kenrussell,Ken Russell,426,85
+KhronosGroup/WebGL,jdashg,Jeff Gilbert,94,108
+KhronosGroup/WebGL,raytranuk,Ray Tran,0,2
+KhronosGroup/WebGL,kainino0x,Kai Ninomiya,71,9
+KhronosGroup/WebGL,tharkum,Andrei Volykhin,1,0
+KhronosGroup/WebGL,greggman,Greggman,126,5
+KhronosGroup/WebGL,grorg,Dean Jackson,26,6
+KhronosGroup/WebGL,dalecurtis,Dale Curtis,0,6
+KhronosGroup/WebGL,jdarpinian,James Darpinian,10,23
+KhronosGroup/WebGL,Some1NamedNate,Nathan Umali,0,1
+KhronosGroup/WebGL,autokagami,,0,47
+KhronosGroup/WebGL,shrekshao,ShrekShao,0,55
+KhronosGroup/WebGL,lexaknyazev,Alexey Knyazev,0,19
+KhronosGroup/WebGL,tguilbert-google,Thomas Guilbert,0,2
+KhronosGroup/WebGL,RRRichardLi,Richard Li,0,1
+KhronosGroup/WebGL,vednoc,vednoc,0,1
+KhronosGroup/WebGL,outofcontrol,James Riordon,0,2
+KhronosGroup/WebGL,jchen10,Jie Chen,10,5
+KhronosGroup/WebGL,nihohit,,0,1
+KhronosGroup/WebGL,saschanaz,Kagami Sascha Rosylight,0,7
+KhronosGroup/WebGL,sugoi1,,2,3
+KhronosGroup/WebGL,krogovin,,0,1
+KhronosGroup/WebGL,nkronlage,,2,1
+KhronosGroup/WebGL,shaoboyan,"Yan, Shaobo",0,5
+KhronosGroup/WebGL,RafaelCintron,Rafael Cintron,22,1
+KhronosGroup/WebGL,samsinsane,Samuel Surtees,0,1
+KhronosGroup/WebGL,domenic,Domenic Denicola,1,1
+KhronosGroup/WebGL,Jiawei-Shao,Jiawei Shao,23,2
+KhronosGroup/WebGL,Violet26,The Little Things,0,1
+KhronosGroup/WebGL,themikelester,Mike Lester,0,1
+KhronosGroup/WebGL,MichalKrasowski,Michał Krasowski,0,2
+KhronosGroup/WebGL,hujiajie,Jiajie Hu,0,1
+KhronosGroup/WebGL,jaibeer72,Jaibeer  S Dugal,0,1
+KhronosGroup/WebGL,mmatyas,Mátyás Mustoha,0,1
+KhronosGroup/WebGL,xhcao,,18,2
+KhronosGroup/WebGL,austinEng,Austin Eng,0,5
+KhronosGroup/WebGL,jonahryandavis,,0,1
+KhronosGroup/WebGL,imiklos,Istvan Miklos,0,1
+KhronosGroup/WebGL,fernandojsg,Fernando Serrano,0,2
+KhronosGroup/WebGL,ProgramMax,Chris Blume,0,1
+KhronosGroup/WebGL,tobine,Tobin Ehlis,0,1
+KhronosGroup/WebGL,fritzk,Fritz Koenig,0,1
+KhronosGroup/WebGL,aardgoose,,0,1
+KhronosGroup/WebGL,dyna-dot,Srikanth Gokavarapu,0,1
+KhronosGroup/WebGL,JasperNV,,0,2
+KhronosGroup/WebGL,mingyuhu,,0,2
+KhronosGroup/WebGL,Richard-Yunchao,Yunchao He,149,4
+KhronosGroup/WebGL,haoyunfeix,Hao Yunfei,0,2
+KhronosGroup/WebGL,y-novikov,,1,1
+KhronosGroup/WebGL,riju,Rijubrata Bhaumik,0,1
+KhronosGroup/WebGL,mosra,Vladimír Vondruš,0,1
+KhronosGroup/WebGL,mbrodesser,,0,1
+KhronosGroup/WebGL,mysteryDate,Aaron Krajeski,0,1
+KhronosGroup/WebGL,null77,Jamie Madill,10,3
+KhronosGroup/WebGL,natashalee,,0,2
+KhronosGroup/WebGL,zhenyao,,355,1
+KhronosGroup/WebGL,imirkin,Ilia Mirkin,1,1
+KhronosGroup/WebGL,Oletus,Olli Etuaho,321,0
+KhronosGroup/WebGL,AshleyScirra,Ashley (Scirra),3,0
+KhronosGroup/WebGL,nox,Anthony Ramine,2,0
+KhronosGroup/WebGL,qjia7,Jiajia Qin,9,0
+KhronosGroup/WebGL,jackohound,Jeff Leger,1,0
+KhronosGroup/WebGL,JusSn,Justin Fan,1,0
+KhronosGroup/WebGL,etisdew,etisdew,1,0
+KhronosGroup/WebGL,patrto,Patrick To,4,0
+KhronosGroup/WebGL,derry19,Deyi Li,3,0
+KhronosGroup/WebGL,vikaschromie,vikas soni,2,0
+KhronosGroup/WebGL,tsherif,Tarek Sherif,5,0
+KhronosGroup/WebGL,romandev,Jinho Bang,2,0
+KhronosGroup/WebGL,JiangYizhou,Yizhou Jiang,12,0
+KhronosGroup/WebGL,toji,Brandon Jones,110,0
+KhronosGroup/WebGL,gofr,,1,0
+KhronosGroup/WebGL,dmikis,Kirill Dmitrenko,3,0
+KhronosGroup/WebGL,junov,Justin Novosad,4,0
+KhronosGroup/WebGL,FredrikHubinette,,3,0
+KhronosGroup/WebGL,xingri,Byungseon Shin,3,0
+KhronosGroup/WebGL,vonture,Geoff Lang,6,0
+KhronosGroup/WebGL,Samulus,Samuel Vargas,2,0
+KhronosGroup/WebGL,zakerinasab,,1,0
+KhronosGroup/WebGL,astojilj,Aleksandar Stojiljković,4,0
+KhronosGroup/WebGL,reidab,Reid Beels,1,0
+KhronosGroup/WebGL,xlai-o,xlai,4,0
+KhronosGroup/WebGL,qkmiao,Qiankun Miao,204,0
+KhronosGroup/WebGL,gyagp,Yang Gu,7,0
+KhronosGroup/WebGL,Treeki,Ash Wolf,1,0
+KhronosGroup/WebGL,ChenHanTsai,Chen-Han Tsai,1,0
+KhronosGroup/WebGL,Kangz,Corentin Wallez,23,0
+KhronosGroup/WebGL,foolip,Philip Jägenstedt,1,0
+KhronosGroup/WebGL,DavidPeicho,David Peicho,1,0
+KhronosGroup/WebGL,xidachen,,28,0
+KhronosGroup/WebGL,c0d1f1ed,Nicolas Capens,9,0
+KhronosGroup/WebGL,cx20,,1,0
+KhronosGroup/WebGL,emilio,Emilio Cobos Álvarez,2,0
+KhronosGroup/WebGL,ds-hwang,Dongseong Hwang,5,0
+KhronosGroup/WebGL,bakkot,Kevin Gibbons,1,0
+KhronosGroup/WebGL,JerryShih,Jerry Shih,1,0
+KhronosGroup/WebGL,Honry,Wanming Lin,1,0
+KhronosGroup/WebGL,renchenglei,,15,0
+KhronosGroup/WebGL,jbauman2,,3,0
+KhronosGroup/WebGL,anzurio,,3,0
+KhronosGroup/WebGL,Groovounet,Christophe,2,0
+KhronosGroup/WebGL,pavolas,,2,0
+KhronosGroup/WebGL,emnh,Eivind Magnus Hvidevold,1,0
+KhronosGroup/WebGL,mephisto41,Morris Tseng,4,0
+KhronosGroup/WebGL,MarkCallow,Mark Callow,13,0
+KhronosGroup/WebGL,iewell,Ian Ewell,1,0
+KhronosGroup/WebGL,bkotzz,Brad Kotsopoulos,8,0
+KhronosGroup/WebGL,willeastcott,Will Eastcott,1,0
+KhronosGroup/WebGL,prayagverma,Prayag Verma ,1,0
+KhronosGroup/WebGL,howareyou322,peter chang,2,0
+KhronosGroup/WebGL,demo99,ethlin,1,0
+KhronosGroup/WebGL,jasomobica,,32,0
+KhronosGroup/WebGL,jrmuizel,Jeff Muizelaar,1,0
+KhronosGroup/WebGL,apchhee,Veranika Liaukevich,1,0
+KhronosGroup/WebGL,linkmauve,,1,0
+KhronosGroup/WebGL,kygx-legend,legend,18,0
+KhronosGroup/WebGL,yvt,yvt,1,0
+KhronosGroup/WebGL,DavidYen,,4,0
+KhronosGroup/WebGL,djg,Dan Glastonbury,10,0
+KhronosGroup/WebGL,gero3,,1,0
+KhronosGroup/WebGL,marcorperez,,6,0
+KhronosGroup/WebGL,Khronoswebmaster,Khronos Group Webmaster,1,0
+KhronosGroup/WebGL,matthewn4444,Matthew Ng,14,0
+KhronosGroup/WebGL,patrickkettner,patrick kettner,1,0
+KhronosGroup/WebGL,ventureheart,He Yunchao,1,0
+KhronosGroup/WebGL,alexhenrie,Alex Henrie,1,0
+KhronosGroup/WebGL,acomminos,Andrew Comminos,1,0
+KhronosGroup/WebGL,ghost,Deleted user,16,0
+KhronosGroup/WebGL,hendrikwagenaar,Hendrik Wagenaar,1,0
+KhronosGroup/WebGL,apatole,Arun Patole,3,0
+KhronosGroup/WebGL,pyalot,Florian Bösch,44,0
+KhronosGroup/WebGL,putsman,Jonathan Putsman,2,0
+KhronosGroup/WebGL,joejohndoe,Johannes Schmid,1,0
+KhronosGroup/WebGL,orglofch,Owen Glofcheski,1,0
+KhronosGroup/WebGL,shannonwoods,Shannon Woods,1,0
+KhronosGroup/WebGL,huningxin,Ningxin Hu,1,0
+KhronosGroup/WebGL,chadaustin,Chad Austin,1,0
+KhronosGroup/WebGL,bjacob,,18,0
+KhronosGroup/WebGL,dvander,David Anderson,4,0
+KhronosGroup/WebGL,TiborsHub,Tibor den Ouden,9,0
+KhronosGroup/WebGL,achristensen07,,1,0
+KhronosGroup/WebGL,jenanwise,Jenan Wise,1,0
+KhronosGroup/WebGL,vmiura,,1,0
+KhronosGroup/WebGL,gregcouch,,2,0
+KhronosGroup/WebGL,imzet,,2,0
+KhronosGroup/WebGL,andrewvarga,Andrew,1,0
+KhronosGroup/WebGL,JunJiang,,8,0
+KhronosGroup/WebGL,baxissimo,Bill Baxter,3,0
+KhronosGroup/WebGL,dsheets,David Sheets,5,0
+KhronosGroup/WebGL,mvujovic,,5,0
+KhronosGroup/WebGL,progers,Philip Rogers,1,0
+KhronosGroup/WebGL,laneroberts,,1,0
+KhronosGroup/WebGL,rdfong,Roger Fong,1,0
+KhronosGroup/WebGL,benaadams,Ben Adams,2,0
+KhronosGroup/WebGL,dslomov,Dmitry Lomov,2,0
+KhronosGroup/WebGL,gabadie,Guillaume Abadie,1,0
+KhronosGroup/WebGL,harryshan,Harry Shan,1,0
+KhronosGroup/WebGL,agentultra,J Kenneth King,1,0
+KhronosGroup/WebGL,nayankk,,4,0
+KhronosGroup/WebGL,jmadill-tg,,1,0
+KhronosGroup/WebGL,jbuck,Jon Buckley,1,0
+KhronosGroup/WebGL,apatrick-google,Al Patrick,3,0
+KhronosGroup/WebGL,jareiko,Jasmine Kent,1,0
+KhronosGroup/WebGL,janharaldfredriksen-arm,,2,0
+KhronosGroup/WebGL,twpayne,Tom Payne,1,0

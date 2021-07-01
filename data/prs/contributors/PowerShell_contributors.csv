@@ -1,0 +1,479 @@
+repository_url,user_login,user_name,n_pr_before_coc,n_pr_after_coc
+PowerShell/PowerShell,octos4murai,Al Idian,0,1
+PowerShell/PowerShell,iSazonov,Ilya,75,419
+PowerShell/PowerShell,joeyaiello,Joey Aiello,12,11
+PowerShell/PowerShell,TravisEz13,Travis Plunk,47,438
+PowerShell/PowerShell,daxian-dbw,Dongbo Wang,107,367
+PowerShell/PowerShell,davidBar-On,David Bar-On,0,5
+PowerShell/PowerShell,Dj-Javi,,0,1
+PowerShell/PowerShell,Fs00,Francesco Saltori,0,3
+PowerShell/PowerShell,SteveL-MSFT,Steve Lee,80,446
+PowerShell/PowerShell,na632,,0,1
+PowerShell/PowerShell,krishnayalavarthi,,0,11
+PowerShell/PowerShell,JamesWTruher,James Truher [MSFT],57,66
+PowerShell/PowerShell,theJasonHelmick,Jason Helmick,0,1
+PowerShell/PowerShell,MartinGC94,,0,7
+PowerShell/PowerShell,nohwnd,Jakub Jareš,0,3
+PowerShell/PowerShell,bergmeister,Christoph Bergmeister [MVP],0,93
+PowerShell/PowerShell,rpolley,Ryan Polley,0,1
+PowerShell/PowerShell,Jaykul,Joel Bennett,0,3
+PowerShell/PowerShell,xtqqczze,,0,339
+PowerShell/PowerShell,mklement0,Michael Klement,3,14
+PowerShell/PowerShell,rjmholt,Robert Holt,3,75
+PowerShell/PowerShell,Jawz84,Jos Koelewijn,0,3
+PowerShell/PowerShell,powercode,Staffan Gustafsson,18,84
+PowerShell/PowerShell,Gimly,Xavier Hahn,0,4
+PowerShell/PowerShell,bcwood,Brandon Wood,0,9
+PowerShell/PowerShell,ThomasNieto,Thomas Nieto,0,17
+PowerShell/PowerShell,eugenesmlv,Eugene Samoylov,0,3
+PowerShell/PowerShell,Joe-Zer0,,0,1
+PowerShell/PowerShell,vexx32,Joel Sallow (/u/ta11ow),0,58
+PowerShell/PowerShell,yecril71pl,Christopher Yeleighton,0,9
+PowerShell/PowerShell,therajdeepbiswas,Rajdeep Biswas,0,1
+PowerShell/PowerShell,thlac,Thomas Larsen,0,2
+PowerShell/PowerShell,BrannenGH,Brannen Hall,0,1
+PowerShell/PowerShell,m5x,Martin Dvořák,0,1
+PowerShell/PowerShell,NoMoreFood,Bryan Berns,0,4
+PowerShell/PowerShell,Peter-Schneider,Peter Schneider,0,1
+PowerShell/PowerShell,ivanshen,Ivan Shen,0,2
+PowerShell/PowerShell,jackdcasey,Jack Casey,0,5
+PowerShell/PowerShell,msftrncs,Carl Morris,0,6
+PowerShell/PowerShell,ChrisLGardner,Chris Gardner,0,2
+PowerShell/PowerShell,kwkam,,0,20
+PowerShell/PowerShell,schuelermine,Anselm Schüler,0,3
+PowerShell/PowerShell,anmenaga,Andrew,8,44
+PowerShell/PowerShell,adityapatwardhan,Aditya Patwardhan,44,296
+PowerShell/PowerShell,aofaof0907,aof aof,0,2
+PowerShell/PowerShell,eltociear,Ikko Ashimine,0,1
+PowerShell/PowerShell,adamsitnik,Adam Sitnik,0,1
+PowerShell/PowerShell,batmansdad37,,0,1
+PowerShell/PowerShell,dbaileyut,,0,1
+PowerShell/PowerShell,PaulHigin,Paul Higinbotham,27,66
+PowerShell/PowerShell,kvprasoon,PRASOON KARUNAN V,0,26
+PowerShell/PowerShell,Sulltiss,,0,1
+PowerShell/PowerShell,anamnavi,Anam Navied,0,8
+PowerShell/PowerShell,ZhiZe-ZG,,0,1
+PowerShell/PowerShell,JustinGrote,Justin Grote,0,2
+PowerShell/PowerShell,PDQDakota,Dakota Clark,0,1
+PowerShell/PowerShell,Aravind00095,Aravind,0,1
+PowerShell/PowerShell,jazzdelightsme,Dan Thompson,0,6
+PowerShell/PowerShell,GitG33,,0,2
+PowerShell/PowerShell,Bandranews,,0,1
+PowerShell/PowerShell,MarianoAlipi,Mariano Alipi,0,1
+PowerShell/PowerShell,TylerLeonhardt,Tyler James Leonhardt,0,22
+PowerShell/PowerShell,hez2010,Steve,0,2
+PowerShell/PowerShell,B4Art,Bart van den Donk,0,1
+PowerShell/PowerShell,imba-tjd,谭九鼎,0,2
+PowerShell/PowerShell,PsychoData,Kevin Crouch,0,1
+PowerShell/PowerShell,awakecoding,Marc-André Moreau,0,1
+PowerShell/PowerShell,dinhngtu,,0,1
+PowerShell/PowerShell,Boidushya,Boidushya,0,1
+PowerShell/PowerShell,brianary,Brian Lalonde,0,2
+PowerShell/PowerShell,romero126,,0,6
+PowerShell/PowerShell,MikeShepard,Mike Shepard,0,1
+PowerShell/PowerShell,wbhsm,Fight tiger,0,1
+PowerShell/PowerShell,sri-ka1ki,G Bee,0,1
+PowerShell/PowerShell,RDIL,Reece Dunham,0,89
+PowerShell/PowerShell,matthewjdegarmo,Matthew J. DeGarmo,0,1
+PowerShell/PowerShell,hbuckle,Henry Buckle,0,1
+PowerShell/PowerShell,kyanha,Kyle H,0,3
+PowerShell/PowerShell,paul-cheung,paul cheung,0,1
+PowerShell/PowerShell,mkswd,Marcos Ramos,0,5
+PowerShell/PowerShell,PatLeong,Pat Leong,0,2
+PowerShell/PowerShell,georgettica,Ron Green,0,3
+PowerShell/PowerShell,mbpreble,,0,1
+PowerShell/PowerShell,jborean93,Jordan Borean,0,1
+PowerShell/PowerShell,fMichaleczek,Flavien,0,2
+PowerShell/PowerShell,sdwheeler,Sean Wheeler,0,5
+PowerShell/PowerShell,dgoldman-msft,Dave Goldman,0,4
+PowerShell/PowerShell,hubuk,Hubert Bukowski,0,4
+PowerShell/PowerShell,bmkaiser,Brian,0,1
+PowerShell/PowerShell,heaths,Heath Stewart,0,2
+PowerShell/PowerShell,jakekerr,Jake,0,2
+PowerShell/PowerShell,soccypowa,Fredrik Nilsson,0,1
+PowerShell/PowerShell,davidreis97,David Reis,0,1
+PowerShell/PowerShell,tamasvajk,Tamás Vajk,0,1
+PowerShell/PowerShell,Artoria2e5,Mingye Wang,0,2
+PowerShell/PowerShell,Youssef1313,Youssef Victor,0,1
+PowerShell/PowerShell,joopjaeng,เซงเป็ด,0,1
+PowerShell/PowerShell,hemisphera,The Dumb,0,1
+PowerShell/PowerShell,sethvs,Sergey Vasin,0,38
+PowerShell/PowerShell,tasnimzotder,Tasnim Zotder,0,2
+PowerShell/PowerShell,alerickson,,0,2
+PowerShell/PowerShell,brcrista,Brian Cristante,0,1
+PowerShell/PowerShell,WorrenB,,0,1
+PowerShell/PowerShell,cdhunt,Chris Hunt,0,1
+PowerShell/PowerShell,Shriram0908,Shri Ram K S,0,4
+PowerShell/PowerShell,sar,Sar Malik,0,1
+PowerShell/PowerShell,aetos382,aetos,0,1
+PowerShell/PowerShell,77,,0,1
+PowerShell/PowerShell,Liturgist,Paul Watson,0,3
+PowerShell/PowerShell,thomasrayner,Thomas Rayner,0,1
+PowerShell/PowerShell,machv,Vladimír,0,1
+PowerShell/PowerShell,reynoldsbd,Bobby Reynolds,0,1
+PowerShell/PowerShell,IISResetMe,Mathias R. Jessen,1,18
+PowerShell/PowerShell,UI221223,UI221223,0,1
+PowerShell/PowerShell,corbob,,0,1
+PowerShell/PowerShell,Maamue,,0,1
+PowerShell/PowerShell,kilasuit,Ryan Yates,3,5
+PowerShell/PowerShell,teo-tsirpanis,Theodore Tsirpanis,0,1
+PowerShell/PowerShell,jcotton42,Josh Cotton,0,1
+PowerShell/PowerShell,HumanEquivalentUnit,,0,1
+PowerShell/PowerShell,davidseibel,David Seibel,0,1
+PowerShell/PowerShell,tats-u,Tatsunori Uchino,0,1
+PowerShell/PowerShell,parameshbabu,Paramesh Babu,0,1
+PowerShell/PowerShell,nikkiomalley1123,,0,1
+PowerShell/PowerShell,ShaydeNofziger,Shayde Nofziger,0,2
+PowerShell/PowerShell,SydneyhSmith,Sydney Smith,0,5
+PowerShell/PowerShell,fdawlat,,0,2
+PowerShell/PowerShell,devlead,Mattias Karlsson,0,1
+PowerShell/PowerShell,DamirAinullin,Damir Ainullin,1,2
+PowerShell/PowerShell,LabhanshAgrawal,Labhansh Agrawal,0,1
+PowerShell/PowerShell,vikramkapoor80,,0,2
+PowerShell/PowerShell,KirkMunro,Kirk Munro,3,41
+PowerShell/PowerShell,beatcracker,,0,1
+PowerShell/PowerShell,alexandair,Aleksandar Nikolić,29,5
+PowerShell/PowerShell,alepauly,Alejandro Pauly,0,1
+PowerShell/PowerShell,kevinoid,Kevin Locke,0,1
+PowerShell/PowerShell,nxtn,Next Turn,0,3
+PowerShell/PowerShell,devopstrainer1,,0,1
+PowerShell/PowerShell,MatthewShea35,,0,1
+PowerShell/PowerShell,joeltankam,Joël Tankam,0,1
+PowerShell/PowerShell,Marusyk,Roman Marusyk,0,2
+PowerShell/PowerShell,alex-frankel,Alex Frankel,0,1
+PowerShell/PowerShell,mikeTWC1984,,0,1
+PowerShell/PowerShell,brendandburns,Brendan Burns,0,4
+PowerShell/PowerShell,RandomNoun7,Bill Hurt,0,1
+PowerShell/PowerShell,paalbra,Paal Braathen,0,2
+PowerShell/PowerShell,LucaFilipozzi,Luca Filipozzi,0,2
+PowerShell/PowerShell,OneScripter,Jay Adams,0,1
+PowerShell/PowerShell,Beagall,,0,1
+PowerShell/PowerShell,p0W3RH311,,0,3
+PowerShell/PowerShell,h93xV2,,0,1
+PowerShell/PowerShell,rkeithhill,Keith Hill,4,9
+PowerShell/PowerShell,rkitover,Rafael Kitover,0,1
+PowerShell/PowerShell,spongemike2,,0,1
+PowerShell/PowerShell,bpayette,Bruce Payette,0,1
+PowerShell/PowerShell,doctordns,Thomas Lee,0,1
+PowerShell/PowerShell,Francisco-Gamino,Francisco Gamino,15,1
+PowerShell/PowerShell,adamdriscoll,Adam Driscoll,5,1
+PowerShell/PowerShell,alvarodelvalle,Alvaro Del Valle,0,1
+PowerShell/PowerShell,edyoung,Edwin Young,0,1
+PowerShell/PowerShell,silijon,John Dennis,0,1
+PowerShell/PowerShell,Saancreed,Krzysztof Bogacki,0,1
+PowerShell/PowerShell,davidsmatlak,David Smatlak,0,1
+PowerShell/PowerShell,MarvTheRobot,Edward Douse,1,1
+PowerShell/PowerShell,ltrowley83,,0,1
+PowerShell/PowerShell,MJECloud,Maurice,0,1
+PowerShell/PowerShell,davinci26,Sotiris Nanopoulos,0,3
+PowerShell/PowerShell,danstur,Daniel Sturm,0,1
+PowerShell/PowerShell,ovidiufelixb,,0,1
+PowerShell/PowerShell,mdalepiane,Mateus Dalepiane,0,1
+PowerShell/PowerShell,Greg-Smulko,Greg Smulko,0,2
+PowerShell/PowerShell,Himura2la,Himura Kazuto,0,2
+PowerShell/PowerShell,centreboard,Matthew R Johnson,0,1
+PowerShell/PowerShell,Lucius-Q-User,Lucius Q. User,0,1
+PowerShell/PowerShell,machgo,Marco Schmid,0,1
+PowerShell/PowerShell,SeeminglyScience,Patrick Meinecke,0,5
+PowerShell/PowerShell,SteveLee1287,Steve Lee,0,2
+PowerShell/PowerShell,jboeshart,Jason Boeshart,0,1
+PowerShell/PowerShell,steviecoaster,Stephen Valdinger,0,1
+PowerShell/PowerShell,M1kep,M1kep,0,1
+PowerShell/PowerShell,Orca88,,0,1
+PowerShell/PowerShell,vdamewood,Vincent Damewood,0,1
+PowerShell/PowerShell,vedhasp,Vedhas Patkar,0,1
+PowerShell/PowerShell,jschpp,Johannes Schöpp,0,1
+PowerShell/PowerShell,ThreeFive-O,,0,16
+PowerShell/PowerShell,plcancelleri,P. L. Cancelleri,0,1
+PowerShell/PowerShell,sbonds,Steve Bonds,0,1
+PowerShell/PowerShell,lzybkr,Jason Shirk,45,14
+PowerShell/PowerShell,markekraus,Mark Kraus,0,81
+PowerShell/PowerShell,robdy,Robert Dyjas,0,1
+PowerShell/PowerShell,Geweldig,Bram Crielaard,0,3
+PowerShell/PowerShell,bgelens,Ben Gelens,0,1
+PowerShell/PowerShell,NeoBeum,NB,0,2
+PowerShell/PowerShell,amitsara,Amit Saraf,0,4
+PowerShell/PowerShell,weltkante,Tobias Käs,0,1
+PowerShell/PowerShell,nbkalex,,0,1
+PowerShell/PowerShell,pougetat,pougetat,0,12
+PowerShell/PowerShell,asrosent,,0,1
+PowerShell/PowerShell,paulbailey1979,,0,1
+PowerShell/PowerShell,Dewit62,Robin,0,1
+PowerShell/PowerShell,HemantMahawar,Hemant Mahawar,9,1
+PowerShell/PowerShell,SytzeAndr,Sytze Andringa,0,4
+PowerShell/PowerShell,tlsalex,,0,1
+PowerShell/PowerShell,indented-automation,Chris Dent,1,1
+PowerShell/PowerShell,yashrajbharti,Yash Raj Bharti,0,1
+PowerShell/PowerShell,st0le,Gaurav Kamath,0,1
+PowerShell/PowerShell,ece-jacob-scott,Jacob Scott,0,3
+PowerShell/PowerShell,mjanko5,Matt Jankowski,0,1
+PowerShell/PowerShell,nanyiyang,Nanyi Yang,0,1
+PowerShell/PowerShell,derek-xia,Derek Xia,0,1
+PowerShell/PowerShell,david-wang24,,0,1
+PowerShell/PowerShell,MohiTheFish,Muhammed Imran,0,1
+PowerShell/PowerShell,lupino3,Andrea Spadaccini,0,1
+PowerShell/PowerShell,vmsilvamolina,Victor Silva,0,4
+PowerShell/PowerShell,diddledan,Daniel Llewellyn,0,2
+PowerShell/PowerShell,hvitved,Tom Hvitved,0,1
+PowerShell/PowerShell,DCtheGeek,David Coulter,0,1
+PowerShell/PowerShell,sba923,Stéphane BARIZIEN,0,1
+PowerShell/PowerShell,replicaJunction,Joshua T,0,1
+PowerShell/PowerShell,stknohg,Takuya Shibata,0,5
+PowerShell/PowerShell,DanielSSilva,Daniel Silva,0,1
+PowerShell/PowerShell,slide,Alex Earl,0,2
+PowerShell/PowerShell,MarkTiedemann,Mark Tiedemann,0,1
+PowerShell/PowerShell,renehernandez,Rene Hernandez,0,1
+PowerShell/PowerShell,jwmoss,Jonathan Moss,0,1
+PowerShell/PowerShell,Prototyyppi,Jani,0,1
+PowerShell/PowerShell,DarwinJS,Darwin,2,15
+PowerShell/PowerShell,ghost,Deleted user,2,3
+PowerShell/PowerShell,louistio,Adam Gauthier,0,5
+PowerShell/PowerShell,Meir017,Meir Blachman,0,3
+PowerShell/PowerShell,kiazhi,Ryen Tang,0,1
+PowerShell/PowerShell,jeis2497052,John Eismeier,0,1
+PowerShell/PowerShell,bugale,Bugale Bugalit,0,1
+PowerShell/PowerShell,pcgeek86,Trevor Sullivan,1,1
+PowerShell/PowerShell,andschwa,Andrew Schwartzmeyer,255,1
+PowerShell/PowerShell,frjol,,0,3
+PowerShell/PowerShell,azkarmoulana,Azkar Moulana,0,1
+PowerShell/PowerShell,KevinMarquette,Kevin Marquette,2,10
+PowerShell/PowerShell,vongrippen,Mike Cochran,0,1
+PowerShell/PowerShell,lukepayne,Luke,0,1
+PowerShell/PowerShell,nycjan,Jan,0,1
+PowerShell/PowerShell,lassehastrup,,0,1
+PowerShell/PowerShell,glachancecmaisonneuve,Guillaume Lachance,0,1
+PowerShell/PowerShell,Jocapear,José Carlos Peñuelas Armenta,0,1
+PowerShell/PowerShell,Estefycp,Estefy,0,1
+PowerShell/PowerShell,tobvil,,0,1
+PowerShell/PowerShell,daviddreher2,,0,1
+PowerShell/PowerShell,markwragg,Mark Wragg,0,1
+PowerShell/PowerShell,TwitRco,Michiel Scoonderbeek (Remco van Ginneke),0,1
+PowerShell/PowerShell,iGotenz,,0,1
+PowerShell/PowerShell,razinc,,0,1
+PowerShell/PowerShell,TonyMichailidis,,0,1
+PowerShell/PowerShell,javicl,Javier Carcamo,0,1
+PowerShell/PowerShell,Jellyfrog,,0,1
+PowerShell/PowerShell,vpondala,Vijayakrishna Pondala,0,1
+PowerShell/PowerShell,tommymaynard,tommymaynard,0,1
+PowerShell/PowerShell,1RedOne,Stephen Owen,0,1
+PowerShell/PowerShell,thattanmay,Tanmay Gupta,0,1
+PowerShell/PowerShell,aavdberg,Andre van den Berg,0,1
+PowerShell/PowerShell,Topping,,0,1
+PowerShell/PowerShell,StingyJack,Andrew Stanton,0,1
+PowerShell/PowerShell,felixfbecker,Felix Becker,0,1
+PowerShell/PowerShell,dantraMSFT,Dan Travison,7,39
+PowerShell/PowerShell,fbehrens,Frank Behrens,0,1
+PowerShell/PowerShell,Claustn,Claus T Nielsen,0,1
+PowerShell/PowerShell,britishben,Benjamin P. McKenna,0,1
+PowerShell/PowerShell,yurko7,Yuriy Kushnir,0,1
+PowerShell/PowerShell,flexiondotorg,Martin Wimpress,0,1
+PowerShell/PowerShell,BrucePay,Bruce Payette,5,13
+PowerShell/PowerShell,devblackops,Brandon Olin,0,1
+PowerShell/PowerShell,thezim,Greg Zimmerman,1,10
+PowerShell/PowerShell,faraazahmad,Syed Faraaz Ahmad,0,1
+PowerShell/PowerShell,JoshuaCooper,Joshua Cooper,0,1
+PowerShell/PowerShell,jianyunt,Jianyun,22,2
+PowerShell/PowerShell,fowl2,James May,0,1
+PowerShell/PowerShell,alexjordan6,Alex Jordan,0,1
+PowerShell/PowerShell,PetSerAl,,3,5
+PowerShell/PowerShell,mateusrodrigues,Mateus Rodrigues de Morais,0,1
+PowerShell/PowerShell,adelton,Jan Pazdziora,0,4
+PowerShell/PowerShell,vors,Sergei Vorobev,140,5
+PowerShell/PowerShell,jokajak,Josh,0,1
+PowerShell/PowerShell,qmfrederik,Frederik Carlier,0,1
+PowerShell/PowerShell,Robo210,Kyle Sabo,0,1
+PowerShell/PowerShell,kalgiz,Klaudia Algiz,0,39
+PowerShell/PowerShell,wesholton84,,0,1
+PowerShell/PowerShell,mcbobke,Matthew Bobke,0,3
+PowerShell/PowerShell,bjh7242,Bryan Harmat,0,1
+PowerShell/PowerShell,Patochun,Patrick Mauger,0,1
+PowerShell/PowerShell,FriedrichWeinmann,Friedrich Weinmann,0,1
+PowerShell/PowerShell,gabrielsroka,Gabriel Sroka,0,1
+PowerShell/PowerShell,jpsnover,Jeffrey Snover,2,4
+PowerShell/PowerShell,ffeldhaus,Florian Feldhaus,1,1
+PowerShell/PowerShell,M-D-M,M-D-M,0,1
+PowerShell/PowerShell,SimonWahlin,Simon Wåhlin,0,1
+PowerShell/PowerShell,StefanScherer,Stefan Scherer,0,1
+PowerShell/PowerShell,SwarfegaGit,Andrew Palmer,0,3
+PowerShell/PowerShell,Arnavion,Arnav Singh,0,1
+PowerShell/PowerShell,pawamoy,Timothée Mazzucotelli,0,1
+PowerShell/PowerShell,DarqueWarrior,Donovan Brown,0,1
+PowerShell/PowerShell,strawgate,William Easton,0,1
+PowerShell/PowerShell,SigFyg,,0,1
+PowerShell/PowerShell,CloudyDino,Amaan Marfatia,0,1
+PowerShell/PowerShell,CallmeJoeBob,Joel Joseprabu,0,1
+PowerShell/PowerShell,mbreakey3,Mariah,0,1
+PowerShell/PowerShell,mababio,Michael Ababio,0,1
+PowerShell/PowerShell,develroo,,0,1
+PowerShell/PowerShell,maybe-hello-world,Roman Beltyukov,0,1
+PowerShell/PowerShell,gpduck,Chris Duck,0,2
+PowerShell/PowerShell,ppadmavilasom,Priyesh,0,1
+PowerShell/PowerShell,seemethere,Eli Uriegas,0,1
+PowerShell/PowerShell,mikemaccana,Mike MacCana,0,1
+PowerShell/PowerShell,yeyintminthuhtut,r0lan,0,1
+PowerShell/PowerShell,tomconte,Thomas Conté,0,1
+PowerShell/PowerShell,jbilinski,Jamie Bilinski,0,1
+PowerShell/PowerShell,brianbunke,Brian Bunke,0,1
+PowerShell/PowerShell,zackJKnight,Zack Knight,0,1
+PowerShell/PowerShell,Stanzilla,Benjamin Staneck,0,1
+PowerShell/PowerShell,timothywlewis,Tim Lewis,0,1
+PowerShell/PowerShell,kanjibates,,0,2
+PowerShell/PowerShell,rpalo,Ryan Palo,0,1
+PowerShell/PowerShell,tandasat,Satoshi Tanda,0,1
+PowerShell/PowerShell,jcarino,,0,1
+PowerShell/PowerShell,charlieschmidt,Charlie Schmidt,0,2
+PowerShell/PowerShell,stuntguy3000,Luke Anderson,0,1
+PowerShell/PowerShell,zhenggu,Zheng Gu,0,3
+PowerShell/PowerShell,bmanikm,Manikyam Bavandla,16,2
+PowerShell/PowerShell,maertendMSFT,Danny Maertens,0,1
+PowerShell/PowerShell,Bhaal22,Jonathan Muller,0,1
+PowerShell/PowerShell,tlindsay42,Troy Lindsay,0,2
+PowerShell/PowerShell,stuajnht,,0,1
+PowerShell/PowerShell,chunqingchen,Chunqing Chen,19,16
+PowerShell/PowerShell,offthewoll,Avi Wollman,0,1
+PowerShell/PowerShell,brywang-msft,,0,2
+PowerShell/PowerShell,xa0082249956,,0,1
+PowerShell/PowerShell,PowershellNinja,Raphael,0,1
+PowerShell/PowerShell,dee-see,Dominic,0,2
+PowerShell/PowerShell,dlwyatt,Dave Wyatt,3,1
+PowerShell/PowerShell,travisty-,Travis Kinney,0,2
+PowerShell/PowerShell,kylesferrazza,Kyle Sferrazza,1,2
+PowerShell/PowerShell,djweber,David Weber,0,4
+PowerShell/PowerShell,raghav710,Raghav S,0,1
+PowerShell/PowerShell,Indhukrishna,Indhu Sivaramakrishnan,2,2
+PowerShell/PowerShell,Windos,Joshua King,0,1
+PowerShell/PowerShell,dfinke,Doug Finke,0,1
+PowerShell/PowerShell,LDSpits,Lucas Spits,0,3
+PowerShell/PowerShell,joandrsn,Jonas Andersen,0,3
+PowerShell/PowerShell,mirichmo,Mike Richmond,40,9
+PowerShell/PowerShell,Tadas,Tadas Medišauskas,1,1
+PowerShell/PowerShell,korygill,Kory Gill,0,1
+PowerShell/PowerShell,sarithsutha,Sarith Sutha,0,2
+PowerShell/PowerShell,chucklu,Chuck Lu,0,1
+PowerShell/PowerShell,stevedesmond-ca,Steve Desmond,0,1
+PowerShell/PowerShell,TheNewStellW,Stellios W,0,1
+PowerShell/PowerShell,timparkinson,Tim Parkinson,0,1
+PowerShell/PowerShell,jeffbi,,20,4
+PowerShell/PowerShell,zjalexander,Zachary Alexander,0,1
+PowerShell/PowerShell,oising,Oisin Grehan,1,2
+PowerShell/PowerShell,mwrock,Matt Wrock,9,1
+PowerShell/PowerShell,TimCurwick,Tim Curwick,1,2
+PowerShell/PowerShell,dchristian3188,David Christian,6,1
+PowerShell/PowerShell,ergo3114,Littlejohn,0,1
+PowerShell/PowerShell,zackschuster,Zack Schuster,0,1
+PowerShell/PowerShell,it-praktyk,Wojciech Sciesinski,1,0
+PowerShell/PowerShell,mrpnkt,mrpnkt,2,0
+PowerShell/PowerShell,zacateras,,1,0
+PowerShell/PowerShell,SRGOM,S,1,0
+PowerShell/PowerShell,MiaRomero,Maria Romero,3,0
+PowerShell/PowerShell,diev,Dmitrii Evdokimov,1,0
+PowerShell/PowerShell,sdcampbell,Steve Campbell,1,0
+PowerShell/PowerShell,0xfeeddeadbeef,George Chakhidze,2,0
+PowerShell/PowerShell,probonopd,,3,0
+PowerShell/PowerShell,mopadden,,1,0
+PowerShell/PowerShell,paulgmiller,Paul Miller,1,0
+PowerShell/PowerShell,0x4c6565,Lee Spottiswood,3,0
+PowerShell/PowerShell,TheFlyingCorpse,Rune Darrud,3,0
+PowerShell/PowerShell,raghushantha,Raghu Shantha [MSFT],43,0
+PowerShell/PowerShell,ewhitesides,Erik Whitesides,1,0
+PowerShell/PowerShell,jasonwer,Jason Werry,1,0
+PowerShell/PowerShell,ScriptAutomate,Derek Ardolf,1,0
+PowerShell/PowerShell,erwinwildenburg,Erwin Wildenburg,1,0
+PowerShell/PowerShell,ChrisUbben,Christopher Ubben,11,0
+PowerShell/PowerShell,paulcallen,Paul Allen,5,0
+PowerShell/PowerShell,charub,Charu Bassi,13,0
+PowerShell/PowerShell,Vasanth3g,Vasanth,1,0
+PowerShell/PowerShell,kwiknick,Nicholas Willard,1,0
+PowerShell/PowerShell,noelleleigh,Noelle Leigh,1,0
+PowerShell/PowerShell,paulbouwer,Paul Bouwer,1,0
+PowerShell/PowerShell,tibmeister,Jody L. Whitlock,2,0
+PowerShell/PowerShell,2xmax,Max Maximov,3,0
+PowerShell/PowerShell,Elufimov,Michael Elufimov,1,0
+PowerShell/PowerShell,brycem,Bryce Milton - MSFT,10,0
+PowerShell/PowerShell,ukreddy-erwin,Uday Kiran Reddy,1,0
+PowerShell/PowerShell,Noutlaw1,Nick Outlaw,1,0
+PowerShell/PowerShell,NearTox,Ernesto Ramirez,1,0
+PowerShell/PowerShell,faheel,Syed Faheel Ahmad,1,0
+PowerShell/PowerShell,AndrewGaspar,Andrew Gaspar,1,0
+PowerShell/PowerShell,randomvariable,Naadir Jeewa,3,0
+PowerShell/PowerShell,adbertram,Adam Bertram,2,0
+PowerShell/PowerShell,rmunn,Robin Munn,2,0
+PowerShell/PowerShell,nadiasvertex,Christopher Nelson,1,0
+PowerShell/PowerShell,kittholland,Kitt Holland,4,0
+PowerShell/PowerShell,khansen00,Kenneth Hansen,3,0
+PowerShell/PowerShell,JonathanMalek,Jonathan Malek,1,0
+PowerShell/PowerShell,alexpilotti,Alessandro Pilotti,1,0
+PowerShell/PowerShell,nmbradford,Nick Bradford,1,0
+PowerShell/PowerShell,megamorf,Sebastian N.,1,0
+PowerShell/PowerShell,latkin,Lincoln Atkinson,1,0
+PowerShell/PowerShell,GavinEke,Gavin Eke,1,0
+PowerShell/PowerShell,packtpartner,Packt,1,0
+PowerShell/PowerShell,Daniel15,Daniel Lo Nigro,1,0
+PowerShell/PowerShell,leriefbe-msft,Lee Riefberg,1,0
+PowerShell/PowerShell,andyli,Andy Li,1,0
+PowerShell/PowerShell,nitinbps,,1,0
+PowerShell/PowerShell,wangzq,Walter Wang,1,0
+PowerShell/PowerShell,jsoref,Josh Soref,24,0
+PowerShell/PowerShell,gitter-badger,The Gitter Badger,2,0
+PowerShell/PowerShell,thewebsitenursery,The Website Nursery,1,0
+PowerShell/PowerShell,ealexjordan,A,21,0
+PowerShell/PowerShell,bingbing8,Yanbing,9,0
+PowerShell/PowerShell,lilyfang,Li Li,1,0
+PowerShell/PowerShell,JumpingYang001,Jumping Yang[Wicresoft],44,0
+PowerShell/PowerShell,bjtucker,Ben Tucker,3,0
+PowerShell/PowerShell,douglaswth,Douglas Thrift,2,0
+PowerShell/PowerShell,coderdad,Henson Sturgill,2,0
+PowerShell/PowerShell,sajayantony,Sajay Antony,1,0
+PowerShell/PowerShell,mattdbr,Matthew Brener,5,0
+PowerShell/PowerShell,PeterMortensen,Peter Mortensen,1,0
+PowerShell/PowerShell,daviwil,David Wilson,4,0
+PowerShell/PowerShell,juneb,June Blender,1,0
+PowerShell/PowerShell,BarryNolte,Barry Nolte,4,0
+PowerShell/PowerShell,xiaoyinl,Xiaoyin Liu,1,0
+PowerShell/PowerShell,rnelson0,Rob Nelson,1,0
+PowerShell/PowerShell,halr9000,Hal Rottenberg,1,0
+PowerShell/PowerShell,KaliszAd,Adam Kalisz,1,0
+PowerShell/PowerShell,garethr,Gareth Rushgrove,1,0
+PowerShell/PowerShell,mikeehsu,Mike Hsu,2,0
+PowerShell/PowerShell,mat-mo,matanya,1,0
+PowerShell/PowerShell,lvnilesh,Nilesh Londhe,2,0
+PowerShell/PowerShell,Atalanttore,Ettore Atalan,1,0
+PowerShell/PowerShell,ebelew,,1,0
+PowerShell/PowerShell,stashev,Stas Burnashev,1,0
+PowerShell/PowerShell,nanalakshmanan,Nana Lakshmanan,3,0
+PowerShell/PowerShell,lalyos,Lajos Papp,1,0
+PowerShell/PowerShell,mrled,Micah R Ledbetter,1,0
+PowerShell/PowerShell,jeroenjanssens,Jeroen Janssens,1,0
+PowerShell/PowerShell,abernajb,,1,0
+PowerShell/PowerShell,ajensenwaud,A Jensen-Waud,1,0
+PowerShell/PowerShell,oldhamtj,Tim Oldham,1,0
+PowerShell/PowerShell,kmosher,Keith Mosher,2,0
+PowerShell/PowerShell,z11h,zakaria ridouh,1,0
+PowerShell/PowerShell,vivekjuneja,Vivek Juneja,1,0
+PowerShell/PowerShell,Krishna-Vutukuri,Krishna C Vutukuri,1,0
+PowerShell/PowerShell,stweil,Stefan Weil,1,0
+PowerShell/PowerShell,McAndersDK,,1,0
+PowerShell/PowerShell,bagder,Daniel Stenberg,1,0
+PowerShell/PowerShell,exp-cpandya,,1,0
+PowerShell/PowerShell,pborreli,Pascal Borreli,1,0
+PowerShell/PowerShell,n8v,Nathan Vonnahme,1,0
+PowerShell/PowerShell,PatrickLang,Patrick Lang,1,0
+PowerShell/PowerShell,KarolKaczmarek,Karol Kaczmarek,3,0
+PowerShell/PowerShell,hiteshraigandhi,Hitesh Raigandhi,5,0
+PowerShell/PowerShell,KrisBash,Kristopher Bash,3,0
+PowerShell/PowerShell,juanpablojofre,JuanPablo Jofre,1,0
+PowerShell/PowerShell,johnkord,John Kordich,4,0
+PowerShell/PowerShell,TingLiu6,Ting Liu [Wicresoft],28,0
+PowerShell/PowerShell,quoctruong,Quoc Truong,7,0
+PowerShell/PowerShell,AngelCalvo,Angel Calvo,14,0
+PowerShell/PowerShell,mgreenegit,Michael Greene,1,0
+PowerShell/PowerShell,maertend-zz,,3,0
+PowerShell/PowerShell,kapilmb,Kapil Borle,1,0
+PowerShell/PowerShell,DonGill,Don Gill,4,0
+PowerShell/PowerShell,jkotas,Jan Kotas,1,0
+PowerShell/PowerShell,britw,Brit Weston,1,0
+PowerShell/PowerShell,DiceyDai,Dicey Dai[Wicresoft],4,0
+PowerShell/PowerShell,dgrala,Darek Grala,1,0
+PowerShell/PowerShell,palladia,George Fleming,41,0
+PowerShell/PowerShell,zach-folwick,Zach Folwick,5,0
+PowerShell/PowerShell,fearthecowboy,Garrett Serack,1,0

@@ -1,0 +1,3089 @@
+repository_url,user_login,user_name,n_pr_before_coc,n_pr_after_coc
+scikit-learn/scikit-learn,quendee,,0,2
+scikit-learn/scikit-learn,ogrisel,Olivier Grisel,252,64
+scikit-learn/scikit-learn,lacrosse91,lacrosse91,0,1
+scikit-learn/scikit-learn,jjerphan,Julien Jerphanion,0,19
+scikit-learn/scikit-learn,thomasjpfan,Thomas J. Fan,236,291
+scikit-learn/scikit-learn,tsuga,,0,2
+scikit-learn/scikit-learn,lorentzenchr,Christian Lorentzen,7,31
+scikit-learn/scikit-learn,gsheni,Gaurav Sheni,0,2
+scikit-learn/scikit-learn,glemaitre,Guillaume Lemaitre,168,129
+scikit-learn/scikit-learn,kilgore92,Ishaan Bhat,0,1
+scikit-learn/scikit-learn,seanbenhur,Sean Benhur J ,0,2
+scikit-learn/scikit-learn,hurricane642,,0,2
+scikit-learn/scikit-learn,tnakae,Toshihiro NAKAE,0,1
+scikit-learn/scikit-learn,lesteve,Loïc Estève,151,5
+scikit-learn/scikit-learn,jeremiedbb,Jérémie du Boisberranger,75,75
+scikit-learn/scikit-learn,kddubey,,0,1
+scikit-learn/scikit-learn,wowry,Shuhei Kayawari,0,1
+scikit-learn/scikit-learn,yoh1496,ishiguro-yo,0,1
+scikit-learn/scikit-learn,norbusan,Norbert Preining,0,4
+scikit-learn/scikit-learn,nithish08,Nithish Bolleddula,0,1
+scikit-learn/scikit-learn,murata-yu,,0,2
+scikit-learn/scikit-learn,NicolasHug,Nicolas Hug,181,107
+scikit-learn/scikit-learn,twolodzko,Tymoteusz Wołodźko,0,1
+scikit-learn/scikit-learn,pietroppeter,Pietro Peterlongo,0,1
+scikit-learn/scikit-learn,michalkrawczyk,,0,2
+scikit-learn/scikit-learn,asaadeldin11,Ali Saad-Eldin,0,1
+scikit-learn/scikit-learn,Bharat123rox,Bharat Raghunathan,11,9
+scikit-learn/scikit-learn,VarIr,Roman Feldbauer,3,4
+scikit-learn/scikit-learn,kach-sj,,0,1
+scikit-learn/scikit-learn,Caratheodory301,,0,2
+scikit-learn/scikit-learn,jakelohrke,Jake Lohrke,0,1
+scikit-learn/scikit-learn,kstoneriv3,Kei Ishikawa,0,4
+scikit-learn/scikit-learn,olszewskip,Paweł Olszewski,0,1
+scikit-learn/scikit-learn,cmarmo,Chiara Marmo,30,67
+scikit-learn/scikit-learn,davidechicco,Davide Chicco,0,2
+scikit-learn/scikit-learn,jnothman,Joel Nothman,378,10
+scikit-learn/scikit-learn,MaxwellLZH,Maxwell,0,13
+scikit-learn/scikit-learn,viniciusriosfuck,Vinicius Rios Fuck,0,4
+scikit-learn/scikit-learn,niknow,Nikolai Nowaczyk,0,1
+scikit-learn/scikit-learn,hxyue1,Hong Xiang Yue,0,1
+scikit-learn/scikit-learn,RyanWoodard,Ryan Woodard,0,1
+scikit-learn/scikit-learn,jasperroebroek,Jasper Roebroek,0,1
+scikit-learn/scikit-learn,Fengjun-Wang,cape,0,1
+scikit-learn/scikit-learn,TonyAttalla,Tony Attalla,0,1
+scikit-learn/scikit-learn,azihna,Alihan Zihna,0,20
+scikit-learn/scikit-learn,not-a-feature,Jules Kreuer,0,1
+scikit-learn/scikit-learn,MichalKarbownik,Michal Karbownik,0,1
+scikit-learn/scikit-learn,PierreAttard,,0,2
+scikit-learn/scikit-learn,AidarShakerimoff,,0,1
+scikit-learn/scikit-learn,yaniv010,,0,2
+scikit-learn/scikit-learn,robinthibaut,Robin Thibaut,0,2
+scikit-learn/scikit-learn,wdevazelhes,William de Vazelhes,24,1
+scikit-learn/scikit-learn,cozek,Kaushik Amar Das,0,2
+scikit-learn/scikit-learn,simontindemans,Simon Tindemans,0,1
+scikit-learn/scikit-learn,PGijsbers,,0,1
+scikit-learn/scikit-learn,TobiasUhmann,Tobias Uhmann,0,1
+scikit-learn/scikit-learn,hamlet-father-ghost,,0,1
+scikit-learn/scikit-learn,ShyamDesai,Shyam Desai,0,1
+scikit-learn/scikit-learn,tliu68,,0,2
+scikit-learn/scikit-learn,Pawel-Kranzberg,Pawel Kranzberg,0,1
+scikit-learn/scikit-learn,mohamed-khoualed,Mohamed Khoualed,0,1
+scikit-learn/scikit-learn,thoranna,,0,1
+scikit-learn/scikit-learn,kamiyaa,Jeff Zhao,0,1
+scikit-learn/scikit-learn,geroldcsendes,,0,1
+scikit-learn/scikit-learn,gregorystrubel,,0,1
+scikit-learn/scikit-learn,alex90r7,,0,1
+scikit-learn/scikit-learn,tczhao,Tianchu Zhao,0,1
+scikit-learn/scikit-learn,mhham,Mehdi Hamoumi,0,1
+scikit-learn/scikit-learn,isaack-mungui,Isaack Mungui,0,7
+scikit-learn/scikit-learn,timo-stoettner,,0,1
+scikit-learn/scikit-learn,hongshaoyang,Shao Yang Hong,0,9
+scikit-learn/scikit-learn,hafnerfe,Felix Hafner,0,1
+scikit-learn/scikit-learn,colinweber27,,0,1
+scikit-learn/scikit-learn,MezentsevIlya,,0,1
+scikit-learn/scikit-learn,Tyneor,,0,1
+scikit-learn/scikit-learn,aerodynamic-saucepan,Theo L.,0,1
+scikit-learn/scikit-learn,jdelaunay,,0,1
+scikit-learn/scikit-learn,kno10,Erich Schubert,17,4
+scikit-learn/scikit-learn,ricardojnf,,0,4
+scikit-learn/scikit-learn,DavidQuere,David Quéré,0,4
+scikit-learn/scikit-learn,Asami-1,Asami,0,1
+scikit-learn/scikit-learn,shubhamdo,Shubham Shinde,0,1
+scikit-learn/scikit-learn,tpoulain,,0,1
+scikit-learn/scikit-learn,StealthyKamereon,Maël GODEY,0,1
+scikit-learn/scikit-learn,yash-clear,,0,2
+scikit-learn/scikit-learn,SkafteNicki,Nicki Skafte,0,1
+scikit-learn/scikit-learn,Konrad0,Konrad,0,1
+scikit-learn/scikit-learn,varunagrawal,Varun Agrawal,4,1
+scikit-learn/scikit-learn,ftrojan,Filip Trojan,0,1
+scikit-learn/scikit-learn,vnmabus,Carlos Ramos Carreño,0,1
+scikit-learn/scikit-learn,adriangb,Adrian Garcia Badaracco,0,3
+scikit-learn/scikit-learn,phbk,,0,1
+scikit-learn/scikit-learn,nandinisingh759,,0,1
+scikit-learn/scikit-learn,efiegel,Eric Fiegel,0,4
+scikit-learn/scikit-learn,frankier,Frankie Robertson,0,1
+scikit-learn/scikit-learn,cloud9anti,,0,2
+scikit-learn/scikit-learn,KaikeWesleyReis,Kaike W. Reis,0,1
+scikit-learn/scikit-learn,bthirion,bthirion,2,1
+scikit-learn/scikit-learn,Guobing-Chen,Guobing Chen,0,1
+scikit-learn/scikit-learn,ZhihuiChen0903,,0,1
+scikit-learn/scikit-learn,CoMartel,Martel Corentin,0,3
+scikit-learn/scikit-learn,PSSF23,Haoyin Xu,0,4
+scikit-learn/scikit-learn,alfaro96,Juan Carlos Alfaro Jiménez,3,95
+scikit-learn/scikit-learn,Rubix982,Saif Ul Islam,0,3
+scikit-learn/scikit-learn,mathschy,,0,3
+scikit-learn/scikit-learn,ssaamm,Samuel Taylor,1,1
+scikit-learn/scikit-learn,thebabush,thebabush,0,1
+scikit-learn/scikit-learn,daikikatsuragawa,Daiki Katsuragawa,0,1
+scikit-learn/scikit-learn,rafardenas,Rafael Cardenas,0,2
+scikit-learn/scikit-learn,John-Ted,Teugea Ioan-Teodor,0,1
+scikit-learn/scikit-learn,albertcthomas,Albert Thomas,33,3
+scikit-learn/scikit-learn,reshamas,Reshama Shaikh,16,2
+scikit-learn/scikit-learn,gkevinyen5418,Jui-Nan Yen,2,1
+scikit-learn/scikit-learn,claramatos,Clara Matos,0,2
+scikit-learn/scikit-learn,sahilgupta2105,Sahil Gupta,0,1
+scikit-learn/scikit-learn,aggvarun01,Varun Aggarwal,0,1
+scikit-learn/scikit-learn,ivirshup,Isaac Virshup,0,1
+scikit-learn/scikit-learn,trewaite,Trevor Waite,0,4
+scikit-learn/scikit-learn,jayzed82,Jaime Zuniga,1,2
+scikit-learn/scikit-learn,amrcode,,0,1
+scikit-learn/scikit-learn,tnwei,,0,4
+scikit-learn/scikit-learn,tanglef,Tanguy Lefort,0,1
+scikit-learn/scikit-learn,robert-robison,Robert Robison,0,1
+scikit-learn/scikit-learn,amy12xx,Amanda Dsouza,0,13
+scikit-learn/scikit-learn,makermotion,,0,1
+scikit-learn/scikit-learn,yacth,yacth,0,2
+scikit-learn/scikit-learn,TwsThomas,Thomas Schmitt,3,1
+scikit-learn/scikit-learn,LionXav,,0,1
+scikit-learn/scikit-learn,titigmr,,0,1
+scikit-learn/scikit-learn,Alit10,Ali TBER,0,1
+scikit-learn/scikit-learn,OlehKSS,Oleh Kozynets,0,9
+scikit-learn/scikit-learn,albertvillanova,Albert Villanova del Moral,0,18
+scikit-learn/scikit-learn,jeanCarloMachado,Jean Carlo Machado,0,2
+scikit-learn/scikit-learn,doerlbh,Baihan Lin,0,1
+scikit-learn/scikit-learn,okz12,Osman,5,1
+scikit-learn/scikit-learn,harupy,Harutaka Kawamura,0,1
+scikit-learn/scikit-learn,JoElfner,JElfner,0,1
+scikit-learn/scikit-learn,MathieuBertin,,0,2
+scikit-learn/scikit-learn,madhuracj,Madhura Jayaratne,8,4
+scikit-learn/scikit-learn,alexshacked,,6,3
+scikit-learn/scikit-learn,BenjaminBossan,Benjamin Bossan,3,1
+scikit-learn/scikit-learn,juliusvering,Julius Vering,0,1
+scikit-learn/scikit-learn,lucyleeow,Lucy Liu,1,74
+scikit-learn/scikit-learn,lababidi,Mahmoud Lababidi,0,1
+scikit-learn/scikit-learn,oulenz,Oliver Urs Lenz,1,1
+scikit-learn/scikit-learn,rotheconrad,Roth E Conrad,0,1
+scikit-learn/scikit-learn,nkulkarni,,0,1
+scikit-learn/scikit-learn,marenwestermann,Maren Westermann,0,21
+scikit-learn/scikit-learn,rth,Roman Yurchak,120,29
+scikit-learn/scikit-learn,venkyyuvy,Venkatachalam N,11,6
+scikit-learn/scikit-learn,bnaul,Brett Naul,4,1
+scikit-learn/scikit-learn,zachmayer,Zach Mayer,0,2
+scikit-learn/scikit-learn,rithvikrao,Rithvik Rao,0,3
+scikit-learn/scikit-learn,jochenater,,0,1
+scikit-learn/scikit-learn,jenniferjang,,0,1
+scikit-learn/scikit-learn,rpstanley90,,0,1
+scikit-learn/scikit-learn,dsleo,Léo DS,1,1
+scikit-learn/scikit-learn,maikia,Maria Telenczuk,4,29
+scikit-learn/scikit-learn,postmalloc,Srimukh Sripada,0,5
+scikit-learn/scikit-learn,viclafargue,Victor Lafargue,0,2
+scikit-learn/scikit-learn,kempa-liehr,Andreas Kempa-Liehr,0,1
+scikit-learn/scikit-learn,anhqngo,Anh Ngo,0,2
+scikit-learn/scikit-learn,smola,Santiago M. Mola,1,1
+scikit-learn/scikit-learn,rtavenar,Romain Tavenard,0,2
+scikit-learn/scikit-learn,amascia,Achille Mascia,0,1
+scikit-learn/scikit-learn,yagi-3,Ayako YAGI,0,3
+scikit-learn/scikit-learn,gbolmier,Geoffrey Bolmier,0,4
+scikit-learn/scikit-learn,goerch,,0,1
+scikit-learn/scikit-learn,smarie,Sylvain Marié,5,5
+scikit-learn/scikit-learn,haochunchang,Hao Chun Chang,0,3
+scikit-learn/scikit-learn,acharles7,Charles Patel,0,4
+scikit-learn/scikit-learn,Reksbril,Mateusz Górski,0,5
+scikit-learn/scikit-learn,PabloRMira,Pablo Rodriguez Mira,0,1
+scikit-learn/scikit-learn,arka204,,0,4
+scikit-learn/scikit-learn,qcw171717,,1,1
+scikit-learn/scikit-learn,rsaite,,0,1
+scikit-learn/scikit-learn,joeDiHare,Stefano Cosentino,0,1
+scikit-learn/scikit-learn,dupuisIRT,,0,1
+scikit-learn/scikit-learn,chrispe,Christos Petropoulos,0,1
+scikit-learn/scikit-learn,HanYaodong,Han Yaodong,0,2
+scikit-learn/scikit-learn,matwey,Matwey V. Kornilov,0,2
+scikit-learn/scikit-learn,adrinjalali,Adrin Jalali,144,37
+scikit-learn/scikit-learn,ahmedhshahin,Ahmed Shahin,0,1
+scikit-learn/scikit-learn,mdabbah,,0,1
+scikit-learn/scikit-learn,rpauli,,0,1
+scikit-learn/scikit-learn,maxi-marufo,Maxi Marufo,0,1
+scikit-learn/scikit-learn,cshih14,,1,1
+scikit-learn/scikit-learn,RoeiKa,roei,0,2
+scikit-learn/scikit-learn,little-eyes,Jilong Liao,0,1
+scikit-learn/scikit-learn,morgsmss7,Morgan Sanchez,0,1
+scikit-learn/scikit-learn,bshabashFD,Boris Shabash,0,1
+scikit-learn/scikit-learn,dwaks,,0,1
+scikit-learn/scikit-learn,chengning-zhang,chengningz,0,1
+scikit-learn/scikit-learn,shekharsingh8811,Shekhar Singh,0,3
+scikit-learn/scikit-learn,siqi-he,,0,1
+scikit-learn/scikit-learn,jnboehm,,0,2
+scikit-learn/scikit-learn,vitorsrg,,0,1
+scikit-learn/scikit-learn,arunavkonwar,Arunav Konwar,0,3
+scikit-learn/scikit-learn,zyxue,Zhuyi Xue,3,1
+scikit-learn/scikit-learn,MaiRajborirug,Mai,0,2
+scikit-learn/scikit-learn,happilyeverafter95,Mandy Gu,1,1
+scikit-learn/scikit-learn,groud,Gilles Roudière,0,1
+scikit-learn/scikit-learn,jgibson2,John Gibson,0,1
+scikit-learn/scikit-learn,EvgeniDubov,,0,1
+scikit-learn/scikit-learn,Mazay0,,0,1
+scikit-learn/scikit-learn,ShumingXu,,0,1
+scikit-learn/scikit-learn,divyaprabha123,Divyaprabha M,1,1
+scikit-learn/scikit-learn,tathey1,Thomas Athey,0,1
+scikit-learn/scikit-learn,vsriram11,Varun Sriram,0,1
+scikit-learn/scikit-learn,ShamanthNyk,Shamanth R Nayak K,0,1
+scikit-learn/scikit-learn,amueller,Andreas Mueller,563,5
+scikit-learn/scikit-learn,Henley13,Arthur Imbert,4,3
+scikit-learn/scikit-learn,chbrandt,Carlos H Brandt,0,2
+scikit-learn/scikit-learn,remykarem,Remy,0,1
+scikit-learn/scikit-learn,getgaurav2,Gaurav Chawla,2,1
+scikit-learn/scikit-learn,maartenbreddels,Maarten Breddels,1,1
+scikit-learn/scikit-learn,csbrown,Scott Brown,0,1
+scikit-learn/scikit-learn,knorthover,,0,1
+scikit-learn/scikit-learn,pehlivanian,Charles A. Pehlivanian,1,0
+scikit-learn/scikit-learn,panpiort8,Piotr Gaiński,5,0
+scikit-learn/scikit-learn,JohnHBauer,John Bauer,1,0
+scikit-learn/scikit-learn,bsipocz,Brigitta Sipőcz,2,2
+scikit-learn/scikit-learn,hugoabonizio,Hugo Abonizio,1,0
+scikit-learn/scikit-learn,OkonSamuel,Okon Samuel,2,0
+scikit-learn/scikit-learn,GuyPozner,,2,0
+scikit-learn/scikit-learn,jcusick13,Jon Cusick,5,0
+scikit-learn/scikit-learn,sysuresh,,1,0
+scikit-learn/scikit-learn,Tjalling-a-a,,1,0
+scikit-learn/scikit-learn,nik-sm,Niklas,3,0
+scikit-learn/scikit-learn,MattEding,Matt Eding,1,0
+scikit-learn/scikit-learn,jhennrich,Johannes Hennrich,1,0
+scikit-learn/scikit-learn,oleksandr-pavlyk,Oleksandr Pavlyk,18,1
+scikit-learn/scikit-learn,rafikg,Rafikg,1,0
+scikit-learn/scikit-learn,plgreenLIRU,Pete Green,4,0
+scikit-learn/scikit-learn,pleydier,Paul Leydier,1,0
+scikit-learn/scikit-learn,chuckhacker,Chuck,1,0
+scikit-learn/scikit-learn,Ircama,,1,0
+scikit-learn/scikit-learn,MDouriez,Marie Douriez,8,0
+scikit-learn/scikit-learn,qinhanmin2014,Hanmin Qin,203,0
+scikit-learn/scikit-learn,pierrezeb,,1,0
+scikit-learn/scikit-learn,tcerdaITBA,Tomás Cerdá,1,0
+scikit-learn/scikit-learn,stsievert,Scott Sievert,5,0
+scikit-learn/scikit-learn,samskruthireddy,,1,0
+scikit-learn/scikit-learn,sam-dixon,Sam Dixon,3,0
+scikit-learn/scikit-learn,lakrish,Lakshmi Krishnan,2,0
+scikit-learn/scikit-learn,louishuynh,Louis Huynh,2,0
+scikit-learn/scikit-learn,paoloturati,Paolo,2,0
+scikit-learn/scikit-learn,LalliAcqua,,2,0
+scikit-learn/scikit-learn,hermidalc,Leandro Hermida,8,0
+scikit-learn/scikit-learn,yunesj,Jeff Yunes,2,0
+scikit-learn/scikit-learn,wolfiex,Dan Ellis,1,0
+scikit-learn/scikit-learn,darioka,,2,0
+scikit-learn/scikit-learn,kellycarmody,,4,0
+scikit-learn/scikit-learn,VariableVasasMT,VariableVasas,1,0
+scikit-learn/scikit-learn,pratikpc,Pratik Chowdhury,1,0
+scikit-learn/scikit-learn,johannfaouzi,Johann Faouzi,13,3
+scikit-learn/scikit-learn,joxxperez,,2,0
+scikit-learn/scikit-learn,leonardbinet,Léonard Binet,3,0
+scikit-learn/scikit-learn,dPys,Derek Pisner,1,0
+scikit-learn/scikit-learn,mitchelldehaven,Mitchell DeHaven,1,0
+scikit-learn/scikit-learn,huntzhan,Hunt Zhan,1,0
+scikit-learn/scikit-learn,chhabrakadabra,Abhin Chhabra,1,0
+scikit-learn/scikit-learn,agamemnonc,Agamemnon Krasoulis,8,2
+scikit-learn/scikit-learn,mehrnazmo,Mehrnaz Motamed,3,0
+scikit-learn/scikit-learn,cdknorow,Chris Knorowski,1,0
+scikit-learn/scikit-learn,githubalexliu,Alex,1,0
+scikit-learn/scikit-learn,benbo,Benedikt Boecking,1,0
+scikit-learn/scikit-learn,anxuthu,anxuthu,1,0
+scikit-learn/scikit-learn,gdupret,Georges Dupret,1,0
+scikit-learn/scikit-learn,alegonz,Alejandro González,1,0
+scikit-learn/scikit-learn,H4dr1en,H4dr1en,3,0
+scikit-learn/scikit-learn,sergiormpereira,Sérgio Pereira,1,0
+scikit-learn/scikit-learn,ben-dilday-enigma,,1,0
+scikit-learn/scikit-learn,scouvreur,Stéphane Couvreur,9,0
+scikit-learn/scikit-learn,ab-anssi,Anaël Beaugnon,5,0
+scikit-learn/scikit-learn,c56pony,,3,0
+scikit-learn/scikit-learn,mendozamanu,Manuel Mendoza,1,0
+scikit-learn/scikit-learn,WenjieZ,Wenjie Zheng,1,0
+scikit-learn/scikit-learn,kevin1kevin1k,Yu-Sheng Li,3,0
+scikit-learn/scikit-learn,jeromebedard12,,1,0
+scikit-learn/scikit-learn,Framartin,Martin Gubri,5,0
+scikit-learn/scikit-learn,Sean16SYSU,李俊义,2,0
+scikit-learn/scikit-learn,yc2311,Yuvraj Chugh,1,0
+scikit-learn/scikit-learn,boyuanmike,boyuanmike,1,0
+scikit-learn/scikit-learn,samronsin,Samuel O. Ronsin,6,0
+scikit-learn/scikit-learn,usul83,Graeme,1,0
+scikit-learn/scikit-learn,KevinMMendez,Kevin Milton Mendez,1,0
+scikit-learn/scikit-learn,maxnoe,Maximilian Nöthe,1,0
+scikit-learn/scikit-learn,cv3d,Hamdi Sahloul,2,0
+scikit-learn/scikit-learn,ryan-deak-zefr,,1,0
+scikit-learn/scikit-learn,pcerda,Patricio Cerda,2,0
+scikit-learn/scikit-learn,massich,Joan Massich,32,0
+scikit-learn/scikit-learn,rmenuet,Romuald M.,4,0
+scikit-learn/scikit-learn,FollowKenny,Ivan PANICO,3,0
+scikit-learn/scikit-learn,thibsej,Thibault Sejourne,3,0
+scikit-learn/scikit-learn,banilo,Danilo Bzdok,10,0
+scikit-learn/scikit-learn,orausch,Oliver Rausch,3,0
+scikit-learn/scikit-learn,chkoar,Christos Aridas,18,3
+scikit-learn/scikit-learn,albertotb,Alberto Torres,2,0
+scikit-learn/scikit-learn,TheXu,Alex Xu,1,0
+scikit-learn/scikit-learn,fferrin,Facundo Ferrín,2,2
+scikit-learn/scikit-learn,connorbrinton,Connor Brinton,1,0
+scikit-learn/scikit-learn,matthieu-pa,Matthieu Parizy,1,0
+scikit-learn/scikit-learn,Robinspecteur,robinspecteur,1,0
+scikit-learn/scikit-learn,sergeyf,Sergey Feldman,16,0
+scikit-learn/scikit-learn,nixphix,Prabakaran Kumaresshan,7,1
+scikit-learn/scikit-learn,se4u,,1,0
+scikit-learn/scikit-learn,psendyk,Pawel Sendyk,2,0
+scikit-learn/scikit-learn,sagarkar10,Sagar Kar,2,0
+scikit-learn/scikit-learn,urigoren,Uri Goren,5,0
+scikit-learn/scikit-learn,gykovacs,György Kovács,1,0
+scikit-learn/scikit-learn,pavlin-policar,Pavlin Poličar,1,0
+scikit-learn/scikit-learn,paragmoteria,Parag Moteria,1,0
+scikit-learn/scikit-learn,eamanu,Emmanuel Arias,6,0
+scikit-learn/scikit-learn,aishgrt1,,14,0
+scikit-learn/scikit-learn,cciccole,Chris Ciccolella,1,0
+scikit-learn/scikit-learn,isacarnekvist,Isac Arnekvist,1,0
+scikit-learn/scikit-learn,muneebaadil,Muneeb Aadil,1,0
+scikit-learn/scikit-learn,GMarzinotto,Gabriel Marzinotto,2,0
+scikit-learn/scikit-learn,RahulDamineni,Rahul Damineni,2,0
+scikit-learn/scikit-learn,lobpcg,Andrew Knyazev,3,0
+scikit-learn/scikit-learn,mattmilten,Matthias Miltenberger,1,0
+scikit-learn/scikit-learn,datajanko,Jan Koch,3,0
+scikit-learn/scikit-learn,flaviomartins,Flavio Martins,1,0
+scikit-learn/scikit-learn,ayushpatidar,,1,0
+scikit-learn/scikit-learn,zjpoh,Zijie (ZJ) Poh,10,0
+scikit-learn/scikit-learn,jakirkham,,31,0
+scikit-learn/scikit-learn,pierreablin,,2,0
+scikit-learn/scikit-learn,dorcoh,Dor Cohen,2,0
+scikit-learn/scikit-learn,TomAugspurger,Tom Augspurger,6,0
+scikit-learn/scikit-learn,doaa-altarawy,Doaa Altarawy,3,0
+scikit-learn/scikit-learn,JohnStott,,3,0
+scikit-learn/scikit-learn,emmjaykay,,1,0
+scikit-learn/scikit-learn,lebigot,Eric O. LEBIGOT (EOL),1,0
+scikit-learn/scikit-learn,jbschiratti,Jean-Baptiste SCHIRATTI,1,0
+scikit-learn/scikit-learn,agramfort,Alexandre Gramfort,75,4
+scikit-learn/scikit-learn,vyasr,Vyas Ramasubramani,1,0
+scikit-learn/scikit-learn,murielgrobler,Muriel Grobler,1,0
+scikit-learn/scikit-learn,gokart23,Karthik Duddu,2,0
+scikit-learn/scikit-learn,caioaao,Caio Oliveira,6,0
+scikit-learn/scikit-learn,sairajk,Sai Raj Kishore,1,0
+scikit-learn/scikit-learn,vahidbas,,1,0
+scikit-learn/scikit-learn,fdroessler,froessler,1,0
+scikit-learn/scikit-learn,haroldfox,,2,0
+scikit-learn/scikit-learn,rtalrejanyc,,1,0
+scikit-learn/scikit-learn,yishaishimoni,Yishai Shimoni,1,0
+scikit-learn/scikit-learn,g-walsh,Gordon Walsh,1,1
+scikit-learn/scikit-learn,astrakhantsev,Nikita Astrakhantsev,1,0
+scikit-learn/scikit-learn,kjohnsson,Kerstin Johnsson,1,0
+scikit-learn/scikit-learn,alexpantyukhin,Alexander Pantyukhin,1,0
+scikit-learn/scikit-learn,Mariand012,,1,0
+scikit-learn/scikit-learn,satishjasthi,SATISH J,3,0
+scikit-learn/scikit-learn,maskani-moh,Mohamed Maskani,10,2
+scikit-learn/scikit-learn,parth1993,Parth Sharma,2,0
+scikit-learn/scikit-learn,algoGuruZ,algoGuru_Z,2,0
+scikit-learn/scikit-learn,MrMathias,Mathias Andersen,1,0
+scikit-learn/scikit-learn,HJLebbink,Henk-Jan Lebbink,1,0
+scikit-learn/scikit-learn,bhaskarb,bhaskar bharath,1,0
+scikit-learn/scikit-learn,dohmatob,Elvis Dohmatob,12,0
+scikit-learn/scikit-learn,nok,Darius Morawiec,5,0
+scikit-learn/scikit-learn,EmreAtes,Emre Ates,3,0
+scikit-learn/scikit-learn,LPugens,Lucas Pugens Fernandes,1,0
+scikit-learn/scikit-learn,jboes,,1,0
+scikit-learn/scikit-learn,Johayon,Jonathan Ohayon,5,0
+scikit-learn/scikit-learn,maykulkarni,,6,0
+scikit-learn/scikit-learn,icfly2,Ruben,1,0
+scikit-learn/scikit-learn,vrishank97,Vrishank Bhardwaj,10,0
+scikit-learn/scikit-learn,amanp10,Aman Pratik,4,0
+scikit-learn/scikit-learn,gxyd,Gaurav Dhingra,12,0
+scikit-learn/scikit-learn,Eight1911,Poom Chiarawongse,1,0
+scikit-learn/scikit-learn,rgerkin,Richard C Gerkin,1,0
+scikit-learn/scikit-learn,Borchmann,Łukasz Borchmann,1,0
+scikit-learn/scikit-learn,kameranis,Konstantinos Ameranis,1,0
+scikit-learn/scikit-learn,vc1492a,Valentino Constantinou,1,0
+scikit-learn/scikit-learn,PGryllos,Gryllos Prokopis,3,0
+scikit-learn/scikit-learn,sergulaydore,Sergul Aydore,7,0
+scikit-learn/scikit-learn,fenilsuchak,Fenil Suchak,2,0
+scikit-learn/scikit-learn,CoderPat,Patrick Fernandes,3,0
+scikit-learn/scikit-learn,fabsig,Fabio Sigrist,1,0
+scikit-learn/scikit-learn,rasbt,Sebastian Raschka,20,0
+scikit-learn/scikit-learn,jsoutherland,Joshua Southerland,1,0
+scikit-learn/scikit-learn,syonekura,Sebastian Yonekura,2,0
+scikit-learn/scikit-learn,jeh0753,Jake Hawkesworth,2,0
+scikit-learn/scikit-learn,chenhe95,He Chen,9,0
+scikit-learn/scikit-learn,aarshayj,Aarshay Jain,9,0
+scikit-learn/scikit-learn,ashimb9,,4,0
+scikit-learn/scikit-learn,musically-ut,Utkarsh Upadhyay,7,0
+scikit-learn/scikit-learn,andreasvc,Andreas van Cranenburgh,3,0
+scikit-learn/scikit-learn,SebastinSanty,Sebastin Santy,13,0
+scikit-learn/scikit-learn,jengelman,Joshua Engelman,1,0
+scikit-learn/scikit-learn,bm424,Ben Martineau,1,0
+scikit-learn/scikit-learn,qiaonahu,joanna-hu-exa,1,0
+scikit-learn/scikit-learn,MechCoder,manoj kumar,115,0
+scikit-learn/scikit-learn,GaelVaroquaux,Gael Varoquaux,83,3
+scikit-learn/scikit-learn,ncordier,Nicolas Cordier,2,0
+scikit-learn/scikit-learn,n0mad,Eugene,1,0
+scikit-learn/scikit-learn,VathsalaAchar,Vathsala,5,0
+scikit-learn/scikit-learn,zorroblue,Rameshwar Bhaskaran,5,0
+scikit-learn/scikit-learn,kejiashi,Kejia (KJ) Shi,1,0
+scikit-learn/scikit-learn,ecampana,Emmanuel Contreras-Campana,1,0
+scikit-learn/scikit-learn,satyan-g,SatyaG,2,0
+scikit-learn/scikit-learn,johny-c,John Chiotellis,2,0
+scikit-learn/scikit-learn,kkatrio,Kostis Katrioplas,2,0
+scikit-learn/scikit-learn,loldja,Lauren Oldja,1,1
+scikit-learn/scikit-learn,lemonlaug,Isaac Laughlin,4,0
+scikit-learn/scikit-learn,TomDLT,Tom Dupré la Tour,52,4
+scikit-learn/scikit-learn,tguillemot,Thierry Guillemot,25,0
+scikit-learn/scikit-learn,dalmia,Aman Dalmia,32,0
+scikit-learn/scikit-learn,vincentpham1991,Vincent Pham,6,0
+scikit-learn/scikit-learn,sebp,Sebastian Pölsterl,4,2
+scikit-learn/scikit-learn,Erotemic,Jon Crall,9,0
+scikit-learn/scikit-learn,lilianweng,Lilian,1,0
+scikit-learn/scikit-learn,ValeryAnisimovsky,Valery Anisimovsky,1,0
+scikit-learn/scikit-learn,yl565,Yichuan Liu,7,0
+scikit-learn/scikit-learn,ivannz,Ivan Nazarov,1,0
+scikit-learn/scikit-learn,Mxbonn,Maxim Bonnaerens,1,0
+scikit-learn/scikit-learn,lmcinnes,Leland McInnes,9,0
+scikit-learn/scikit-learn,Borda,Jirka Borovec,3,0
+scikit-learn/scikit-learn,arnaudbenard,Arnaud Bénard,1,0
+scikit-learn/scikit-learn,michael-sloma,,1,0
+scikit-learn/scikit-learn,tlorieul,Titouan Lorieul,1,0
+scikit-learn/scikit-learn,g-rutter,Gil Rutter,1,0
+scikit-learn/scikit-learn,betatim,Tim Head,14,0
+scikit-learn/scikit-learn,luoq,Qiang Luo,2,0
+scikit-learn/scikit-learn,yenchenlin,Yen-Chen Lin,50,0
+scikit-learn/scikit-learn,qingyili,Qing Yi Li,1,0
+scikit-learn/scikit-learn,btabibian,Behzad Tabibian,4,0
+scikit-learn/scikit-learn,cvanwynsberghe,Charles Vanwynsberghe,3,0
+scikit-learn/scikit-learn,SahilKang,Sahil Kang,1,0
+scikit-learn/scikit-learn,hlin117,Henry Lin,27,0
+scikit-learn/scikit-learn,vighneshbirodkar,Vighnesh Birodkar,13,0
+scikit-learn/scikit-learn,macg0406,,1,0
+scikit-learn/scikit-learn,maciejjaskowski,Maciej Jaśkowski,1,0
+scikit-learn/scikit-learn,joshlk,Josh Levy-Kramer,2,0
+scikit-learn/scikit-learn,DSLituiev,Dmytro Lituiev,3,0
+scikit-learn/scikit-learn,zuku1985,,1,0
+scikit-learn/scikit-learn,vpekar,Viktor Pekar,1,0
+scikit-learn/scikit-learn,tjvandal,TJ Vandal,1,0
+scikit-learn/scikit-learn,mannby,Claes-Fredrik Mannby,3,0
+scikit-learn/scikit-learn,maniteja123,Maniteja Nandana,21,0
+scikit-learn/scikit-learn,dwarrier,,1,0
+scikit-learn/scikit-learn,cheral,Cheral Khandediya,1,0
+scikit-learn/scikit-learn,Sentient07,Ramana Subramanyam,9,0
+scikit-learn/scikit-learn,jamiebull1,Jamie Bull,2,0
+scikit-learn/scikit-learn,kashif,Kashif Rasul,3,0
+scikit-learn/scikit-learn,OlaPaw,Ola,1,0
+scikit-learn/scikit-learn,raghavrv,"(Venkat) Raghav, Rajagopalan",128,0
+scikit-learn/scikit-learn,raamana,Pradeep Reddy Raamana,3,0
+scikit-learn/scikit-learn,Al-Pena,,1,0
+scikit-learn/scikit-learn,kootenpv,Pascal van Kooten,1,0
+scikit-learn/scikit-learn,zermelozf,Arnaud Rachez,3,0
+scikit-learn/scikit-learn,johannah,Johanna Hansen,13,0
+scikit-learn/scikit-learn,glouppe,Gilles Louppe,64,0
+scikit-learn/scikit-learn,KamalakerDadi,,2,0
+scikit-learn/scikit-learn,untom,Thomas Unterthiner,15,0
+scikit-learn/scikit-learn,dnlbunting,Daniel Bunting,1,0
+scikit-learn/scikit-learn,jmschrei,Jacob Schreiber,17,0
+scikit-learn/scikit-learn,potash,Eric Potash,1,0
+scikit-learn/scikit-learn,andaag,,2,0
+scikit-learn/scikit-learn,basveeling,Bas Veeling,1,0
+scikit-learn/scikit-learn,arjoly,Arnaud Joly,95,0
+scikit-learn/scikit-learn,Fenugreek,Deepak Subburam,2,0
+scikit-learn/scikit-learn,stephen-hoover,Stephen Hoover,7,0
+scikit-learn/scikit-learn,galvare2,,1,0
+scikit-learn/scikit-learn,albahnsen,Alejandro Correa Bahnsen,3,0
+scikit-learn/scikit-learn,IssamLaradji,Issam H. Laradji,7,0
+scikit-learn/scikit-learn,laurentperrinet,Laurent Perrinet,2,0
+scikit-learn/scikit-learn,erensezener,C. Eren Sezener,1,0
+scikit-learn/scikit-learn,vmichel,Vincent Michel,4,0
+scikit-learn/scikit-learn,LowikC,Lowik Chanussot,2,0
+scikit-learn/scikit-learn,NelleV,Nelle Varoquaux,40,0
+scikit-learn/scikit-learn,afouchet,Arnaud Fouchet,1,0
+scikit-learn/scikit-learn,cdamon,cdamon,1,0
+scikit-learn/scikit-learn,chebee7i,,3,0
+scikit-learn/scikit-learn,artsobolev,Artëm Sobolev,6,0
+scikit-learn/scikit-learn,mblondel,Mathieu Blondel,36,1
+scikit-learn/scikit-learn,larsmans,Lars,140,0
+scikit-learn/scikit-learn,trevorstephens,Trevor Stephens,25,0
+scikit-learn/scikit-learn,borjar,,1,0
+scikit-learn/scikit-learn,huibinshen,Huibin Shen,1,0
+scikit-learn/scikit-learn,jmetzen,Jan Hendrik Metzen,18,0
+scikit-learn/scikit-learn,tliu30,Anthony Liu,1,0
+scikit-learn/scikit-learn,doxav,Xavier,1,0
+scikit-learn/scikit-learn,queqichao,Qichao Que,3,0
+scikit-learn/scikit-learn,alexeyum,Alexey Umnov,1,0
+scikit-learn/scikit-learn,staple,,2,0
+scikit-learn/scikit-learn,perimosocordiae,CJ Carey,12,0
+scikit-learn/scikit-learn,vene,Vlad Niculae,54,0
+scikit-learn/scikit-learn,dengemann,Denis A. Engemann,17,0
+scikit-learn/scikit-learn,eickenberg,,15,0
+scikit-learn/scikit-learn,djsutherland,Danica J. Sutherland,11,0
+scikit-learn/scikit-learn,sklef,Dmitry Smolyakov,1,0
+scikit-learn/scikit-learn,nateyoder,Nate Yoder,1,0
+scikit-learn/scikit-learn,nmayorov,Nikolay Mayorov,9,0
+scikit-learn/scikit-learn,mattilyra,Matti Lyra,6,0
+scikit-learn/scikit-learn,alimuldal,Alistair Muldal,2,0
+scikit-learn/scikit-learn,jcrudy,Jason Rudy,2,0
+scikit-learn/scikit-learn,rootlesstree,,1,0
+scikit-learn/scikit-learn,jwkvam,Jacques Kvam,7,0
+scikit-learn/scikit-learn,jakevdp,Jake Vanderplas,62,0
+scikit-learn/scikit-learn,kemaleren,Kemal Eren,8,0
+scikit-learn/scikit-learn,kpysniak,,6,0
+scikit-learn/scikit-learn,robertlayton,Robert Layton,26,0
+scikit-learn/scikit-learn,cricketsong,,2,0
+scikit-learn/scikit-learn,tommydino93,Tommaso Di Noto,0,1
+scikit-learn/scikit-learn,tanujdhiman,Tanuj Dhiman,0,1
+scikit-learn/scikit-learn,UnixJunkie,Francois Berenger,0,2
+scikit-learn/scikit-learn,nanshanli,Nanshan Li,1,2
+scikit-learn/scikit-learn,itsabhishekhere,solosilence,0,1
+scikit-learn/scikit-learn,europeanplaice,Tomohiro Endo,0,1
+scikit-learn/scikit-learn,mlondschien,,0,4
+scikit-learn/scikit-learn,jonaschn,Jonathan Schneider,0,1
+scikit-learn/scikit-learn,Whidou,,0,1
+scikit-learn/scikit-learn,naozin555,,0,2
+scikit-learn/scikit-learn,takoika,Takeshi Oura,0,1
+scikit-learn/scikit-learn,KurumeYuta,,0,1
+scikit-learn/scikit-learn,kobaski,,0,1
+scikit-learn/scikit-learn,twicky99,W.T.W,0,1
+scikit-learn/scikit-learn,muttineni2020,Venkata Muttineni,0,1
+scikit-learn/scikit-learn,emarkou,Eleni Markou,0,2
+scikit-learn/scikit-learn,yohanchatelain,Yohan Chatelain,0,1
+scikit-learn/scikit-learn,thehomebrewnerd,Nate Parsons,0,1
+scikit-learn/scikit-learn,bchen1116,Bryan Chen,0,1
+scikit-learn/scikit-learn,jaffourt,Josef Affourtit,0,1
+scikit-learn/scikit-learn,Ashvith,Ashvith Shetty,0,1
+scikit-learn/scikit-learn,mzakariaCERN,mzakaria,0,1
+scikit-learn/scikit-learn,rainwoodman,Yu Feng,0,1
+scikit-learn/scikit-learn,groceryheist,,0,1
+scikit-learn/scikit-learn,clement-f,Clément Fauchereau,0,2
+scikit-learn/scikit-learn,ZeyuSun,,0,1
+scikit-learn/scikit-learn,tom1092,,0,1
+scikit-learn/scikit-learn,ChuliangXiao,Chuliang Xiao,0,1
+scikit-learn/scikit-learn,ZhengzeZhou,Zhengze Zhou,1,1
+scikit-learn/scikit-learn,pabloduque0,Pablo Duque,0,1
+scikit-learn/scikit-learn,AlexandreBourrieau,,0,1
+scikit-learn/scikit-learn,he7d3r,Helder Geovane Gomes de Lima,1,2
+scikit-learn/scikit-learn,kmatt10,,0,1
+scikit-learn/scikit-learn,KylSong,Soso Song,0,2
+scikit-learn/scikit-learn,raybellwaves,Ray Bell,1,3
+scikit-learn/scikit-learn,fatosmorina,Fatos Morina,0,1
+scikit-learn/scikit-learn,Connerrrrr,Conner Shen,0,1
+scikit-learn/scikit-learn,MK1993,Mehrez  Kanzari,0,1
+scikit-learn/scikit-learn,yoch,yoch,0,1
+scikit-learn/scikit-learn,akashpapnai,Akash papnai,0,1
+scikit-learn/scikit-learn,GLevV,Gleb Levitskiy,0,3
+scikit-learn/scikit-learn,iwhalvic,,0,1
+scikit-learn/scikit-learn,TFiFiE,,0,1
+scikit-learn/scikit-learn,legitishan,Ishan Mishra,0,2
+scikit-learn/scikit-learn,KunjParikh,Kunj,0,2
+scikit-learn/scikit-learn,domdfcoding,Dominic Davis-Foster,0,1
+scikit-learn/scikit-learn,analuizaypessoa-zz,Ana Pessoa,0,1
+scikit-learn/scikit-learn,NiMlr,,0,1
+scikit-learn/scikit-learn,xiaoyuchai,,0,1
+scikit-learn/scikit-learn,LSturtew,,0,4
+scikit-learn/scikit-learn,jcfaracco,Julio Faracco,0,1
+scikit-learn/scikit-learn,bsun94,Brian Sun,0,1
+scikit-learn/scikit-learn,chrisyeh96,Christopher Yeh,0,4
+scikit-learn/scikit-learn,shrutimistry,Shruti Mistry,0,2
+scikit-learn/scikit-learn,rynoV,Calum Sieppert,0,1
+scikit-learn/scikit-learn,jindongwang,Jindong Wang,0,2
+scikit-learn/scikit-learn,crflynn,Flynn,0,1
+scikit-learn/scikit-learn,waijean,,0,1
+scikit-learn/scikit-learn,jimbudarz,James Budarz,0,3
+scikit-learn/scikit-learn,vishwaapatel,,0,2
+scikit-learn/scikit-learn,guiweber,,0,1
+scikit-learn/scikit-learn,JohanWork,Johan Hansson,0,3
+scikit-learn/scikit-learn,jhlegarreta,Jon Haitz Legarreta Gorroño,0,3
+scikit-learn/scikit-learn,frrad,Frederick Robinson,0,1
+scikit-learn/scikit-learn,maliozer,Mehmet Ali Özer,0,1
+scikit-learn/scikit-learn,andrewdelong,Andrew Delong,0,1
+scikit-learn/scikit-learn,flyingdutchman23,,0,3
+scikit-learn/scikit-learn,cliffordEmmanuel,,0,3
+scikit-learn/scikit-learn,avigupta2612,Avi Gupta,0,4
+scikit-learn/scikit-learn,afonari,Alexandr Fonari,0,2
+scikit-learn/scikit-learn,stestagg,Steve Stagg,0,1
+scikit-learn/scikit-learn,mbatoul,Mathis Batoul,0,1
+scikit-learn/scikit-learn,alessiamarcolini,Alessia Marcolini,0,1
+scikit-learn/scikit-learn,zouharvi,Vilém Zouhar,0,1
+scikit-learn/scikit-learn,MarcoGorelli,Marco Edward Gorelli,3,1
+scikit-learn/scikit-learn,geofft,Geoffrey Thomas,0,1
+scikit-learn/scikit-learn,alalalau,Aliza Lau,0,1
+scikit-learn/scikit-learn,AlekLefebvre,Alek Lefebvre,0,1
+scikit-learn/scikit-learn,linjun9,,0,1
+scikit-learn/scikit-learn,swarupsrini,Swarup Srini,0,1
+scikit-learn/scikit-learn,RichardScottOZ,,0,1
+scikit-learn/scikit-learn,mohaseeb,Mohamed Haseeb,0,4
+scikit-learn/scikit-learn,Shooter23,,0,2
+scikit-learn/scikit-learn,samdbrice,Samuel Brice,0,1
+scikit-learn/scikit-learn,shivamgargsya,,7,2
+scikit-learn/scikit-learn,leechu27,,0,1
+scikit-learn/scikit-learn,egkiastas,Vangelis Gkiastas,0,1
+scikit-learn/scikit-learn,Ashish013,Ashish,0,1
+scikit-learn/scikit-learn,anashas,DS_anas,0,3
+scikit-learn/scikit-learn,putschblos,,0,2
+scikit-learn/scikit-learn,jpreiss,James Alan Preiss,0,1
+scikit-learn/scikit-learn,SteveKola,Steven Kolawole,0,1
+scikit-learn/scikit-learn,dkobak,Dmitry Kobak,0,2
+scikit-learn/scikit-learn,sdpython,xavier dupré,1,4
+scikit-learn/scikit-learn,pnb,Nigel Bosch,0,1
+scikit-learn/scikit-learn,Okroshiashvili,Nodar Okroshiashvili,0,1
+scikit-learn/scikit-learn,th-yoon,Taehyun Yoon,0,1
+scikit-learn/scikit-learn,bdpedigo,Benjamin Pedigo,0,2
+scikit-learn/scikit-learn,pk1130,Patanjali Kumar,0,1
+scikit-learn/scikit-learn,cinbez,Cindy  Bezuidenhout,0,1
+scikit-learn/scikit-learn,nuka137,Atsushi Nukariya,0,7
+scikit-learn/scikit-learn,hirzel,Martin Hirzel,0,1
+scikit-learn/scikit-learn,YasmeenAlsaedy,Yasmeen Alsaedy,0,1
+scikit-learn/scikit-learn,zitorelova,Zito Relova,0,5
+scikit-learn/scikit-learn,cycks,Wycliffe Sikolia,0,3
+scikit-learn/scikit-learn,t-kusanagi,,0,1
+scikit-learn/scikit-learn,peter-dye,Peter Dye,0,1
+scikit-learn/scikit-learn,simonamaggio,,0,7
+scikit-learn/scikit-learn,vadim-ushtanit,,0,1
+scikit-learn/scikit-learn,abdulelahsm,Abdulelah S. Al Mesfer,0,1
+scikit-learn/scikit-learn,halsawadi,Hassan Alsawadi,0,1
+scikit-learn/scikit-learn,cleardusk,Jianzhu Guo,0,1
+scikit-learn/scikit-learn,Haidar13,Haidar Almubarak,0,1
+scikit-learn/scikit-learn,Bunkus1,Ogbonna Chibuike Stephen,0,2
+scikit-learn/scikit-learn,mabu-dev,Mabu Manaileng,0,1
+scikit-learn/scikit-learn,CeeThinwa,,0,3
+scikit-learn/scikit-learn,fortune-uwha,Fortune Uwha,0,1
+scikit-learn/scikit-learn,mjkanji,Muhammad Jarir Kanji,0,2
+scikit-learn/scikit-learn,elateifsara,EL-ATEIF Sara,0,1
+scikit-learn/scikit-learn,Necior,Adrian Sadłocha,0,1
+scikit-learn/scikit-learn,sobkevich,,0,1
+scikit-learn/scikit-learn,makoeppel,,0,1
+scikit-learn/scikit-learn,Vlasovets,,0,1
+scikit-learn/scikit-learn,anton-khimich,Anton Khimich,0,1
+scikit-learn/scikit-learn,ilos-vigil,Sandy Khosasi,0,1
+scikit-learn/scikit-learn,dmallia17,,0,1
+scikit-learn/scikit-learn,AYUSHBlaze,Ayush Singh,0,1
+scikit-learn/scikit-learn,neontty,neon,0,1
+scikit-learn/scikit-learn,RonsenbergVI,Rene Jean Corneille,0,1
+scikit-learn/scikit-learn,ThuWangzw,ZhaoweiWang,0,1
+scikit-learn/scikit-learn,daloya3194,,0,1
+scikit-learn/scikit-learn,EdwinWenink,,0,1
+scikit-learn/scikit-learn,hamogu,Hans Moritz Günther,0,1
+scikit-learn/scikit-learn,BaptBillard,,0,1
+scikit-learn/scikit-learn,abhinavtps,Abhinav Gupta,0,1
+scikit-learn/scikit-learn,m7142yosuke,Yosuke KOBAYASHI,0,1
+scikit-learn/scikit-learn,ranjanikrishnan,ranjanikrishnan,0,1
+scikit-learn/scikit-learn,mathurinm,,3,3
+scikit-learn/scikit-learn,bmalezieux,,0,1
+scikit-learn/scikit-learn,stootoon,Sina Tootoonian,0,1
+scikit-learn/scikit-learn,Connossor,Connor Tann,1,1
+scikit-learn/scikit-learn,shinnar,,0,1
+scikit-learn/scikit-learn,Hephaest,Miao Cai,0,2
+scikit-learn/scikit-learn,xu-kai-xu,xu,0,1
+scikit-learn/scikit-learn,paw-lu,Paulo S. Costa,0,1
+scikit-learn/scikit-learn,amidvidy,Adam Midvidy,0,2
+scikit-learn/scikit-learn,anntzer,Antony Lee,2,1
+scikit-learn/scikit-learn,haochuanwei,Harry Wei,0,1
+scikit-learn/scikit-learn,yzhenman,,0,1
+scikit-learn/scikit-learn,justinschuster,Justin Schuster,0,1
+scikit-learn/scikit-learn,khazit,Ali Benkassou,0,1
+scikit-learn/scikit-learn,timgates42,Tim Gates,0,1
+scikit-learn/scikit-learn,YusukeNagasaka,YusukeNagasaka,0,1
+scikit-learn/scikit-learn,rohan-paul,Rohan Paul,0,1
+scikit-learn/scikit-learn,jdsuryap,,0,1
+scikit-learn/scikit-learn,adamjstewart,Adam J. Stewart,2,1
+scikit-learn/scikit-learn,ly648499246,,0,1
+scikit-learn/scikit-learn,des137,,0,1
+scikit-learn/scikit-learn,tacaswell,Thomas A Caswell,1,1
+scikit-learn/scikit-learn,shinehide,,0,1
+scikit-learn/scikit-learn,hamdan-codes,Chaudhary Hamdan,0,1
+scikit-learn/scikit-learn,brianrice2,Brian Rice,0,1
+scikit-learn/scikit-learn,harrismirza,Harris Mirza,0,2
+scikit-learn/scikit-learn,DavidKatz-il,David Katz,0,1
+scikit-learn/scikit-learn,obiscolly50,,0,1
+scikit-learn/scikit-learn,aadamson,Alex Adamson,0,1
+scikit-learn/scikit-learn,mcalcote,Matthew Calcote,0,1
+scikit-learn/scikit-learn,Todaime,Maxime Prieur,0,1
+scikit-learn/scikit-learn,novaya,,2,1
+scikit-learn/scikit-learn,Kot271828,,0,1
+scikit-learn/scikit-learn,leouieda,Leonardo Uieda,0,1
+scikit-learn/scikit-learn,Zeroto521,Zero,0,1
+scikit-learn/scikit-learn,nfultz,Neal Fultz,0,1
+scikit-learn/scikit-learn,NadimKawwa,Nadim Kawwa,0,1
+scikit-learn/scikit-learn,ryuwd,Ryunosuke O'Neil,0,1
+scikit-learn/scikit-learn,dpoznik,David Poznik,0,1
+scikit-learn/scikit-learn,TimotheeMathieu,,0,1
+scikit-learn/scikit-learn,MLopez-Ibanez,Manuel López-Ibáñez,1,1
+scikit-learn/scikit-learn,Qbiwan,,0,2
+scikit-learn/scikit-learn,mokeddembillel,Billel Mokeddem,0,1
+scikit-learn/scikit-learn,terencehonles,Terence Honles,0,2
+scikit-learn/scikit-learn,panangam,Oras Phongpanangam,0,1
+scikit-learn/scikit-learn,ttakizawa,,0,1
+scikit-learn/scikit-learn,sadakmed,sadakmed,0,7
+scikit-learn/scikit-learn,isuruf,Isuru Fernando,0,1
+scikit-learn/scikit-learn,Denbergvanthijs,Thijs van den Berg,0,1
+scikit-learn/scikit-learn,brownsarahm,Sarah Brown,1,1
+scikit-learn/scikit-learn,cdeil,Christoph Deil,1,2
+scikit-learn/scikit-learn,AutoViML,AutoViz and Auto_ViML,0,1
+scikit-learn/scikit-learn,mani2106,Manimaran,2,3
+scikit-learn/scikit-learn,Ankit810,Ankit Choraria,0,10
+scikit-learn/scikit-learn,declo32,Declan O'Neill,0,1
+scikit-learn/scikit-learn,ashkush,Ashutosh Kushwaha,0,1
+scikit-learn/scikit-learn,k-yash,Yash Koolwal,0,1
+scikit-learn/scikit-learn,yiyange,Yi-Yan Ge,0,1
+scikit-learn/scikit-learn,kirisakow,Kiril Isakov,0,1
+scikit-learn/scikit-learn,nils-werner,Nils Werner,0,1
+scikit-learn/scikit-learn,kopytjuk,Marat Kopytjuk,0,1
+scikit-learn/scikit-learn,ineveLoppiliF,Filippo Leveni,0,1
+scikit-learn/scikit-learn,tsukar,Ryotaro Tsukada,0,1
+scikit-learn/scikit-learn,Zehui-Lin,Zehui Lin,0,1
+scikit-learn/scikit-learn,shaik-hasan-ahmed,,0,1
+scikit-learn/scikit-learn,foxik,Milan Straka,0,1
+scikit-learn/scikit-learn,larsoner,Eric Larson,5,1
+scikit-learn/scikit-learn,marrodion,Rodion Martynov,0,1
+scikit-learn/scikit-learn,myazann,Mert Yazan,0,1
+scikit-learn/scikit-learn,rickiepark,Haesun Park,1,1
+scikit-learn/scikit-learn,fhaselbeck,,0,1
+scikit-learn/scikit-learn,samuelstevens,Sam,0,1
+scikit-learn/scikit-learn,kajal-hardwaria,Kajal Hardwaria,0,1
+scikit-learn/scikit-learn,rishi1999,Rishi Advani,0,1
+scikit-learn/scikit-learn,RamyaNP,,0,2
+scikit-learn/scikit-learn,LaurenzReitsam,Laurenz Reitsam,0,1
+scikit-learn/scikit-learn,alexhenrie,Alex Henrie,12,12
+scikit-learn/scikit-learn,joaquinvanschoren,Joaquin Vanschoren,0,1
+scikit-learn/scikit-learn,abhi9249,Abhinav sharma,0,1
+scikit-learn/scikit-learn,hkennyv,Kenny Huynh,0,1
+scikit-learn/scikit-learn,anshulparihar,,0,1
+scikit-learn/scikit-learn,just-linux,JHayes,0,2
+scikit-learn/scikit-learn,SamKimbinyi,Sam Kimbinyi,0,1
+scikit-learn/scikit-learn,Xethan,,0,1
+scikit-learn/scikit-learn,srishtiaggarwal,,0,1
+scikit-learn/scikit-learn,Castlesai,Sairaj Sawant,0,1
+scikit-learn/scikit-learn,gujralsanyam22,Sanyam gujral,0,1
+scikit-learn/scikit-learn,ghost,Deleted user,29,1
+scikit-learn/scikit-learn,rachittoshniwal,Rachit Toshniwal,0,1
+scikit-learn/scikit-learn,ghisvail,Ghislain Antony Vaillant,0,1
+scikit-learn/scikit-learn,manmeetkaurbaxi,Manmeet Kaur Baxi,0,1
+scikit-learn/scikit-learn,ADEscobar,Antonio Escobar,0,1
+scikit-learn/scikit-learn,brcharron,Bruno Charron,0,2
+scikit-learn/scikit-learn,chaitanyamogal,,0,4
+scikit-learn/scikit-learn,ulupo,Umberto Lupo,0,1
+scikit-learn/scikit-learn,luca-parisi,Luca Parisi,0,2
+scikit-learn/scikit-learn,watchtheblur,,0,1
+scikit-learn/scikit-learn,jennselby,Jen Selby,0,1
+scikit-learn/scikit-learn,kyouma,Yakov Pchelintsev,0,1
+scikit-learn/scikit-learn,haiatn,N. Haiat,0,9
+scikit-learn/scikit-learn,Yard1,Antoni Baum,0,1
+scikit-learn/scikit-learn,lbittarello,Luca Bittarello,0,1
+scikit-learn/scikit-learn,JaehyunAhn,Jaehyun Ahn,0,1
+scikit-learn/scikit-learn,ikedaosushi,Yutaro Ikeda,0,1
+scikit-learn/scikit-learn,boricles,Boris Villazón-Terrazas,0,2
+scikit-learn/scikit-learn,satrio-hw,Satrio H Wicaksono,0,1
+scikit-learn/scikit-learn,jakharrahul000,Rahul Jakhar,0,1
+scikit-learn/scikit-learn,nzare,Nidhi Zare,0,1
+scikit-learn/scikit-learn,JonathanBanda,Jonathan,0,1
+scikit-learn/scikit-learn,franslarsson,Frans Larsson,0,48
+scikit-learn/scikit-learn,bdevnani3,Bhavika Devnani,0,1
+scikit-learn/scikit-learn,harryscholes,Harry Scholes,0,1
+scikit-learn/scikit-learn,gauravkdesai,Gaurav Desai,0,1
+scikit-learn/scikit-learn,ezebunandu,Sam Ezebunandu,0,2
+scikit-learn/scikit-learn,subhayuroy,Subhayu Roy,0,2
+scikit-learn/scikit-learn,moussa7,Mohamad Moussa,0,1
+scikit-learn/scikit-learn,subrat93,,0,2
+scikit-learn/scikit-learn,zaylon0510,,0,1
+scikit-learn/scikit-learn,anandt555,Anand Tiwari,0,1
+scikit-learn/scikit-learn,coelhudo,Coelhudo,0,1
+scikit-learn/scikit-learn,xiaosihao,Sihao Xiao,0,3
+scikit-learn/scikit-learn,avinash-ak,Avinash Anakal,0,1
+scikit-learn/scikit-learn,indecisiveuser,,1,1
+scikit-learn/scikit-learn,sophsoph321,Sophie ,2,2
+scikit-learn/scikit-learn,isunitha98selvan,Sunitha Selvan,0,1
+scikit-learn/scikit-learn,martina-zxy,Martina Megasari,0,1
+scikit-learn/scikit-learn,szywise,,0,1
+scikit-learn/scikit-learn,lgmoneda,Luis Moneda,0,2
+scikit-learn/scikit-learn,sharmajee499,Sandesh Sharma,0,2
+scikit-learn/scikit-learn,arthurcgusmao,Arthur Colombini Gusmão,0,1
+scikit-learn/scikit-learn,rauwuckl,Clemens Hutter,0,1
+scikit-learn/scikit-learn,hiteshsom,Hitesh Somani,0,1
+scikit-learn/scikit-learn,eschibli,,0,1
+scikit-learn/scikit-learn,ckastner,Christian Kastner,0,5
+scikit-learn/scikit-learn,justmarkham,Kevin Markham,1,11
+scikit-learn/scikit-learn,sstalley,Sean O. Stalley,0,1
+scikit-learn/scikit-learn,zhaofeng-shu33,赵丰 (Zhao Feng),1,1
+scikit-learn/scikit-learn,solegalli,Soledad Galli,0,1
+scikit-learn/scikit-learn,RobRomijnders,Rob Romijnders,0,1
+scikit-learn/scikit-learn,bmaisonn,,0,5
+scikit-learn/scikit-learn,saket404,Saket Khandelwal,0,1
+scikit-learn/scikit-learn,FrancescoCasalegno,Francesco Casalegno,0,1
+scikit-learn/scikit-learn,JinLi711,Jin Li,0,1
+scikit-learn/scikit-learn,Shihab-Shahriar,Shihab Shahriar Khan,0,1
+scikit-learn/scikit-learn,nouranali,Nouran Ali,0,1
+scikit-learn/scikit-learn,bingoko,Lingpho,0,2
+scikit-learn/scikit-learn,Ashutosh619-sudo,Ashutosh singh,0,1
+scikit-learn/scikit-learn,timokau,Timo Kaufmann,0,1
+scikit-learn/scikit-learn,Ultramann,Cary Goltermann,0,3
+scikit-learn/scikit-learn,m-sche,Martin Scheubrein,0,1
+scikit-learn/scikit-learn,david-cortes,,3,1
+scikit-learn/scikit-learn,dachosen1,Anderson Nelson,0,1
+scikit-learn/scikit-learn,Hoda1394,,0,1
+scikit-learn/scikit-learn,mikeaalv,Yue Wu,0,2
+scikit-learn/scikit-learn,willpeppo,,0,4
+scikit-learn/scikit-learn,biprateep,Biprateep Dey,0,3
+scikit-learn/scikit-learn,tijanajovanovic,,0,1
+scikit-learn/scikit-learn,Probinette4,,0,1
+scikit-learn/scikit-learn,TahiriNadia,"Nadia Tahiri, PhD",0,2
+scikit-learn/scikit-learn,boldloop,Gus Brocchini,0,1
+scikit-learn/scikit-learn,Carreau,Matthias Bussonnier,1,1
+scikit-learn/scikit-learn,noelano,,0,1
+scikit-learn/scikit-learn,crypdick,Richard Decal,0,1
+scikit-learn/scikit-learn,gimseng,Gim Seng,0,1
+scikit-learn/scikit-learn,yashika51,Yashika Sharma ,0,5
+scikit-learn/scikit-learn,rmaleki,rooholah maleki,0,2
+scikit-learn/scikit-learn,shail2512-lm10,Shail Shah,0,1
+scikit-learn/scikit-learn,cool-RR,Ram Rachum,0,2
+scikit-learn/scikit-learn,m-vd,Ivan Wiryadi,0,1
+scikit-learn/scikit-learn,joshuacwnewton,Joshua Newton,0,4
+scikit-learn/scikit-learn,rubywerman,Ruby Werman,0,8
+scikit-learn/scikit-learn,barankarakus,,0,1
+scikit-learn/scikit-learn,Thomas9292,Thomas Wesselink,0,1
+scikit-learn/scikit-learn,parthivc,Parthiv Chigurupati,0,1
+scikit-learn/scikit-learn,napsternxg,Shubhanshu Mishra,0,1
+scikit-learn/scikit-learn,kcetina-fujitsu,Kendrick Cetina,0,3
+scikit-learn/scikit-learn,t-kusanagi2,,0,5
+scikit-learn/scikit-learn,clmbst,,0,2
+scikit-learn/scikit-learn,hs-nazuna,Hirofumi Suzuki,0,6
+scikit-learn/scikit-learn,beatrizsmg,,0,2
+scikit-learn/scikit-learn,aldee153,Allan D Butler,0,2
+scikit-learn/scikit-learn,NaokiHamada,Naoki Hamada,0,1
+scikit-learn/scikit-learn,j2heng,Jie Zheng,0,2
+scikit-learn/scikit-learn,Nishikoh,Koki Nishihara,0,1
+scikit-learn/scikit-learn,doulouUS,Louis Douge,0,1
+scikit-learn/scikit-learn,Cristinamulas,Cristina Mulas,0,2
+scikit-learn/scikit-learn,qzhang90,Qi Zhang,0,1
+scikit-learn/scikit-learn,TaiChiTiger,叶贞明,0,1
+scikit-learn/scikit-learn,jaketae,Jake Tae,0,4
+scikit-learn/scikit-learn,alexlenail,Alexander Lenail,1,1
+scikit-learn/scikit-learn,dsandeep0138,Devi Sandeep,0,1
+scikit-learn/scikit-learn,JeroenPeterBos,,0,1
+scikit-learn/scikit-learn,a-wozniakowski,Alex Wozniakowski,0,1
+scikit-learn/scikit-learn,fujiaxiang,Jiaxiang,0,3
+scikit-learn/scikit-learn,steinfurt,Stephan Steinfurt,2,2
+scikit-learn/scikit-learn,JEHoctor,James Hoctor,0,1
+scikit-learn/scikit-learn,emdupre,Elizabeth DuPre,0,3
+scikit-learn/scikit-learn,akshayrdeodhar,Akshay Deodhar,0,1
+scikit-learn/scikit-learn,NeilBotelho,Neil Botelho,0,1
+scikit-learn/scikit-learn,KartikChugh,Kartik Chugh,0,1
+scikit-learn/scikit-learn,CatChenal,Cat Chenal,2,2
+scikit-learn/scikit-learn,janjoswig,Jan-Oliver Joswig,0,1
+scikit-learn/scikit-learn,DanielAtKrypton,Daniel Kaminski de Souza,0,1
+scikit-learn/scikit-learn,louisguitton,Louis Guitton,0,1
+scikit-learn/scikit-learn,asubramaniyan,Archana Subramaniyan,0,3
+scikit-learn/scikit-learn,GeorMurk,George Kiragu,0,3
+scikit-learn/scikit-learn,icoder18,Deeksha Madan,0,4
+scikit-learn/scikit-learn,Mariam-ke,,0,2
+scikit-learn/scikit-learn,genvalen,,0,2
+scikit-learn/scikit-learn,mobigelow,Michael,0,2
+scikit-learn/scikit-learn,kohakukun,Aura Munoz,0,3
+scikit-learn/scikit-learn,tianchuliang,Alex Liang,0,4
+scikit-learn/scikit-learn,JosephTLucas,Joseph Lucas,0,3
+scikit-learn/scikit-learn,krumeto,Krum Arnaudov,0,2
+scikit-learn/scikit-learn,madelgi,Max Del Giudice,0,1
+scikit-learn/scikit-learn,neinkeinkaffee,Gesa Stupperich,0,2
+scikit-learn/scikit-learn,pardeep-singh,Pardeep Singh,0,2
+scikit-learn/scikit-learn,annejeevan,Jeevan A,0,1
+scikit-learn/scikit-learn,poorna-kumar,Poorna Kumar,2,1
+scikit-learn/scikit-learn,Shuyib,Megabyte,0,2
+scikit-learn/scikit-learn,abbiepopa,Abbie Popa,3,1
+scikit-learn/scikit-learn,martinoywa,Martin Oywa,4,2
+scikit-learn/scikit-learn,teonbrooks,Teon L Brooks,0,1
+scikit-learn/scikit-learn,violetr,Violeta Roizman,0,1
+scikit-learn/scikit-learn,rachel-fischoff,rachel fischoff,0,1
+scikit-learn/scikit-learn,saurabhsjain,Saurabh Jain,0,1
+scikit-learn/scikit-learn,muokicaleb,Muoki Caleb,0,6
+scikit-learn/scikit-learn,RafeyIqbalRahman,Rafey Iqbal Rahman,0,1
+scikit-learn/scikit-learn,pgithubs,,0,1
+scikit-learn/scikit-learn,SleepyBag,Xue Qianming,0,1
+scikit-learn/scikit-learn,martinagvilas,Martina G. Vilas,1,2
+scikit-learn/scikit-learn,tbenjamin-pl,Thomas S Benjamin,0,1
+scikit-learn/scikit-learn,ufmayer,,0,1
+scikit-learn/scikit-learn,FelixWick,Felix Wick,0,2
+scikit-learn/scikit-learn,PbChauhan,,0,1
+scikit-learn/scikit-learn,zaccharieramzi,Zaccharie Ramzi,0,1
+scikit-learn/scikit-learn,kaylani2,Kaylani Bochie,0,1
+scikit-learn/scikit-learn,bsmith89,Byron J. Smith,0,1
+scikit-learn/scikit-learn,erinkhoo,Erin Khoo,1,2
+scikit-learn/scikit-learn,KumarGanesha1996,Kumar Ganesha,0,3
+scikit-learn/scikit-learn,swierh,Swier,0,1
+scikit-learn/scikit-learn,crispinlogan,,0,1
+scikit-learn/scikit-learn,barberogaston,,0,1
+scikit-learn/scikit-learn,Ritik2604,Ritik Aggarwal,0,1
+scikit-learn/scikit-learn,changebo,Bo Chang,0,1
+scikit-learn/scikit-learn,pranavagande,Pranava Shrisai Gande,0,1
+scikit-learn/scikit-learn,tarun42,Tarun Medtiya,0,1
+scikit-learn/scikit-learn,gio8tisu,Sergio,0,2
+scikit-learn/scikit-learn,zoj613,,0,1
+scikit-learn/scikit-learn,slackito,Jorge Gorbe Moya,0,1
+scikit-learn/scikit-learn,AdamSpannbauer,Adam Spannbauer,0,1
+scikit-learn/scikit-learn,hugolmn,Hugo Le Moine,0,1
+scikit-learn/scikit-learn,jvesely,Jan Vesely,0,1
+scikit-learn/scikit-learn,bobbyDropTables420,,0,1
+scikit-learn/scikit-learn,hhnnhh,Hannah Bohle,0,1
+scikit-learn/scikit-learn,Justin-Huber,Justin Huber,0,1
+scikit-learn/scikit-learn,mloning,Markus Löning,1,1
+scikit-learn/scikit-learn,Mai-Raj,,0,1
+scikit-learn/scikit-learn,skeller88,Shane Keller,0,2
+scikit-learn/scikit-learn,codeloop,Vikas Pandey,0,1
+scikit-learn/scikit-learn,jindalpankaj,Pankaj Jindal,0,1
+scikit-learn/scikit-learn,Abo7atm,,0,1
+scikit-learn/scikit-learn,elliothershberg,Elliot Hershberg,0,1
+scikit-learn/scikit-learn,kedarrudrawar,Kedar Rudrawar,0,1
+scikit-learn/scikit-learn,Prince326,Prince Gangurde,0,1
+scikit-learn/scikit-learn,lschwetlick,Lisa Schwetlick,0,2
+scikit-learn/scikit-learn,balaneshin,SaeidBK,0,1
+scikit-learn/scikit-learn,grlee77,Gregory R. Lee,0,1
+scikit-learn/scikit-learn,hugovk,Hugo van Kemenade,1,1
+scikit-learn/scikit-learn,webber26232,Wenbo Zhao,1,1
+scikit-learn/scikit-learn,H-Yin,HaoYin,0,1
+scikit-learn/scikit-learn,stephendavidmarsh,Stephen Marsh,0,1
+scikit-learn/scikit-learn,bvsravikiran,Ravi Kiran Boggavarapu,0,1
+scikit-learn/scikit-learn,LukeBeg,Luca Begatti,0,1
+scikit-learn/scikit-learn,mriedmann,Michael Riedmann,0,1
+scikit-learn/scikit-learn,pwl,Paweł Biernat,0,1
+scikit-learn/scikit-learn,MichaelShoemaker,Michael Shoemaker,0,2
+scikit-learn/scikit-learn,CirQ,Snowhite,0,2
+scikit-learn/scikit-learn,londumas,Hélion du Mas des Bourboux,0,1
+scikit-learn/scikit-learn,DatenBiene,Pierre Delanoue,0,14
+scikit-learn/scikit-learn,wornbb,,0,1
+scikit-learn/scikit-learn,jianlingzhong,Jianling Zhong,0,1
+scikit-learn/scikit-learn,maxkaustav,Kaustav Chaudhury,0,1
+scikit-learn/scikit-learn,BenjaminLiuPenrose,Benjamin Beier Liu,0,2
+scikit-learn/scikit-learn,mlbileschi,Maxwell Bileschi,0,1
+scikit-learn/scikit-learn,alexitkes,Alex Itkes,11,1
+scikit-learn/scikit-learn,roryhr,Rory Hartong-Redden,0,1
+scikit-learn/scikit-learn,Davide95,Davide Riva,0,1
+scikit-learn/scikit-learn,bmaingret,Baptiste Maingret,0,1
+scikit-learn/scikit-learn,toondeboer,Toon de Boer,0,2
+scikit-learn/scikit-learn,thymerishere,Thomas Bos,0,1
+scikit-learn/scikit-learn,NehaAgrawal123,,0,1
+scikit-learn/scikit-learn,timvink,Tim Vink,0,1
+scikit-learn/scikit-learn,rajivsam,Rajiv Sambasivan,0,1
+scikit-learn/scikit-learn,Sanika-Medankar,,0,2
+scikit-learn/scikit-learn,quangngd,Quang Nguyễn,0,1
+scikit-learn/scikit-learn,lucgiffon,,0,1
+scikit-learn/scikit-learn,rbewoor,Rohit Bewoor,0,2
+scikit-learn/scikit-learn,nilichen,Katrina Ni,0,5
+scikit-learn/scikit-learn,endremborza,Endre Mark Borza,0,1
+scikit-learn/scikit-learn,raduspaimoc,,0,1
+scikit-learn/scikit-learn,gui-miotto,Gui Miotto,0,1
+scikit-learn/scikit-learn,bfgray3,bernie gray,0,2
+scikit-learn/scikit-learn,danielvangelder,Daniël van Gelder,0,1
+scikit-learn/scikit-learn,j0rd1smit,,0,1
+scikit-learn/scikit-learn,lkemkes,Lukas Kemkes,0,1
+scikit-learn/scikit-learn,ashutosh1919,Ashutosh Hathidara,1,1
+scikit-learn/scikit-learn,merrcury,Himanshu Garg,0,1
+scikit-learn/scikit-learn,genziano,Alessandro Gentile,0,1
+scikit-learn/scikit-learn,lrjball,,4,2
+scikit-learn/scikit-learn,maurapintor,Maura Pintor,0,1
+scikit-learn/scikit-learn,Rick-Mackenbach,Rick Mackenbach,3,6
+scikit-learn/scikit-learn,echasnovski,Evgeni Chasnovski,0,1
+scikit-learn/scikit-learn,erictleung,Eric Leung,0,1
+scikit-learn/scikit-learn,DarshanGowda0,Darshan N,0,2
+scikit-learn/scikit-learn,Shiki-H,,0,1
+scikit-learn/scikit-learn,wderose,,0,2
+scikit-learn/scikit-learn,jumon,jumon,0,1
+scikit-learn/scikit-learn,smyskoff,,0,1
+scikit-learn/scikit-learn,jim0421,,1,1
+scikit-learn/scikit-learn,SamDuan,Samuel Duan,0,1
+scikit-learn/scikit-learn,Pimpwhippa,,0,1
+scikit-learn/scikit-learn,magda-zielinska,Magda Zielinska,0,3
+scikit-learn/scikit-learn,oj-lappi,oj_lappi,0,1
+scikit-learn/scikit-learn,CastaChick,CastaChick,0,1
+scikit-learn/scikit-learn,parsons-kyle-89,,0,1
+scikit-learn/scikit-learn,chofchof,Jin-Hwan CHO,0,1
+scikit-learn/scikit-learn,zhengruifeng,Ruifeng Zheng,4,1
+scikit-learn/scikit-learn,juliapiscioniere,Julia Piscioniere,0,1
+scikit-learn/scikit-learn,lopusz,,0,6
+scikit-learn/scikit-learn,ManishAradwad,Manish Aradwad,2,1
+scikit-learn/scikit-learn,hcars,Henry,0,1
+scikit-learn/scikit-learn,narendramukherjee,,0,1
+scikit-learn/scikit-learn,ariepratama,Arie Pratama Sutiono,0,1
+scikit-learn/scikit-learn,aesuli,Andrea Esuli,2,1
+scikit-learn/scikit-learn,neddylan,,0,3
+scikit-learn/scikit-learn,smritisingh26,Smriti Singh ,0,2
+scikit-learn/scikit-learn,talgatomarov,,0,1
+scikit-learn/scikit-learn,JarnoRFB,Rüdiger Busche,3,1
+scikit-learn/scikit-learn,judithabk6,,0,5
+scikit-learn/scikit-learn,Batalex,Alexandre Batisse,0,6
+scikit-learn/scikit-learn,ksslng,Sebastian Kießling,0,5
+scikit-learn/scikit-learn,gwarmstrong,George Armstrong,0,1
+scikit-learn/scikit-learn,rushabh-v,Rushabh Vasani,4,3
+scikit-learn/scikit-learn,alonsosilvaallende,Alonso Silva Allende,0,3
+scikit-learn/scikit-learn,GregoireMialon,Grégoire,0,2
+scikit-learn/scikit-learn,vandana-iyer,Vandana Iyer,0,1
+scikit-learn/scikit-learn,kishimoto-banana,masashi kishimoto,0,1
+scikit-learn/scikit-learn,nicolasservel,,0,1
+scikit-learn/scikit-learn,TiphaineV,Tiphaine Viard,0,1
+scikit-learn/scikit-learn,SergioDSR,,0,3
+scikit-learn/scikit-learn,tux2024,,0,1
+scikit-learn/scikit-learn,fabi-cast,Fabiana,0,2
+scikit-learn/scikit-learn,ysunmi0427,Sunmi Yoon,0,1
+scikit-learn/scikit-learn,noatamir,Noa Tamir,0,1
+scikit-learn/scikit-learn,rachelcjordan,,0,2
+scikit-learn/scikit-learn,fraboeni,Franziska Boenisch,0,3
+scikit-learn/scikit-learn,marijavlajic,Marija Vlajic Wheeler,0,2
+scikit-learn/scikit-learn,anaisabeldhero,Ana Casado,0,3
+scikit-learn/scikit-learn,marielledado,Marielle,0,2
+scikit-learn/scikit-learn,brigitteunger,brigi,0,2
+scikit-learn/scikit-learn,stareh,,0,3
+scikit-learn/scikit-learn,daphn3k,Dafni,0,2
+scikit-learn/scikit-learn,ETay203,Emily Taylor,0,1
+scikit-learn/scikit-learn,mojc,Mojca Bertoncelj,0,1
+scikit-learn/scikit-learn,alhewpl,Alina Cucu,0,1
+scikit-learn/scikit-learn,Olks,Aleksandra Kocot,0,1
+scikit-learn/scikit-learn,bharathi-srini,Bharathi Srinivasan,0,1
+scikit-learn/scikit-learn,malteserteresa,,0,1
+scikit-learn/scikit-learn,Malesche,Maria,0,1
+scikit-learn/scikit-learn,marimeireles,Mariana Meireles,0,1
+scikit-learn/scikit-learn,borovikova,Ekaterina Borovikova,0,1
+scikit-learn/scikit-learn,lithomas1,Thomas Li,1,1
+scikit-learn/scikit-learn,adityaprabhat01,Aditya Prabhat,0,1
+scikit-learn/scikit-learn,olicairns,,0,1
+scikit-learn/scikit-learn,waelbenamara,Wael Ben Amara,0,1
+scikit-learn/scikit-learn,SanthoshBala18,,0,1
+scikit-learn/scikit-learn,greatsharma,Gaurav Sharma,3,0
+scikit-learn/scikit-learn,gholdman1,Gregory Holdman,1,0
+scikit-learn/scikit-learn,trimeta,,1,0
+scikit-learn/scikit-learn,trabbart,,3,0
+scikit-learn/scikit-learn,mghah,mo,3,0
+scikit-learn/scikit-learn,guillaume-chevalier,Guillaume Chevalier,1,0
+scikit-learn/scikit-learn,EverLookNeverSee,Milad Sadeghi DM,1,0
+scikit-learn/scikit-learn,junzhaous,,1,0
+scikit-learn/scikit-learn,keyianpai,Qizhi  Jiang,2,0
+scikit-learn/scikit-learn,tituschristian,Titus Christian,1,0
+scikit-learn/scikit-learn,tirthasheshpatel,Tirth Patel,7,0
+scikit-learn/scikit-learn,sidgupta234,Siddharth Gupta,6,0
+scikit-learn/scikit-learn,duckladydinh,Lam Gia Thuan,1,0
+scikit-learn/scikit-learn,shubchat,SHUBH CHATTERJEE,1,0
+scikit-learn/scikit-learn,tamirlan1,,1,0
+scikit-learn/scikit-learn,mslapek,Michał Słapek,1,0
+scikit-learn/scikit-learn,Windber,,1,0
+scikit-learn/scikit-learn,wconnell,,1,0
+scikit-learn/scikit-learn,ankishb,@nkish,7,0
+scikit-learn/scikit-learn,DelgadoPanadero,Ángel Delgado,1,0
+scikit-learn/scikit-learn,pulkitmehtawork,Pulkit Mehta,1,0
+scikit-learn/scikit-learn,huangk10,,1,0
+scikit-learn/scikit-learn,jmwoloso,Jason Wolosonovich,3,0
+scikit-learn/scikit-learn,DavidBreuer,David Breuer,1,0
+scikit-learn/scikit-learn,ngshya,,2,0
+scikit-learn/scikit-learn,scibol,,1,0
+scikit-learn/scikit-learn,ritchieng,Ritchie Ng,1,0
+scikit-learn/scikit-learn,blynotes,Stephen Blystone,1,0
+scikit-learn/scikit-learn,inder128,Inderjeet Yadav,1,0
+scikit-learn/scikit-learn,bwignall,Brian Wignall,12,0
+scikit-learn/scikit-learn,lkubin,Luca Kubin,2,0
+scikit-learn/scikit-learn,wenliwyan,,1,0
+scikit-learn/scikit-learn,Bibyutatsu,Bibhash Chandra Mitra,1,0
+scikit-learn/scikit-learn,samj1912,Sambhav Kothari,1,0
+scikit-learn/scikit-learn,SylvainLan,,4,0
+scikit-learn/scikit-learn,suraj95,Suraj Patil,1,0
+scikit-learn/scikit-learn,JJmistry,,1,0
+scikit-learn/scikit-learn,cyrus303,Sachin Mahesh,1,0
+scikit-learn/scikit-learn,kp1302,K Poole,1,0
+scikit-learn/scikit-learn,vachanda,Vachan D A,2,0
+scikit-learn/scikit-learn,cgsavard,,9,0
+scikit-learn/scikit-learn,J-A16,,2,0
+scikit-learn/scikit-learn,kwinkunks,Matt Hall,1,0
+scikit-learn/scikit-learn,anuprulez,Anup Kumar,1,0
+scikit-learn/scikit-learn,ForrestCKoch,Forrest Koch,1,0
+scikit-learn/scikit-learn,thierrymoudiki,Thierry Moudiki,1,0
+scikit-learn/scikit-learn,mjmikulski,Maciej J Mikulski,1,0
+scikit-learn/scikit-learn,gregorybchris,Chris Gregory,1,0
+scikit-learn/scikit-learn,krishnachaitanya7,,2,0
+scikit-learn/scikit-learn,NicholasWon47,Nicholas Won,1,0
+scikit-learn/scikit-learn,xnox,Dimitri John Ledkov,1,0
+scikit-learn/scikit-learn,GregoryMorse,Gregory Morse,1,0
+scikit-learn/scikit-learn,kwinata,Kevin Winata,5,0
+scikit-learn/scikit-learn,EunSeop,Eunseop,1,0
+scikit-learn/scikit-learn,lucaionescu,Luca Ionescu,1,0
+scikit-learn/scikit-learn,edwardcqian,Edward Qian,1,0
+scikit-learn/scikit-learn,yhtang,"Yu-Hang ""Maxin"" Tang",2,0
+scikit-learn/scikit-learn,willprice,Will Price,1,0
+scikit-learn/scikit-learn,Abdur-rahmaanJ,Abdur-Rahmaan Janhangeer,3,0
+scikit-learn/scikit-learn,Yinglr,,3,0
+scikit-learn/scikit-learn,xun-tang,,2,0
+scikit-learn/scikit-learn,pwalchessen,,2,0
+scikit-learn/scikit-learn,jigna-panchal,Jigna Panchal,2,0
+scikit-learn/scikit-learn,fbchow,Fan,3,0
+scikit-learn/scikit-learn,lotusea,Cheng Wang,1,0
+scikit-learn/scikit-learn,rsanjabi,R Sanjabi,1,0
+scikit-learn/scikit-learn,katarinaslama,Katarina Slama,2,0
+scikit-learn/scikit-learn,LauraLangdon,Laura Langdon,1,0
+scikit-learn/scikit-learn,kesshijordan,Kesshi Jordan,3,0
+scikit-learn/scikit-learn,hailey0huong,Hailey Nguyen,1,0
+scikit-learn/scikit-learn,geoninja,Paula,1,0
+scikit-learn/scikit-learn,theoptips,,2,0
+scikit-learn/scikit-learn,EricaXia,Erica Xia,1,0
+scikit-learn/scikit-learn,Tiffany8,Tiffany R. Williams,1,0
+scikit-learn/scikit-learn,loftiskg,Kevin Loftis,1,0
+scikit-learn/scikit-learn,mina1987,Mina Naghshhnejad,1,0
+scikit-learn/scikit-learn,go-bears,m.fab,1,0
+scikit-learn/scikit-learn,harini-sridhar,Harini Sridhar,1,0
+scikit-learn/scikit-learn,ritalulu,Honglu Zhang,1,0
+scikit-learn/scikit-learn,rebekahkim,Rebekah Kim,3,0
+scikit-learn/scikit-learn,r-build,Richard Payne,3,0
+scikit-learn/scikit-learn,gitsteph,Stephanie Andrews,1,0
+scikit-learn/scikit-learn,alekslovesdata,,1,0
+scikit-learn/scikit-learn,alexdesiqueira,Alexandre de Siqueira,2,0
+scikit-learn/scikit-learn,natashaborders-zz,Natasha Borders,1,0
+scikit-learn/scikit-learn,Soumirai,,3,0
+scikit-learn/scikit-learn,akeshavan,Anisha Keshavan,1,0
+scikit-learn/scikit-learn,ArthurBook,Arthur Böök,1,0
+scikit-learn/scikit-learn,lbfin,,2,0
+scikit-learn/scikit-learn,norvan,,2,0
+scikit-learn/scikit-learn,ganevgv,,1,0
+scikit-learn/scikit-learn,bbuluttekin,Baran Buluttekin,1,0
+scikit-learn/scikit-learn,James-G-Hill,James Hill,3,0
+scikit-learn/scikit-learn,edvardlindelof,,1,0
+scikit-learn/scikit-learn,gbroccolo,Giuseppe Broccolo,1,0
+scikit-learn/scikit-learn,tolaa001,Tola A,2,0
+scikit-learn/scikit-learn,adpeters,Alec Peters,2,0
+scikit-learn/scikit-learn,rjuer,Robert Juergens,2,0
+scikit-learn/scikit-learn,hoffm386,Erin R Hoffman,1,0
+scikit-learn/scikit-learn,ulturt,Victor Luzgin,1,0
+scikit-learn/scikit-learn,andersk,Anders Kaseorg,1,0
+scikit-learn/scikit-learn,raphael0202,Raphaël Bournhonesque,1,0
+scikit-learn/scikit-learn,jlh2018,,1,0
+scikit-learn/scikit-learn,GabrielValeRios,Gabriel do Vale Rios,2,0
+scikit-learn/scikit-learn,jiwidi,Jaime Ferrando Huertas,2,0
+scikit-learn/scikit-learn,pmarko1711,Peter Marko,2,0
+scikit-learn/scikit-learn,sara-es,Sara Summerton,1,0
+scikit-learn/scikit-learn,smujjiga,,2,0
+scikit-learn/scikit-learn,dbauer9,,1,0
+scikit-learn/scikit-learn,walachey,David Dormagen,1,0
+scikit-learn/scikit-learn,Maocx,,1,0
+scikit-learn/scikit-learn,jaganadhg,Jaganadh Gopinadhan,1,0
+scikit-learn/scikit-learn,andreamalhera,Andrea M.,3,0
+scikit-learn/scikit-learn,deeplook,,3,0
+scikit-learn/scikit-learn,sbehren,Sönke Behrends,4,0
+scikit-learn/scikit-learn,PyExtreme,Ankit Jha,2,0
+scikit-learn/scikit-learn,veerlosar,,6,0
+scikit-learn/scikit-learn,mschaffenroth,Moritz Schaffenroth,2,0
+scikit-learn/scikit-learn,FollonSaxBass,Riccardo Folloni,2,0
+scikit-learn/scikit-learn,aditya-hari,Aditya Hari,1,0
+scikit-learn/scikit-learn,corriebar,Corrie Bartelheimer,1,0
+scikit-learn/scikit-learn,StephG123,Steph,1,0
+scikit-learn/scikit-learn,flaviomorelli,,2,0
+scikit-learn/scikit-learn,timnon,Tim Nonner,2,0
+scikit-learn/scikit-learn,th0rwas,,1,0
+scikit-learn/scikit-learn,alexandracraciun,,1,0
+scikit-learn/scikit-learn,top-on,Thorben,1,0
+scikit-learn/scikit-learn,LBrummer,,2,0
+scikit-learn/scikit-learn,tkowpt,,1,0
+scikit-learn/scikit-learn,SimonCW,Simon Weiß,1,0
+scikit-learn/scikit-learn,narudarurarasya,Kevad,1,0
+scikit-learn/scikit-learn,federicopisanu,,1,0
+scikit-learn/scikit-learn,jorahn,Jonathan Rahn,4,0
+scikit-learn/scikit-learn,DatenBergwerker,DatenBergwerk,1,0
+scikit-learn/scikit-learn,zioalex,Alessandro Surace,1,0
+scikit-learn/scikit-learn,jeromedockes,Jérôme Dockès,6,0
+scikit-learn/scikit-learn,angelaambroz,Angela Ambroz,2,0
+scikit-learn/scikit-learn,harish988,,1,0
+scikit-learn/scikit-learn,vnherdeiro,,1,0
+scikit-learn/scikit-learn,kalofoli,,1,0
+scikit-learn/scikit-learn,pspachtholz,,3,0
+scikit-learn/scikit-learn,felixdivo,Felix Divo,1,0
+scikit-learn/scikit-learn,pedro-munoz,Pedro Muñoz,1,0
+scikit-learn/scikit-learn,RodrigoNeves95,Rodrigo Neves,1,0
+scikit-learn/scikit-learn,DGrady,Daniel Grady,1,0
+scikit-learn/scikit-learn,harsh020,Harsh Soni,4,0
+scikit-learn/scikit-learn,llimllib,Bill Mill,1,0
+scikit-learn/scikit-learn,x-martian,,1,0
+scikit-learn/scikit-learn,balodja,Vladimir Korolev,1,0
+scikit-learn/scikit-learn,ptocca,Paolo Toccaceli,2,0
+scikit-learn/scikit-learn,micahjsmith,Micah Smith,1,0
+scikit-learn/scikit-learn,sameshl,Samesh Lakhotia,28,0
+scikit-learn/scikit-learn,ip4368,Daniel Ip,1,0
+scikit-learn/scikit-learn,tlienart,Thibaut Lienart,1,0
+scikit-learn/scikit-learn,melnikovsky,,1,0
+scikit-learn/scikit-learn,fhaase2,Frederic Haase,1,0
+scikit-learn/scikit-learn,dakotagrusak,Dakota Grusak,4,0
+scikit-learn/scikit-learn,antoinedemathelin,,2,0
+scikit-learn/scikit-learn,DrGFreeman,Julien de la Bruère-T.,1,0
+scikit-learn/scikit-learn,minggli,Ming Li,6,0
+scikit-learn/scikit-learn,mapmeld,Nick Doiron,1,0
+scikit-learn/scikit-learn,ingrid88,Ingrid Spielman,4,0
+scikit-learn/scikit-learn,hirenmayani,Hiren Mayani,1,0
+scikit-learn/scikit-learn,conorw8,Conor Wallace,1,0
+scikit-learn/scikit-learn,MozarellaMan,Ayomide Bamidele,1,0
+scikit-learn/scikit-learn,shubhambmehta,Shubham Mehta,1,0
+scikit-learn/scikit-learn,JesperDramsch,Jesper Dramsch,2,0
+scikit-learn/scikit-learn,ricoms,Ricardo Manhães Savii,1,0
+scikit-learn/scikit-learn,trbedwards,Thomas Edwards,2,0
+scikit-learn/scikit-learn,mfcabrera,Miguel Cabrera,2,0
+scikit-learn/scikit-learn,motmoti,,1,0
+scikit-learn/scikit-learn,lostcoaster,,1,0
+scikit-learn/scikit-learn,marctorsoc,Marc Torrellas Socastro,3,0
+scikit-learn/scikit-learn,stefan-matcovici,,3,0
+scikit-learn/scikit-learn,realead,,1,0
+scikit-learn/scikit-learn,danna-naser,Danna Naser,1,0
+scikit-learn/scikit-learn,yupbank,Peng Yu,6,0
+scikit-learn/scikit-learn,galimba39,Iacopo,1,0
+scikit-learn/scikit-learn,nxorable,Brian Bien,1,0
+scikit-learn/scikit-learn,Patil2099,Pankaj Patil,1,0
+scikit-learn/scikit-learn,Adam-Hoelscher,"Adam Hoelscher, ASA, MAAA",1,0
+scikit-learn/scikit-learn,StrikerRUS,Nikita Titov,2,0
+scikit-learn/scikit-learn,ArtyomKaltovich,,1,0
+scikit-learn/scikit-learn,YuliaZamriy,Yulia Zamriy,3,0
+scikit-learn/scikit-learn,barrycg,,3,0
+scikit-learn/scikit-learn,achievermina,Mina,2,0
+scikit-learn/scikit-learn,meiguan,Mei Guan,2,0
+scikit-learn/scikit-learn,jay-z007,Jay,2,0
+scikit-learn/scikit-learn,nitya,Nitya Narasimhan,1,0
+scikit-learn/scikit-learn,shashanksingh28,Shashank Singh,1,0
+scikit-learn/scikit-learn,xcjason,,4,0
+scikit-learn/scikit-learn,eugeniaft,Eugenia Fernandez,1,0
+scikit-learn/scikit-learn,RuchitaGarde,Ruchita Garde,1,0
+scikit-learn/scikit-learn,m-clare,,2,0
+scikit-learn/scikit-learn,she-dares,,2,0
+scikit-learn/scikit-learn,ttang131,,2,0
+scikit-learn/scikit-learn,anuja-kelkar,Anuja Kelkar,1,0
+scikit-learn/scikit-learn,joanaz,Joanna,2,0
+scikit-learn/scikit-learn,andreanr,Andrea Navarrete,3,0
+scikit-learn/scikit-learn,algofrancesca,Francesca Donadoni,1,0
+scikit-learn/scikit-learn,nityamd,Nitya Mandyam,2,0
+scikit-learn/scikit-learn,catajara,,2,0
+scikit-learn/scikit-learn,NahsiN,Nishan Singh Mann,1,0
+scikit-learn/scikit-learn,Pakigya,PLT,1,0
+scikit-learn/scikit-learn,shrev,Shreya V,1,0
+scikit-learn/scikit-learn,kanikas3,Kanika Sabharwal,2,0
+scikit-learn/scikit-learn,hannahbrucemacdonald,Hannah Bruce Macdonald,2,0
+scikit-learn/scikit-learn,vmanisha,Manisha Verma,1,0
+scikit-learn/scikit-learn,npatta01,Nidhin Pattaniyil,1,0
+scikit-learn/scikit-learn,topisan,,1,0
+scikit-learn/scikit-learn,aditi9783,,1,0
+scikit-learn/scikit-learn,maithuvenkatesh,Maithreyi Venkatesh,1,0
+scikit-learn/scikit-learn,stephantul,Stephan Tulkens,1,0
+scikit-learn/scikit-learn,notmatthancock,,2,0
+scikit-learn/scikit-learn,allenakinkunle,Allen Akinkunle,1,0
+scikit-learn/scikit-learn,maxwell-aladago,Maxwell Aladago,5,0
+scikit-learn/scikit-learn,ngonthier,Gonthier Nicolas,1,0
+scikit-learn/scikit-learn,msat59,,1,0
+scikit-learn/scikit-learn,lutzroeder,Lutz Roeder,1,0
+scikit-learn/scikit-learn,AdallomRoy,Roy Reznik,1,0
+scikit-learn/scikit-learn,cvesteghem,Charles Vesteghem,1,0
+scikit-learn/scikit-learn,Barracuda72,,1,0
+scikit-learn/scikit-learn,HabchiSarra,Sarra Habchi,1,0
+scikit-learn/scikit-learn,qdeffense,,4,0
+scikit-learn/scikit-learn,arpanchowdhry,,2,0
+scikit-learn/scikit-learn,dlfelps,,1,0
+scikit-learn/scikit-learn,whiletruelearn,Krishna Sangeeth,4,0
+scikit-learn/scikit-learn,anuraglal1,Anurag Lal,1,0
+scikit-learn/scikit-learn,dylancashman,Dylan Cashman,1,0
+scikit-learn/scikit-learn,Harsh2098,Harsh Mahajan,2,0
+scikit-learn/scikit-learn,srajkumar-rms,,1,0
+scikit-learn/scikit-learn,Cartman0,cartman_nabana,1,0
+scikit-learn/scikit-learn,bayethiernodiop,Thierno Ibrahima DIOP,1,0
+scikit-learn/scikit-learn,Stairwaytoknowledge,,1,0
+scikit-learn/scikit-learn,nathanielmhld,Nathaniel,1,0
+scikit-learn/scikit-learn,shahules786,Shahul ES,2,0
+scikit-learn/scikit-learn,GuillemGSubies,Guillem García Subies,2,0
+scikit-learn/scikit-learn,wolframalpha,,1,0
+scikit-learn/scikit-learn,mbillingr,,3,0
+scikit-learn/scikit-learn,Freshia,Sackey,4,0
+scikit-learn/scikit-learn,jyu-theartofml,Jenny Yu,1,0
+scikit-learn/scikit-learn,staticor,Steve-金勇,1,0
+scikit-learn/scikit-learn,deniederhut,Dillon Niederhut,5,0
+scikit-learn/scikit-learn,ksivaman,Kirthi Shankar Sivamani,1,0
+scikit-learn/scikit-learn,Sam1320,Samuel Rodriguez,1,0
+scikit-learn/scikit-learn,mdomarsaleem,Omar Saleem Mohammed,1,0
+scikit-learn/scikit-learn,camilaagw,,2,0
+scikit-learn/scikit-learn,hugorichard,,1,0
+scikit-learn/scikit-learn,lostanlen,Vincent Lostanlen,1,0
+scikit-learn/scikit-learn,swoh816,SeWook Oh,2,0
+scikit-learn/scikit-learn,SomeUserName1,Fabian Klopfer,1,0
+scikit-learn/scikit-learn,krishnakatyal,krishna katyal,3,0
+scikit-learn/scikit-learn,SmirnovEgorRu,Egor Smirnov,1,0
+scikit-learn/scikit-learn,c-bata,Masashi Shibata,1,0
+scikit-learn/scikit-learn,saninstein,Alexander Bibik,1,0
+scikit-learn/scikit-learn,abhishek-jana,Abhishek Jana,2,0
+scikit-learn/scikit-learn,mandalbiswadip,Biswadip Mandal,1,0
+scikit-learn/scikit-learn,SwordKnight6216,Gordon Chen,1,0
+scikit-learn/scikit-learn,rcwoolston,Richard W,4,0
+scikit-learn/scikit-learn,aalva14,Archana Alva,1,0
+scikit-learn/scikit-learn,tq0,Tilen Kusterle,1,0
+scikit-learn/scikit-learn,Timsaur,,2,0
+scikit-learn/scikit-learn,wendyhhu,Wendy Hu,3,0
+scikit-learn/scikit-learn,mepa,Meghann Agarwal,2,0
+scikit-learn/scikit-learn,gdex1,,1,0
+scikit-learn/scikit-learn,wstates,,3,0
+scikit-learn/scikit-learn,InspiredIdealist,Lucas Moran,1,0
+scikit-learn/scikit-learn,francolq,Franco M. Luque,1,0
+scikit-learn/scikit-learn,souravsingh,Sourav Singh,6,0
+scikit-learn/scikit-learn,schuderer,Andreas Schuderer,1,0
+scikit-learn/scikit-learn,Maltimore,,1,0
+scikit-learn/scikit-learn,ankitkhadria1,Ankit kumar,1,0
+scikit-learn/scikit-learn,h4iku,Reza Gharibi,1,0
+scikit-learn/scikit-learn,Jeanselme,Vincent Jeanselme,1,0
+scikit-learn/scikit-learn,iworkist,jaehong park,1,0
+scikit-learn/scikit-learn,lagvier,Abraham K. Lagat,3,0
+scikit-learn/scikit-learn,GideonSonoiya1,Gideon Sonoiya,1,0
+scikit-learn/scikit-learn,felexkemboi,Felex,1,0
+scikit-learn/scikit-learn,KenitoInc,Kennedy Kang'ethe,3,0
+scikit-learn/scikit-learn,0x6f736f646f,b1ackd0t,3,0
+scikit-learn/scikit-learn,Kasre96,yokasre,1,0
+scikit-learn/scikit-learn,CateGitau,Cathy,1,0
+scikit-learn/scikit-learn,erodrago,Eric Ndirangu,1,0
+scikit-learn/scikit-learn,robinkiplangat,Robin Kiplang'at,1,0
+scikit-learn/scikit-learn,Kibugu,James Kibugu,1,0
+scikit-learn/scikit-learn,MaggieChege,MaggieChege,1,0
+scikit-learn/scikit-learn,rwaithera,Ruth Waithera,1,0
+scikit-learn/scikit-learn,arnaudstiegler,Arnaud Stiegler,2,0
+scikit-learn/scikit-learn,bdhammel,Ben Hammel,1,0
+scikit-learn/scikit-learn,alexgoryainov,,1,0
+scikit-learn/scikit-learn,argonautica,sid,2,0
+scikit-learn/scikit-learn,kirilldolmatov,Kirill Dolmatov,1,0
+scikit-learn/scikit-learn,kpolonijfelinto,KPoloni JFelinto,1,0
+scikit-learn/scikit-learn,Christopher154,Christopher O'Hagan,1,0
+scikit-learn/scikit-learn,CYHSM,Markus Frey,2,0
+scikit-learn/scikit-learn,meyer89,,1,0
+scikit-learn/scikit-learn,timstaley,Tim Staley,1,0
+scikit-learn/scikit-learn,timbicker,Tim Bicker,2,0
+scikit-learn/scikit-learn,thisray,thisray,1,0
+scikit-learn/scikit-learn,abhinavsagar,Abhinav Sagar,5,0
+scikit-learn/scikit-learn,aaron-alphonsus,Aaron Alphonsus,1,0
+scikit-learn/scikit-learn,zxc807492312,,1,0
+scikit-learn/scikit-learn,BSoumyaRanjan,Soumya Ranjan Behera,1,0
+scikit-learn/scikit-learn,liushulun,LiuShulun,1,0
+scikit-learn/scikit-learn,loopyme,,1,0
+scikit-learn/scikit-learn,guilhermesilveira,Guilherme Silveira,1,0
+scikit-learn/scikit-learn,wenhaoz-fengcai,Wenhao Zhang,3,0
+scikit-learn/scikit-learn,BarkleyBG,Brian G. Barkley,1,0
+scikit-learn/scikit-learn,gpapadok,,1,0
+scikit-learn/scikit-learn,fhoang7,Frank Hoang,4,0
+scikit-learn/scikit-learn,scottgigante,Scott Gigante,2,0
+scikit-learn/scikit-learn,miguelbarao,,1,0
+scikit-learn/scikit-learn,eyes-robson,Eyes Robson,1,0
+scikit-learn/scikit-learn,shilinng,,1,0
+scikit-learn/scikit-learn,rlms,,3,0
+scikit-learn/scikit-learn,rick2047,Paresh Mathur,2,0
+scikit-learn/scikit-learn,b-little,Bryce,1,0
+scikit-learn/scikit-learn,fmder,François-Michel De Rainville,1,0
+scikit-learn/scikit-learn,jamesmyatt,James Myatt,1,0
+scikit-learn/scikit-learn,LakshKD,Lakshya KD,6,0
+scikit-learn/scikit-learn,willdarnell,,1,0
+scikit-learn/scikit-learn,XavierSATTLER,xsat,4,0
+scikit-learn/scikit-learn,mjspeck,Matt Speck,1,0
+scikit-learn/scikit-learn,nezar-a,,1,0
+scikit-learn/scikit-learn,galtay,Gabriel Altay,1,0
+scikit-learn/scikit-learn,rragundez,Rodrigo Agundez,3,0
+scikit-learn/scikit-learn,Scowley4,Stephen Cowley,2,0
+scikit-learn/scikit-learn,theotheo,,1,0
+scikit-learn/scikit-learn,lstappen,Lukas Stappen,1,0
+scikit-learn/scikit-learn,olegstikhin,Oleg Stikhin,1,0
+scikit-learn/scikit-learn,aditya1702,Aditya Vyas,4,0
+scikit-learn/scikit-learn,AraiKensuke,Kensuke Arai,1,0
+scikit-learn/scikit-learn,AWNystrom,Andrew Nystrom,2,0
+scikit-learn/scikit-learn,mitar,Mitar,2,0
+scikit-learn/scikit-learn,MartinThoma,Martin Thoma,3,0
+scikit-learn/scikit-learn,fdas3213,Shuzhe Xiao,3,0
+scikit-learn/scikit-learn,ychervonyi,Yuri Chervonyi,1,0
+scikit-learn/scikit-learn,therickli,Li Miao,1,0
+scikit-learn/scikit-learn,whitews,Scott White,1,0
+scikit-learn/scikit-learn,arthurpaulino,Arthur Paulino,1,0
+scikit-learn/scikit-learn,jarrodmillman,Jarrod Millman,2,0
+scikit-learn/scikit-learn,xinyuliu12,,1,0
+scikit-learn/scikit-learn,orestisfl,Orestis Floros,1,0
+scikit-learn/scikit-learn,tommyod,Tommy,3,0
+scikit-learn/scikit-learn,kfrncs,ken,2,0
+scikit-learn/scikit-learn,Masstran,,1,0
+scikit-learn/scikit-learn,jfbeaumont,JF,1,0
+scikit-learn/scikit-learn,joseortiz3,Jose Ortiz,1,0
+scikit-learn/scikit-learn,DanilBaibak,Danylo Baibak,3,0
+scikit-learn/scikit-learn,sunmengbo,,1,0
+scikit-learn/scikit-learn,mabdelaal86,Mohamed AbdelAal,1,0
+scikit-learn/scikit-learn,RayOnFire,Ray,1,0
+scikit-learn/scikit-learn,nicholastoddsmith,Nicholas Smith,2,0
+scikit-learn/scikit-learn,nicoladimauro,Nicola Di Mauro,1,0
+scikit-learn/scikit-learn,mwestt,,1,0
+scikit-learn/scikit-learn,aarmey,Aaron Meyer,1,0
+scikit-learn/scikit-learn,joybh98,Joy Bhalla,1,0
+scikit-learn/scikit-learn,peay,,1,0
+scikit-learn/scikit-learn,css459,Cole Smith,1,0
+scikit-learn/scikit-learn,MohammedKhandwawala,Mohammed Khandwawala,1,0
+scikit-learn/scikit-learn,tomguluson92,,1,0
+scikit-learn/scikit-learn,sohamt09,Soham Talukdar,1,0
+scikit-learn/scikit-learn,michaelshiyu,Shiyu Duan,1,0
+scikit-learn/scikit-learn,christopherchoe,Chris Choe,1,0
+scikit-learn/scikit-learn,urvang96,Urvang Patel,3,0
+scikit-learn/scikit-learn,praths007,Prathmesh Savale,4,0
+scikit-learn/scikit-learn,falaktheoptimist,Falak,2,0
+scikit-learn/scikit-learn,HunterMcGushion,Hunter McGushion,1,0
+scikit-learn/scikit-learn,wurch,Ed Wurch,1,0
+scikit-learn/scikit-learn,maftabali,Mohammad Aftab,1,0
+scikit-learn/scikit-learn,dpwe,Dan Ellis,1,0
+scikit-learn/scikit-learn,OFlanagan,Owen Flanagan,2,0
+scikit-learn/scikit-learn,zenogantner,Zeno Gantner,1,0
+scikit-learn/scikit-learn,bendmaster,Ben Masters,1,0
+scikit-learn/scikit-learn,pimdh,Pim de Haan,1,0
+scikit-learn/scikit-learn,moibra,Mohammed Ibraheem,1,0
+scikit-learn/scikit-learn,ClemDoum,Clément Doumouro,1,0
+scikit-learn/scikit-learn,agile-infotelligence,K-Saurabh,1,0
+scikit-learn/scikit-learn,CaselIT,Federico Caselli,2,0
+scikit-learn/scikit-learn,NaoyaIijima,Naoya Iijima,1,0
+scikit-learn/scikit-learn,Kulbear,,1,0
+scikit-learn/scikit-learn,rok,Rok Mihevc,2,0
+scikit-learn/scikit-learn,pierreglaser,Pierre Glaser,5,0
+scikit-learn/scikit-learn,jorisvandenbossche,Joris Van den Bossche,33,0
+scikit-learn/scikit-learn,gfournier,Guillaume Fournier,1,0
+scikit-learn/scikit-learn,btel,Bartosz Telenczuk,4,0
+scikit-learn/scikit-learn,marineLM,marineLM,1,0
+scikit-learn/scikit-learn,pinjutien,Pin-Ju Tien,1,0
+scikit-learn/scikit-learn,jrbourbeau,James Bourbeau,13,0
+scikit-learn/scikit-learn,psorianom,Pavel Soriano,1,0
+scikit-learn/scikit-learn,ngoix,Nicolas Goix,11,0
+scikit-learn/scikit-learn,bellet,Aurélien Bellet,5,0
+scikit-learn/scikit-learn,abenbihi,Ben,3,0
+scikit-learn/scikit-learn,tomMoral,Thomas Moreau,7,0
+scikit-learn/scikit-learn,corona10,Dong-hee Na,1,0
+scikit-learn/scikit-learn,hhu-luqi,,1,0
+scikit-learn/scikit-learn,ggangesh,Gangesh Gudmalwar,1,0
+scikit-learn/scikit-learn,kykosic,Kyle Kosic,1,0
+scikit-learn/scikit-learn,dumbPy,Sufiyan Adhikari,1,0
+scikit-learn/scikit-learn,SandroCasagrande,,2,0
+scikit-learn/scikit-learn,rxp90,Raúl García Calvo,1,0
+scikit-learn/scikit-learn,peterjc,Peter Cock,1,0
+scikit-learn/scikit-learn,rajdeepd,Rajdeep Dua,2,0
+scikit-learn/scikit-learn,oanise93,Olabode O. Anise II,1,0
+scikit-learn/scikit-learn,jojordan3,Joanne Jordan,1,0
+scikit-learn/scikit-learn,mgaido91,Marco Gaido,1,0
+scikit-learn/scikit-learn,daniel-cortez-stevenson,Daniel Stevenson,1,0
+scikit-learn/scikit-learn,algo-circle,Rohit Kapoor,1,0
+scikit-learn/scikit-learn,HanGuo97,Han Guo,1,0
+scikit-learn/scikit-learn,AlJohri,Al Johri,1,0
+scikit-learn/scikit-learn,walk-to-work,KossoriArukuChan,2,0
+scikit-learn/scikit-learn,srcole,Scott Cole,1,0
+scikit-learn/scikit-learn,kjacks21,Kyle Jackson,4,0
+scikit-learn/scikit-learn,mayankshah37,Mayank Shah,1,0
+scikit-learn/scikit-learn,vishaalkapoor,Vishaal Kapoor,1,0
+scikit-learn/scikit-learn,baluyotraf,Raf Baluyot,2,0
+scikit-learn/scikit-learn,pierretallotte,,2,0
+scikit-learn/scikit-learn,lopeLH,Daniel López,1,0
+scikit-learn/scikit-learn,fcomitani,,1,0
+scikit-learn/scikit-learn,romankarski,,1,0
+scikit-learn/scikit-learn,maxstrobel,Max Strobel,1,0
+scikit-learn/scikit-learn,luk-f-a,,1,0
+scikit-learn/scikit-learn,finnoshea,Finn O'Shea,2,0
+scikit-learn/scikit-learn,esvhd,,1,0
+scikit-learn/scikit-learn,asottile,Anthony Sottile,1,0
+scikit-learn/scikit-learn,AbhishekBabuji,Abhishek Babuji,1,0
+scikit-learn/scikit-learn,RonLek,Rohan Lekhwani,1,0
+scikit-learn/scikit-learn,tashay,Tashay Green,4,0
+scikit-learn/scikit-learn,kms15,,1,0
+scikit-learn/scikit-learn,BoboTiG,Mickaël Schoentgen,1,0
+scikit-learn/scikit-learn,pakallis,pavlos kallis,2,0
+scikit-learn/scikit-learn,ZaydH,Zayd Hammoudeh,1,0
+scikit-learn/scikit-learn,drewmjohnston,Drew Johnston,1,0
+scikit-learn/scikit-learn,NiceSugar,Nice,1,0
+scikit-learn/scikit-learn,xhan7279,xhan,1,0
+scikit-learn/scikit-learn,mferrari3,,2,0
+scikit-learn/scikit-learn,canerbaran,Caner Baran,1,0
+scikit-learn/scikit-learn,jmehault,Jérémie Méhault,1,0
+scikit-learn/scikit-learn,alien3211,,1,0
+scikit-learn/scikit-learn,akahard2dj,Dowon,3,0
+scikit-learn/scikit-learn,jayded,Jay DeYoung,1,0
+scikit-learn/scikit-learn,elsander,Eli Sander,1,0
+scikit-learn/scikit-learn,borodache,,1,0
+scikit-learn/scikit-learn,bertrandhaut,,1,0
+scikit-learn/scikit-learn,fx86,Fibinse Xavier`,1,0
+scikit-learn/scikit-learn,trungpham10,Trung Pham,1,0
+scikit-learn/scikit-learn,katrinleinweber,Katrin Leinweber,2,0
+scikit-learn/scikit-learn,surgan12,Surgan Jandial,3,0
+scikit-learn/scikit-learn,adanhawth,,1,0
+scikit-learn/scikit-learn,dafeda,Feda Curic,1,0
+scikit-learn/scikit-learn,iansan5653,Ian Sanders,2,0
+scikit-learn/scikit-learn,homarb,Omar Bacarreza,1,0
+scikit-learn/scikit-learn,appleyuchi,,1,0
+scikit-learn/scikit-learn,wq2012,Quan Wang,1,0
+scikit-learn/scikit-learn,bryan-woods,Bryan Woods,1,0
+scikit-learn/scikit-learn,hassaanseeker,Muhammad Hassaan Rafique,2,0
+scikit-learn/scikit-learn,drorata,Dror Atariah,3,0
+scikit-learn/scikit-learn,gsganden,Greg Gandenberger,1,0
+scikit-learn/scikit-learn,KOLANICH,KOLANICH,3,0
+scikit-learn/scikit-learn,amourav,Andrei Mouraviev,1,0
+scikit-learn/scikit-learn,dstine,Dan Stine,2,0
+scikit-learn/scikit-learn,JanSellner,Jan Sellner,1,0
+scikit-learn/scikit-learn,shivam-kotwalia,Shivam Kotwalia,1,0
+scikit-learn/scikit-learn,Kjili,,1,0
+scikit-learn/scikit-learn,wyegelwel,,1,0
+scikit-learn/scikit-learn,josephsalmon,,7,0
+scikit-learn/scikit-learn,grromrell,Greg Romrell,1,0
+scikit-learn/scikit-learn,byhwdy,Zheng Shaohua,1,0
+scikit-learn/scikit-learn,pavopax,Paul Paczuski,3,0
+scikit-learn/scikit-learn,ruiann,,2,0
+scikit-learn/scikit-learn,samwaterbury,Sam Waterbury,5,0
+scikit-learn/scikit-learn,phausamann,Peter Hausamann,3,0
+scikit-learn/scikit-learn,RMLAI,,1,0
+scikit-learn/scikit-learn,jaskola8,Bartosz Michałowski,1,0
+scikit-learn/scikit-learn,stsouko,Ramil Nugmanov,2,0
+scikit-learn/scikit-learn,JackLangerman,,1,0
+scikit-learn/scikit-learn,lithuak,Ilya Persky,1,0
+scikit-learn/scikit-learn,rst0git,Radostin Stoyanov,1,0
+scikit-learn/scikit-learn,killthekitten,Nikolay Shebanov,2,0
+scikit-learn/scikit-learn,Ahanmr,Ahan M R,1,0
+scikit-learn/scikit-learn,yarikoptic,Yaroslav Halchenko,18,0
+scikit-learn/scikit-learn,janvanrijn,,9,0
+scikit-learn/scikit-learn,didibz,Didi Bar-Zev,4,0
+scikit-learn/scikit-learn,thoo,Thein Oo,1,0
+scikit-learn/scikit-learn,gilbertoolimpio,Gilberto Olimpio,2,0
+scikit-learn/scikit-learn,RajatGarg97,Rajat Garg,1,0
+scikit-learn/scikit-learn,AishwaryaVarma,Aishwarya V,1,0
+scikit-learn/scikit-learn,Maharacha,Joakim Nyman,1,0
+scikit-learn/scikit-learn,QBatista,Quentin Batista,1,0
+scikit-learn/scikit-learn,ZWMiller,Zach Miller,1,0
+scikit-learn/scikit-learn,daviddiazvico,David Díaz Vico,1,0
+scikit-learn/scikit-learn,mail-liam,,1,0
+scikit-learn/scikit-learn,NishantaNanda,,1,0
+scikit-learn/scikit-learn,tuliocasagrande,Tulio Casagrande,2,0
+scikit-learn/scikit-learn,dillongardner,Dillon Gardner,2,0
+scikit-learn/scikit-learn,koenvandevelde,Koen,1,0
+scikit-learn/scikit-learn,qudade,Joachim Hereth,3,0
+scikit-learn/scikit-learn,yangfl,,1,0
+scikit-learn/scikit-learn,anuragkapale,,1,0
+scikit-learn/scikit-learn,Quetzalcohuatl,Corey Levinson,1,0
+scikit-learn/scikit-learn,scottclowe,Scott Lowe,3,0
+scikit-learn/scikit-learn,sjtrny,Stephen Tierney,3,0
+scikit-learn/scikit-learn,sigit-purnomo,Sigit Purnomo,4,0
+scikit-learn/scikit-learn,pulkitmaloo,Pulkit Maloo,1,0
+scikit-learn/scikit-learn,eddbrown,Edward J Brown,2,0
+scikit-learn/scikit-learn,RoopamSharma,Roopam Sharma,1,0
+scikit-learn/scikit-learn,gustavodemari,Gustavo De Mari Pereira,2,0
+scikit-learn/scikit-learn,justfish09,Justin Fisher,1,0
+scikit-learn/scikit-learn,joaak,,1,0
+scikit-learn/scikit-learn,xhlulu,Xing Han Lu,3,0
+scikit-learn/scikit-learn,chang,Eric Chang,5,0
+scikit-learn/scikit-learn,dvukolov,Dmitry Vukolov,1,0
+scikit-learn/scikit-learn,bauks,,1,0
+scikit-learn/scikit-learn,jprocha84,Juan P. Rocha Amado,2,0
+scikit-learn/scikit-learn,rohan-varma,Rohan Varma,1,0
+scikit-learn/scikit-learn,sercangul,Sercan Gul,1,0
+scikit-learn/scikit-learn,Cheukting,Cheuk Ting Ho,1,0
+scikit-learn/scikit-learn,TakingItCasual,,4,0
+scikit-learn/scikit-learn,kushalchauhan98,Kushal Chauhan,1,0
+scikit-learn/scikit-learn,GauravAhlawat,,1,0
+scikit-learn/scikit-learn,jacquerie,Jacopo Notarstefano,2,0
+scikit-learn/scikit-learn,benjastudio,BenjaStudio,1,0
+scikit-learn/scikit-learn,kataev,Denis Kataev,1,0
+scikit-learn/scikit-learn,1kastner,,3,0
+scikit-learn/scikit-learn,learnFlat,,1,0
+scikit-learn/scikit-learn,royalbhati,Royal Bhati,1,0
+scikit-learn/scikit-learn,mroeschke,Matthew Roeschke,1,0
+scikit-learn/scikit-learn,jdethurens,,1,0
+scikit-learn/scikit-learn,AMDonati,Alice MARTIN,1,0
+scikit-learn/scikit-learn,markhannel,Mark Hannel,1,0
+scikit-learn/scikit-learn,blooraspberry,Sharon,3,0
+scikit-learn/scikit-learn,mc4229,,1,0
+scikit-learn/scikit-learn,cynco,CynCo,1,0
+scikit-learn/scikit-learn,melsyt,Melinda Song,1,0
+scikit-learn/scikit-learn,eharris99,,1,0
+scikit-learn/scikit-learn,liuvivian11,Vivian Liu,1,0
+scikit-learn/scikit-learn,LisaThomas9,Lisa Sarah Thomas,1,0
+scikit-learn/scikit-learn,SandraMNE,Sandra Mitrovic,1,0
+scikit-learn/scikit-learn,ThaliaBarrera,,1,0
+scikit-learn/scikit-learn,ml4713,Rita Li,3,0
+scikit-learn/scikit-learn,LilyX2021,Lily,1,0
+scikit-learn/scikit-learn,parul-l,,1,0
+scikit-learn/scikit-learn,J0,Lee Yi Jie Joel,1,0
+scikit-learn/scikit-learn,ygivenx,Rohan Singh,1,0
+scikit-learn/scikit-learn,benlawson,Ben Lawson,3,0
+scikit-learn/scikit-learn,cecilialiao,Cecilia,1,0
+scikit-learn/scikit-learn,Sriharsha-hatwar,Sriharsha Hatwar,3,0
+scikit-learn/scikit-learn,Mottl,Dmitry Mottl,2,0
+scikit-learn/scikit-learn,kiote,Ekaterina Krivich,4,0
+scikit-learn/scikit-learn,louib,,1,0
+scikit-learn/scikit-learn,LeisureZhao,Leisure_Zhao,1,0
+scikit-learn/scikit-learn,vinayak-mehta,Vinayak Mehta,17,0
+scikit-learn/scikit-learn,joshuakennethjones,,1,0
+scikit-learn/scikit-learn,mwouts,Marc Wouts,1,0
+scikit-learn/scikit-learn,zdgriffith,Zach Griffith,4,0
+scikit-learn/scikit-learn,espg,Shane,3,0
+scikit-learn/scikit-learn,knightXun,flyingcat ,1,0
+scikit-learn/scikit-learn,vqean3,Marko Rus,1,0
+scikit-learn/scikit-learn,maxcopeland,Max Copeland,4,0
+scikit-learn/scikit-learn,Olamyy,Olamilekan Wahab,3,0
+scikit-learn/scikit-learn,papaonlegs,Umar Farouk Umar,1,0
+scikit-learn/scikit-learn,nk412,Nagarjuna Kumar,2,0
+scikit-learn/scikit-learn,vivekk-ezdi,Vivek Kumar,5,0
+scikit-learn/scikit-learn,gabrielecalvo,Gabriele Calvo,1,0
+scikit-learn/scikit-learn,abbyelise,Abby Elise,1,0
+scikit-learn/scikit-learn,niedakh,Piotr Szymański,2,0
+scikit-learn/scikit-learn,chibby0ne,Antonio Gutierrez,1,0
+scikit-learn/scikit-learn,cammil,,1,0
+scikit-learn/scikit-learn,rtlee9,Ryan,4,0
+scikit-learn/scikit-learn,rlkelly,Rob Kelly,1,0
+scikit-learn/scikit-learn,ArunkumarRamanan,Arunkumar Venkataramanan,1,0
+scikit-learn/scikit-learn,yenshan98,,1,0
+scikit-learn/scikit-learn,RomanKosobrodov,Roman Kosobrodov,1,0
+scikit-learn/scikit-learn,SirR4T,Sarat Addepalli,2,0
+scikit-learn/scikit-learn,RankyLau,,1,0
+scikit-learn/scikit-learn,chadykamar,Chady Kamar,2,0
+scikit-learn/scikit-learn,OnlyBelter,Xin Xiong,1,0
+scikit-learn/scikit-learn,dadashkarimi,Javid Dadashkarimi,2,0
+scikit-learn/scikit-learn,kaushik94,Kaushik Varanasi,12,0
+scikit-learn/scikit-learn,vufg,,1,0
+scikit-learn/scikit-learn,samueljamesbell,Samuel Bell,1,0
+scikit-learn/scikit-learn,sshleifer,Sam Shleifer,4,0
+scikit-learn/scikit-learn,eggie5,Alex Egg,1,0
+scikit-learn/scikit-learn,Anubhav2000,Anubhav Marwaha,1,0
+scikit-learn/scikit-learn,shreyasramachandran,Shreyas Ramachandran,1,0
+scikit-learn/scikit-learn,JLans,Joshua Lansford,1,0
+scikit-learn/scikit-learn,orenmn,Oren Milman,3,0
+scikit-learn/scikit-learn,imatiach-msft,Ilya Matiach,1,0
+scikit-learn/scikit-learn,markusdosch,Markus Dosch,1,0
+scikit-learn/scikit-learn,kchawla-pi,Kshitij Chawla,1,0
+scikit-learn/scikit-learn,brentfagan,,2,0
+scikit-learn/scikit-learn,nlw0,Nicolau Leal Werneck,2,0
+scikit-learn/scikit-learn,3lnc,Slam,2,0
+scikit-learn/scikit-learn,aboucaud,Alexandre Boucaud,6,0
+scikit-learn/scikit-learn,wehlutyk,Sébastien Lerique,2,0
+scikit-learn/scikit-learn,dbeach24,David Beach,1,0
+scikit-learn/scikit-learn,dcferreira,Daniel Ferreira,1,0
+scikit-learn/scikit-learn,naoyak,Naoya Kanai,19,0
+scikit-learn/scikit-learn,yukuairoy,Kuai Yu,2,0
+scikit-learn/scikit-learn,xuhdev,Hong Xu,1,0
+scikit-learn/scikit-learn,EigenPro,,1,0
+scikit-learn/scikit-learn,Vermeille,"Guillaume ""Vermeille"" Sanchez",1,0
+scikit-learn/scikit-learn,jjabl,,1,0
+scikit-learn/scikit-learn,plbecker,Patrice Becker,1,0
+scikit-learn/scikit-learn,LilianYe,Lillian,1,0
+scikit-learn/scikit-learn,prathusha94,,1,0
+scikit-learn/scikit-learn,Santosh-Gupta,Santosh Gupta,1,0
+scikit-learn/scikit-learn,wesbarnett,"Wes Barnett, PhD",3,0
+scikit-learn/scikit-learn,Honghe,Honghe,1,0
+scikit-learn/scikit-learn,ZhiqingXiao,Zhiqing Xiao,1,0
+scikit-learn/scikit-learn,Nikeshbajaj,Nikesh Bajaj,1,0
+scikit-learn/scikit-learn,annaayzenshtat,Anna Ayzenshtat,1,0
+scikit-learn/scikit-learn,politinsa,,1,0
+scikit-learn/scikit-learn,TheAtomicOption,Ben Roth,1,0
+scikit-learn/scikit-learn,jrmlhermitte,Julien Lhermitte,2,0
+scikit-learn/scikit-learn,DJCordhose,Oliver Zeigermann,1,0
+scikit-learn/scikit-learn,Freija,Freija Descamps,1,0
+scikit-learn/scikit-learn,ggc87,Giovanni Giuseppe Costa,1,0
+scikit-learn/scikit-learn,choldgraf,Chris Holdgraf,1,0
+scikit-learn/scikit-learn,lkjcalc,,1,0
+scikit-learn/scikit-learn,acs,Alvaro del Castillo,1,0
+scikit-learn/scikit-learn,betterenvi,Qingying Chen,1,0
+scikit-learn/scikit-learn,meetnaren,Narendran Santhanam,2,0
+scikit-learn/scikit-learn,Leobl,LeoBl,2,0
+scikit-learn/scikit-learn,sds-dubois,Sebastien Dubois,2,0
+scikit-learn/scikit-learn,RianneSchouten,,1,0
+scikit-learn/scikit-learn,dmesquita,Déborah Mesquita,1,0
+scikit-learn/scikit-learn,lasagnaman,,2,0
+scikit-learn/scikit-learn,mfeurer,Matthias Feurer,3,0
+scikit-learn/scikit-learn,partmor,Pedro Morales Maries,2,0
+scikit-learn/scikit-learn,twosigmajab,,3,0
+scikit-learn/scikit-learn,akin-tekeoglu,Akın Tekeoğlu,1,0
+scikit-learn/scikit-learn,georgipeev,Georgi Peev,2,0
+scikit-learn/scikit-learn,gvacaliuc,Gabriel Vacaliuc,1,0
+scikit-learn/scikit-learn,bartz,Steve Bartz,1,0
+scikit-learn/scikit-learn,brentyi,Brent Yi,1,0
+scikit-learn/scikit-learn,jdnc,Madhura Parikh,1,0
+scikit-learn/scikit-learn,aozgaa,Arthur Ozga,1,0
+scikit-learn/scikit-learn,melrchen,,1,0
+scikit-learn/scikit-learn,haoranShu,Shu Haoran,1,0
+scikit-learn/scikit-learn,tsdlovell,dlovell,1,0
+scikit-learn/scikit-learn,markroth8,Mark Roth,1,0
+scikit-learn/scikit-learn,Andrew-peng,Andrew Peng,1,0
+scikit-learn/scikit-learn,elainejiang8,Elaine Jiang,1,0
+scikit-learn/scikit-learn,jankrepl,Jan,1,0
+scikit-learn/scikit-learn,Celelibi,,1,0
+scikit-learn/scikit-learn,adithbharadwaj,adith bharadwaj,2,0
+scikit-learn/scikit-learn,the-moliver,Michael Oliver,1,0
+scikit-learn/scikit-learn,Cyril9227,Cyril Equilbec,1,0
+scikit-learn/scikit-learn,ShangwuYao,Shangwu Yao,3,0
+scikit-learn/scikit-learn,lukemcraig,Luke M Craig,1,0
+scikit-learn/scikit-learn,yufengg,Yufeng,1,0
+scikit-learn/scikit-learn,njkevlani,Nilesh Kevlani,1,0
+scikit-learn/scikit-learn,georgepar,Giorgos Paraskevopoulos,1,0
+scikit-learn/scikit-learn,nrifel,Nick Rifel,1,0
+scikit-learn/scikit-learn,dsalfran,Daniel Salfran,1,0
+scikit-learn/scikit-learn,gforsyth,Gil Forsyth,1,0
+scikit-learn/scikit-learn,danielbarkhorn,Dan Barkhorn,1,0
+scikit-learn/scikit-learn,Christian-Hirsch,Christian Hirsch,1,0
+scikit-learn/scikit-learn,FabianFalck,Fabian Falck,1,0
+scikit-learn/scikit-learn,nishnik,Nishant Nikhil,1,0
+scikit-learn/scikit-learn,shaz13,Mohammad Shahebaz,4,0
+scikit-learn/scikit-learn,aryamccarthy,Arya McCarthy,1,0
+scikit-learn/scikit-learn,JamesTrick,James Malcolm,1,0
+scikit-learn/scikit-learn,jnhansen,Johannes Hansen,2,0
+scikit-learn/scikit-learn,cheng-w-liu,,1,0
+scikit-learn/scikit-learn,johanvts,Johan von Tangen Sivertsen,1,0
+scikit-learn/scikit-learn,jiefangxuanyan,,1,0
+scikit-learn/scikit-learn,zdog234,Zane Dufour,1,0
+scikit-learn/scikit-learn,theavey,Thomas Heavey,1,0
+scikit-learn/scikit-learn,dil12321,,1,0
+scikit-learn/scikit-learn,Mchristos,chris,1,0
+scikit-learn/scikit-learn,iampat,iampat,1,0
+scikit-learn/scikit-learn,jknox13,Joseph Knox,1,0
+scikit-learn/scikit-learn,flowlight0,Takanori Hayashi,1,0
+scikit-learn/scikit-learn,sinanh,Sinan Hanay,1,0
+scikit-learn/scikit-learn,jona-sassenhagen,Jona Sassenhagen,1,0
+scikit-learn/scikit-learn,princejha95,,2,0
+scikit-learn/scikit-learn,taehoonlee,Taehoon Lee,14,0
+scikit-learn/scikit-learn,recamshak,Joël Billaud,3,0
+scikit-learn/scikit-learn,sharad-vm,Sharad M,1,0
+scikit-learn/scikit-learn,justinshenk,Justin Shenk,1,0
+scikit-learn/scikit-learn,DanielMorales9,Daniel,1,0
+scikit-learn/scikit-learn,nsorros,Nick Sorros,3,0
+scikit-learn/scikit-learn,Alfo5123,Alfredo de la Fuente Briceño,1,0
+scikit-learn/scikit-learn,ryancatlin,Ryan Catlin,1,0
+scikit-learn/scikit-learn,dangom,Daniel Gomez,1,0
+scikit-learn/scikit-learn,ccmien,CCM,1,0
+scikit-learn/scikit-learn,Meta95,,1,0
+scikit-learn/scikit-learn,nnadeau,"Nicholas Nadeau, Ph.D., P.Eng.",3,0
+scikit-learn/scikit-learn,LucijaGregov,Lucija Gregov,2,0
+scikit-learn/scikit-learn,rlamy,Ronan Lamy,1,0
+scikit-learn/scikit-learn,theodoreyoong,Theodore Yoong,1,0
+scikit-learn/scikit-learn,virajmavani,Viraj Mavani,1,0
+scikit-learn/scikit-learn,duhaime,Douglas Duhaime,1,0
+scikit-learn/scikit-learn,tgsmith61591,Taylor G Smith,2,0
+scikit-learn/scikit-learn,j1c,Jaewon Chung,1,0
+scikit-learn/scikit-learn,minhlab,Minh Le,1,0
+scikit-learn/scikit-learn,julietcl,,1,0
+scikit-learn/scikit-learn,gamazeps,Félix Raimundo,3,0
+scikit-learn/scikit-learn,omtinez,omtinez,1,0
+scikit-learn/scikit-learn,KPLauritzen,Kasper Primdal Lauritzen,1,0
+scikit-learn/scikit-learn,arikpamnani,Arik Pamnani,1,0
+scikit-learn/scikit-learn,momaee,Mohammad,1,0
+scikit-learn/scikit-learn,christopherjenness,Christopher Jenness,1,0
+scikit-learn/scikit-learn,aniruddhadave,Aniruddha Dave,1,0
+scikit-learn/scikit-learn,manojkarthick,Manoj Karthick,1,0
+scikit-learn/scikit-learn,bangdasun,Bangda Sun,1,0
+scikit-learn/scikit-learn,topspinj,Jill Cates,1,0
+scikit-learn/scikit-learn,mapehe,Matias Heikkilä,1,0
+scikit-learn/scikit-learn,svenevs,Stephen McDowell,1,0
+scikit-learn/scikit-learn,mohamed-ali,Mohamed Ali Jamaoui,7,0
+scikit-learn/scikit-learn,jiadong93,Jiadong,1,0
+scikit-learn/scikit-learn,bobchennan,cnx,1,0
+scikit-learn/scikit-learn,LiutongZhou,Liutong Zhou,1,0
+scikit-learn/scikit-learn,serega,Sergey Melderis,1,0
+scikit-learn/scikit-learn,GavinKerrigan,,1,0
+scikit-learn/scikit-learn,ericdeansanchez,eric,1,0
+scikit-learn/scikit-learn,pietruh,,1,0
+scikit-learn/scikit-learn,kyu-sz,Ken Yu,1,0
+scikit-learn/scikit-learn,AlexandreSev,Alexandre Sevin,1,0
+scikit-learn/scikit-learn,ageron,Aurélien Geron,1,0
+scikit-learn/scikit-learn,AdityaDaflapurkar,,1,0
+scikit-learn/scikit-learn,Jopepato,Jose Perez-Parras Toledano,1,0
+scikit-learn/scikit-learn,sagnibak,Sagnik Bhattacharya,1,0
+scikit-learn/scikit-learn,lgalarra,Luis Galárraga,1,0
+scikit-learn/scikit-learn,aliddell,Alan Liddell,1,0
+scikit-learn/scikit-learn,sandeepvaday,Sandeep Yadav,1,0
+scikit-learn/scikit-learn,logc,Luis Osa,1,0
+scikit-learn/scikit-learn,rmukh,Rinat Mukhometzianov,1,0
+scikit-learn/scikit-learn,jimmywan,Jimmy Wan,3,0
+scikit-learn/scikit-learn,dmbee,David Burns,1,0
+scikit-learn/scikit-learn,aby0,Somya Anand,2,0
+scikit-learn/scikit-learn,tarcusx,,2,0
+scikit-learn/scikit-learn,DrChrisHarte,Chris Harte,1,0
+scikit-learn/scikit-learn,uzi0espil,Ousama Esbel,1,0
+scikit-learn/scikit-learn,pmlandwehr,Peter M. Landwehr,1,0
+scikit-learn/scikit-learn,Sinclert,Sinclert Pérez,1,0
+scikit-learn/scikit-learn,alvaropp,Alvaro Perez-Diaz,1,0
+scikit-learn/scikit-learn,ccatalfo,Chris Catalfo,1,0
+scikit-learn/scikit-learn,stefanv,Stefan van der Walt,3,0
+scikit-learn/scikit-learn,iArunava,Arunava,2,0
+scikit-learn/scikit-learn,asidwell,Amanda,1,0
+scikit-learn/scikit-learn,vr308,Vidhi Lalchand ,1,0
+scikit-learn/scikit-learn,thechargedneutron,Kumar Ashutosh,16,0
+scikit-learn/scikit-learn,sky88088,sky,2,0
+scikit-learn/scikit-learn,gagolews,Marek Gagolewski,1,0
+scikit-learn/scikit-learn,richford,Adam Richie-Halford,3,0
+scikit-learn/scikit-learn,dmohns,Daniel Mohns,2,0
+scikit-learn/scikit-learn,dmvieira,Diogo,1,0
+scikit-learn/scikit-learn,rotuna,Sadhana Srinivasan,1,0
+scikit-learn/scikit-learn,Zhdanovich,Kiryl,2,0
+scikit-learn/scikit-learn,danielleshwed,Danielle Shwed,1,0
+scikit-learn/scikit-learn,Derrreks,Derek,2,0
+scikit-learn/scikit-learn,saurabhg476,Saurabh Gupta,1,0
+scikit-learn/scikit-learn,mayou36,Jonas Eschle,1,0
+scikit-learn/scikit-learn,will7142,Will Rosenfeld,1,0
+scikit-learn/scikit-learn,ARK3r,Arvo Kermani,1,0
+scikit-learn/scikit-learn,martin-hahn,,2,0
+scikit-learn/scikit-learn,f0k,Jan Schlüter,2,0
+scikit-learn/scikit-learn,trishnendu,Trishnendu Ghorai,1,0
+scikit-learn/scikit-learn,artiemq,Artem Krinitsyn,3,0
+scikit-learn/scikit-learn,antquinonez,Antonio Quinonez,1,0
+scikit-learn/scikit-learn,dpstart,danielepaliotta,1,0
+scikit-learn/scikit-learn,jotasi,,8,0
+scikit-learn/scikit-learn,luispedro,Luis Pedro Coelho,5,0
+scikit-learn/scikit-learn,saqibns,Saqib Nizam Shamsi,1,0
+scikit-learn/scikit-learn,Persola,Luke Persola,1,0
+scikit-learn/scikit-learn,cperales,Carlos Perales,2,0
+scikit-learn/scikit-learn,dakl,Daniel Klevebring,1,0
+scikit-learn/scikit-learn,kkang2097,Elliot Kang,4,0
+scikit-learn/scikit-learn,pinakinathc,Pinaki Nath Chowdhury,5,0
+scikit-learn/scikit-learn,rrkarim,Rasul Karimov,3,0
+scikit-learn/scikit-learn,shivamriky,Shivam Rastogi,1,0
+scikit-learn/scikit-learn,FrankHui,,1,0
+scikit-learn/scikit-learn,uwaisiqbal,Uwais Iqbal,1,0
+scikit-learn/scikit-learn,LiAlexJ,,1,0
+scikit-learn/scikit-learn,ymazari,,1,0
+scikit-learn/scikit-learn,jb-delafosse,Jambe,4,0
+scikit-learn/scikit-learn,cwitte,,1,0
+scikit-learn/scikit-learn,nurdtechie98,Chirag Shetty,1,0
+scikit-learn/scikit-learn,syashakash,Akash Shivram,2,0
+scikit-learn/scikit-learn,hunan-rostomyan,Hunan Rostomyan,1,0
+scikit-learn/scikit-learn,Nirvan101,Nirvan,2,0
+scikit-learn/scikit-learn,cclauss,Christian Clauss,6,0
+scikit-learn/scikit-learn,jlcx,Jamie Cox,1,0
+scikit-learn/scikit-learn,martin-kokos,martin-kokos,1,0
+scikit-learn/scikit-learn,luigiDB,Luigi,1,0
+scikit-learn/scikit-learn,qmick,Jiongyan Zhang,3,0
+scikit-learn/scikit-learn,luca-s,,2,0
+scikit-learn/scikit-learn,7ayushgupta,Ayush Gupta,1,0
+scikit-learn/scikit-learn,NarineK,,5,0
+scikit-learn/scikit-learn,pgromano,Pablo Romano,1,0
+scikit-learn/scikit-learn,jwjohnson314,Jeremiah Johnson,2,0
+scikit-learn/scikit-learn,Kanatoko,Kanatoko,1,0
+scikit-learn/scikit-learn,pntemi,Ploy Temiyasathit,1,0
+scikit-learn/scikit-learn,davidpickup,David Pickup,1,0
+scikit-learn/scikit-learn,shenhanc78,Han Shen,1,0
+scikit-learn/scikit-learn,has2k1,Hassan Kibirige,1,0
+scikit-learn/scikit-learn,chris-hld,Chris Hold,1,0
+scikit-learn/scikit-learn,barrywhart,Barry Hart,2,0
+scikit-learn/scikit-learn,mabelvj,Mabel Villalba,4,0
+scikit-learn/scikit-learn,krazedkrish,Shalil Awaley,1,0
+scikit-learn/scikit-learn,srajanpaliwal,srajan paliwal,2,0
+scikit-learn/scikit-learn,ejklike,Eunji Kim,1,0
+scikit-learn/scikit-learn,jomicobasi,,1,0
+scikit-learn/scikit-learn,franzwr,Franz Wompner,1,0
+scikit-learn/scikit-learn,shivani-1521,Shivani Singh,2,0
+scikit-learn/scikit-learn,mohdsanadzakirizvi,Mohd Sanad Zaki Rizvi,1,0
+scikit-learn/scikit-learn,yimingli,Yiming (Paul) Li,1,0
+scikit-learn/scikit-learn,julien-c,Julien Chaumond,1,0
+scikit-learn/scikit-learn,nsheth12,Nihar Sheth,2,0
+scikit-learn/scikit-learn,TobiasMadsen,Tobias Madsen,1,0
+scikit-learn/scikit-learn,theriley106,Chris Lambert,1,0
+scikit-learn/scikit-learn,vnavkal,Viraj Navkal,3,0
+scikit-learn/scikit-learn,lzlarryli,Lizao Li,1,0
+scikit-learn/scikit-learn,JoshuaMeyers,,1,0
+scikit-learn/scikit-learn,sandyy08,Brian Sandoval,1,0
+scikit-learn/scikit-learn,mariceli3,,1,0
+scikit-learn/scikit-learn,TsingQAQ,Qing jixiang,1,0
+scikit-learn/scikit-learn,camilstaps,Camil Staps,1,0
+scikit-learn/scikit-learn,tttthomasssss,Thomas,3,0
+scikit-learn/scikit-learn,aniketgm,AniGMe,2,0
+scikit-learn/scikit-learn,mirca,Zé Vinícius,1,0
+scikit-learn/scikit-learn,GKjohns,kyledrogo,3,0
+scikit-learn/scikit-learn,frexvahi,Chris,1,0
+scikit-learn/scikit-learn,adelr,,1,0
+scikit-learn/scikit-learn,rajendraarora16,Rajendra arora,2,0
+scikit-learn/scikit-learn,FarahSaeed,,5,0
+scikit-learn/scikit-learn,taurandat,Tat-Dat,1,0
+scikit-learn/scikit-learn,jbearer,Jeb Bearer,1,0
+scikit-learn/scikit-learn,cbrummitt,Charlie Brummitt,6,0
+scikit-learn/scikit-learn,wallygauze,,6,0
+scikit-learn/scikit-learn,frsi,,1,0
+scikit-learn/scikit-learn,harshitkgupta,Harshit Kumar Gupta,1,0
+scikit-learn/scikit-learn,211217613,rvazquez,1,0
+scikit-learn/scikit-learn,MarkIwanchyshyn,Mark,1,0
+scikit-learn/scikit-learn,patrick1011,Patrick Olden,1,0
+scikit-learn/scikit-learn,VasLem,Vassilis Lemonidis,1,0
+scikit-learn/scikit-learn,anguswilliams91,Angus Williams,3,0
+scikit-learn/scikit-learn,jdoepfert,Jörg Döpfert,2,0
+scikit-learn/scikit-learn,keyur9,Keyur,1,0
+scikit-learn/scikit-learn,mjain-1,Megha Jain,1,0
+scikit-learn/scikit-learn,pstjohn,Peter St. John,3,0
+scikit-learn/scikit-learn,christianbraune79,Christian Braune,2,0
+scikit-learn/scikit-learn,tagomatech,tagoma,1,0
+scikit-learn/scikit-learn,rempfler,Markus Rempfler,1,0
+scikit-learn/scikit-learn,siftikha,,2,0
+scikit-learn/scikit-learn,ramanb25,Raman Bansal,1,0
+scikit-learn/scikit-learn,nzw0301,Kento Nozawa,1,0
+scikit-learn/scikit-learn,osaid-r,Osaid Rehman Nasir,2,0
+scikit-learn/scikit-learn,bodhwani,Vinit,2,0
+scikit-learn/scikit-learn,nsuh,Nathan Suh,1,0
+scikit-learn/scikit-learn,prerit912,Prerit Anwekar,1,0
+scikit-learn/scikit-learn,baswarajmamidgi,baswaraj mamidgi,1,0
+scikit-learn/scikit-learn,muayyad-alsadi,Muayyad Alsadi,1,0
+scikit-learn/scikit-learn,VinodKumarLogan,Vinod,1,0
+scikit-learn/scikit-learn,WardLT,Logan Ward,1,0
+scikit-learn/scikit-learn,apacha,Alexander Pacha,1,0
+scikit-learn/scikit-learn,dkirkby,David Kirkby,2,0
+scikit-learn/scikit-learn,the-ethan-hunt,Dhruv Apte,1,0
+scikit-learn/scikit-learn,pberkes,Pietro Berkes,2,0
+scikit-learn/scikit-learn,jinkunw,Jinkun Wang,1,0
+scikit-learn/scikit-learn,haraldschilly,Harald Schilly,1,0
+scikit-learn/scikit-learn,impaktor,Karl F,1,0
+scikit-learn/scikit-learn,dkmehrmann,Andrew Mehrmann,1,0
+scikit-learn/scikit-learn,avidale,David Dale,1,0
+scikit-learn/scikit-learn,hristog,Hristo Georgiev,2,0
+scikit-learn/scikit-learn,donigian,armen donigian,1,0
+scikit-learn/scikit-learn,huzq85,Zhenqing Hu,1,0
+scikit-learn/scikit-learn,sam09,Sam Radhakrishnan,1,0
+scikit-learn/scikit-learn,rwolst,Rob,1,0
+scikit-learn/scikit-learn,ilemhadri,,1,0
+scikit-learn/scikit-learn,sauln,Nathaniel Saul,1,0
+scikit-learn/scikit-learn,jkleint,,1,0
+scikit-learn/scikit-learn,airalcorn2,Michael A. Alcorn,3,0
+scikit-learn/scikit-learn,jncraton,Jon Craton,1,0
+scikit-learn/scikit-learn,s4chin,Sachin Kelkar,1,0
+scikit-learn/scikit-learn,lum4chi,,1,0
+scikit-learn/scikit-learn,Kyeongpil,Kyeongpil Kang,1,0
+scikit-learn/scikit-learn,mtdineen,Michael,1,0
+scikit-learn/scikit-learn,aidan-fitz,Evelyn Fitzgerald,1,0
+scikit-learn/scikit-learn,cyrusmaher,,1,0
+scikit-learn/scikit-learn,reiinakano,Reiichiro Nakano,4,0
+scikit-learn/scikit-learn,jschendel,Jeremy Schendel,2,0
+scikit-learn/scikit-learn,FindTheTruth,,1,0
+scikit-learn/scikit-learn,bucketclan,bucketclan,1,0
+scikit-learn/scikit-learn,nbmorgan,Blaine Morgan,1,0
+scikit-learn/scikit-learn,stevendbrown,Steven Brown,1,0
+scikit-learn/scikit-learn,knathanieltucker,K. Nathaniel Tucker,1,0
+scikit-learn/scikit-learn,alexryndin,Alex Ryndin,1,0
+scikit-learn/scikit-learn,ariful-khan,Ariful,1,0
+scikit-learn/scikit-learn,cpuppo,,1,0
+scikit-learn/scikit-learn,1cph93,Christian Hogan,1,0
+scikit-learn/scikit-learn,lucianocrt,Luciano Curto Pelle,1,0
+scikit-learn/scikit-learn,tutysara,tutysara,1,0
+scikit-learn/scikit-learn,SwapnilDreams100,Swapnil Parekh,1,0
+scikit-learn/scikit-learn,brettkoonce,brett koonce,1,0
+scikit-learn/scikit-learn,MrNuggelz,Joris,1,0
+scikit-learn/scikit-learn,venthur,Bastian Venthur,3,0
+scikit-learn/scikit-learn,njali2001,Li Yuan,1,0
+scikit-learn/scikit-learn,ktisha,Ekaterina Smal,1,0
+scikit-learn/scikit-learn,taylorkm,Kye Taylor,1,0
+scikit-learn/scikit-learn,vgmd,Greg Mogavero,1,0
+scikit-learn/scikit-learn,oliblum90,,2,0
+scikit-learn/scikit-learn,goncalo-rodrigues,Gonçalo Rodrigues,1,0
+scikit-learn/scikit-learn,sam-s,Sam Steingold,1,0
+scikit-learn/scikit-learn,palnabarun,Nabarun Pal,1,0
+scikit-learn/scikit-learn,kdhingra307,Karan Dhingra,1,0
+scikit-learn/scikit-learn,kbrose,Kevin Rose,1,0
+scikit-learn/scikit-learn,jondo,Robert Pollak,1,0
+scikit-learn/scikit-learn,petrushev,Baze Petrushev,2,0
+scikit-learn/scikit-learn,tobiasgaertner,,1,0
+scikit-learn/scikit-learn,felix-salfelder,felix,1,0
+scikit-learn/scikit-learn,adamgreenhall,Adam Greenhall,2,0
+scikit-learn/scikit-learn,abjer,Andreas Bjerre-Nielsen,1,0
+scikit-learn/scikit-learn,leandroleal,Leandro Leal Parente,1,0
+scikit-learn/scikit-learn,erg,Doug Coleman,15,0
+scikit-learn/scikit-learn,flennerhag,Sebastian Flennerhag,1,0
+scikit-learn/scikit-learn,jsamoocha,Jonatan Samoocha,1,0
+scikit-learn/scikit-learn,KOHAIJING,,1,0
+scikit-learn/scikit-learn,vmarkovtsev,Vadim Markovtsev,1,0
+scikit-learn/scikit-learn,rhiever,Randy Olson,3,0
+scikit-learn/scikit-learn,agitter,Anthony Gitter,2,0
+scikit-learn/scikit-learn,pasbi,,1,0
+scikit-learn/scikit-learn,liamge,Liam Geron,1,0
+scikit-learn/scikit-learn,bmcfee,Brian McFee,3,0
+scikit-learn/scikit-learn,mcgibbon,Jeremy McGibbon,1,0
+scikit-learn/scikit-learn,marcelobeckmann,Marcelo Beckmann,1,0
+scikit-learn/scikit-learn,pravarmahajan,Pravar D Mahajan,2,0
+scikit-learn/scikit-learn,lucianoviola,Luciano Viola,2,0
+scikit-learn/scikit-learn,diegodlh,Diego de la Hera,1,0
+scikit-learn/scikit-learn,herilalaina,Herilalaina Rakotoarison,13,0
+scikit-learn/scikit-learn,Attractadore,,8,0
+scikit-learn/scikit-learn,tobycheese,,1,0
+scikit-learn/scikit-learn,julesjulian,Julian Kuhlmann,1,0
+scikit-learn/scikit-learn,dallascard,Dallas Card,1,0
+scikit-learn/scikit-learn,minghui-liu,Minghui Liu,5,0
+scikit-learn/scikit-learn,ggupta01,Gaurav Gupta,1,0
+scikit-learn/scikit-learn,skrish13,Sri Krishna,1,0
+scikit-learn/scikit-learn,alanyee,Alan Yee,1,0
+scikit-learn/scikit-learn,kmike,Mikhail Korobov,28,0
+scikit-learn/scikit-learn,bmanohar16,Balakumaran Manoharan,6,0
+scikit-learn/scikit-learn,while,Vilhelm von Ehrenheim,1,0
+scikit-learn/scikit-learn,hakaa1,,1,0
+scikit-learn/scikit-learn,fcchou,Fang-Chieh Chou,1,0
+scikit-learn/scikit-learn,piotr-semenov,Piotr Semenov,1,0
+scikit-learn/scikit-learn,filipj8,,1,0
+scikit-learn/scikit-learn,JustGlowing,Giuseppe Vettigli,1,0
+scikit-learn/scikit-learn,gamebusterz,Sailesh Choyal,1,0
+scikit-learn/scikit-learn,adamklec,Adam Kleczewski,2,0
+scikit-learn/scikit-learn,clemkoa,Clement Joudet,2,0
+scikit-learn/scikit-learn,warut-vijit,Warut Vijitbenjaronk,2,0
+scikit-learn/scikit-learn,lodurality,Dmitry Petrov,5,0
+scikit-learn/scikit-learn,NickleDave,David Nicholson,3,0
+scikit-learn/scikit-learn,melgoetz,Melanie Goetz,1,0
+scikit-learn/scikit-learn,y3l2n,yulan lin,1,0
+scikit-learn/scikit-learn,IamGianluca,Gianluca Rossi,1,0
+scikit-learn/scikit-learn,AlvarHHM,,1,0
+scikit-learn/scikit-learn,brenolf,Breno Freitas,2,0
+scikit-learn/scikit-learn,TimSC,Tim Sheerman-Chase,5,0
+scikit-learn/scikit-learn,sharanry,Sharan Yalburgi,1,0
+scikit-learn/scikit-learn,gnsiva,Ganesh N Sivalingam,1,0
+scikit-learn/scikit-learn,bryanyang0528,Bryan Yang,1,0
+scikit-learn/scikit-learn,jhelie,Jean Helie,1,0
+scikit-learn/scikit-learn,hongkahjun,Kah Jun,1,0
+scikit-learn/scikit-learn,daniel-perry,Daniel Perry,1,0
+scikit-learn/scikit-learn,saetlan,,1,0
+scikit-learn/scikit-learn,tonnamb,Tonnam Balankua,1,0
+scikit-learn/scikit-learn,honestus,,1,0
+scikit-learn/scikit-learn,midinas,,2,0
+scikit-learn/scikit-learn,nickypie,Nick Hoh,1,0
+scikit-learn/scikit-learn,ruxandraburtica,Ruxandra Burtica,1,0
+scikit-learn/scikit-learn,yang-zhang,Yang Zhang,1,0
+scikit-learn/scikit-learn,heathhenley,Heath Henley,1,0
+scikit-learn/scikit-learn,gusennan,Nate Guerin,1,0
+scikit-learn/scikit-learn,k0pernicus,Antonin Carette,1,0
+scikit-learn/scikit-learn,robertwb,Robert Bradshaw,3,0
+scikit-learn/scikit-learn,Sundrique,Aleksandr Sandrovskii,2,0
+scikit-learn/scikit-learn,ldirer,Laurent Direr,8,0
+scikit-learn/scikit-learn,themrmax,,7,0
+scikit-learn/scikit-learn,SayaliGhume,Sayali Ghume,1,0
+scikit-learn/scikit-learn,mrbeann,mrbean,8,0
+scikit-learn/scikit-learn,jmargeta,Jan Margeta,1,0
+scikit-learn/scikit-learn,plagree,,1,0
+scikit-learn/scikit-learn,ClimbsRocks,Preston Parry,14,0
+scikit-learn/scikit-learn,remram44,Remi Rampin,1,0
+scikit-learn/scikit-learn,superbobry,Sergei Lebedev,4,0
+scikit-learn/scikit-learn,paulochf,Paulo Haddad,1,0
+scikit-learn/scikit-learn,chinmayapancholi13,Chinmaya Pancholi,1,0
+scikit-learn/scikit-learn,nielsenmarkus11,Mark Nielsen,2,0
+scikit-learn/scikit-learn,chrisfosterelli,Chris Foster,1,0
+scikit-learn/scikit-learn,Feretj,Feretj,1,0
+scikit-learn/scikit-learn,joernhees,Jörn Hees,1,0
+scikit-learn/scikit-learn,mlewis1729,,1,0
+scikit-learn/scikit-learn,kennedy,,1,0
+scikit-learn/scikit-learn,fujiyuu75,Yuichi Fujikawa,1,0
+scikit-learn/scikit-learn,petebachant,Pete Bachant,1,0
+scikit-learn/scikit-learn,aikinogard,Li Li,2,0
+scikit-learn/scikit-learn,craymichael,Zach,1,0
+scikit-learn/scikit-learn,rubik,Michele Lacchia,3,0
+scikit-learn/scikit-learn,jl2922,Junhao Li,1,0
+scikit-learn/scikit-learn,spicysouvlaki,William Schmitt,1,0
+scikit-learn/scikit-learn,MrMjauh,,1,0
+scikit-learn/scikit-learn,manrajgrover,Manraj Singh,1,0
+scikit-learn/scikit-learn,jaroslaw-weber,Jaroslaw Weber,1,0
+scikit-learn/scikit-learn,kolju,Lera Skrobova,1,0
+scikit-learn/scikit-learn,gregology,Gregory Clarke,2,0
+scikit-learn/scikit-learn,nikitasingh981,Nikita Singh,3,0
+scikit-learn/scikit-learn,Terryhung,terry.hung,2,0
+scikit-learn/scikit-learn,puneetmathurDS,Puneet Mathur,6,0
+scikit-learn/scikit-learn,grfiv,George Fisher,1,0
+scikit-learn/scikit-learn,chyikwei,Chyi-Kwei Yau,8,0
+scikit-learn/scikit-learn,edrogers,Ed Rogers,1,0
+scikit-learn/scikit-learn,AishwaryaRK,,3,0
+scikit-learn/scikit-learn,No-Doy,Brian A. Alfano,1,0
+scikit-learn/scikit-learn,tkamishima,Toshihiro Kamishima,3,0
+scikit-learn/scikit-learn,andreh7,,2,0
+scikit-learn/scikit-learn,mikebenfield,Michael Benfield,4,0
+scikit-learn/scikit-learn,deto,David DeTomaso,1,0
+scikit-learn/scikit-learn,aqua4,Shyngys Zhiyenbek,2,0
+scikit-learn/scikit-learn,AlexanderFabisch,Alexander Fabisch,14,0
+scikit-learn/scikit-learn,chayant,Chayant T15h,1,0
+scikit-learn/scikit-learn,iezepov,Ilya,1,0
+scikit-learn/scikit-learn,alexander-rakhlin,Alexander Rakhlin,1,0
+scikit-learn/scikit-learn,rebeccabilbro,Rebecca Bilbro,1,0
+scikit-learn/scikit-learn,nalepae,Manu NALEPA,1,0
+scikit-learn/scikit-learn,gan3sh500,Ganesh Anand,1,0
+scikit-learn/scikit-learn,jucor,Julien Cornebise,1,0
+scikit-learn/scikit-learn,csizsek,Peter Csizsek,1,0
+scikit-learn/scikit-learn,chribsen,Christian Danielsen,1,0
+scikit-learn/scikit-learn,mppaskov,Milen Paskov,1,0
+scikit-learn/scikit-learn,refluster,Koh Uehara,1,0
+scikit-learn/scikit-learn,chuber1986,Christian Huber,1,0
+scikit-learn/scikit-learn,AngeloK,neyanbhbin,1,0
+scikit-learn/scikit-learn,bottydim,Botty Dimanov,1,0
+scikit-learn/scikit-learn,MerwaneHAMADI,Merwane Hamadi,1,0
+scikit-learn/scikit-learn,lemurey,Lee Murray,1,0
+scikit-learn/scikit-learn,rmasciar,,1,0
+scikit-learn/scikit-learn,davidheryanto,David Heryanto,1,0
+scikit-learn/scikit-learn,arjunjauhari,Arjun Jauhari,1,0
+scikit-learn/scikit-learn,tboucher,Tommy Boucher,1,0
+scikit-learn/scikit-learn,weber-s,Samuël Weber/GwendalD,1,0
+scikit-learn/scikit-learn,hrjn,Harizo Rajaona,3,0
+scikit-learn/scikit-learn,Morikko,Eric Masseran,3,0
+scikit-learn/scikit-learn,hiqua,Quentin Hibon,1,0
+scikit-learn/scikit-learn,yaso9,,1,0
+scikit-learn/scikit-learn,sid-kap,Sid Kapur,2,0
+scikit-learn/scikit-learn,m1so,Michal Baumgartner,1,0
+scikit-learn/scikit-learn,Przemo10,Przemysław Dycha,1,0
+scikit-learn/scikit-learn,berndkr,Bernd Kreynen,1,0
+scikit-learn/scikit-learn,scooler,Paweł Lorek,1,0
+scikit-learn/scikit-learn,guiniol,,1,0
+scikit-learn/scikit-learn,jliu118,Jerry Liu,1,0
+scikit-learn/scikit-learn,hbertrand,Hadrien Bertrand,1,0
+scikit-learn/scikit-learn,shubham0704,Shubham Bhardwaj,5,0
+scikit-learn/scikit-learn,romikharisnawan,Romi Kharisnawan,1,0
+scikit-learn/scikit-learn,ja9harper,Janine Harper,1,0
+scikit-learn/scikit-learn,rishikksh20,Rishikesh (ऋषिकेश),14,0
+scikit-learn/scikit-learn,pzbw,Peter,1,0
+scikit-learn/scikit-learn,ViralLeadership,JAJenkins,1,0
+scikit-learn/scikit-learn,kdexd,Karan Desai,7,0
+scikit-learn/scikit-learn,leereeves,,1,0
+scikit-learn/scikit-learn,gedeck,,1,0
+scikit-learn/scikit-learn,icyblade,Yuchao Dai,1,0
+scikit-learn/scikit-learn,kahnchana,Kanchana Ranasinghe,1,0
+scikit-learn/scikit-learn,Trion129,Parminder Singh,1,0
+scikit-learn/scikit-learn,tfolkman,Tyler Folkman,1,0
+scikit-learn/scikit-learn,matthew-brett,Matthew Brett,2,0
+scikit-learn/scikit-learn,neokt,Ting Neo,1,0
+scikit-learn/scikit-learn,ekellbuch,E. Kelly Buchanan,3,0
+scikit-learn/scikit-learn,AlaaMoussawi,Alaa Moussawi,1,0
+scikit-learn/scikit-learn,shufanggeng,,1,0
+scikit-learn/scikit-learn,mehak-sachdeva,,1,0
+scikit-learn/scikit-learn,zxcvbnius,zxcvbnius,1,0
+scikit-learn/scikit-learn,ltcguthrie,Leah Guthrie,2,0
+scikit-learn/scikit-learn,EFerriss,Elizabeth Ferriss,1,0
+scikit-learn/scikit-learn,innalubman777,,1,0
+scikit-learn/scikit-learn,Ellen-Co2,,1,0
+scikit-learn/scikit-learn,Namiya,,1,0
+scikit-learn/scikit-learn,RuiyeNi,Ruiye Ni,1,0
+scikit-learn/scikit-learn,alisonspencer,Alison Spencer,1,0
+scikit-learn/scikit-learn,aabadie,Alexandre Abadie,6,0
+scikit-learn/scikit-learn,almer-t,Almer,1,0
+scikit-learn/scikit-learn,changlan,Chang Lan,1,0
+scikit-learn/scikit-learn,jorkro,Jorrit Kronjee,1,0
+scikit-learn/scikit-learn,MarcoFalke,,2,0
+scikit-learn/scikit-learn,senolakkas,Şenol AKKAŞ,1,0
+scikit-learn/scikit-learn,arthurmensch,Arthur Mensch,12,0
+scikit-learn/scikit-learn,tzano,Tahar,6,0
+scikit-learn/scikit-learn,abhyudaypratap,Abhyuday Pratap Singh,1,0
+scikit-learn/scikit-learn,dokato,,2,0
+scikit-learn/scikit-learn,drkatnz,Kat Hempstalk,1,0
+scikit-learn/scikit-learn,aashil,Aashil Patel,10,0
+scikit-learn/scikit-learn,pcasaretto,Paulo L F Casaretto,1,0
+scikit-learn/scikit-learn,iosonofabio,Fabio Zanini,1,0
+scikit-learn/scikit-learn,Neurrone,Dickson Tan,2,0
+scikit-learn/scikit-learn,MMeketon,Marc Meketon,2,0
+scikit-learn/scikit-learn,i-am-xhy,,1,0
+scikit-learn/scikit-learn,SACHIN-13,Sachin Agarwal,2,0
+scikit-learn/scikit-learn,Akshay0724,akshay0724,5,0
+scikit-learn/scikit-learn,anshbansal,Aseem Bansal,2,0
+scikit-learn/scikit-learn,vpoughon,Victor Poughon,2,0
+scikit-learn/scikit-learn,asishm,Asish Mahapatra,1,0
+scikit-learn/scikit-learn,ThatGeoGuy,Jeremy Steward,3,0
+scikit-learn/scikit-learn,HolgerPeters,Holger Peters,2,0
+scikit-learn/scikit-learn,seanpwilliams,,1,0
+scikit-learn/scikit-learn,vlasisva,----!!!----,1,0
+scikit-learn/scikit-learn,aivision2020,,1,0
+scikit-learn/scikit-learn,manu-chroma,Manvendra Singh,4,0
+scikit-learn/scikit-learn,davidrobles,David Robles,3,0
+scikit-learn/scikit-learn,wazeerzulfikar,Wazeer Zulfikar,1,0
+scikit-learn/scikit-learn,pganssle,Paul Ganssle,1,0
+scikit-learn/scikit-learn,Titan-C,Óscar Nájera,11,0
+scikit-learn/scikit-learn,takechanman1228,takeda,1,0
+scikit-learn/scikit-learn,devanshdalal,Devansh D.,4,0
+scikit-learn/scikit-learn,NickGoumas,Nick,1,0
+scikit-learn/scikit-learn,BasilBeirouti,Basil Beirouti,10,0
+scikit-learn/scikit-learn,levy5674,Josh Levy,1,0
+scikit-learn/scikit-learn,jenishah,jeni Shah,1,0
+scikit-learn/scikit-learn,kmader,Kevin Mader,1,0
+scikit-learn/scikit-learn,samsontmr,Samson Tan,1,0
+scikit-learn/scikit-learn,mdezube,Michael Dezube,1,0
+scikit-learn/scikit-learn,garyForeman,Gary Foreman,2,0
+scikit-learn/scikit-learn,nelson-liu,Nelson Liu,53,0
+scikit-learn/scikit-learn,anki08,ankita sinha,1,0
+scikit-learn/scikit-learn,kluangkote,Katie Luangkote,3,0
+scikit-learn/scikit-learn,Dorozhko-Anton,Dorozhko Anton,1,0
+scikit-learn/scikit-learn,neerajgangwar,Neeraj Gangwar,5,0
+scikit-learn/scikit-learn,lower-case,Lovekesh Garg,4,0
+scikit-learn/scikit-learn,accraze,A. Craze,1,0
+scikit-learn/scikit-learn,pjbull,Peter Bull,1,0
+scikit-learn/scikit-learn,weijianzzz,Jian Wei,1,0
+scikit-learn/scikit-learn,rougier,Nicolas P. Rougier,1,0
+scikit-learn/scikit-learn,b-carter,Brandon Carter,5,0
+scikit-learn/scikit-learn,Don86,Don Teng,3,0
+scikit-learn/scikit-learn,acadiansith,Daniel LeJeune,1,0
+scikit-learn/scikit-learn,ohld,Daniil Okhlopkov,3,0
+scikit-learn/scikit-learn,alexandercbooth,,4,0
+scikit-learn/scikit-learn,dmwinslow,Dustin,1,0
+scikit-learn/scikit-learn,chinmay0301,Chinmay Talegaonkar,1,0
+scikit-learn/scikit-learn,bradysalz,Brady Salz,1,0
+scikit-learn/scikit-learn,maka89,Aleksander,1,0
+scikit-learn/scikit-learn,TropComplique,Dan Antoshchenko,1,0
+scikit-learn/scikit-learn,bschreck,Ben Schreck,1,0
+scikit-learn/scikit-learn,xiphodon,Guo Chang,1,0
+scikit-learn/scikit-learn,rashchedrin,,1,0
+scikit-learn/scikit-learn,habi,David Haberthür,1,0
+scikit-learn/scikit-learn,ferria,Anthony Ferritto,2,0
+scikit-learn/scikit-learn,nixtish,Nitish,2,0
+scikit-learn/scikit-learn,rgommers,Ralf Gommers,4,0
+scikit-learn/scikit-learn,srivatsan-ramesh,Srivatsan Ramesh,5,0
+scikit-learn/scikit-learn,mthorrell,,2,0
+scikit-learn/scikit-learn,tomron,Tom Ron,1,0
+scikit-learn/scikit-learn,trianam,Stefano Martina,1,0
+scikit-learn/scikit-learn,pldtc325,,3,0
+scikit-learn/scikit-learn,jkarno,Josh Karnofsky,5,0
+scikit-learn/scikit-learn,theofpa,Theofilos Papapanagiotou,1,0
+scikit-learn/scikit-learn,sriranganathan,Sriranganathan,1,0
+scikit-learn/scikit-learn,t-lanigan,Tyler Lanigan,2,0
+scikit-learn/scikit-learn,willduan,,1,0
+scikit-learn/scikit-learn,DaGuich,Matthias Gilch,1,0
+scikit-learn/scikit-learn,artcg,Arthur Goldberg,1,0
+scikit-learn/scikit-learn,jeroko,,1,0
+scikit-learn/scikit-learn,garretthoffman,Garrett Hoffman,1,0
+scikit-learn/scikit-learn,mehulpatel21,Mehul Patel,1,0
+scikit-learn/scikit-learn,jbednar,James A. Bednar,1,0
+scikit-learn/scikit-learn,jmontoyam,,1,0
+scikit-learn/scikit-learn,guoci,,1,0
+scikit-learn/scikit-learn,kathyxchen,Kathy Chen,3,0
+scikit-learn/scikit-learn,sillystring13,Helene Brashear,1,0
+scikit-learn/scikit-learn,btdai,Bing Tian Dai,3,0
+scikit-learn/scikit-learn,visheshmistry,Vishesh Mistry,1,0
+scikit-learn/scikit-learn,braunmagrin,Matheus,2,0
+scikit-learn/scikit-learn,kennethjmyers,Kenneth Myers,1,0
+scikit-learn/scikit-learn,waterponey,Prosper Burq,7,0
+scikit-learn/scikit-learn,RitwikGupta,Ritwik Gupta,1,0
+scikit-learn/scikit-learn,olologin,Ibraim Ganiev,12,0
+scikit-learn/scikit-learn,kaushlakers,Kaushik Lakshmikanth,1,0
+scikit-learn/scikit-learn,iKevinY,Kevin Yap,1,0
+scikit-learn/scikit-learn,luang008,Ang Lu,1,0
+scikit-learn/scikit-learn,ditenberg,theendless219,2,0
+scikit-learn/scikit-learn,tayyabpw,,1,0
+scikit-learn/scikit-learn,absolutelyNoWarranty,,2,0
+scikit-learn/scikit-learn,varunshenoy,Varun Shenoy,1,0
+scikit-learn/scikit-learn,adervise,Kim Jihun,2,0
+scikit-learn/scikit-learn,davidgasquez,David Gasquez,1,0
+scikit-learn/scikit-learn,jstriebel,Jonathan Striebel,3,0
+scikit-learn/scikit-learn,asanakoy,Artsiom,1,0
+scikit-learn/scikit-learn,Deborah-Digges,Deborah Digges,1,0
+scikit-learn/scikit-learn,chrisorm,Chris,1,0
+scikit-learn/scikit-learn,bburns,Brian Burns,1,0
+scikit-learn/scikit-learn,caethan,Brett Olsen,1,0
+scikit-learn/scikit-learn,ljwolf,Levi John Wolf,1,0
+scikit-learn/scikit-learn,jpauwels,Johan Pauwels,1,0
+scikit-learn/scikit-learn,Kornel,Kornel Kiełczewski,4,0
+scikit-learn/scikit-learn,tomlof,Tommy Löfstedt,1,0
+scikit-learn/scikit-learn,polmauri,,1,0
+scikit-learn/scikit-learn,andrewcsmith,Andrew Smith,1,0
+scikit-learn/scikit-learn,JungeAlexander,Alexander Junge,1,0
+scikit-learn/scikit-learn,affanv14,Mohammed Affan,1,0
+scikit-learn/scikit-learn,kgilliam125,Kyle Gilliam,5,0
+scikit-learn/scikit-learn,rajhans,Rajhans Samdani,1,0
+scikit-learn/scikit-learn,mrecachinas,Michael Recachinas,1,0
+scikit-learn/scikit-learn,abatula,Alyssa Batula,3,0
+scikit-learn/scikit-learn,giorgiop,Giorgio Patrini,18,0
+scikit-learn/scikit-learn,campustrampus,,1,0
+scikit-learn/scikit-learn,alex-33,,1,0
+scikit-learn/scikit-learn,arthurdouillard,Arthur Douillard,1,0
+scikit-learn/scikit-learn,nvavrova,Nicole Vavrova,1,0
+scikit-learn/scikit-learn,gszpak,Grzegorz Szpak,2,0
+scikit-learn/scikit-learn,JPFrancoia,JPFrancoia,5,0
+scikit-learn/scikit-learn,ivallesp,Iván Vallés Pérez,1,0
+scikit-learn/scikit-learn,lynchkl,E. Lynch-Klarup,1,0
+scikit-learn/scikit-learn,KhaledTo,KBA,1,0
+scikit-learn/scikit-learn,PNR-1,Preetham Reddy,1,0
+scikit-learn/scikit-learn,elliott2081,David Elliott,1,0
+scikit-learn/scikit-learn,erikcs,Erik Sverdrup,1,0
+scikit-learn/scikit-learn,sietse,Sietse Brouwer,2,0
+scikit-learn/scikit-learn,jasmainak,Mainak Jas,1,0
+scikit-learn/scikit-learn,iabhi7,Abhishek,1,0
+scikit-learn/scikit-learn,RomainBrault,Romain Brault,1,0
+scikit-learn/scikit-learn,jtdoepke,Jaye Doepke,1,0
+scikit-learn/scikit-learn,carlsonp,Patrick Carlson,1,0
+scikit-learn/scikit-learn,Ajackster,Andrew Jackson,3,0
+scikit-learn/scikit-learn,JakenHerman,Jaken Herman,1,0
+scikit-learn/scikit-learn,iamprakashom,Om Prakash,1,0
+scikit-learn/scikit-learn,ryanpeach,Ryan Peach,1,0
+scikit-learn/scikit-learn,anandjeyahar,,1,0
+scikit-learn/scikit-learn,HashCode55,Mehul Ahuja,2,0
+scikit-learn/scikit-learn,mpjlu,"Meng, Peng",1,0
+scikit-learn/scikit-learn,fukatani,,1,0
+scikit-learn/scikit-learn,kirillbobyrev,Kirill Bobyrev,2,0
+scikit-learn/scikit-learn,hnykda,Daniel Hnyk,2,0
+scikit-learn/scikit-learn,charltonaustin,Charlton Austin,1,0
+scikit-learn/scikit-learn,fabianegli,Fabian Egli,2,0
+scikit-learn/scikit-learn,patrickpei,Patrick Pei,1,0
+scikit-learn/scikit-learn,ixjlyons,Kenneth Lyons,3,0
+scikit-learn/scikit-learn,elena-sharova,Elena Sharova,1,0
+scikit-learn/scikit-learn,StevenCHowell,Steven C. Howell,1,0
+scikit-learn/scikit-learn,fwiffo,Tom Schumm,1,0
+scikit-learn/scikit-learn,eugeneai,Evgeny Cherkashin,1,0
+scikit-learn/scikit-learn,cmoscardi,Christian Moscardi,1,0
+scikit-learn/scikit-learn,acu192,Ryan Henning,1,0
+scikit-learn/scikit-learn,ejc1,,1,0
+scikit-learn/scikit-learn,robinschucker,Robin Schucker,1,0
+scikit-learn/scikit-learn,glennq,Jiyuan Qian,3,0
+scikit-learn/scikit-learn,jamesroutley,James 明良 Routley,1,0
+scikit-learn/scikit-learn,julienaubert,Julien Aubert,1,0
+scikit-learn/scikit-learn,podshumok,Konstantin,2,0
+scikit-learn/scikit-learn,yangarbiter,,1,0
+scikit-learn/scikit-learn,hesenp,Hesen Peng,1,0
+scikit-learn/scikit-learn,ndingwall,Nick Dingwall,2,0
+scikit-learn/scikit-learn,jblackburne,,6,0
+scikit-learn/scikit-learn,rsmith54,Russell Smith,1,0
+scikit-learn/scikit-learn,anujgupta82,Anuj-Gupta,1,0
+scikit-learn/scikit-learn,saihttam,,1,0
+scikit-learn/scikit-learn,b0noI,Viacheslav Kovalevskyi,2,0
+scikit-learn/scikit-learn,hobson,Hobson Lane,1,0
+scikit-learn/scikit-learn,ronalddas,Ronald Das,1,0
+scikit-learn/scikit-learn,asnt,,2,0
+scikit-learn/scikit-learn,pat-oreilly,pat,1,0
+scikit-learn/scikit-learn,MridulS,Mridul Seth,3,0
+scikit-learn/scikit-learn,Clearlove1992,克林儿丶辣舞,1,0
+scikit-learn/scikit-learn,srvanrell,Sebastián Vanrell,2,0
+scikit-learn/scikit-learn,leighton613,LeightonZhang,1,0
+scikit-learn/scikit-learn,alexrudy,Alexander Rudy,1,0
+scikit-learn/scikit-learn,farhadGithub,,1,0
+scikit-learn/scikit-learn,nvdv,Nick Volynets,2,0
+scikit-learn/scikit-learn,lijingpeng,Frank,1,0
+scikit-learn/scikit-learn,stuppie,Gregory Stupp,2,0
+scikit-learn/scikit-learn,ceshine,CeShine Lee,2,0
+scikit-learn/scikit-learn,fabianp,Fabian Pedregosa,41,0
+scikit-learn/scikit-learn,jasonlaska,Jason Laska,1,0
+scikit-learn/scikit-learn,jessicayung,Jessica Yung,1,0
+scikit-learn/scikit-learn,indianajensen,Mads Jensen,2,0
+scikit-learn/scikit-learn,kamito300,kamito300,1,0
+scikit-learn/scikit-learn,Daetalus,Sun,1,0
+scikit-learn/scikit-learn,definitelyuncertain,,1,0
+scikit-learn/scikit-learn,shanglun,Sean Wang,1,0
+scikit-learn/scikit-learn,iver56,Iver Jordal,1,0
+scikit-learn/scikit-learn,JulianKahnert,Julian Kahnert,1,0
+scikit-learn/scikit-learn,jrfiedler,,4,0
+scikit-learn/scikit-learn,staubda,David Staub,4,0
+scikit-learn/scikit-learn,ilyaeck,Ilya Eckstein ,1,0
+scikit-learn/scikit-learn,mlliou112,,1,0
+scikit-learn/scikit-learn,samuelstjean,Samuel St-Jean,4,0
+scikit-learn/scikit-learn,neo01124,Varun Jewalikar,1,0
+scikit-learn/scikit-learn,doshyt,Igor Andriushchenko,3,0
+scikit-learn/scikit-learn,ministrike3,Neil Patel,2,0
+scikit-learn/scikit-learn,shengxiduan,,1,0
+scikit-learn/scikit-learn,fthomassy,Fern Thomassy,1,0
+scikit-learn/scikit-learn,eyc88,,1,0
+scikit-learn/scikit-learn,blakeflei,Blake Fleischer,1,0
+scikit-learn/scikit-learn,pambot,Pamela Wu,2,0
+scikit-learn/scikit-learn,juliathebrave,,1,0
+scikit-learn/scikit-learn,willingc,Carol Willing,2,0
+scikit-learn/scikit-learn,laegrim,Sam Teich,1,0
+scikit-learn/scikit-learn,dhanus,Deborah,1,0
+scikit-learn/scikit-learn,adantra,,1,0
+scikit-learn/scikit-learn,chriskaschner,Chris Kaschner,1,0
+scikit-learn/scikit-learn,wyseguy7,,1,0
+scikit-learn/scikit-learn,nateGeorge,Nate George,1,0
+scikit-learn/scikit-learn,fisache,Inki Hwang,3,0
+scikit-learn/scikit-learn,taion,Jimmy Jia,1,0
+scikit-learn/scikit-learn,gojomo,Gordon Mohr,1,0
+scikit-learn/scikit-learn,vharavu,Vikram,1,0
+scikit-learn/scikit-learn,mtzl,mtzl,1,0
+scikit-learn/scikit-learn,jannab,Janna Brettingen,1,0
+scikit-learn/scikit-learn,kwohlfahrt,Kai Wohlfahrt,1,0
+scikit-learn/scikit-learn,ben519,Ben,1,0
+scikit-learn/scikit-learn,proinsias,Francis T. O'Donovan,6,0
+scikit-learn/scikit-learn,shotat,Shota Terashita,1,0
+scikit-learn/scikit-learn,markbao,Mark Bao,1,0
+scikit-learn/scikit-learn,moutai,Moussa Taifi,3,0
+scikit-learn/scikit-learn,imaculate,Imaculate,4,0
+scikit-learn/scikit-learn,mjbommar,Michael Bommarito,13,0
+scikit-learn/scikit-learn,crodjer,Rohan Jain,1,0
+scikit-learn/scikit-learn,LeonieBorne,Léonie Borne,1,0
+scikit-learn/scikit-learn,ryanyu9,Ryan Yu,2,0
+scikit-learn/scikit-learn,lucaskolstad,Lucas Kolstad,1,0
+scikit-learn/scikit-learn,hangyao,Chris Yao,1,0
+scikit-learn/scikit-learn,yoavram,Yoav Ram,1,0
+scikit-learn/scikit-learn,jamoque,Jeremy Hintz,1,0
+scikit-learn/scikit-learn,fishcorn,Josephine Moeller,1,0
+scikit-learn/scikit-learn,krishnakalyan3,Krishna Kalyan,4,0
+scikit-learn/scikit-learn,CaMeLCa5e,Jack Martin ,4,0
+scikit-learn/scikit-learn,denadai2,Marco De Nadai,1,0
+scikit-learn/scikit-learn,Chaitya62,Chaitya Shah,1,0
+scikit-learn/scikit-learn,tswr,,1,0
+scikit-learn/scikit-learn,someuser89,Martin,1,0
+scikit-learn/scikit-learn,bernhard2202,Bernhard Kratzwald,1,0
+scikit-learn/scikit-learn,arcolife,Archit Sharma,1,0
+scikit-learn/scikit-learn,nadya-p,nadya-p,2,0
+scikit-learn/scikit-learn,jbn,John B Nelson,1,0
+scikit-learn/scikit-learn,viirya,Liang-Chi Hsieh,2,0
+scikit-learn/scikit-learn,danthedaniel,Daniel,1,0
+scikit-learn/scikit-learn,gglanzani,Giovanni Lanzani,1,0
+scikit-learn/scikit-learn,jilljenn,Jill-Jênn Vie,1,0
+scikit-learn/scikit-learn,rammig,Christian Rammig,1,0
+scikit-learn/scikit-learn,arokem,Ariel Rokem,1,0
+scikit-learn/scikit-learn,xyguo,Xiangyu,3,0
+scikit-learn/scikit-learn,yandrieiev,Yurii,1,0
+scikit-learn/scikit-learn,ellisdg,David G Ellis,1,0
+scikit-learn/scikit-learn,datamut,Datamut,1,0
+scikit-learn/scikit-learn,ztultrebor,Robert Lutz,1,0
+scikit-learn/scikit-learn,AxeldeRomblay,Axel,1,0
+scikit-learn/scikit-learn,okbalefthanded,Okba BEKHELIFI,1,0
+scikit-learn/scikit-learn,saiwing-yeung,Saiwing Yeung,2,0
+scikit-learn/scikit-learn,martinbjeldbak,Martin Bjeldbak Madsen,1,0
+scikit-learn/scikit-learn,pianomania,Ping-Yao Chang,4,0
+scikit-learn/scikit-learn,jordisoler,Jordi,1,0
+scikit-learn/scikit-learn,ssktotoro,Kevin Wang,1,0
+scikit-learn/scikit-learn,fabio-t,Fabio Ticconi,6,0
+scikit-learn/scikit-learn,tomtung,Tom Dong,1,0
+scikit-learn/scikit-learn,colin-ni,Colin Ni,2,0
+scikit-learn/scikit-learn,boechat107,Andre Boechat,1,0
+scikit-learn/scikit-learn,vlad17,Vladimir Feinberg,1,0
+scikit-learn/scikit-learn,qmaruf,Quazi Marufur Rahman,2,0
+scikit-learn/scikit-learn,hongguangguo,Jack Ma,2,0
+scikit-learn/scikit-learn,LeoErcolanelli,Léo Ercolanelli,1,0
+scikit-learn/scikit-learn,mathcass,Cass,1,0
+scikit-learn/scikit-learn,shuckle16,zane,1,0
+scikit-learn/scikit-learn,EQt,Elias Kuthe,1,0
+scikit-learn/scikit-learn,msoelch,Maximilian Soelch,1,0
+scikit-learn/scikit-learn,yamaguchiyuto,Yuto Yamaguchi,2,0
+scikit-learn/scikit-learn,EdwardBetts,Edward Betts,1,0
+scikit-learn/scikit-learn,wangtianqi1993,wangtianqi,1,0
+scikit-learn/scikit-learn,mikkelam,Mikkel Alexander Madsen,1,0
+scikit-learn/scikit-learn,tsterbak,Tobias Sterbak,2,0
+scikit-learn/scikit-learn,zivori,Ori Ziv,1,0
+scikit-learn/scikit-learn,tuevo21,Tue Vo,1,0
+scikit-learn/scikit-learn,gustavmortberg,Gustav Mörtberg,1,0
+scikit-learn/scikit-learn,davidwarshaw,Dave,1,0
+scikit-learn/scikit-learn,ericmjl,Eric Ma,1,0
+scikit-learn/scikit-learn,harishsati,thedessertcode,1,0
+scikit-learn/scikit-learn,mszep,Mark Szepieniec,1,0
+scikit-learn/scikit-learn,BioGeek,Jeroen Van Goey,1,0
+scikit-learn/scikit-learn,shanmuga-cv,shanmuga cv,1,0
+scikit-learn/scikit-learn,wmvanvliet,Marijn van Vliet,1,0
+scikit-learn/scikit-learn,chsasank,Sasank Chilamkurthy,1,0
+scikit-learn/scikit-learn,mvdoc,Matteo Visconti di Oleggio Castello,4,0
+scikit-learn/scikit-learn,Alexander-Minyushkin,Alexander Minyushkin,1,0
+scikit-learn/scikit-learn,lifuhuang,Lifu Huang,1,0
+scikit-learn/scikit-learn,jeff1evesque,Jeff Levesque,1,0
+scikit-learn/scikit-learn,facaiy,Yan Facai (颜发才),2,0
+scikit-learn/scikit-learn,andrewshir,Andrew,1,0
+scikit-learn/scikit-learn,nlathia,Neal Lathia,1,0
+scikit-learn/scikit-learn,ssaeger,Sebastian Säger,7,0
+scikit-learn/scikit-learn,practicalswift,practicalswift (Thomas J),1,0
+scikit-learn/scikit-learn,bryandeng,Boyuan Deng,4,0
+scikit-learn/scikit-learn,floriangeigl,Florian Geigl,1,0
+scikit-learn/scikit-learn,lizsz,,2,0
+scikit-learn/scikit-learn,kernc,,3,0
+scikit-learn/scikit-learn,FlorianWilhelm,Florian Wilhelm,6,0
+scikit-learn/scikit-learn,Naereen,Lilian Besson,8,0
+scikit-learn/scikit-learn,tsoonjin,Soon Jin ,1,0
+scikit-learn/scikit-learn,gasagna,Davide Lasagna,1,0
+scikit-learn/scikit-learn,Arafatk,Arafat ,1,0
+scikit-learn/scikit-learn,usopp,,1,0
+scikit-learn/scikit-learn,philipperemy,Philippe Rémy,1,0
+scikit-learn/scikit-learn,philipgura,Philip Gura,1,0
+scikit-learn/scikit-learn,clamus,Camilo Lamus,1,0
+scikit-learn/scikit-learn,chiragnagpal,Chirag Nagpal,4,0
+scikit-learn/scikit-learn,ralexx,Rob Alexander,1,0
+scikit-learn/scikit-learn,movelikeriver,,1,0
+scikit-learn/scikit-learn,shaynekang,Shayne Kang,1,0
+scikit-learn/scikit-learn,unautre,Dylan Werner-Meier,1,0
+scikit-learn/scikit-learn,radarhere,Andrew Murray,1,0
+scikit-learn/scikit-learn,AlexisMignon,Alexis Mignon,2,0
+scikit-learn/scikit-learn,galdreiman,Gal Dreiman,1,0
+scikit-learn/scikit-learn,dsquareindia,Devashish Deshpande,13,0
+scikit-learn/scikit-learn,tracer0tong,Tracer Tong,1,0
+scikit-learn/scikit-learn,rjurney,Russell Jurney,1,0
+scikit-learn/scikit-learn,alyssaq,Alyssa Quek,1,0
+scikit-learn/scikit-learn,mth4saurabh,Saurabh B,9,0
+scikit-learn/scikit-learn,rushter,Artem Golubin,1,0
+scikit-learn/scikit-learn,lericson,Ludvig Ericson,1,0
+scikit-learn/scikit-learn,joerobmunoz,,1,0
+scikit-learn/scikit-learn,gjreda,Greg Reda,1,0
+scikit-learn/scikit-learn,tshauck,Trent Hauck,1,0
+scikit-learn/scikit-learn,danielhomola,Daniel Homola,2,0
+scikit-learn/scikit-learn,kaichogami,Asish Panda,6,0
+scikit-learn/scikit-learn,gte620v,Bob Baxley,1,0
+scikit-learn/scikit-learn,pestrickland,Paul Strickland,1,0
+scikit-learn/scikit-learn,vatsg,Govin Vatsan,1,0
+scikit-learn/scikit-learn,halwai,Abhijeet Kumar,3,0
+scikit-learn/scikit-learn,IshankGulati,Ishank Gulati,8,0
+scikit-learn/scikit-learn,harrymvr,Harry Mavroforakis,2,0
+scikit-learn/scikit-learn,louridas,Panos Louridas,1,0
+scikit-learn/scikit-learn,amlankar,Amlan Kar,1,0
+scikit-learn/scikit-learn,BiaDarkia,Bia,1,0
+scikit-learn/scikit-learn,strixcuriosus,Ash Hoover,1,0
+scikit-learn/scikit-learn,NielsZeilemaker,Niels Zeilemaker,1,0
+scikit-learn/scikit-learn,webdrone,,1,0
+scikit-learn/scikit-learn,kingjr,Jean-Rémi KING,1,0
+scikit-learn/scikit-learn,jarfa,Jonathan Arfa,1,0
+scikit-learn/scikit-learn,maciejkula,Maciej Kula,2,0
+scikit-learn/scikit-learn,antoinewdg,Antoine Wendlinger,1,0
+scikit-learn/scikit-learn,RPGOne,Rosen Plamenov Raychov,4,0
+scikit-learn/scikit-learn,edwingrappin,Edwin Grappin,1,0
+scikit-learn/scikit-learn,toastedcornflakes,,4,0
+scikit-learn/scikit-learn,hugobowne,Hugo Bowne-Anderson,2,0
+scikit-learn/scikit-learn,AnishShah,Anish Shah,3,0
+scikit-learn/scikit-learn,maciejgryka,Maciek,1,0
+scikit-learn/scikit-learn,Qwasser,,1,0
+scikit-learn/scikit-learn,chezou,Aki Ariga,1,0
+scikit-learn/scikit-learn,samyhhu,,1,0
+scikit-learn/scikit-learn,mrandrewandrade,Andrew Andrade,1,0
+scikit-learn/scikit-learn,duboism,Mathieu Dubois,1,0
+scikit-learn/scikit-learn,fayeshine,Wenjian Huang,3,0
+scikit-learn/scikit-learn,mehmetbasbug,Mehmet E. Basbug,1,0
+scikit-learn/scikit-learn,IsaacHaze,,1,0
+scikit-learn/scikit-learn,suhkrish,,1,0
+scikit-learn/scikit-learn,davidthaler,David Thaler,2,0
+scikit-learn/scikit-learn,malzantot,Moustafa Alzantot,1,0
+scikit-learn/scikit-learn,zhengqm,Qimu Zheng,1,0
+scikit-learn/scikit-learn,kputnam,kputnam,2,0
+scikit-learn/scikit-learn,pmochkovitch,Mochkovitch,1,0
+scikit-learn/scikit-learn,alexloginov,Alexander Loginov,1,0
+scikit-learn/scikit-learn,mrshu,Marek Šuppa,3,0
+scikit-learn/scikit-learn,mhamilton723,Mark Hamilton,1,0
+scikit-learn/scikit-learn,lvrzhn,,1,0
+scikit-learn/scikit-learn,statwonk,Christopher Peters,1,0
+scikit-learn/scikit-learn,burneyy,Daniel,1,0
+scikit-learn/scikit-learn,ysk24ok,Yusuke Nishioka,1,0
+scikit-learn/scikit-learn,seales,Clint Seales,4,0
+scikit-learn/scikit-learn,leosartaj,Sartaj Singh,1,0
+scikit-learn/scikit-learn,jseabold,Skipper Seabold,5,0
+scikit-learn/scikit-learn,dshieble,Dan Shiebler,1,0
+scikit-learn/scikit-learn,lucasdavid,Lucas David,3,0
+scikit-learn/scikit-learn,remyleone,Rémy Léone,19,0
+scikit-learn/scikit-learn,DrDub,Pablo Duboue,1,0
+scikit-learn/scikit-learn,alexfields,,1,0
+scikit-learn/scikit-learn,kshitij10496,Kshitij Saraogi,1,0
+scikit-learn/scikit-learn,KjellSwedin,Kjell Swedin,1,0
+scikit-learn/scikit-learn,EricFalkenberg,Eric Falkenberg,1,0
+scikit-learn/scikit-learn,r0fls,Raphael Deem,1,0
+scikit-learn/scikit-learn,ekkus93,Phillip Chin,2,0
+scikit-learn/scikit-learn,mekman,Matthias Ekman,3,0
+scikit-learn/scikit-learn,mfrodl,Martin Frodl,1,0
+scikit-learn/scikit-learn,ermakovpetr,Ermakov Petr,2,0
+scikit-learn/scikit-learn,lynochka,Alina Astrakova,1,0
+scikit-learn/scikit-learn,SmedbergM,Matthew Smedberg,1,0
+scikit-learn/scikit-learn,rohanp,Rohan Pandit,1,0
+scikit-learn/scikit-learn,LeiG,Lei Gong,1,0
+scikit-learn/scikit-learn,helmanofer,Ofer Helman,1,0
+scikit-learn/scikit-learn,jonoleson,Jon Oleson,1,0
+scikit-learn/scikit-learn,justinvf-zz,Justin Vincent,5,0
+scikit-learn/scikit-learn,pwgerman,Walter G,1,0
+scikit-learn/scikit-learn,ahirner,Alexander Hirner,1,0
+scikit-learn/scikit-learn,mcculloh,Andrew,2,0
+scikit-learn/scikit-learn,welch,Will Welch,2,0
+scikit-learn/scikit-learn,pieteradejong,Peter de Jong,3,0
+scikit-learn/scikit-learn,RubyW,Ruby Wang,1,0
+scikit-learn/scikit-learn,steph-query,Steph Query,1,0
+scikit-learn/scikit-learn,JeremyNixon,Jeremy Nixon,1,0
+scikit-learn/scikit-learn,scottandrews,Scott Andrews,1,0
+scikit-learn/scikit-learn,papadopc,Chris Papadopoulos,1,0
+scikit-learn/scikit-learn,MrChristophRivera,Christopher Rivera,1,0
+scikit-learn/scikit-learn,hallr,Rob Hall,1,0
+scikit-learn/scikit-learn,lazarillo,Mike Williamson,2,0
+scikit-learn/scikit-learn,codevig,,1,0
+scikit-learn/scikit-learn,joshuacook,Joshua Cook,1,0
+scikit-learn/scikit-learn,varinf,Varun Kumar,2,0
+scikit-learn/scikit-learn,alvarouc,Alvaro Ulloa,1,0
+scikit-learn/scikit-learn,vruusmann,Villu Ruusmann,1,0
+scikit-learn/scikit-learn,pkch,Max,1,0
+scikit-learn/scikit-learn,aakashjain,Aakash Jain,1,0
+scikit-learn/scikit-learn,sshkhr,Shashank Shekhar,1,0
+scikit-learn/scikit-learn,mkurnikov,Maksim Kurnikov,1,0
+scikit-learn/scikit-learn,bhargav,Bhargav Mangipudi,3,0
+scikit-learn/scikit-learn,taranjeet,Taranjeet Singh,1,0
+scikit-learn/scikit-learn,ethanwhite,Ethan White (he/him),2,0
+scikit-learn/scikit-learn,alvations,,1,0
+scikit-learn/scikit-learn,hdmetor,,1,0
+scikit-learn/scikit-learn,AlexandreAbraham,Alexandre Abraham,5,0
+scikit-learn/scikit-learn,shawpan,Akiz Uddin Ahmed,2,0
+scikit-learn/scikit-learn,ziky90,Jan Zikes,1,0
+scikit-learn/scikit-learn,gclenaghan,Graham Clenaghan,3,0
+scikit-learn/scikit-learn,equialgo,Stijn Tonk,1,0
+scikit-learn/scikit-learn,ElDeveloper,Yoshiki Vázquez Baeza,2,0
+scikit-learn/scikit-learn,mscherer,,1,0
+scikit-learn/scikit-learn,preddy5,Pradyumna Reddy Chinthala,2,0
+scikit-learn/scikit-learn,sumitbinnani,Sumit Binnani,1,0
+scikit-learn/scikit-learn,rsteca,rsteca,1,0
+scikit-learn/scikit-learn,antialias,Thomas Hallock,2,0
+scikit-learn/scikit-learn,TTRh,Pierre Houssin,1,0
+scikit-learn/scikit-learn,akanehira,,1,0
+scikit-learn/scikit-learn,sotlampr,Sotiris Lamprinidis,3,0
+scikit-learn/scikit-learn,ariddell,Allen Riddell,3,0
+scikit-learn/scikit-learn,Mbompr,Martin,2,0
+scikit-learn/scikit-learn,ltiao,Louis Tiao,4,0
+scikit-learn/scikit-learn,jpopham91,Jake Popham,1,0
+scikit-learn/scikit-learn,ainafp,Aina Frau-Pascual,1,0
+scikit-learn/scikit-learn,pletelli,Perrine L.,3,0
+scikit-learn/scikit-learn,RachitKansal,Rachit Kansal,1,0
+scikit-learn/scikit-learn,adijo,Aditya Joshi,1,0
+scikit-learn/scikit-learn,edublancas,Eduardo Blancas,1,0
+scikit-learn/scikit-learn,achab,massil,2,0
+scikit-learn/scikit-learn,MaryanMorel,Maryan,2,0
+scikit-learn/scikit-learn,Jeffrey04,Choon-Siang Lai,1,0
+scikit-learn/scikit-learn,deepcharles,Charles T.,1,0
+scikit-learn/scikit-learn,shagunsodhani,Shagun Sodhani,1,0
+scikit-learn/scikit-learn,kwgoodman,,3,0
+scikit-learn/scikit-learn,black-puppydog,Daan Wynen,1,0
+scikit-learn/scikit-learn,trianta2,,1,0
+scikit-learn/scikit-learn,map222,Michael Patterson,1,0
+scikit-learn/scikit-learn,ndv,,2,0
+scikit-learn/scikit-learn,ylow,Yucheng Low,1,0
+scikit-learn/scikit-learn,joshloyal,Joshua Loyal,3,0
+scikit-learn/scikit-learn,JohnBoersma,,1,0
+scikit-learn/scikit-learn,rrohan,Rohan Ramanath,1,0
+scikit-learn/scikit-learn,dubstack,Buddh Prakash,3,0
+scikit-learn/scikit-learn,samzhang111,Sam Zhang,2,0
+scikit-learn/scikit-learn,nicodv,Nico de Vos,1,0
+scikit-learn/scikit-learn,carrillo,Fernando Carrillo Oesterreich,2,0
+scikit-learn/scikit-learn,jereze,Jeremy Greze,1,0
+scikit-learn/scikit-learn,JeanKossaifi,Jean Kossaifi,10,0
+scikit-learn/scikit-learn,tdhopper,Tim Hopper,1,0
+scikit-learn/scikit-learn,andylamb,Andrew Lamb,4,0
+scikit-learn/scikit-learn,hasancansaral,Hasan Can Saral,2,0
+scikit-learn/scikit-learn,terrytangyuan,Yuan Tang,1,0
+scikit-learn/scikit-learn,Clyde-fare,Clyde,1,0
+scikit-learn/scikit-learn,jonathanng,JPN,1,0
+scikit-learn/scikit-learn,mooz,Masafumi Oyamada,1,0
+scikit-learn/scikit-learn,nrhine1,Nick Rhinehart,1,0
+scikit-learn/scikit-learn,garbas,Rok Garbas,2,0
+scikit-learn/scikit-learn,acganesh,Adi Ganesh,1,0
+scikit-learn/scikit-learn,vstolbunov,Valentin Stolbunov,1,0
+scikit-learn/scikit-learn,christophebourguignat,Christophe Bourguignat,4,0
+scikit-learn/scikit-learn,jackzhang84,,1,0
+scikit-learn/scikit-learn,stylianos-kampakis,s_kampakis,1,0
+scikit-learn/scikit-learn,sdvillal,Santi Villalba,1,0
+scikit-learn/scikit-learn,phdowling,Philipp Dowling,1,0
+scikit-learn/scikit-learn,NoonienSoong,Nicholaus Jackson,5,0
+scikit-learn/scikit-learn,michigraber,,1,0
+scikit-learn/scikit-learn,merritts,Sears Merritt,1,0
+scikit-learn/scikit-learn,ephes,Jochen Wersdörfer,5,0
+scikit-learn/scikit-learn,kylerbrown,Kyler Brown,1,0
+scikit-learn/scikit-learn,kyu999,kyu999,1,0
+scikit-learn/scikit-learn,fzalkow,Frank Zalkow,1,0
+scikit-learn/scikit-learn,maheshakya,Maheshakya Wijewardena,16,0
+scikit-learn/scikit-learn,pv,Pauli Virtanen,1,0
+scikit-learn/scikit-learn,jayflo,Jaret,1,0
+scikit-learn/scikit-learn,terkkila,Timo Erkkilä,1,0
+scikit-learn/scikit-learn,vermouthmjl,Jiali Mei,1,0
+scikit-learn/scikit-learn,andrewgiessel,andrew giessel,1,0
+scikit-learn/scikit-learn,jdwittenauer,John Wittenauer,1,0
+scikit-learn/scikit-learn,joewreschnig,Joe Wreschnig,1,0
+scikit-learn/scikit-learn,ubieting,TingLee,2,0
+scikit-learn/scikit-learn,abhishekkrthakur,abhishek thakur,5,0
+scikit-learn/scikit-learn,tokoroten,tokoroten,3,0
+scikit-learn/scikit-learn,marktab,MarkTab marktab.net,1,0
+scikit-learn/scikit-learn,yanlend,Peter Fischer,4,0
+scikit-learn/scikit-learn,simon-pepin,Simon Pepin Lehalleur,2,0
+scikit-learn/scikit-learn,jkarnows,Jeremy Karnowski,1,0
+scikit-learn/scikit-learn,donnemartin,Donne Martin,1,0
+scikit-learn/scikit-learn,uatach,edson duarte,1,0
+scikit-learn/scikit-learn,dotsdl,David Dotson,2,0
+scikit-learn/scikit-learn,aupiff,Roy Blankman,2,0
+scikit-learn/scikit-learn,lazywei,Chih-Wei (Bert) Chang,4,0
+scikit-learn/scikit-learn,mrphilroth,Phil Roth,3,0
+scikit-learn/scikit-learn,vinc456,,1,0
+scikit-learn/scikit-learn,mkrump,Matt Krump,1,0
+scikit-learn/scikit-learn,nealchau,Neal C,1,0
+scikit-learn/scikit-learn,ankurankan,Ankur Ankan,1,0
+scikit-learn/scikit-learn,shopetan,Shopetan,1,0
+scikit-learn/scikit-learn,zyrikby,Yury Zhauniarovich,1,0
+scikit-learn/scikit-learn,thvasilo,Theodore Vasiloudis,1,0
+scikit-learn/scikit-learn,rbahumi,,1,0
+scikit-learn/scikit-learn,benjaminirving,Benjamin Irving,1,0
+scikit-learn/scikit-learn,ejcaropr,,1,0
+scikit-learn/scikit-learn,ryadzenine,Ryad ZENINE,4,0
+scikit-learn/scikit-learn,henridwyer,Henri Dwyer,1,0
+scikit-learn/scikit-learn,prhbrt,Herbert,1,0
+scikit-learn/scikit-learn,twangnyc,Tian Wang,5,0
+scikit-learn/scikit-learn,sonnyhu,Nullspace,3,0
+scikit-learn/scikit-learn,mr0re1,Ivan Orlov,1,0
+scikit-learn/scikit-learn,opahk,Frank C. Schuetz,1,0
+scikit-learn/scikit-learn,Carldeboer,Carl de Boer,1,0
+scikit-learn/scikit-learn,kronosapiens,Daniel Kronovet,1,0
+scikit-learn/scikit-learn,pjknkda,Jungkook Park,1,0
+scikit-learn/scikit-learn,lbillingham,Laurence Billingham,2,0
+scikit-learn/scikit-learn,jaidevd,Jaidev Deshpande,1,0
+scikit-learn/scikit-learn,sornars,Shivan Sornarajah,1,0
+scikit-learn/scikit-learn,xuewei4d,Wei Xue,8,0
+scikit-learn/scikit-learn,llllllllll,Joe Jevnik,1,0
+scikit-learn/scikit-learn,martinosorb,Martino Sorbaro,1,0
+scikit-learn/scikit-learn,alexeygrigorev,Alexey Grigorev,1,0
+scikit-learn/scikit-learn,tiagofrepereira2012,Tiago Freitas Pereira,1,0
+scikit-learn/scikit-learn,y0ast,Joost van Amersfoort,2,0
+scikit-learn/scikit-learn,ajschumacher,Aaron Schumacher,7,0
+scikit-learn/scikit-learn,Spikhalskiy,,1,0
+scikit-learn/scikit-learn,BigCrunsh,Christoph Sawade,1,0
+scikit-learn/scikit-learn,kianho,,2,0
+scikit-learn/scikit-learn,zacstewart,Zac Stewart,1,0
+scikit-learn/scikit-learn,owengbs,,1,0
+scikit-learn/scikit-learn,MAnyKey,Maxim Kolganov,1,0
+scikit-learn/scikit-learn,andosa,Ando Saabas,2,0
+scikit-learn/scikit-learn,scls19fr,Sébastien Celles,1,0
+scikit-learn/scikit-learn,Aerlinger,Anthony,1,0
+scikit-learn/scikit-learn,sdegryze,Steven De Gryze,2,0
+scikit-learn/scikit-learn,SnakeHunt2012,Jingwen HUANG,1,0
+scikit-learn/scikit-learn,christophesaintjean,Christophe Saint-Jean,1,0
+scikit-learn/scikit-learn,sseg,Steven Seguin,3,0
+scikit-learn/scikit-learn,jfraj,Jean-Francois Rajotte,3,0
+scikit-learn/scikit-learn,ibayer,,20,0
+scikit-learn/scikit-learn,cangermueller,Christof Angermueller,5,0
+scikit-learn/scikit-learn,clorenz7,Cory Lorenz,2,0
+scikit-learn/scikit-learn,jrings,Joerg Rings,2,0
+scikit-learn/scikit-learn,thedrow,Omer Katz,3,0
+scikit-learn/scikit-learn,mspacek,Martin Spacek,2,0
+scikit-learn/scikit-learn,hsuantien,Hsuan-Tien Lin,1,0
+scikit-learn/scikit-learn,zhaipro,宅教授,3,0
+scikit-learn/scikit-learn,sinhrks,Sinhrks,2,0
+scikit-learn/scikit-learn,mheilman,Michael Heilman,1,0
+scikit-learn/scikit-learn,rswezey,Robin Swezey,1,0
+scikit-learn/scikit-learn,timvg80,Tim Vivian-Griffiths,1,0
+scikit-learn/scikit-learn,kshmelkov,Konstantin Shmelkov,1,0
+scikit-learn/scikit-learn,baharev,Ali Baharev,1,0
+scikit-learn/scikit-learn,cgohlke,Christoph Gohlke,5,0
+scikit-learn/scikit-learn,pprett,Peter Prettenhofer,49,0
+scikit-learn/scikit-learn,hzpc-joostk,Joost Kranendonk,1,0
+scikit-learn/scikit-learn,mbatchkarov,Miroslav Batchkarov,6,0
+scikit-learn/scikit-learn,hhchen1105,,1,0
+scikit-learn/scikit-learn,gwulfs,Gideon Wulfsohn,3,0
+scikit-learn/scikit-learn,akitty,,1,0
+scikit-learn/scikit-learn,saketkc,Saket Choudhary,5,0
+scikit-learn/scikit-learn,dan-blanchard,Dan Blanchard,2,0
+scikit-learn/scikit-learn,DonBeo,DonBeo,1,0
+scikit-learn/scikit-learn,alexsavio,alexsavio,2,0
+scikit-learn/scikit-learn,arimbr,Ari Bajo,1,0
+scikit-learn/scikit-learn,josephlewis42,Joseph Lewis III,1,0
+scikit-learn/scikit-learn,bendavies,Ben Davies,1,0
+scikit-learn/scikit-learn,sotte,Stefan Otte,1,0
+scikit-learn/scikit-learn,mehdidc,Mehdi Cherti,3,0
+scikit-learn/scikit-learn,martin0258,Martin,2,0
+scikit-learn/scikit-learn,ugurcaliskan,Ugur Caliskan,2,0
+scikit-learn/scikit-learn,terrycojones,Terry Jones,1,0
+scikit-learn/scikit-learn,kyleabeauchamp,Kyle Beauchamp,8,0
+scikit-learn/scikit-learn,eamartin,Eric Martin,1,0
+scikit-learn/scikit-learn,hannawallach,Hanna Wallach,1,0
+scikit-learn/scikit-learn,hbredin,Hervé BREDIN,2,0
+scikit-learn/scikit-learn,Celeo,Matt Boulanger,1,0
+scikit-learn/scikit-learn,Flimm,David D Lowe,1,0
+scikit-learn/scikit-learn,Hasil-Sharma,Hasil Sharma,1,0
+scikit-learn/scikit-learn,gitter-badger,The Gitter Badger,1,0
+scikit-learn/scikit-learn,Treora,Gerben,1,0
+scikit-learn/scikit-learn,miniyou,Hampus Bengtsson,1,0
+scikit-learn/scikit-learn,fluctuation,Bo WANG,1,0
+scikit-learn/scikit-learn,nadersoliman,Nader Soliman,1,0
+scikit-learn/scikit-learn,MMKrell,Mario Michael Krell,1,0
+scikit-learn/scikit-learn,aflaxman,Abraham Flaxman,3,0
+scikit-learn/scikit-learn,hsalamin,Hugues Salamin,1,0
+scikit-learn/scikit-learn,cathydeng,Cathy Deng,1,0
+scikit-learn/scikit-learn,MSusik,Mateusz Susik,1,0
+scikit-learn/scikit-learn,scharron,,3,0
+scikit-learn/scikit-learn,seowyanyi,Seow Yan Yi,2,0
+scikit-learn/scikit-learn,akshayah3,Akshay,10,0
+scikit-learn/scikit-learn,jjhelmus,Jonathan J. Helmus,1,0
+scikit-learn/scikit-learn,0x0L,nullptr,4,0
+scikit-learn/scikit-learn,wujiang,Wu Jiang,1,0
+scikit-learn/scikit-learn,irogerthat,Brian Keiseler ,1,0
+scikit-learn/scikit-learn,pratapvardhan,Pratap Vardhan,1,0
+scikit-learn/scikit-learn,tomazc,Tomaž Curk,1,0
+scikit-learn/scikit-learn,galv,Daniel Galvez,1,0
+scikit-learn/scikit-learn,nathankallus,,1,0
+scikit-learn/scikit-learn,lmichelbacher,Lukas Michelbacher,2,0
+scikit-learn/scikit-learn,wadawson,Will Dawson,1,0
+scikit-learn/scikit-learn,walid-shalaby,Walid Shalaby,1,0
+scikit-learn/scikit-learn,cemoody,Christopher Erick Moody,1,0
+scikit-learn/scikit-learn,sylvinus,Sylvain Zimmer,2,0
+scikit-learn/scikit-learn,ClashTheBunny,Randall Mason,1,0
+scikit-learn/scikit-learn,DanielSidhion,,1,0
+scikit-learn/scikit-learn,hammer,Jeff Hammerbacher,2,0
+scikit-learn/scikit-learn,ofercoq,Olivier Fercoq,1,0
+scikit-learn/scikit-learn,imkevinyang,,1,0
+scikit-learn/scikit-learn,justhalf,Aldrian Obaja,2,0
+scikit-learn/scikit-learn,dblalock,,1,0
+scikit-learn/scikit-learn,dsullivan7,Danny Sullivan,17,0
+scikit-learn/scikit-learn,sethdandridge,Seth Dandridge,1,0
+scikit-learn/scikit-learn,ppuggioni,,3,0
+scikit-learn/scikit-learn,Lothiraldan, Boris Feld,1,0
+scikit-learn/scikit-learn,jlopezpena,,4,0
+scikit-learn/scikit-learn,tvarvadoukas,Theo Varvadoukas,1,0
+scikit-learn/scikit-learn,dfletchermaths,,1,0
+scikit-learn/scikit-learn,zeppe,Giuseppe Passino,2,0
+scikit-learn/scikit-learn,ThomasDelteil,Thomas Delteil,1,0
+scikit-learn/scikit-learn,a4tunado,Vyacheslav Murashkin,2,0
+scikit-learn/scikit-learn,fannix,Meng Xinfan,8,0
+scikit-learn/scikit-learn,dimazest,Dmitrijs Milajevs,1,0
+scikit-learn/scikit-learn,jdcaballerov,,1,0
+scikit-learn/scikit-learn,isms,Isaac Slavitt,1,0
+scikit-learn/scikit-learn,borjaayerdi,Borja Ayerdi,1,0
+scikit-learn/scikit-learn,snuderl,Blaž Šnuderl,1,0
+scikit-learn/scikit-learn,Alexander-N,Alexander Niederbühl,2,0
+scikit-learn/scikit-learn,nicolamontecchio,Nicola Montecchio,1,0
+scikit-learn/scikit-learn,cmd-ntrf,Félix-Antoine Fortin,5,0
+scikit-learn/scikit-learn,Tafkas,Christian Stade-Schuldt,2,0
+scikit-learn/scikit-learn,SaurabhJha,Saurabh Jha,3,0
+scikit-learn/scikit-learn,djoffrey,Joffrey,1,0
+scikit-learn/scikit-learn,spitz-dan-l,,1,0
+scikit-learn/scikit-learn,Garrett-R,Garrett Reynolds,1,0
+scikit-learn/scikit-learn,agileminor,Ian Gilmore,2,0
+scikit-learn/scikit-learn,jiayiliu,Jiayi (Jason) Liu,1,0
+scikit-learn/scikit-learn,ndawe,Noel Dawe,16,0
+scikit-learn/scikit-learn,cocuh,cocuh ,1,0
+scikit-learn/scikit-learn,mlopezantequera,Manuel López Antequera,1,0
+scikit-learn/scikit-learn,wlamond,Will Lamond,2,0
+scikit-learn/scikit-learn,BrianLondon,Brian London,2,0
+scikit-learn/scikit-learn,MattpSoftware,Matt Pico,1,0
+scikit-learn/scikit-learn,floydwch,floydwch,1,0
+scikit-learn/scikit-learn,mrterry,Matt Terry,1,0
+scikit-learn/scikit-learn,Qiucode,,1,0
+scikit-learn/scikit-learn,hamiltonkibbe,Hamilton Kibbe,1,0
+scikit-learn/scikit-learn,danfrankj,Daniel Frank,1,0
+scikit-learn/scikit-learn,nathanathan,Nathan Breit,1,0
+scikit-learn/scikit-learn,esc,esc,2,0
+scikit-learn/scikit-learn,mkneierV,Michael Kneier,1,0
+scikit-learn/scikit-learn,wangz10,Zichen Wang,1,0
+scikit-learn/scikit-learn,s8wu,,1,0
+scikit-learn/scikit-learn,Magellanea,,1,0
+scikit-learn/scikit-learn,kain88-de,Max Linke,1,0
+scikit-learn/scikit-learn,calvingiles,Calvin Giles,1,0
+scikit-learn/scikit-learn,oddskool,Eustache,7,0
+scikit-learn/scikit-learn,rahiel,Rahiel Kasim,1,0
+scikit-learn/scikit-learn,hamsal,Hamzeh Alsalhi,10,0
+scikit-learn/scikit-learn,tejesh0,tejesh p,1,0
+scikit-learn/scikit-learn,AndrewWalker,Andrew Walker,1,0
+scikit-learn/scikit-learn,kaicheng,Kaicheng Zhang,1,0
+scikit-learn/scikit-learn,SamStudio8,Sam Nicholls,1,0
+scikit-learn/scikit-learn,makokal,Billy,1,0
+scikit-learn/scikit-learn,jatinshah,Jatin Shah,2,0
+scikit-learn/scikit-learn,jonathanronen,Jona,1,0
+scikit-learn/scikit-learn,cbrnr,Clemens Brunner,3,0
+scikit-learn/scikit-learn,jld23,Jared,1,0
+scikit-learn/scikit-learn,furukama,Benedikt Koehler,1,0
+scikit-learn/scikit-learn,rafacarrascosa,Rafael Carrascosa,3,0
+scikit-learn/scikit-learn,kastnerkyle,Kyle Kastner,10,0
+scikit-learn/scikit-learn,freud14,Frédérik Paradis,1,0
+scikit-learn/scikit-learn,pvnguyen,Phuong Nguyen,1,0
+scikit-learn/scikit-learn,MatKallada,Mat Kallada,1,0
+scikit-learn/scikit-learn,RolT,Roland Thiolliere,2,0
+scikit-learn/scikit-learn,gchers,Giovanni Cherubin,1,0
+scikit-learn/scikit-learn,brentp,Brent Pedersen,1,0
+scikit-learn/scikit-learn,stevetjoa,Steve Tjoa,1,0
+scikit-learn/scikit-learn,yelite,Lite Ye,1,0
+scikit-learn/scikit-learn,houbysoft,Jan Dlabal,2,0
+scikit-learn/scikit-learn,chatcannon,Chris Kerr,1,0
+scikit-learn/scikit-learn,lmatthieu,Matthieu Lagacherie,1,0
+scikit-learn/scikit-learn,MatthieuBizien,Matthieu Bizien,1,0
+scikit-learn/scikit-learn,ihaque,Imran Haque,5,0
+scikit-learn/scikit-learn,pignacio,Ignacio Rossi,2,0
+scikit-learn/scikit-learn,gatagat,Tomas Kazmar,2,0
+scikit-learn/scikit-learn,adarob,Adam Roberts,1,0
+scikit-learn/scikit-learn,ami-GS,Daiki AMINAKA,1,0
+scikit-learn/scikit-learn,afshinrahimi,Afshin Rahimi,1,0
+scikit-learn/scikit-learn,FedericoV,Federico Vaggi,5,0
+scikit-learn/scikit-learn,ilam,Ilambharathi Kanniah,4,0
+scikit-learn/scikit-learn,wgyn,Ryan Wang,1,0
+scikit-learn/scikit-learn,logicmd,Kevin Tong,1,0
+scikit-learn/scikit-learn,argriffing,,1,0
+scikit-learn/scikit-learn,rphlypo,Ronald PHLYPO,2,0
+scikit-learn/scikit-learn,chicham,chicham,1,0
+scikit-learn/scikit-learn,laurentluce,Laurent Luce,1,0
+scikit-learn/scikit-learn,JelleZijlstra,Jelle Zijlstra,1,0
+scikit-learn/scikit-learn,besser82,Björn Esser,1,0
+scikit-learn/scikit-learn,apw,Amos Waterland,1,0
+scikit-learn/scikit-learn,andrewclegg,Andrew Clegg,1,0
+scikit-learn/scikit-learn,aboSamoor,RAMI ALRFOU,1,0
+scikit-learn/scikit-learn,mmaker,Michele Orrù,1,0
+scikit-learn/scikit-learn,YS-L,Liau Yung Siang,2,0
+scikit-learn/scikit-learn,filthysocks,,2,0
+scikit-learn/scikit-learn,isakjovic,,1,0
+scikit-learn/scikit-learn,zarch,Pietro,1,0
+scikit-learn/scikit-learn,rajatkhanduja,Rajat Khanduja,2,0
+scikit-learn/scikit-learn,munk,John Downs,1,0
+scikit-learn/scikit-learn,t-pfaff,Tobias Pfaff,1,0
+scikit-learn/scikit-learn,jrouly,Michel Rouly,1,0
+scikit-learn/scikit-learn,rmcgibbo,Robert T. McGibbon,4,0
+scikit-learn/scikit-learn,mrene,Mathieu Rene,1,0
+scikit-learn/scikit-learn,alexis-mignon,Alexis Mignon,4,0
+scikit-learn/scikit-learn,hxu,Han Xu,1,0
+scikit-learn/scikit-learn,corydolphin,Cory Dolphin,1,0
+scikit-learn/scikit-learn,MikhailStartsev,Mikhail Startsev,1,0
+scikit-learn/scikit-learn,ash211,Andrew Ash,1,0
+scikit-learn/scikit-learn,msalahi,,4,0
+scikit-learn/scikit-learn,fridiculous,Simon Frid,1,0
+scikit-learn/scikit-learn,mdbecker,Michael Becker,3,0
+scikit-learn/scikit-learn,raulgarreta,Raul Garreta,1,0
+scikit-learn/scikit-learn,sdenton4,tom denton,2,0
+scikit-learn/scikit-learn,denisgarci,Denis,1,0
+scikit-learn/scikit-learn,chalmerlowe,Chalmer Lowe,1,0
+scikit-learn/scikit-learn,jess010,,1,0
+scikit-learn/scikit-learn,dougvk,dougvk,1,0
+scikit-learn/scikit-learn,PeterJacob,Peter Smit,1,0
+scikit-learn/scikit-learn,raynald,Raynald Chung,1,0
+scikit-learn/scikit-learn,griffinmyers,Will Myers,1,0
+scikit-learn/scikit-learn,danstowell,,1,0
+scikit-learn/scikit-learn,naught101,,1,0
+scikit-learn/scikit-learn,ahojnnes,Johannes Schönberger,6,0
+scikit-learn/scikit-learn,fareshedayati,Fares Hedayati,1,0
+scikit-learn/scikit-learn,justpic,justpic.org,1,0
+scikit-learn/scikit-learn,l00pen,Lovisa Skeppe,1,0
+scikit-learn/scikit-learn,d42,,1,0
+scikit-learn/scikit-learn,ajtulloch,Andrew Tulloch,6,0
+scikit-learn/scikit-learn,Oscarlsson,Oscar Carlsson,1,0
+scikit-learn/scikit-learn,dhawaljoh,Dhawal Joharapurkar,1,0
+scikit-learn/scikit-learn,kevinpCroat,Kevin P,1,0
+scikit-learn/scikit-learn,yoni,Yoni Ben-Meshulam,1,0
+scikit-learn/scikit-learn,csytracy,,2,0
+scikit-learn/scikit-learn,pmandera,Paweł Mandera,1,0
+scikit-learn/scikit-learn,chrisgorgo,Chris Gorgolewski,1,0
+scikit-learn/scikit-learn,RWalecki,Robert Walecki,2,0
+scikit-learn/scikit-learn,jperla,Joseph Perla,1,0
+scikit-learn/scikit-learn,mih,Michael Hanke,1,0
+scikit-learn/scikit-learn,sciunto,François Boulogne,1,0
+scikit-learn/scikit-learn,eltermann,Felipe Eltermann,8,0
+scikit-learn/scikit-learn,ameasure,Alexander Measure,1,0
+scikit-learn/scikit-learn,zyv,Yury V. Zaytsev,2,0
+scikit-learn/scikit-learn,ronvohra,Raunaq Vohra,1,0
+scikit-learn/scikit-learn,earino,E. Ariño de la Rubia,1,0
+scikit-learn/scikit-learn,VirgileFritsch,Virgile Fritsch,9,0
+scikit-learn/scikit-learn,h10r,Hendrik,1,0
+scikit-learn/scikit-learn,bryan-lunt,Bryan Lunt,1,0
+scikit-learn/scikit-learn,arahuja,Arun Ahuja,1,0
+scikit-learn/scikit-learn,ankit-maverick,Ankit Agrawal,3,0
+scikit-learn/scikit-learn,charlescearl,Charles Earl,1,0
+scikit-learn/scikit-learn,lgarrison,Lehman Garrison,1,0
+scikit-learn/scikit-learn,cli248,Chen Liu,2,0
+scikit-learn/scikit-learn,romaniukm,Michal Romaniuk,2,0
+scikit-learn/scikit-learn,HapeMask,Gabe Schwartz,1,0
+scikit-learn/scikit-learn,blagarde,Baptiste Lagarde,4,0
+scikit-learn/scikit-learn,DanielWeitzenfeld,Dan,1,0
+scikit-learn/scikit-learn,stefan-w,,1,0
+scikit-learn/scikit-learn,jaquesgrobler,Jaques Grobler,75,0
+scikit-learn/scikit-learn,sergiopasra,Sergio Pascual,3,0
+scikit-learn/scikit-learn,ai8rahim,Ahmed Ibrahim,1,0
+scikit-learn/scikit-learn,eloj,Eddy L O Jansson,1,0
+scikit-learn/scikit-learn,eshilts,Erik Shilts,3,0
+scikit-learn/scikit-learn,satra,Satrajit Ghosh,10,0
+scikit-learn/scikit-learn,jeff-mettel,Jeff Mettel,1,0
+scikit-learn/scikit-learn,likang7,LK,3,0
+scikit-learn/scikit-learn,arpangarg,,1,0
+scikit-learn/scikit-learn,bicycle1885,Kenta Sato,1,0
+scikit-learn/scikit-learn,simomo,,1,0
+scikit-learn/scikit-learn,AndreaCatalucci,Andrea Catalucci,1,0
+scikit-learn/scikit-learn,Melevir,Ilya Lebedev,1,0
+scikit-learn/scikit-learn,trein,Guilherme Trein,1,0
+scikit-learn/scikit-learn,czxcjx,Zhan Xiong Chin,1,0
+scikit-learn/scikit-learn,josericardo,José Ricardo,1,0
+scikit-learn/scikit-learn,dubourg,,3,0
+scikit-learn/scikit-learn,ilblackdragon,Illia Polosukhin,2,0
+scikit-learn/scikit-learn,craigdsthompson,Craig Thompson,1,0
+scikit-learn/scikit-learn,whoisnanli,Nan Li,1,0
+scikit-learn/scikit-learn,bdkearns,Brian Kearns,2,0
+scikit-learn/scikit-learn,djv,Daniel Velkov,3,0
+scikit-learn/scikit-learn,edran,Nantas Nardelli,1,0
+scikit-learn/scikit-learn,vijaykramesh,Vijay Ramesh,1,0
+scikit-learn/scikit-learn,schwarty,,5,0
+scikit-learn/scikit-learn,Jorge-C,Jorge Cañardo Alastuey,1,0
+scikit-learn/scikit-learn,lpierron,,1,0
+scikit-learn/scikit-learn,StevenMaude,Steven Maude,3,0
+scikit-learn/scikit-learn,hadsed,Hadayat Seddiqi,1,0
+scikit-learn/scikit-learn,AndreaBravi,Andrea Bravi,1,0
+scikit-learn/scikit-learn,jfelectron,Jonathan Foley,1,0
+scikit-learn/scikit-learn,johncollins,John Collins,2,0
+scikit-learn/scikit-learn,dwiel,Zach Dwiel,1,0
+scikit-learn/scikit-learn,shoyer,Stephan Hoyer,1,0
+scikit-learn/scikit-learn,ericjster,Eric Jacobsen,1,0
+scikit-learn/scikit-learn,samuela,Samuel Ainsworth,1,0
+scikit-learn/scikit-learn,flukeskywalker,Rupesh Kumar Srivastava,1,0
+scikit-learn/scikit-learn,paulgb,Paul Butler,1,0
+scikit-learn/scikit-learn,rsivapr,Rohit Sivaprasad,3,0
+scikit-learn/scikit-learn,dnouri,Daniel Nouri,4,0
+scikit-learn/scikit-learn,honnix,Honnix,1,0
+scikit-learn/scikit-learn,schmee,John Schmidt,1,0
+scikit-learn/scikit-learn,rolisz,Roland Szabo,5,0
+scikit-learn/scikit-learn,Balu-Varanasi,Bala Subrahmanyam Varanasi,4,0
+scikit-learn/scikit-learn,cournape,David Cournapeau,1,0
+scikit-learn/scikit-learn,NicolasTr,Nicolas Trésegnie,10,0
+scikit-learn/scikit-learn,jamestwebber,James Webber,3,0
+scikit-learn/scikit-learn,emsrc,Erwin Marsi,1,0
+scikit-learn/scikit-learn,alemagnani,,1,0
+scikit-learn/scikit-learn,rgbkrk,Kyle Kelley,1,0
+scikit-learn/scikit-learn,dashesy,Ehsan Azar,2,0
+scikit-learn/scikit-learn,sturlamolden,Sturla Molden,2,0
+scikit-learn/scikit-learn,syhw,syhw,3,0
+scikit-learn/scikit-learn,pgervais,Philippe Gervais,4,0
+scikit-learn/scikit-learn,har777,Harikrishnan Shaji,1,0
+scikit-learn/scikit-learn,turian,Joseph Turian,2,0
+scikit-learn/scikit-learn,ianozsvald,Ian Ozsvald,2,0
+scikit-learn/scikit-learn,jzwinck,John Zwinck,1,0
+scikit-learn/scikit-learn,cleverless,,1,0
+scikit-learn/scikit-learn,ccoovrey,Chris Coovrey,2,0
+scikit-learn/scikit-learn,fhs,Fazlul Shahriar,1,0
+scikit-learn/scikit-learn,rspeer,Robyn Speer,2,0
+scikit-learn/scikit-learn,kanielc,Denton Cockburn,3,0
+scikit-learn/scikit-learn,FredrikAppelros,Fredrik Appelros,1,0
+scikit-learn/scikit-learn,andreas-hjortgaard,Andreas Hjortgaard Danielsen,1,0
+scikit-learn/scikit-learn,nzer0,,1,0
+scikit-learn/scikit-learn,kgeis,Ken Geis,2,0
+scikit-learn/scikit-learn,norbert,Norbert Crombach,1,0
+scikit-learn/scikit-learn,jmmcd,James McDermott,1,0
+scikit-learn/scikit-learn,serch,Sergio Medina,2,0
+scikit-learn/scikit-learn,Jim-Holmstroem,Jim Holmström,14,0
+scikit-learn/scikit-learn,arnaudsj,Sébastien Arnaud,1,0
+scikit-learn/scikit-learn,abhirk,Abhi,1,0
+scikit-learn/scikit-learn,devinshields,devin shields,1,0
+scikit-learn/scikit-learn,lqdc,Roman Sinayev,3,0
+scikit-learn/scikit-learn,johnb30,John Beieler,1,0
+scikit-learn/scikit-learn,kevinhughes27,Kevin Hughes,2,0
+scikit-learn/scikit-learn,stevekochscience,Steve Koch,1,0
+scikit-learn/scikit-learn,tjanez,Tadej Janež,10,0
+scikit-learn/scikit-learn,Calvin-O,,1,0
+scikit-learn/scikit-learn,slattarini,Stefano Lattarini,1,0
+scikit-learn/scikit-learn,seamusabshere,Seamus Abshere,1,0
+scikit-learn/scikit-learn,flxb,Felix Brockherde,1,0
+scikit-learn/scikit-learn,yanirs,Yanir Seroussi,1,0
+scikit-learn/scikit-learn,temporaer,Hannes Schulz,3,0
+scikit-learn/scikit-learn,sergeyk,Sergey Karayev,1,0
+scikit-learn/scikit-learn,JakeMick,Jacob Mick,1,0
+scikit-learn/scikit-learn,hrishikeshio,Hrishikesh Huilgolkar,6,0
+scikit-learn/scikit-learn,archipleago-creature,archipelago_creature,1,0
+scikit-learn/scikit-learn,wrichert,Willi Richert,2,0
+scikit-learn/scikit-learn,dclambert,David C. Lambert,1,0
+scikit-learn/scikit-learn,mrjbq7,John Benediktsson,9,0
+scikit-learn/scikit-learn,aflag,Rafael C. de Almeida,1,0
+scikit-learn/scikit-learn,rlmv,Bo Marchman,2,0
+scikit-learn/scikit-learn,dmollaaliod,,1,0
+scikit-learn/scikit-learn,CamDavidsonPilon,Cameron Davidson-Pilon,1,0
+scikit-learn/scikit-learn,lucidfrontier45,Du Shiqiao,5,0
+scikit-learn/scikit-learn,basvandenberg,Bastiaan van den Berg,2,0
+scikit-learn/scikit-learn,JohnFNovak,John Novak,1,0
+scikit-learn/scikit-learn,rmax,R Max Espinoza,1,0
+scikit-learn/scikit-learn,RONNCC,Ronnie Ghose,1,0
+scikit-learn/scikit-learn,zaxtax,,6,0
+scikit-learn/scikit-learn,mluessi,Martin Luessi,1,0
+scikit-learn/scikit-learn,ApproximateIdentity,Thomas Nyberg,3,0
+scikit-learn/scikit-learn,mrorii,Naoki Orii,1,0
+scikit-learn/scikit-learn,weilinear,Wei Li,12,0
+scikit-learn/scikit-learn,bcajes,Brian Cajes,2,0
+scikit-learn/scikit-learn,yedtoss,TOSSOU Aristide Charles Yedia,1,0
+scikit-learn/scikit-learn,MarkyV,Mark Veronda,2,0
+scikit-learn/scikit-learn,sdicker8,Scott Dickerson,1,0
+scikit-learn/scikit-learn,aweinstein,Alejandro Weinstein,1,0
+scikit-learn/scikit-learn,aymas,Aymeric Masurelle,3,0
+scikit-learn/scikit-learn,AWinterman,Andrew Winterman,2,0
+scikit-learn/scikit-learn,seberg,Sebastian Berg,1,0
+scikit-learn/scikit-learn,briancheung,Brian Cheung,2,0
+scikit-learn/scikit-learn,tnunes,Tiago Nunes,2,0
+scikit-learn/scikit-learn,nizhib,Evgeny Nizhibitsky,1,0
+scikit-learn/scikit-learn,sjackman,Shaun Jackman,1,0
+scikit-learn/scikit-learn,cjauvin,Christian Jauvin,2,0
+scikit-learn/scikit-learn,coreylynch,Corey Lynch,3,0
+scikit-learn/scikit-learn,pzc,,1,0
+scikit-learn/scikit-learn,astaric,Anže Starič,2,0
+scikit-learn/scikit-learn,omangin,Olivier Mangin,1,0
+scikit-learn/scikit-learn,conradlee,Conrad Lee,6,0
+scikit-learn/scikit-learn,v3ss0n,Phyo Arkar Lwin,2,0
+scikit-learn/scikit-learn,alextp,Alexandre Passos,4,0
+scikit-learn/scikit-learn,guyrt,Tommy Guy,1,0
+scikit-learn/scikit-learn,kalaidin,Pavel,1,0
+scikit-learn/scikit-learn,kcarnold,Kenneth C. Arnold,3,0
+scikit-learn/scikit-learn,ynd,Yann N. Dauphin,1,0
+scikit-learn/scikit-learn,magsol,Shannon,1,0
+scikit-learn/scikit-learn,jaberg,James Bergstra,4,0
+scikit-learn/scikit-learn,osdf,Christian,3,0
+scikit-learn/scikit-learn,buma,Marko Burjek,2,0
+scikit-learn/scikit-learn,buguen,Bernard Uguen,1,0
+scikit-learn/scikit-learn,ludwigschwardt,Ludwig Schwardt,1,0
+scikit-learn/scikit-learn,welinder,Peter Welinder,1,0
+scikit-learn/scikit-learn,fsav,François Savard,2,0
+scikit-learn/scikit-learn,bdholt1,Brian Holt,9,0
+scikit-learn/scikit-learn,emanuele,Emanuele Olivetti,1,0
+scikit-learn/scikit-learn,acompa,Alejandro Companioni,1,0
+scikit-learn/scikit-learn,npinto,Nicolas Pinto,7,0
+scikit-learn/scikit-learn,cpa,Charles-Pierre Astolfi,1,0
+scikit-learn/scikit-learn,sgenoud,sgenoud,1,0
+scikit-learn/scikit-learn,fhoeni,,1,0
+scikit-learn/scikit-learn,tobigue,Tobias Günther,1,0
+scikit-learn/scikit-learn,danohu,Dan O'Huiginn,1,0
+scikit-learn/scikit-learn,duckworthd,Daniel Duckworth,4,0
+scikit-learn/scikit-learn,grenoya,Claire Revillet,1,0
+scikit-learn/scikit-learn,BenoitDamota,,1,0
+scikit-learn/scikit-learn,invisibleroads,Roy Hyunjin Han,2,0
+scikit-learn/scikit-learn,bwhite,Brandyn White,3,0
+scikit-learn/scikit-learn,dwf,David Warde-Farley,5,0
+scikit-learn/scikit-learn,joonazzz,,1,0
+scikit-learn/scikit-learn,davidmarek,David Marek,3,0
+scikit-learn/scikit-learn,paolo-losi,Paolo Losi,4,0
+scikit-learn/scikit-learn,udi,,1,0
+scikit-learn/scikit-learn,emmanuelle,Emmanuelle Gouillart,4,0
+scikit-learn/scikit-learn,feth,Feth Arezki,3,0
+scikit-learn/scikit-learn,njwilson,Nick Wilson,6,0
+scikit-learn/scikit-learn,smoitra87,Subhodeep Moitra,1,0
+scikit-learn/scikit-learn,clayw,Clay Woolam,3,0
+scikit-learn/scikit-learn,fcostin,Reuben Fletcher-Costin,1,0
+scikit-learn/scikit-learn,daien,Adrien Gaidon,3,0
+scikit-learn/scikit-learn,leonpalafox,Leon Palafox,1,0
+scikit-learn/scikit-learn,cscheid,Carlos Scheidegger,1,0
+scikit-learn/scikit-learn,charlesmccarthyirl,,1,0
+scikit-learn/scikit-learn,jansoe,,2,0
+scikit-learn/scikit-learn,gwtaylor,Graham Taylor,1,0
+scikit-learn/scikit-learn,otizonaizit,Tiziano Zito,1,0
+scikit-learn/scikit-learn,DraXus,Manuel Martín,1,0
+scikit-learn/scikit-learn,chermes,Christoph Hermes,1,0
+scikit-learn/scikit-learn,cavorite,Juan Manuel Caicedo Carvajal,1,0
+scikit-learn/scikit-learn,bvtrach,Bohdan Trach,1,0
+scikit-learn/scikit-learn,ohe,Olivier H.,1,0
+scikit-learn/scikit-learn,diogojc,Diogo Costa,1,0
+scikit-learn/scikit-learn,vincentschut,Vincent Schut,4,0
+scikit-learn/scikit-learn,sabba,Salvatore Masecchia,2,0
+scikit-learn/scikit-learn,lemin,Minwoo Jake Lee,1,0
+scikit-learn/scikit-learn,almet,Alexis Metaireau,1,0
+scikit-learn/scikit-learn,mosi,Mostafa,1,0
+scikit-learn/scikit-learn,lucaswiman,[object Object],1,0
+scikit-learn/scikit-learn,bsilverthorn,Bryan Silverthorn,1,0
+scikit-learn/scikit-learn,thouis,Thouis (Ray) Jones,2,0
+scikit-learn/scikit-learn,mike-perdide,Julien Miotte,2,0
+scikit-learn/scikit-learn,yml,,2,0
+scikit-learn/scikit-learn,amitibo,Amit Aides,2,0
+scikit-learn/scikit-learn,demianw,Demian Wassermann,1,0
+scikit-learn/scikit-learn,aman-thakral,,1,0
+scikit-learn/scikit-learn,yamins81,Dan Yamins,4,0
+scikit-learn/scikit-learn,duchesnay,Edouard Duchesnay,1,0
+scikit-learn/scikit-learn,mbrucher,Matthieu Brucher,1,0
+scikit-learn/scikit-learn,scampion,Sebastien Campion ,1,0
+scikit-learn/scikit-learn,AnneLaureF,,2,0

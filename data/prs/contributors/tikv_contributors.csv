@@ -1,0 +1,362 @@
+repository_url,user_login,user_name,n_pr_before_coc,n_pr_after_coc
+tikv/tikv,TennyZhuang,庄天翼,2,18
+tikv/tikv,NingLin-P,,0,92
+tikv/tikv,gengliqi,Liqi Geng,0,88
+tikv/tikv,ti-srebot,,0,382
+tikv/tikv,brson,Brian Anderson,9,121
+tikv/tikv,jyz0309,Alkaid Jiang,0,5
+tikv/tikv,wshwsh12,Shenghui Wu,0,17
+tikv/tikv,winoros,Yiding Cui,2,7
+tikv/tikv,hicqu,qupeng,126,199
+tikv/tikv,MrCroxx,Croxx,0,3
+tikv/tikv,iosmanthus,Iosmanthus Teng,0,56
+tikv/tikv,purelind,Lifu Wu,0,1
+tikv/tikv,overvenus,Neil Shen,275,153
+tikv/tikv,tier-cap,,0,1
+tikv/tikv,sticnarf,Yilin Chen,0,167
+tikv/tikv,hunterlxt,Xintao,0,71
+tikv/tikv,Connor1996,Connor,56,122
+tikv/tikv,Yisaer,Song Gao,0,4
+tikv/tikv,hbina,Hanif Ariffin,0,6
+tikv/tikv,dianqihanwangzi,,0,1
+tikv/tikv,cfzjywxk,cfzjywxk,0,7
+tikv/tikv,Little-Wallace,Wallace,0,99
+tikv/tikv,jespino,Jesús Espino,0,1
+tikv/tikv,5kbpers,5kbpers,0,145
+tikv/tikv,Leavrth,liaojj,0,2
+tikv/tikv,BusyJay,Jay,581,178
+tikv/tikv,catenacyber,Catena cyber,0,1
+tikv/tikv,zhongzc,Zhenchi,0,33
+tikv/tikv,liuzix,Zixiong Liu,0,7
+tikv/tikv,iliveforfun,jerry zhu,0,2
+tikv/tikv,TszKitLo40,Zijie Lu,0,7
+tikv/tikv,djinn,Supreet Sethi,0,1
+tikv/tikv,CheneyDing,Cheney Ding,0,1
+tikv/tikv,ZhenhanGong,Zhenhan Gong,0,1
+tikv/tikv,yiwu-arbug,,0,96
+tikv/tikv,gregwebs,Greg Weber,5,25
+tikv/tikv,pvid,Pavol Vidlička,0,3
+tikv/tikv,MyonKeminta,,52,111
+tikv/tikv,youjiali1995,Lei Zhao,0,163
+tikv/tikv,yah01,,0,2
+tikv/tikv,andylokandy,Andy Lok,0,37
+tikv/tikv,tennix,Tennix,2,1
+tikv/tikv,FateTHarlaown,,0,10
+tikv/tikv,xuhui-lu,Xuhui Lu,0,2
+tikv/tikv,idoqo,Michael Okoko,0,1
+tikv/tikv,3pointer,3pointer,0,29
+tikv/tikv,kennytm,,2,63
+tikv/tikv,xiongjiwei,,0,5
+tikv/tikv,vn-ki,Vishnunarayan K I,0,4
+tikv/tikv,zhangjinpeng1987,,232,67
+tikv/tikv,innerr,Liu Cong,0,10
+tikv/tikv,nilideal,homomorphic,0,1
+tikv/tikv,skyzh,Alex Chi,0,32
+tikv/tikv,hskang9,Hyungsuk Kang,0,2
+tikv/tikv,lhy1024,,0,25
+tikv/tikv,Fullstop000,Fullstop000,1,15
+tikv/tikv,sre-bot,pingcap-github-bot,0,287
+tikv/tikv,rleungx,Ryan Leung,10,16
+tikv/tikv,jayzhan211,Zhi-Jie (Jay) Zhan,0,1
+tikv/tikv,breeswish,Wenxuan,124,218
+tikv/tikv,yufeiminds,Yufei Li,0,1
+tikv/tikv,YKG,Kaige Ye,0,9
+tikv/tikv,lonng,Lonng,0,76
+tikv/tikv,skyitachi,skyitachi,0,2
+tikv/tikv,silathdiir,Steven,0,2
+tikv/tikv,ZiheLiu,zihe.liu,0,6
+tikv/tikv,pentium3,pentium3,0,4
+tikv/tikv,chacha923,chacha923,0,2
+tikv/tikv,jadireddi,Jagadesh Adireddi,0,3
+tikv/tikv,gauss1314,,0,13
+tikv/tikv,MaiCw4J,Mak,0,19
+tikv/tikv,mapleFU,mwish,0,24
+tikv/tikv,jingyugao,gaojingyu,0,2
+tikv/tikv,JiayuZzz,Wu Jiayu,0,5
+tikv/tikv,JaySon-Huang,JaySon,1,1
+tikv/tikv,tabokie,Xinye Tao,0,52
+tikv/tikv,gozssky,Yujie Xia,0,5
+tikv/tikv,JmPotato,JmPotato,0,8
+tikv/tikv,zhouqiang-cl,zhouqiang,3,10
+tikv/tikv,SchrodingerZhu,Schrodinger ZHU Yifan,0,2
+tikv/tikv,CadmusJiang,,0,1
+tikv/tikv,hi-rustin,二手掉包工程师,0,41
+tikv/tikv,guo-shaoge,,0,7
+tikv/tikv,koushiro,Qinxuan Chen,11,29
+tikv/tikv,lysu,lysu,0,9
+tikv/tikv,longfangsong,龙方淞,0,36
+tikv/tikv,nolouch,ShuNing,18,15
+tikv/tikv,Jibbow,Andreas,0,18
+tikv/tikv,blacktear23,Rain Li,2,1
+tikv/tikv,qw4990,Yuanjia Zhang,0,4
+tikv/tikv,tisonkun,tison,0,1
+tikv/tikv,gotoxu,Xu Qiaolun,0,1
+tikv/tikv,HunDunDM,混沌DM,0,4
+tikv/tikv,skyline75489,Chester Liu,0,7
+tikv/tikv,crazycs520,crazycs,1,9
+tikv/tikv,YuJuncen,山岚,0,1
+tikv/tikv,wjhuang2016,wjHuang,0,7
+tikv/tikv,lzmhhh123,Zhuomin Liu,0,3
+tikv/tikv,nrc,Nick Cameron,0,63
+tikv/tikv,wangggong,,0,13
+tikv/tikv,lilinghai,lilinghai,0,1
+tikv/tikv,mashenjun,Shenjun Ma,0,2
+tikv/tikv,aswin6197,Aswin,0,1
+tikv/tikv,YangKeao,YangKeao,0,25
+tikv/tikv,WT-Liu,WT,0,15
+tikv/tikv,humancalico,Akshat Agarwal,0,1
+tikv/tikv,Max-Cheng,,0,2
+tikv/tikv,dyzsr,dongyan,0,1
+tikv/tikv,Xuanwo,Xuanwo,0,19
+tikv/tikv,weastel,Drumil Patel,0,1
+tikv/tikv,ZingLix,Liu Jun,0,1
+tikv/tikv,zjj2wry,Jiajin Zheng,0,2
+tikv/tikv,bb7133,,8,5
+tikv/tikv,ichn-hu,虎,0,5
+tikv/tikv,LENSHOOD,Lenshood,0,3
+tikv/tikv,waynexia,Ruihang Xia,0,5
+tikv/tikv,lichunzhu,Chunzhu Li,0,2
+tikv/tikv,eliasyaoyc,Elias Yao,0,3
+tikv/tikv,pramodbiligiri,Pramod Biligiri,0,4
+tikv/tikv,you06,you06,0,8
+tikv/tikv,glorv,,0,14
+tikv/tikv,RogueJin,,0,3
+tikv/tikv,aylei,Aylei,1,3
+tikv/tikv,Saigyouji-Yuyuko,,0,1
+tikv/tikv,ekexium,Ziqian Qin,0,5
+tikv/tikv,Patrick0308,Patrick Jiang(白泽),0,3
+tikv/tikv,LiuYuHui,Yuhui Liu,0,1
+tikv/tikv,Hexilee,xixi,0,3
+tikv/tikv,lilin90,Lilian Lee,23,2
+tikv/tikv,cosven,cosven,0,1
+tikv/tikv,dvermd,,0,2
+tikv/tikv,sburris0,Spencer Burris,0,1
+tikv/tikv,XuHuaiyu,HuaiyuXu,0,1
+tikv/tikv,AilinKid,Arenatlx,0,3
+tikv/tikv,ofey404,Ofey Chan,0,2
+tikv/tikv,yatinmaan,Yatin Maan,0,1
+tikv/tikv,kunalmohan,Kunal Mohan,0,1
+tikv/tikv,gentcys,Cong Chen,0,4
+tikv/tikv,mantuliu,,0,3
+tikv/tikv,palash25,Palash Nigam,0,1
+tikv/tikv,ldeng-ustc,Long Deng,0,1
+tikv/tikv,page4,,0,1
+tikv/tikv,tehbrut,Valery,0,1
+tikv/tikv,lucklove,SIGSEGV,0,5
+tikv/tikv,Renkai,Renkai Ge,0,30
+tikv/tikv,maoueh,Matthieu Vachon,0,1
+tikv/tikv,howardlau1999,Howard Lau,0,1
+tikv/tikv,de-sh,Devdutt Shenoi,0,3
+tikv/tikv,weihanglo,Weihang Lo,0,2
+tikv/tikv,SASUKE40,Edward Elric,0,1
+tikv/tikv,xxchan,xxchan,0,1
+tikv/tikv,Phosphorus15,phosphorus,0,1
+tikv/tikv,Himself65,Himself65,0,2
+tikv/tikv,abbccdda,Boyang Chen,0,5
+tikv/tikv,dcalvin,Calvin Weng,3,31
+tikv/tikv,bigzuo,,0,1
+tikv/tikv,baurine,Sparkle,0,1
+tikv/tikv,TommyCpp,Zhongyang Wu,0,13
+tikv/tikv,trabbart,,0,10
+tikv/tikv,codeworm96,Zhang Yuning,4,8
+tikv/tikv,Yiyiyimu,Shuyang Wu,0,3
+tikv/tikv,loxp,,0,1
+tikv/tikv,yeshengm,Yesheng Ma,1,1
+tikv/tikv,izumi39,izumi,0,3
+tikv/tikv,psinghal20,Pratyush Singhal,0,6
+tikv/tikv,jyizheng,Yizheng Jiao,0,4
+tikv/tikv,andrisak,André Isaksson Kraft,0,5
+tikv/tikv,XiaochenCui,Xiaochen Cui,0,1
+tikv/tikv,hsqlu,Qiannan,0,3
+tikv/tikv,fredchenbj,Fu Chen,2,10
+tikv/tikv,crodjer,Rohan Jain,0,1
+tikv/tikv,Deardrops,Maxwell,0,1
+tikv/tikv,hawkingrei,Weizhen Wang,5,18
+tikv/tikv,eurekaka,Kenan Yao,0,4
+tikv/tikv,return02,,0,2
+tikv/tikv,winkyao,winkyao,0,3
+tikv/tikv,SSebo,SSebo,0,3
+tikv/tikv,pingyu,Ping Yu,0,2
+tikv/tikv,AndreMouche,Shirly,173,31
+tikv/tikv,disksing,disksing,191,15
+tikv/tikv,djshow832,,0,1
+tikv/tikv,shafreeck,Shafreeck Sea,0,7
+tikv/tikv,mahjonp,,0,12
+tikv/tikv,silentred,NightsWatch,0,1
+tikv/tikv,ziyi-yan,Ziyi Yan,0,1
+tikv/tikv,Poytr1,Pengcheng Xu,0,7
+tikv/tikv,govardhangdg,Govardhan G D,0,1
+tikv/tikv,lsampras,Sampras Lopes,0,1
+tikv/tikv,miyuri-fox,,0,1
+tikv/tikv,qrr1995,Yixuan Zhao,0,4
+tikv/tikv,at15,Pinglei Guo,0,1
+tikv/tikv,Hoverbear,Ana Hobden,29,34
+tikv/tikv,niedhui,niedhui,25,17
+tikv/tikv,yeya24,Ben Ye,0,1
+tikv/tikv,fky2015,KaiYu Feng,0,2
+tikv/tikv,xinhua5,,0,2
+tikv/tikv,wangwangwar,Wang,0,6
+tikv/tikv,cireu,Zhu Zihao,0,16
+tikv/tikv,zhang555,张某,0,1
+tikv/tikv,july2993,,5,2
+tikv/tikv,zhangmoon,mooncake,0,3
+tikv/tikv,Aloxaf,Aloxaf,0,3
+tikv/tikv,AerysNan,Aerys,0,10
+tikv/tikv,tw666,魂锁典狱长,0,5
+tikv/tikv,hanahmily,Gao Hongtao,0,1
+tikv/tikv,b41sh,baishen,0,3
+tikv/tikv,ty666,TY,0,5
+tikv/tikv,H-ZeX,Huang Zexin,0,33
+tikv/tikv,kolbe,Kolbe Kegel,0,2
+tikv/tikv,iswade,iswade,0,1
+tikv/tikv,picker-man,,0,1
+tikv/tikv,hk1997,Hardik Khandelwal,0,4
+tikv/tikv,shivam1192,shivam agrawal,0,1
+tikv/tikv,ming535,Hu Ming,0,1
+tikv/tikv,aknuds1,Arve Knudsen,0,7
+tikv/tikv,leiysky,Yu Lei,0,1
+tikv/tikv,lance6716,,0,1
+tikv/tikv,Jing118,You Lingjing,0,1
+tikv/tikv,AndrewDi,Andrew,0,1
+tikv/tikv,cwen0,CWen,1,3
+tikv/tikv,jiyingtk,,0,6
+tikv/tikv,GlitterIsMe,Glitter,0,6
+tikv/tikv,siddontang,siddontang,367,11
+tikv/tikv,928234269,Caesar,0,1
+tikv/tikv,beautytiger,Guangming Wang,0,5
+tikv/tikv,zyh-hust,,0,10
+tikv/tikv,spongedu,Du Chuan,14,1
+tikv/tikv,dhcn,DGeek,0,1
+tikv/tikv,divinerapier,divinerapier,0,1
+tikv/tikv,uvd,,0,4
+tikv/tikv,SunRunAway,Feng Liyuan,0,1
+tikv/tikv,sunxiaoguang,Xiaoguang Sun,4,6
+tikv/tikv,liufuyang,Fuyang Liu,1,4
+tikv/tikv,jlerche,Jacob Lerche,0,1
+tikv/tikv,lucab,Luca Bruno,0,1
+tikv/tikv,xiamengyu,,0,3
+tikv/tikv,chenyukang,Yukang,0,1
+tikv/tikv,summer-slow-grace,,0,2
+tikv/tikv,benpigchu,"Ben ""Pig"" Chu",0,4
+tikv/tikv,birdstorm,,0,1
+tikv/tikv,senden9,Stefano Probst,0,1
+tikv/tikv,jswh,曹维杰,0,2
+tikv/tikv,hhhowyou,Zha,0,2
+tikv/tikv,NOVA-ME,NOVA-ME,0,1
+tikv/tikv,zz-jason,Jian Zhang,1,1
+tikv/tikv,whoiscc,Correctizer,0,2
+tikv/tikv,ice1000,Tesla I. Zhang‮,3,1
+tikv/tikv,ZhangHanDong,Alex,1,2
+tikv/tikv,xiekeyi98,Keyi Xie,0,1
+tikv/tikv,c4pt0r,dongxu,8,2
+tikv/tikv,xiaobogaga,xiaobogaga,0,2
+tikv/tikv,ghost,Deleted user,0,3
+tikv/tikv,kisom,Kyle Isom,0,1
+tikv/tikv,Seact,,0,3
+tikv/tikv,seansu4you87,Sean Yu,0,1
+tikv/tikv,yaalsn,asn,0,2
+tikv/tikv,jaltabike,Ilyeop Yi,0,1
+tikv/tikv,lerencao,lerencao,1,2
+tikv/tikv,TigerInYourDream,Alvin,0,3
+tikv/tikv,JoeWrightss,,0,2
+tikv/tikv,wujunze,Panda,0,1
+tikv/tikv,DorianZheng,dorianzheng,28,3
+tikv/tikv,huachaohuang,Richard,126,3
+tikv/tikv,crlf0710,Charles Lew,1,0
+tikv/tikv,caohe,He Cao,1,0
+tikv/tikv,Thearas,Thearas,1,0
+tikv/tikv,Hijiao,,24,0
+tikv/tikv,poonai,Poonai,3,0
+tikv/tikv,gaodayue,Dayue Gao,1,0
+tikv/tikv,DCjanus,DCjanus,1,0
+tikv/tikv,GinYM,Yiming Jin,3,0
+tikv/tikv,Notdeath,,1,0
+tikv/tikv,emperorlu,Kai Lu,1,0
+tikv/tikv,edwardpku,Edward Li,1,0
+tikv/tikv,zhongleihe,,1,0
+tikv/tikv,AbnerDBFan,AbnerDBFan,1,0
+tikv/tikv,AbnerZheng,Abner Zheng,2,0
+tikv/tikv,mccxj,xiaojian cai,3,0
+tikv/tikv,kg88,lucyscat,2,0
+tikv/tikv,solotzg,Zhigao Tong,6,0
+tikv/tikv,kamijin-fanta,kamijin_fanta,1,0
+tikv/tikv,killme2008,dennis zhuang,1,0
+tikv/tikv,Kingwl,Wenlu Wang,2,0
+tikv/tikv,shizy818,shizy,4,0
+tikv/tikv,yangwenmai,maiyang,3,0
+tikv/tikv,haoxiang47,haoxiang,1,0
+tikv/tikv,yjhmelody,yjh,1,0
+tikv/tikv,sllt,Malong,2,0
+tikv/tikv,shenli,Shen Li,8,0
+tikv/tikv,chux0519,Yongsheng Xu,1,0
+tikv/tikv,WPH95,JustWPH,1,0
+tikv/tikv,mtunique,Tao Meng,1,0
+tikv/tikv,caniszczyk,Chris Aniszczyk,1,0
+tikv/tikv,CaitinChen,Caitin,8,0
+tikv/tikv,Observer42,,2,0
+tikv/tikv,sweetIan,Ian Huang,6,0
+tikv/tikv,malc0lm,Ang Lee,1,0
+tikv/tikv,opensourcegeek,opensourcegeek,3,0
+tikv/tikv,xiangyuf,xiangyu0xf,3,0
+tikv/tikv,smallyard,smallyard,5,0
+tikv/tikv,laidahe,,1,0
+tikv/tikv,bombless,York Xiang,1,0
+tikv/tikv,arosspope,Andrew Pope,3,0
+tikv/tikv,vkorenev,Vladimir Korenev,1,0
+tikv/tikv,intellild,intellild,1,0
+tikv/tikv,queenypingcap,Queeny,9,0
+tikv/tikv,ceohockey60,Kevin Xu,2,0
+tikv/tikv,GuillaumeGomez,Guillaume Gomez,2,0
+tikv/tikv,Pslydhh,Pslydhh,1,0
+tikv/tikv,lamxTyler,Haibin Xie,5,0
+tikv/tikv,csmoe,csmoe,4,0
+tikv/tikv,dyxushuai,John Smith,1,0
+tikv/tikv,kbacha,Kevin Choubacha,1,0
+tikv/tikv,jackysp,Jack Yu,1,0
+tikv/tikv,maninalift,,1,0
+tikv/tikv,iamxy,iamxy,14,0
+tikv/tikv,UncP,UncP,27,0
+tikv/tikv,coocood,Evan Zhou,3,0
+tikv/tikv,Librazy,Liqueur Librazy,2,0
+tikv/tikv,ngaut,goroutine,154,0
+tikv/tikv,fipped,Wenjin Rao,1,0
+tikv/tikv,friedm,Matt Friedman,1,0
+tikv/tikv,wentaoxu,XuWentao,5,0
+tikv/tikv,ShalokShalom,ShalokShalom,1,0
+tikv/tikv,biluohc,wspsxing,1,0
+tikv/tikv,mitnk,Hugo Wang,1,0
+tikv/tikv,zimulala,Lynn,5,0
+tikv/tikv,hanfei1991,Han Fei,3,0
+tikv/tikv,JackDrogon,Drogon,1,0
+tikv/tikv,odeits,,4,0
+tikv/tikv,atmzhou,,1,0
+tikv/tikv,seth-priya,Priya Seth,2,0
+tikv/tikv,lishuai87,ls,20,0
+tikv/tikv,coder0718,,5,0
+tikv/tikv,choleraehyq,Cholerae Hu,28,0
+tikv/tikv,follitude,,12,0
+tikv/tikv,JinheLin,jinhelin,1,0
+tikv/tikv,andelf,Andelf,17,0
+tikv/tikv,bailaohe,BluesCoder,2,0
+tikv/tikv,cosmtrek,Rick Yu,1,0
+tikv/tikv,plutolove,Shangqi Meng,1,0
+tikv/tikv,hhkbp2,Dylan Wen,67,0
+tikv/tikv,ariesdevil,Yijun Zhao,1,0
+tikv/tikv,lishihai9017,Li Shihai,19,0
+tikv/tikv,Richard-zhang,SSHz,1,0
+tikv/tikv,AkihiroSuda,Akihiro Suda,1,0
+tikv/tikv,aya,Yann Autissier,1,0
+tikv/tikv,mrmiywj,Ivan.Yang,11,0
+tikv/tikv,qiuyesuifeng,cuiqiu,3,0
+tikv/tikv,andylibrian,Andy Librian,1,0
+tikv/tikv,weidagang,Dagang Wei,4,0
+tikv/tikv,tiancaiamao,,44,0
+tikv/tikv,wegel,,1,0
+tikv/tikv,wayslog,WaySLOG,1,0
+tikv/tikv,xiang90,Xiang Li,2,0
+tikv/tikv,spullara,Sam Pullara,1,0
+tikv/tikv,morefreeze,MoreFreeze,14,0
+tikv/tikv,PaladinTyrion,PaladinTyrion,1,0
+tikv/tikv,genedna,Quanyi Ma,1,0
+tikv/tikv,jonboulle,Jonathan Boulle,1,0
+tikv/tikv,guanqun,,1,0

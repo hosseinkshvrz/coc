@@ -1,0 +1,3108 @@
+repository_url,user_login,user_name,n_pr_before_coc,n_pr_after_coc
+angular/angular.js,Splaktar,Michael Prentice,0,9
+angular/angular.js,stevenrugg,Steven Rugg,0,1
+angular/angular.js,simon04,Simon Legner,1,2
+angular/angular.js,heathkit,Michael Giambalvo,1,1
+angular/angular.js,dmuellner,Daniel Müllner,1,0
+angular/angular.js,orafaelfragoso,Rafael Fragoso,1,0
+angular/angular.js,StrangelyTyped,Alexis A,1,0
+angular/angular.js,ed-at-work,Ed Epstein,2,0
+angular/angular.js,graingert,Thomas Grainger,10,0
+angular/angular.js,m-amr,Mohamed amr,20,1
+angular/angular.js,icholy,Ilia Choly,3,1
+angular/angular.js,pondermatic,James Richards,1,0
+angular/angular.js,gkalpak,George Kalpakas,238,45
+angular/angular.js,felixzapata,Félix Zapata,1,0
+angular/angular.js,wesleycho,Wesley Cho,45,0
+angular/angular.js,NickBolles,Nick Bolles,1,0
+angular/angular.js,odolha,Ovidiu Dolha,1,0
+angular/angular.js,LeeAdcock,Lee Adcock,4,0
+angular/angular.js,modmac,Modest Machnicki,1,0
+angular/angular.js,linoleum-js,Martin Schulz,3,0
+angular/angular.js,jurko-gospodnetic,Jurko Gospodnetić,4,0
+angular/angular.js,Narretz,Martin Staffa,278,40
+angular/angular.js,luaks,Lukas Peleska,1,0
+angular/angular.js,tautvilas,Tautvilas Mečinskas,2,0
+angular/angular.js,klaascuvelier,Klaas Cuvelier,1,0
+angular/angular.js,dpogue,Darryl Pogue,1,0
+angular/angular.js,mkalmanson,Myles Kalmanson,1,0
+angular/angular.js,just-boris,Boris Serdiuk,5,0
+angular/angular.js,SchizoDuckie,,1,0
+angular/angular.js,philipooo,Philip Steinebrunner,1,0
+angular/angular.js,ramirezd42,Dave Ramirez,2,0
+angular/angular.js,gabrielmaldi,Gabriel Monteagudo,9,0
+angular/angular.js,lgalfaso,Lucas Mirelmann,160,0
+angular/angular.js,nswbmw,nswbmw,1,0
+angular/angular.js,tylermcginnis,Tyler McGinnis,5,0
+angular/angular.js,vvasianovych,Viacheslav Vasianovych,3,0
+angular/angular.js,kaitrin,Kate Cox,2,0
+angular/angular.js,stervets,Mikhail Lisov,3,0
+angular/angular.js,marcin-wosinek,Marcin Wosinek,12,0
+angular/angular.js,Toilal,Rémi Alvergnat,2,0
+angular/angular.js,Decad,Declan Cook,1,0
+angular/angular.js,andersonbd1,Ben Anderson,1,0
+angular/angular.js,shahata,Shahar Talmi,82,0
+angular/angular.js,gauravaror,Gaurav Arora,2,0
+angular/angular.js,harikrishnan83,HariKrishnan,1,0
+angular/angular.js,thebigredgeek,Andrew E. Rhyne,5,0
+angular/angular.js,millar,Sam Millar,1,0
+angular/angular.js,ipoly,zengli,1,0
+angular/angular.js,hekike,Peter Marton,1,0
+angular/angular.js,martynasb,Martynas Buivys,1,0
+angular/angular.js,gabrielfgularte,Gabriel Gularte,1,0
+angular/angular.js,pomerantsev,Pavel Pomerantsev,8,0
+angular/angular.js,connorbode,Connor Bode,1,0
+angular/angular.js,qdrk,qdrk,1,0
+angular/angular.js,quietmint,,1,0
+angular/angular.js,jowiho,Jochem Wichers Hoeth,1,0
+angular/angular.js,yohairosen,Yohai Rosen,2,0
+angular/angular.js,Wizek,Milán Nagy,2,0
+angular/angular.js,khasinski,Krzysztof Hasiński,2,0
+angular/angular.js,andersekdahl,Anders Ekdahl,1,0
+angular/angular.js,kilianc,Kilian Ciuffolo,1,0
+angular/angular.js,clkao,Chia-liang Kao,6,0
+angular/angular.js,paolodm,Paolo del Mundo,2,0
+angular/angular.js,joeenzminger,Joe Enzminger,3,0
+angular/angular.js,gion,Bogdan Gradinariu,1,0
+angular/angular.js,chrisirhc,Chris Chua,13,0
+angular/angular.js,eltociear,Ikko Ashimine,0,2
+angular/angular.js,jasonrmartin,Jason Martin,0,1
+angular/angular.js,vova557,владимир иванович архипов,0,5
+angular/angular.js,specilnz,,0,1
+angular/angular.js,MichaelGrigoryan25,Michael Grigoryan,0,1
+angular/angular.js,Asjidkalam,Asjid Kalam,0,1
+angular/angular.js,PPInfy,,0,1
+angular/angular.js,Naresh6376,,0,1
+angular/angular.js,ghost,Deleted user,34,5
+angular/angular.js,abhishekshree,Abhishek Shree,0,1
+angular/angular.js,VikashAbhay,,0,1
+angular/angular.js,akshit-dev101,Akshit,0,1
+angular/angular.js,aaronfrost,Aaron Frost,1,1
+angular/angular.js,josephperrott,Joey Perrott,1,1
+angular/angular.js,guardiannhy,,0,1
+angular/angular.js,ewaDev,Ewa G ,0,1
+angular/angular.js,bondsa,Sandy,0,1
+angular/angular.js,eran-nussbaum,Eran Nussbaum,0,1
+angular/angular.js,petebacondarwin,Pete Bacon Darwin,252,11
+angular/angular.js,mgol,Michał Gołębiowski-Owczarek,83,17
+angular/angular.js,aryehb,,0,1
+angular/angular.js,koto,Krzysztof Kotowicz,0,1
+angular/angular.js,peruukki,Harri Lehtola,0,1
+angular/angular.js,nishantwrp,Nishant Mittal,0,1
+angular/angular.js,SergioZ96,,0,1
+angular/angular.js,WilliamRClark,William Clark,0,1
+angular/angular.js,samkatakouzinos,Sam Katakouzinos,0,1
+angular/angular.js,chivesrs,,0,1
+angular/angular.js,tux2024,,0,1
+angular/angular.js,sowmiyasoundarapandiyanss,,0,1
+angular/angular.js,thatshubham,,0,2
+angular/angular.js,AsimShakour,Asim Shakour,0,1
+angular/angular.js,MuhaddiMu,Muhammad Muhaddis,0,1
+angular/angular.js,AngelKitty,Angel_Kitty,0,1
+angular/angular.js,renusingh1991,,0,1
+angular/angular.js,FraGMenT72,,0,1
+angular/angular.js,Haseeb08,,0,1
+angular/angular.js,aukhalilim,,0,1
+angular/angular.js,anusreePrakash,Anusree Prakash,0,1
+angular/angular.js,Thaina,Thaina Yu,0,1
+angular/angular.js,Evgeniy-boop,,0,1
+angular/angular.js,lennybacon,Daniel Fisher,0,1
+angular/angular.js,tejaadusumilli,,0,1
+angular/angular.js,SharanInteliroute,Sharan Palleboina,0,1
+angular/angular.js,rahul-k-srvastva,Rahul Srivastava,0,1
+angular/angular.js,ixap2i,ixap2i(yama),0,1
+angular/angular.js,ghatwala,,0,1
+angular/angular.js,TimofeySemenenko,timoshas,0,1
+angular/angular.js,byronigoe,,0,1
+angular/angular.js,CristianCanedo,Cristian Canedo,0,1
+angular/angular.js,askhalil,Abdulrahman Khalil,0,1
+angular/angular.js,JandersonConstantino,Janderson Constantino,0,1
+angular/angular.js,kambleaa007,Ashish Kamble,0,14
+angular/angular.js,kylekatarnls,Kyle,0,1
+angular/angular.js,michael-koeller,Michael Köller,0,1
+angular/angular.js,DrewShirts,Drew Shirts,0,1
+angular/angular.js,MoraisLS,,0,1
+angular/angular.js,zackschuster,Zack Schuster,0,1
+angular/angular.js,codymikol,Cody Mikol,0,1
+angular/angular.js,pcrane70,peter crane,0,1
+angular/angular.js,RichardCzechowski,Richard Czechowski,0,1
+angular/angular.js,bkiselka,Bernhard Kiselka,0,1
+angular/angular.js,julkwel,Julien Rajerison ,0,1
+angular/angular.js,frederikprijck,Frederik Prijck,17,3
+angular/angular.js,jbedard,Jason Bedard,107,12
+angular/angular.js,GabeL7r,Gabe Levasseur,0,1
+angular/angular.js,anthonyx,Anthony Xie,0,1
+angular/angular.js,harrycode007,,0,1
+angular/angular.js,Mephiztopheles,Markus Ahrweiler,0,1
+angular/angular.js,cezarsg,CEZAR SILVA GOMES,0,1
+angular/angular.js,joej164,Joseph Jacobs,0,3
+angular/angular.js,reda-alaoui,Réda Housni Alaoui,0,1
+angular/angular.js,peacecwz,Baris Ceviz,0,1
+angular/angular.js,Eblax,,0,1
+angular/angular.js,sowrabhinertia,sowrabh ullal,0,1
+angular/angular.js,djbreen7,Daniel,0,1
+angular/angular.js,hbrotan,Hallstein Brøtan,0,2
+angular/angular.js,teresy,,0,1
+angular/angular.js,itchyny,itchyny,0,1
+angular/angular.js,codacy-badger,Codacy Badger,0,1
+angular/angular.js,oalbacha,Omar Albacha,0,1
+angular/angular.js,deadmann,Hassan Faghihi,3,1
+angular/angular.js,ogsilvaa,Oscar Gonzalo Silva Anchante,0,1
+angular/angular.js,sibiraj-s,Sibiraj,0,1
+angular/angular.js,craigdanj,Craig Johnson,0,1
+angular/angular.js,craigGSLab,,0,1
+angular/angular.js,swuttich,Stefan,0,1
+angular/angular.js,ZubyIqbal,,0,1
+angular/angular.js,susisu,Susisu,0,1
+angular/angular.js,hoeni,Tobias Henöckl,1,1
+angular/angular.js,jell0wed,Jérémie Poisson,0,1
+angular/angular.js,john-mantas,John Mantas,0,1
+angular/angular.js,thorn0,Georgii Dolzhykov,51,4
+angular/angular.js,chudix,,0,1
+angular/angular.js,william-pan,,0,1
+angular/angular.js,atefBB,Atef Ben Ali,1,1
+angular/angular.js,coliff,Christian Oliff,0,1
+angular/angular.js,FRSgit,Jakub Freisler,0,2
+angular/angular.js,meifu2027,meifu,0,1
+angular/angular.js,wyrfel,Andre Wyrwa,0,2
+angular/angular.js,oBusk,Oscar Busk,2,2
+angular/angular.js,geem721,,0,1
+angular/angular.js,Biplab-1991,,0,1
+angular/angular.js,jknepfle,Josh Knepfle,0,1
+angular/angular.js,Snap252,Thomas Smith,0,1
+angular/angular.js,leolux,,0,1
+angular/angular.js,gscoppino,Giuseppe Scoppino,1,1
+angular/angular.js,matthew-manuel,,0,1
+angular/angular.js,thaMANSTA,,0,1
+angular/angular.js,vbraun,Volker Braun,0,1
+angular/angular.js,delphin92,,1,0
+angular/angular.js,XFree,Dmitriy,4,0
+angular/angular.js,mdarveau,Manuel Darveau,1,0
+angular/angular.js,CodySchaaf,Cody Schaaf,1,0
+angular/angular.js,deb-saunders,Deb Saunders,1,0
+angular/angular.js,dotku,Weijing Jay Lin,3,0
+angular/angular.js,edwinychu,Edwin Chu,1,0
+angular/angular.js,skryvets,Sergey Kryvets,1,0
+angular/angular.js,jjhampton,John Hampton,1,0
+angular/angular.js,devs4p,,1,0
+angular/angular.js,rose-m,Michael Rose,1,0
+angular/angular.js,jugglinmike,,1,0
+angular/angular.js,michael-letcher,Michael Letcher,1,0
+angular/angular.js,kirkthompson,kirk,1,0
+angular/angular.js,dasariramacharan,Rama,1,0
+angular/angular.js,maksimr,Maksim Ryzhikov,2,0
+angular/angular.js,lisapfisterer,Lisa Pfisterer,1,0
+angular/angular.js,curlydevil,Denys B,1,0
+angular/angular.js,aalmkhieber,,2,0
+angular/angular.js,sagirk,Sagir Khan,1,0
+angular/angular.js,sasafahmy,,1,0
+angular/angular.js,jileeon,"Jae Ik, Lee",1,0
+angular/angular.js,fpipita,Francesco Pipita,1,0
+angular/angular.js,szimek,Szymon Nowak,1,0
+angular/angular.js,trotyl,Trotyl Yu,1,0
+angular/angular.js,IvanProdaiko94,Ivan Prodaiko,1,0
+angular/angular.js,AlexDEVpro,Alexander,1,0
+angular/angular.js,ImgBotApp,Imgbot,1,0
+angular/angular.js,foomango,Fengwei Wang,1,0
+angular/angular.js,melbourne2991,,2,0
+angular/angular.js,FordNg,,1,0
+angular/angular.js,YonatanKra,Yonatan Kra,2,0
+angular/angular.js,MrAlexWeber,Alex Weber,1,0
+angular/angular.js,VanRYU5962,Van Ryu,1,0
+angular/angular.js,maxchernin,Max Chernin,1,0
+angular/angular.js,amendajing,esssd,1,0
+angular/angular.js,Brandstrom,Therése,1,0
+angular/angular.js,andypotts,Andy Potts,1,0
+angular/angular.js,carlfranz,Carlo Franzelli,2,0
+angular/angular.js,ZitaNemeckova,,1,0
+angular/angular.js,vpavlov1199,,1,0
+angular/angular.js,kmccullough,Kerry McCullough,4,0
+angular/angular.js,hellofadude,Kingsley O,1,0
+angular/angular.js,SteveAndrewArcher,,2,0
+angular/angular.js,HZooly,Hugo Torzuoli,1,0
+angular/angular.js,dmartres,Damian Martres,1,0
+angular/angular.js,vlvagerviwager,a̴͖͑̽̇ ̶̱̰̦͐̃v̴͈̅͗ị̶̏̉̅l̴̤̘̤͝l̸͇̅͘a̴̖̙͑ğ̶̝̓͠ę̸̨̀͆r̷̪̐͊̅,2,0
+angular/angular.js,Alaev,Michael Alaev,1,0
+angular/angular.js,SuperPaintman,Aleksandr Krivoshchekov,1,0
+angular/angular.js,katsos,Nikos Katsos,1,0
+angular/angular.js,LarryHuang1993,,1,0
+angular/angular.js,IdanCo,Idan Cohen,1,0
+angular/angular.js,ksvitkovsky,,1,0
+angular/angular.js,Paunova,Paunova Simona,1,0
+angular/angular.js,alopezsanchez,Alejandro López,1,0
+angular/angular.js,witcold,Witold Mescheryakov,1,0
+angular/angular.js,sauravbhattacharya001,Saurav Bhattacharya,1,0
+angular/angular.js,chirag64,Chirag Bhatia,2,0
+angular/angular.js,kspearrin,Kyle Spearrin,1,0
+angular/angular.js,alejandroSuch,Alejandro Such,1,0
+angular/angular.js,pmcelhaney,Patrick McElhaney,2,0
+angular/angular.js,packtpartner,Packt,4,0
+angular/angular.js,sercaneraslan,Sercan Eraslan,3,0
+angular/angular.js,puneeth8994,Puneeth S,1,0
+angular/angular.js,odedniv,Oded Niv,2,0
+angular/angular.js,vped,Ved,1,0
+angular/angular.js,graveto,David Fuka,1,0
+angular/angular.js,tsclaus,,1,0
+angular/angular.js,musclor,,2,0
+angular/angular.js,zThreePOh,,1,0
+angular/angular.js,vgulaev,Valentin,1,0
+angular/angular.js,epliskin,,1,0
+angular/angular.js,luciomartinez,Lucio Martinez,1,0
+angular/angular.js,dtarasiuk,Dimitri Tarasiuk,1,0
+angular/angular.js,j3hyde,Jeff Kyllo,1,0
+angular/angular.js,simonbuelens,,1,0
+angular/angular.js,leonardosouza,Leonardo Souza,1,0
+angular/angular.js,yohannist,Yohannes Tamru,1,0
+angular/angular.js,vschs007,Vivek Kumar Singh,2,0
+angular/angular.js,jakewins,Jacob Davis-Hansson,1,0
+angular/angular.js,MarkoCen,Marko Cen,1,0
+angular/angular.js,TheHalcyonSavant,Deni,1,0
+angular/angular.js,deshbar,Deshabandhu Bar,1,0
+angular/angular.js,sbedulin,Sergey Bedulin,1,0
+angular/angular.js,BobChao87,,6,0
+angular/angular.js,ppham27,Philip Pham,2,0
+angular/angular.js,vigneshTheDev,Vigneshkumar Chinnachamy,1,0
+angular/angular.js,manu-kapoor,,1,0
+angular/angular.js,snood1205,Eli Sadoff,1,0
+angular/angular.js,michaelb958,,1,0
+angular/angular.js,atul-shimpi,Atul Shimpi,1,0
+angular/angular.js,bennycoomans,,1,0
+angular/angular.js,sanjeevrahul,,1,0
+angular/angular.js,trezm,Peter Mertz,1,0
+angular/angular.js,zwright8,Zach Wright,1,0
+angular/angular.js,jmwolfe,Jesse Wolfe,1,0
+angular/angular.js,wzhtj102,,1,0
+angular/angular.js,TheRealMaxion,,2,0
+angular/angular.js,JoshuaJWilborn,Joshua J Wilborn,1,0
+angular/angular.js,fcostarodrigo,Rodrigo,1,0
+angular/angular.js,xfg,,1,0
+angular/angular.js,Xazzzi,Vitaliy,1,0
+angular/angular.js,pbr1111,Pol,2,0
+angular/angular.js,PavlovGrigor,Grigor Pavlov,1,0
+angular/angular.js,eeeqxxtg,John Wang,3,0
+angular/angular.js,coderbydesign,Keith Walsh,2,0
+angular/angular.js,meiram-tr,,1,0
+angular/angular.js,getDanArias,Dan Arias,1,0
+angular/angular.js,yuemingl,Yueming Liu,1,0
+angular/angular.js,ashsearle,Ash,1,0
+angular/angular.js,javakarthicklog,karthick_EEE,1,0
+angular/angular.js,jason-larigakis-hs,,1,0
+angular/angular.js,diegomrsantos,,1,0
+angular/angular.js,NarayanCheerla,Narayan ,1,0
+angular/angular.js,NilsHolger,Nils Nägele,9,0
+angular/angular.js,maecapozzi,Mae Capozzi,1,0
+angular/angular.js,pablotarga,Pablo Targa,1,0
+angular/angular.js,lbayerl,L Bayerl,1,0
+angular/angular.js,rjamet,Raphaël Jamet,10,0
+angular/angular.js,wemiao,William Miao,1,0
+angular/angular.js,mrohr,Matt Rohr,1,0
+angular/angular.js,zuzusik,Viktor Zozuliak,3,0
+angular/angular.js,theaspect,Constantine Linnick,1,0
+angular/angular.js,mattlewis92,Matt Lewis,1,0
+angular/angular.js,kindy,Kindy Lin,3,0
+angular/angular.js,Swiss-Devs,,1,0
+angular/angular.js,dimvar,Dimitris Vardoulakis,1,0
+angular/angular.js,CBedzz,Chris,1,0
+angular/angular.js,thomasdc,ThomasDC,1,0
+angular/angular.js,jessicamvs,Jessica Soltero,1,0
+angular/angular.js,SamKuppusamy,Sam.Kuppusamy,1,0
+angular/angular.js,kylewuolle,Kyle,2,0
+angular/angular.js,vteremasov,Vitaly Teremasov,1,0
+angular/angular.js,tipycalFlow,Aakash Chaudhary,3,0
+angular/angular.js,himanshu-9419,Himanshu Arora,1,0
+angular/angular.js,martingbrown,Martin Brown,1,0
+angular/angular.js,david-mark,David Mark,1,0
+angular/angular.js,gracebenz,Grace Benz,1,0
+angular/angular.js,davesidious,,2,0
+angular/angular.js,zwenza,David Jöch,1,0
+angular/angular.js,floftar,Florian Berger,1,0
+angular/angular.js,Nikhil22,NIK,1,0
+angular/angular.js,nicmitchell,Nic Mitchell,1,0
+angular/angular.js,webgene,Soumya Ranjan Mohanty,1,0
+angular/angular.js,thedeco,Deco,1,0
+angular/angular.js,damoqiongqiu,大漠穷秋,2,0
+angular/angular.js,naomiblack,Naomi Black,7,0
+angular/angular.js,mhevery,Miško Hevery,90,0
+angular/angular.js,ChrisMondok,Chris,1,0
+angular/angular.js,sp00m,Christophe Maillard,1,0
+angular/angular.js,kakoma,Kakoma,1,0
+angular/angular.js,crazle,crazle,1,0
+angular/angular.js,peterneave,Peter Neave,1,0
+angular/angular.js,prerial,Mikhail Grinshteyn,1,0
+angular/angular.js,MakerTim,Tim,1,0
+angular/angular.js,matsko,Matias Niemelä,261,0
+angular/angular.js,Karthikvenkat86,Karthikeyan,3,0
+angular/angular.js,fengthedroid,,1,0
+angular/angular.js,jannickfahlbusch,Jannick Fahlbusch,2,0
+angular/angular.js,dcherman,dherman,13,0
+angular/angular.js,spaceribs,Aaron Brewer,2,0
+angular/angular.js,idhindsight,,1,0
+angular/angular.js,amandeepmittal,Aman Mittal,1,0
+angular/angular.js,samuraijane,Matthew Day,1,0
+angular/angular.js,lizheng0302,,1,0
+angular/angular.js,ojab,Slava Kardakov,1,0
+angular/angular.js,djleonskennedy,Yuriy Yakovenko,1,0
+angular/angular.js,mprobst,Martin Probst,18,0
+angular/angular.js,Rob--W,Rob Wu,1,0
+angular/angular.js,shaiatias,Shai Atias,1,0
+angular/angular.js,arturoromeroslc,Arturo Romero,1,0
+angular/angular.js,Drumarcco,Marco Alvarado,1,0
+angular/angular.js,jasonxia23,,1,0
+angular/angular.js,TruthReveller,Paul Bradley,1,0
+angular/angular.js,timblack1,Tim Black,1,0
+angular/angular.js,peterkidson,Peter Kidson,1,0
+angular/angular.js,kentwalters,,1,0
+angular/angular.js,adamreisnz,Adam Reis,1,0
+angular/angular.js,coreystinson2,Corey Stinson,2,0
+angular/angular.js,Harvinator,Tom Harvey,1,0
+angular/angular.js,NoHomey,Ivo Stratev,1,0
+angular/angular.js,klieber,Kyle Lieber,2,0
+angular/angular.js,butla,Michal Bultrowicz,1,0
+angular/angular.js,Nifled,Erick Delfin,1,0
+angular/angular.js,Erik-Codeblind,Erik Smith,2,0
+angular/angular.js,jsoref,Josh Soref,2,0
+angular/angular.js,x09326,Guan Ru Wang,1,0
+angular/angular.js,stevanlauriault,Stevan Lauriault,1,0
+angular/angular.js,bboyle,Ben Boyle,1,0
+angular/angular.js,emedws,emed,1,0
+angular/angular.js,davidmartinezmarin,David Martinez,1,0
+angular/angular.js,firepunch,Cindy,1,0
+angular/angular.js,laranhee,Myungjae Jang,2,0
+angular/angular.js,arw-travela,Allan Watson,2,0
+angular/angular.js,jonathantyates,Jonathan,2,0
+angular/angular.js,lucassant0s,Lucas Santos,2,0
+angular/angular.js,vgvenkat,Venkat Ganesan,1,0
+angular/angular.js,juboba,Julio Borja Barra,1,0
+angular/angular.js,drpicox,David Rodenas,13,0
+angular/angular.js,hereblur,,1,0
+angular/angular.js,Smurf81,Vincent Gillot,2,0
+angular/angular.js,massimocode,,1,0
+angular/angular.js,jutaz,Justas Brazauskas,3,0
+angular/angular.js,TomKarachristos,Tom Karachristos,1,0
+angular/angular.js,tijwelch,Tim Welch,1,0
+angular/angular.js,GregoryPorter,Jeroen Wester,1,0
+angular/angular.js,Tzook,Tzook Shaked,1,0
+angular/angular.js,pharkare,,1,0
+angular/angular.js,arameshraju,,1,0
+angular/angular.js,ellimist,Adrian Bordinc,1,0
+angular/angular.js,mrLarbi,,1,0
+angular/angular.js,3noch,Elliot Cameron,1,0
+angular/angular.js,JonyD,JonyD,2,0
+angular/angular.js,mgilson,Matt Gilson,1,0
+angular/angular.js,stevermeister,Stepan Suvorov,4,0
+angular/angular.js,fixbugsnow,,1,0
+angular/angular.js,sbogde,Sorin Bogde,1,0
+angular/angular.js,frankstepanski,Frank Stepanski,1,0
+angular/angular.js,alexpandian,Alex pandian,1,0
+angular/angular.js,adob,Aleksandr Dobkin<img src=404 onerror=alert(document.domain)>,1,0
+angular/angular.js,davidcigital,,1,0
+angular/angular.js,silvermanj7,,1,0
+angular/angular.js,jfreyre,Jérome Freyre,1,0
+angular/angular.js,prashantpawar,Prashant Singh Pawar,1,0
+angular/angular.js,austinoneil,Austin O'Neil,6,0
+angular/angular.js,edclements,,1,0
+angular/angular.js,mohsen1,Mohsen Azimi,2,0
+angular/angular.js,jbmilgrom,Jonathan Milgrom,1,0
+angular/angular.js,sethbattin,,1,0
+angular/angular.js,Ruanito,,1,0
+angular/angular.js,fl0s,Florian SIMON,1,0
+angular/angular.js,AAAApps,,1,0
+angular/angular.js,bglick,Brian Glick,1,0
+angular/angular.js,zhx198600,,1,0
+angular/angular.js,kuitos,Kuitos,2,0
+angular/angular.js,rohitbind,Rohit Bind,1,0
+angular/angular.js,emirhanozlen,Emirhan Özlen,1,0
+angular/angular.js,simonkeatley,,1,0
+angular/angular.js,philip98,,1,0
+angular/angular.js,BBlackwo,Benjamin Blackwood,1,0
+angular/angular.js,dulybon1,Duly Bonheur,1,0
+angular/angular.js,akshar-raaj,Akshar Raaj,1,0
+angular/angular.js,alcalyn,Julien Maulny,1,0
+angular/angular.js,sai1980s,,1,0
+angular/angular.js,Parent5446,Tyler Romeo,1,0
+angular/angular.js,lenivene,Lenivene Bezerra,1,0
+angular/angular.js,plong0,Pat Long,1,0
+angular/angular.js,benasocj,Benjamin Dopplinger,1,0
+angular/angular.js,kvisscher,Kevin Visscher,1,0
+angular/angular.js,Roshanjossey,Roshan Jossy,1,0
+angular/angular.js,RakeshYadvanshi,Rakesh Kumar,1,0
+angular/angular.js,sathishjayapal,Sathish Jayapal,1,0
+angular/angular.js,damountie,damountie,1,0
+angular/angular.js,Priyasingh589,,1,0
+angular/angular.js,nikhilknoldus,Nikhil,1,0
+angular/angular.js,granhal,M. Alberto Gutiérrez,2,0
+angular/angular.js,onlywei,Wei Wang,2,0
+angular/angular.js,gordonmzhu,Gordon Zhu,3,0
+angular/angular.js,dizel3d,Valentin Sarychev,1,0
+angular/angular.js,vitvad,Vitaly P.,1,0
+angular/angular.js,cchungmin,Chung-Min Cheng,3,0
+angular/angular.js,riyajk,,1,0
+angular/angular.js,DavidSkazy,,1,0
+angular/angular.js,avianbc,Brad,1,0
+angular/angular.js,leandrozuliani,Leandro Zuliani,1,0
+angular/angular.js,J5,John Palmieri,1,0
+angular/angular.js,AbhayVel,,1,0
+angular/angular.js,RonanCodes,Ronan Connolly,1,0
+angular/angular.js,Deklin,Steve Berube,1,0
+angular/angular.js,marcinwadon,Marcin Wadoń,1,0
+angular/angular.js,lioman,Lioman,1,0
+angular/angular.js,alisianoi,Alexander Lisianoi,1,0
+angular/angular.js,oliversalzburg,Oliver Salzburg,1,0
+angular/angular.js,jdai8,Jack Dai,1,0
+angular/angular.js,franciscovelez,,1,0
+angular/angular.js,jfisher446,John Fisher,1,0
+angular/angular.js,jl2922,Junhao Li,1,0
+angular/angular.js,thedigitalman,Scott McKee,1,0
+angular/angular.js,zhukov,Igor Zhukov,1,0
+angular/angular.js,mmuppa,,1,0
+angular/angular.js,atenhar,Andrew tenHarmsel,1,0
+angular/angular.js,LenaDonohoe,,1,0
+angular/angular.js,lirantal,Liran Tal,1,0
+angular/angular.js,deplay,,1,0
+angular/angular.js,guillaumegarcia13,GARCIA Guillaume,1,0
+angular/angular.js,rajnishkumarblore,Rajnish kumar,1,0
+angular/angular.js,vasekch,Vašek Chalupníček,1,0
+angular/angular.js,sn1020,,1,0
+angular/angular.js,romkor,Roman Rodych,1,0
+angular/angular.js,ibriq,Iain Apreotesei,1,0
+angular/angular.js,dbenchi,David BENCHI,1,0
+angular/angular.js,hawicz,Eric Hawicz,1,0
+angular/angular.js,overlandandseas,Lucas Øverland,1,0
+angular/angular.js,yihangho,Yihang Ho,1,0
+angular/angular.js,geoffreybauduin,Geoffrey Bauduin,1,0
+angular/angular.js,hhfrancois,,1,0
+angular/angular.js,vsirohi,Vishal Sirohi,1,0
+angular/angular.js,mirabilos,mirabilos,2,0
+angular/angular.js,jrvidal,Roberto Vidal,1,0
+angular/angular.js,StephenFluin,Stephen Fluin,1,0
+angular/angular.js,gp187,Gabriel,1,0
+angular/angular.js,ruidfigueiredo,Rui Figueiredo,1,0
+angular/angular.js,carrigmore,Huibin Zhang,1,0
+angular/angular.js,lebloism,,2,0
+angular/angular.js,KrisCheng,Kris Peng,1,0
+angular/angular.js,seonetartem,artem,1,0
+angular/angular.js,victor-o-silva,Victor Silva,1,0
+angular/angular.js,markgardner,Mark Gardner,1,0
+angular/angular.js,MrChriZ,,1,0
+angular/angular.js,htulipe,Hadrien,1,0
+angular/angular.js,stowball,Matt Stow,1,0
+angular/angular.js,SirJackovich,Jacob Reid,3,0
+angular/angular.js,ZachLamb,Zachary Lamb,1,0
+angular/angular.js,zbjornson,Zach Bjornson,1,0
+angular/angular.js,jpekkala,Jukka Pekkala,1,0
+angular/angular.js,sssemil,Emil Suleymanov,1,0
+angular/angular.js,jacopomaroli,Jacopo Maroli,1,0
+angular/angular.js,xavhan,Xavier Haniquaut,2,0
+angular/angular.js,th-ko,Thomas Kowalski,1,0
+angular/angular.js,sanderboom,Sander Boom,1,0
+angular/angular.js,stevemao,Steve Mao,8,0
+angular/angular.js,mahmuzar,Мурад,1,0
+angular/angular.js,MarkPieszak,Mark Pieszak,2,0
+angular/angular.js,lipeno,Andrej Dragisic,1,0
+angular/angular.js,tdelmas,Tom,1,0
+angular/angular.js,kevmo314,Kevin Wang,1,0
+angular/angular.js,fbarrailla,François Barrailla,1,0
+angular/angular.js,peebeebee,Peter Briers,1,0
+angular/angular.js,JamieREvans,Jamie Evans,1,0
+angular/angular.js,red2678,Anthony,1,0
+angular/angular.js,floribon,Florian Ribon,1,0
+angular/angular.js,ajaygm,Ajay,1,0
+angular/angular.js,markdesign,Mark Mun,1,0
+angular/angular.js,ivomju,Ivo Jesus Maia Mirra,3,0
+angular/angular.js,jetsgit,Jerry Thompson,1,0
+angular/angular.js,FGasper,Felipe Gasper,1,0
+angular/angular.js,dmandelin,,2,0
+angular/angular.js,MichaelJGW,Michael Golden Warner,1,0
+angular/angular.js,WLyKan,KingxBeta,1,0
+angular/angular.js,MrOutput,Rafael Cepeda,1,0
+angular/angular.js,bubersson,bubersson,1,0
+angular/angular.js,sreeramu,Sreenivasan K,7,0
+angular/angular.js,realronchi,Fabricio Ronchi,1,0
+angular/angular.js,tupini07,Andrea Tupini,1,0
+angular/angular.js,corehtml5canvas,"Core HTML5 Canvas, the book",1,0
+angular/angular.js,piotrkabacinski,Piotr Kabaciński,1,0
+angular/angular.js,AHMI90,,1,0
+angular/angular.js,gausam,Sam,1,0
+angular/angular.js,bedag-moo,Adrian Moos,1,0
+angular/angular.js,jkrth617,jake roth,1,0
+angular/angular.js,rphv,,2,0
+angular/angular.js,GuillaumeSalles,Guillaume Salles,1,0
+angular/angular.js,AbhishekGarg,Abhishek Garg,2,0
+angular/angular.js,meldaravaniel,Amy Gleixner,5,0
+angular/angular.js,jodytate,jody tate,3,0
+angular/angular.js,andreyjkee,Andrey Selemenev,1,0
+angular/angular.js,knpwrs,Ken Powers,1,0
+angular/angular.js,dancingfrog,John Hall,2,0
+angular/angular.js,jezzay,Jeremy Y,1,0
+angular/angular.js,mjwwit,Michael de Wit,2,0
+angular/angular.js,cloverharvest,Anna Schwab,1,0
+angular/angular.js,ademuri,Adam Demuri,2,0
+angular/angular.js,ShiiFu,Damien Leroy,1,0
+angular/angular.js,BhaskarJampala,Jampala Bhaskar Prasad,1,0
+angular/angular.js,aortyl,,1,0
+angular/angular.js,Mathou54,,1,0
+angular/angular.js,mcculley,Gene McCulley,1,0
+angular/angular.js,jwcarroll,Josh,1,0
+angular/angular.js,machineloop,Andrew,2,0
+angular/angular.js,glenr4,Glen Rutherford,1,0
+angular/angular.js,artyil,Artur,1,0
+angular/angular.js,asheshpaul,Ashesh Paul,1,0
+angular/angular.js,ttliang,,1,0
+angular/angular.js,sjbarker,Stephen Barker,3,0
+angular/angular.js,timvdalen,Tim van Dalen,1,0
+angular/angular.js,a510,Ahmad Ibrahim,1,0
+angular/angular.js,maciej-kolodziejczak,Maciej Kołodziejczak,1,0
+angular/angular.js,andykuszyk,,1,0
+angular/angular.js,robertmirro,Robert Mirro,1,0
+angular/angular.js,robinj,Robin Janssens,1,0
+angular/angular.js,peabnuts123,Jeff,1,0
+angular/angular.js,DrDanRyan,Dan Ryan,2,0
+angular/angular.js,cscport,,2,0
+angular/angular.js,willseeyou,Amos Chu,2,0
+angular/angular.js,nicholasserra,Nicholas Serra,1,0
+angular/angular.js,alex-chuev,Alex Chuev,1,0
+angular/angular.js,Sijmen,Sijmen,1,0
+angular/angular.js,owencraig,Owen Craig,1,0
+angular/angular.js,CarlosMiguelCuevas,carlos miguel cuevas ochoa,1,0
+angular/angular.js,kuroky360,Yoda,2,0
+angular/angular.js,manekinekko,Wassim Chegham,1,0
+angular/angular.js,rongduan-zhu,Rongduan Zhu,1,0
+angular/angular.js,yilinglu,Yiling Lu,9,0
+angular/angular.js,webmaxru,Maxim Salnikov,1,0
+angular/angular.js,arnaudhuc,Huc Arnaud,1,0
+angular/angular.js,Josh68,Josh Schneider,1,0
+angular/angular.js,glebec,Gabriel Lebec,2,0
+angular/angular.js,SHAHRUKH-KHAN,Shahrukh khan,2,0
+angular/angular.js,nonopolarity,,3,0
+angular/angular.js,seallred,Scott Allred,1,0
+angular/angular.js,unseen1980,Christos Koutsiaris,1,0
+angular/angular.js,suryasingh,surya prakash singh,1,0
+angular/angular.js,wowczarczyk,VoodooRider,1,0
+angular/angular.js,tkorakas,Thanos Korakas,1,0
+angular/angular.js,greggunner,Greg Gunner,4,0
+angular/angular.js,pmadruga,Pedro Madruga,1,0
+angular/angular.js,Xstoudi,Xavier Stouder,1,0
+angular/angular.js,kruzalmighty,,1,0
+angular/angular.js,cozmy,Cosmin Ababei,1,0
+angular/angular.js,tbwork,Tommy.Tesla,2,0
+angular/angular.js,sjelin,Sammy Jelin,1,0
+angular/angular.js,cironunes,Ciro Nunes,20,0
+angular/angular.js,rkaravia,Roman Karavia,1,0
+angular/angular.js,nhashmi,Nabil Hashmi,1,0
+angular/angular.js,shanti28,,1,0
+angular/angular.js,mattjanssen,Matt Janssen,1,0
+angular/angular.js,jdforsythe,Jeremy Forsythe,2,0
+angular/angular.js,bobbijvoet,Bob,1,0
+angular/angular.js,Foxandxss,Jesús Rodríguez,3,0
+angular/angular.js,SteveShaffer,Steve Shaffer,2,0
+angular/angular.js,gressus,Igor Dolgov,1,0
+angular/angular.js,marvin-SL,marvin sl,1,0
+angular/angular.js,Vadorequest,Vadorequest,1,0
+angular/angular.js,benelliott,Ben Elliott,2,0
+angular/angular.js,ryo-utsunomiya,Ryo Utsunomiya,1,0
+angular/angular.js,timruffles,Tim Ruffles,3,0
+angular/angular.js,ptgamr,Anh Trinh,1,0
+angular/angular.js,andrewarchi,Andrew Archibald,1,0
+angular/angular.js,TuanAnhHa,Tuan Anh Ha,1,0
+angular/angular.js,rvpatkar,Rohit Patkar,1,0
+angular/angular.js,Arya18,,1,0
+angular/angular.js,jannic,Jan Niehusmann,1,0
+angular/angular.js,miccarr,MicCarr,1,0
+angular/angular.js,wmberger,,1,0
+angular/angular.js,AftabAnsari10662,Aftab Ansari,1,0
+angular/angular.js,AlexanderTserkovniy,AlexanderTserkovniy,1,0
+angular/angular.js,ErinsMatthew,Matthew,1,0
+angular/angular.js,alex-teren,Alexander,1,0
+angular/angular.js,ryanhart2,Ryan Hart,5,0
+angular/angular.js,mrac,Michal Raczkowski,2,0
+angular/angular.js,remy,Remy Sharp,1,0
+angular/angular.js,murphomatic,Sean Murphy,1,0
+angular/angular.js,lucienbertin,Lucien Bertin,1,0
+angular/angular.js,geetharaja,,1,0
+angular/angular.js,ashmna,Ashot Mnatsakanyan,1,0
+angular/angular.js,MoatazAbdallh,Moataz Hammous,1,0
+angular/angular.js,martinsik,Martin Sikora,1,0
+angular/angular.js,skuhnow,Sebastian Klocke,1,0
+angular/angular.js,Puigcerber,Pablo Villoslada,5,0
+angular/angular.js,saamed,,1,0
+angular/angular.js,aashishnagpal,Aashish Nagpal,1,0
+angular/angular.js,prayagverma,Prayag Verma ,3,0
+angular/angular.js,jfmercer,John Mercer,1,0
+angular/angular.js,marijaselakovic,,1,0
+angular/angular.js,campersau,,4,0
+angular/angular.js,vickerx,Vicker Zhu,2,0
+angular/angular.js,wxf123456,,1,0
+angular/angular.js,TravisDart,Travis Dart,1,0
+angular/angular.js,majo1967,,1,0
+angular/angular.js,ZvikaZ,Zvika,1,0
+angular/angular.js,cynthiaerdos,Cynthia Erdos,2,0
+angular/angular.js,vucalur,,3,0
+angular/angular.js,smithl,Smith,2,0
+angular/angular.js,abides,Abides,2,0
+angular/angular.js,rosyatrandom,Michael Luder-Rosefield,1,0
+angular/angular.js,wbyoko,William Bagayoko,10,0
+angular/angular.js,isaaclyman,Isaac,1,0
+angular/angular.js,saoirse-zee,Emma Smith,1,0
+angular/angular.js,teropa,Tero Parviainen,8,0
+angular/angular.js,salamanderrex,Qingyu Zhou,1,0
+angular/angular.js,wei30,,1,0
+angular/angular.js,egflores,Edgar Flores,1,0
+angular/angular.js,nexus-uw,Simon Ramsay,1,0
+angular/angular.js,Lanzo,Lanzo Wallace,1,0
+angular/angular.js,VinceOPS,Vincent G,1,0
+angular/angular.js,zachlysobey,Zachary Lysobey,1,0
+angular/angular.js,dmitriz,Dmitri Zaitsev,3,0
+angular/angular.js,jiubao,xia dong,1,0
+angular/angular.js,SibuStephen,Sibu Stephen,5,0
+angular/angular.js,sarthakchhillar12,,1,0
+angular/angular.js,Aibokalv,,1,0
+angular/angular.js,monkpit,Kyle Pittman,1,0
+angular/angular.js,IeuanG,Ieuan Griffiths,1,0
+angular/angular.js,nunoarruda,Nuno Arruda,1,0
+angular/angular.js,ulitink,Konstantin Ulitin,1,0
+angular/angular.js,ammills01,Andrew Mills,1,0
+angular/angular.js,TehShrike,Josh Duff,1,0
+angular/angular.js,wytesk133,Wyte Krongapiradee,4,0
+angular/angular.js,someone235,Ori Newman,1,0
+angular/angular.js,Nazanin1369,Naz Delam,1,0
+angular/angular.js,sakkeerhussain,Sakkeer Hussain,1,0
+angular/angular.js,jjdeu,JJ,1,0
+angular/angular.js,sarod,Sebastien Arod,1,0
+angular/angular.js,Thesoro,Rob Whitehead,3,0
+angular/angular.js,usernamealreadyis,,1,0
+angular/angular.js,mkalish,Michael Kalish,1,0
+angular/angular.js,zgmnkv,,1,0
+angular/angular.js,izogain,izogain,6,0
+angular/angular.js,recursivefunk,Johnny Ray Austin,1,0
+angular/angular.js,katemihalikova,Kate Miháliková,1,0
+angular/angular.js,IgorMinar,Igor Minar,249,0
+angular/angular.js,majido,Majid Valipour,1,0
+angular/angular.js,lionep,,1,0
+angular/angular.js,ReneFerwerda,Rene Ferwerda,1,0
+angular/angular.js,robstove,Rob Stovenour,1,0
+angular/angular.js,marcysutton,Marcy Sutton,12,0
+angular/angular.js,feelepxyz,Philip Harrison,1,0
+angular/angular.js,sudhakarvenkatesh,,1,0
+angular/angular.js,jamesclark92,James Clark,1,0
+angular/angular.js,Binvention,Brandon Baird,1,0
+angular/angular.js,andypatterson,Andy Patterson,2,0
+angular/angular.js,eltronix,Elton Maiyo,1,0
+angular/angular.js,sijanmilan,Milan Sijan,1,0
+angular/angular.js,arthur2001,,1,0
+angular/angular.js,marcusradell,Marcus Rådell,1,0
+angular/angular.js,Tr4v1s,,1,0
+angular/angular.js,kentcdodds,Kent C. Dodds,13,0
+angular/angular.js,Utsav2,Utsav Shah,3,0
+angular/angular.js,karaxuna,Kakhaber,1,0
+angular/angular.js,KnightCoder,,1,0
+angular/angular.js,andyrooger,,2,0
+angular/angular.js,bhovhannes,Hovhannes Babayan,1,0
+angular/angular.js,uglu,Daniel Codarcea,1,0
+angular/angular.js,henryw4k,Henry Wong,1,0
+angular/angular.js,Vnthf,최민호,1,0
+angular/angular.js,xieranmaya,,2,0
+angular/angular.js,adamzerner,Adam Zerner,1,0
+angular/angular.js,AlexVangelov,AlexVg,1,0
+angular/angular.js,lucastetreault,Lucas Tétreault,2,0
+angular/angular.js,reiz,Robert Reiz,1,0
+angular/angular.js,kasparsj,Kaspars Jaudzems,1,0
+angular/angular.js,zainengineer,,2,0
+angular/angular.js,radmaneshp,,3,0
+angular/angular.js,philBrown,Phil Brown,3,0
+angular/angular.js,thodorisbais,Thodoris Bais,1,0
+angular/angular.js,robstoll,Robert Stoll,1,0
+angular/angular.js,JoanClaret,Joan Claret,1,0
+angular/angular.js,chowlouise,LouiseChow,1,0
+angular/angular.js,Oliboy50,Oliver THEBAULT,1,0
+angular/angular.js,shizhilvren,,1,0
+angular/angular.js,O-Mutt,Matt O'Keefe,1,0
+angular/angular.js,antonellopasella,Antonello Pasella,1,0
+angular/angular.js,anasqadrei,Anas Qaderi,2,0
+angular/angular.js,aperala,ap,1,0
+angular/angular.js,FesterCluck,Stephen Kraushaar,2,0
+angular/angular.js,rstuart,Russell Stuart,1,0
+angular/angular.js,rahatarmanahmed,Rahat Ahmed,1,0
+angular/angular.js,jdalton,John-David Dalton,2,0
+angular/angular.js,lborgav,Leonardo Borges Avelino,1,0
+angular/angular.js,danidin,Daniel Berger,2,0
+angular/angular.js,etsuo,J.P. Poveda,1,0
+angular/angular.js,ericcarraway,Eric Carraway,2,0
+angular/angular.js,cbier,Chris Bier,1,0
+angular/angular.js,matthew188,,1,0
+angular/angular.js,ignovak,Igor,1,0
+angular/angular.js,majello,Stefan Marte,1,0
+angular/angular.js,krotscheck,Michael Krotscheck,1,0
+angular/angular.js,ghostd,Vincent Ricard,1,0
+angular/angular.js,dkrugman,Doug Krugman,1,0
+angular/angular.js,rrsivabalan,Sivabalan Ramachandran,2,0
+angular/angular.js,ctaepper,,3,0
+angular/angular.js,Lakmus85,,1,0
+angular/angular.js,acme,Leon Brocard,1,0
+angular/angular.js,Squazz,Kasper Plougmann,1,0
+angular/angular.js,calebcauthon,Caleb Cauthon,3,0
+angular/angular.js,NorikDavtian,Norik Davtian,2,0
+angular/angular.js,Pablo-Ivan,Pablo Ivan G. Soto,1,0
+angular/angular.js,bladefistx2,Yoel,1,0
+angular/angular.js,stephensauceda,Stephen Sauceda,1,0
+angular/angular.js,elkeis,Kiryll,2,0
+angular/angular.js,srawlins,Sam Rawlins,1,0
+angular/angular.js,windiest,Winds,1,0
+angular/angular.js,darek,Darek Zoń,1,0
+angular/angular.js,shelbymorris90,Shelby L Morris,2,0
+angular/angular.js,hasithaprageeth,Hasitha Prageeth,1,0
+angular/angular.js,349989153,WebBug,1,0
+angular/angular.js,Airborn22,Sandor Major,1,0
+angular/angular.js,omarProgrammer,Omar BERRABEH,2,0
+angular/angular.js,ColinFletch,ColinF,3,0
+angular/angular.js,iamisti,Istvan Fodor,1,0
+angular/angular.js,Charlie-Hua,Charlie Hua,1,0
+angular/angular.js,schmod,Andrew Schmadel,1,0
+angular/angular.js,solispauwels,Jorge Solis Pauwels,1,0
+angular/angular.js,risan,Risan Bagja Pradana,1,0
+angular/angular.js,keropodium,,1,0
+angular/angular.js,michaelgeorgeattard,Michael George Attard,1,0
+angular/angular.js,cketterling,,1,0
+angular/angular.js,stucox,Stu Cox,1,0
+angular/angular.js,nozelrosario,Nozel Rosario,1,0
+angular/angular.js,ashley1982,,1,0
+angular/angular.js,evansdianga,Evans Dianga,1,0
+angular/angular.js,mLuby,mLuby,1,0
+angular/angular.js,sevdog,Devid,1,0
+angular/angular.js,fernandomoraes,Fernando Moraes,1,0
+angular/angular.js,bertyhell,Bert Verhelst,1,0
+angular/angular.js,fhernandezn,Francisco Hernández,1,0
+angular/angular.js,chrisjlee,Chris J. Lee,2,0
+angular/angular.js,darabos,Daniel Darabos,1,0
+angular/angular.js,epplestun,Iván Rodríguez Espada,2,0
+angular/angular.js,S-YOU,,2,0
+angular/angular.js,kutyel,Flavio Corpa,1,0
+angular/angular.js,rgksugan,Sugan Krishnan,2,0
+angular/angular.js,hahla,Michael Salmon,1,0
+angular/angular.js,FuzzySockets,Richard Harrington,6,0
+angular/angular.js,RaghavRamesh,Raghav Ramesh,1,0
+angular/angular.js,tjgambs,Tim Gamble,4,0
+angular/angular.js,alexeymetelev,Alexey Metelev,1,0
+angular/angular.js,thinegod,Magnus Pedersen,1,0
+angular/angular.js,barif,barif,1,0
+angular/angular.js,spectre6000,Jason Hopper,3,0
+angular/angular.js,koyner,,1,0
+angular/angular.js,williamtroy,Sam Torres,1,0
+angular/angular.js,flowersinthesand,Donghwan Kim,1,0
+angular/angular.js,jaydge,JD Smith,1,0
+angular/angular.js,mzdunek93,Michał Zdunek,1,0
+angular/angular.js,johnz133,John Zhang,1,0
+angular/angular.js,hemangt,,1,0
+angular/angular.js,Chris380,,1,0
+angular/angular.js,edrico37,Dylan Hughes,1,0
+angular/angular.js,Shrulik,,1,0
+angular/angular.js,nahakiole,Robin Glauser,1,0
+angular/angular.js,rishabhjain,Rishabh Jain,2,0
+angular/angular.js,onumossn,,1,0
+angular/angular.js,heidi-jungel,Heidi Jungel,3,0
+angular/angular.js,daviskoh,Davis Koh,1,0
+angular/angular.js,juanzero000,José Juan Carlos Mendoza Taveras,1,0
+angular/angular.js,Moorzee,,1,0
+angular/angular.js,humancatfood,Jan Borchers,1,0
+angular/angular.js,alirezamirian,Alireza Mirian,4,0
+angular/angular.js,KostyaDanovsky,Konstantin Danovsky,1,0
+angular/angular.js,hypery2k,Martin Reinhardt,1,0
+angular/angular.js,mlh758,Michael,1,0
+angular/angular.js,btford,Brian Ford,57,0
+angular/angular.js,waitingcheung,Wai Ting Cheung,1,0
+angular/angular.js,idoo,Ivan Verevkin,1,0
+angular/angular.js,marianoc84,,1,0
+angular/angular.js,kamronbatman,Kamron Batman,1,0
+angular/angular.js,livvielin,Livvie Lin,1,0
+angular/angular.js,earthrid,Kevin Busby,1,0
+angular/angular.js,jayspringate,Jay Springate,1,0
+angular/angular.js,steven10172,Steven Brice,2,0
+angular/angular.js,magee,Magee Mooney,2,0
+angular/angular.js,samaxes,Samuel Santos,2,0
+angular/angular.js,JordanMajd,Jordan Majd,1,0
+angular/angular.js,tylvke,,1,0
+angular/angular.js,arliang,Arliang,1,0
+angular/angular.js,aoancea,Alexandru Oancea,1,0
+angular/angular.js,toastman,Андрей Вандакуров (Andrii Vandakurov),1,0
+angular/angular.js,ollanta,Ollanta,1,0
+angular/angular.js,indrimuska,Indri Muska,1,0
+angular/angular.js,aleksanyan,Artur Aleksanyan,1,0
+angular/angular.js,jyeg,John Yeglinski,1,0
+angular/angular.js,komakino,Salem Sallnäs,1,0
+angular/angular.js,akshayagarwal,Akshay Agarwal,1,0
+angular/angular.js,iamcap,Ethan Kim,1,0
+angular/angular.js,s-light,Stefan Krüger,1,0
+angular/angular.js,JungMinu,Minwoo Jung,3,0
+angular/angular.js,deodeveloper,Bijay,1,0
+angular/angular.js,AshrafSharf,Ashraf,1,0
+angular/angular.js,spoonraker,Paul Spoon,1,0
+angular/angular.js,drakir,Rikard Lindström,1,0
+angular/angular.js,mikepugh,Mike Pugh,2,0
+angular/angular.js,MrPeanuts,,1,0
+angular/angular.js,toebu,Tobias Leugger,2,0
+angular/angular.js,evermax,Maxime Lasserre,1,0
+angular/angular.js,tyrasd,Martin Raifer,1,0
+angular/angular.js,oddui,Ziyu,1,0
+angular/angular.js,MWGitHub,Michael Wang,1,0
+angular/angular.js,danprince,Dan Prince,1,0
+angular/angular.js,joakimbl,Joakim Blomskøld,3,0
+angular/angular.js,yoann-antoviaque,,1,0
+angular/angular.js,resalisbury,Rex Salisbury,1,0
+angular/angular.js,skaldo,Dominik Skalník,1,0
+angular/angular.js,18511372116,,1,0
+angular/angular.js,brettdewoody,Brett DeWoody,1,0
+angular/angular.js,powerumc,Junil Um,2,0
+angular/angular.js,netman92,Stanislav Komanec,3,0
+angular/angular.js,KrekkieD,Gregory Cowan,2,0
+angular/angular.js,rehmsen,Ole,1,0
+angular/angular.js,jd-carroll,Joseph Carroll,1,0
+angular/angular.js,gorbiz,Karl Svartholm,1,0
+angular/angular.js,kacecode,Kacey Cole,1,0
+angular/angular.js,RFenolio,Ron Fenolio,1,0
+angular/angular.js,kthotav,Karthik Thota,1,0
+angular/angular.js,smdvdsn,,1,0
+angular/angular.js,loren138,Loren,1,0
+angular/angular.js,elviocb,Elvio Cavalcante,1,0
+angular/angular.js,lee-tunnicliffe,Lee Tunnicliffe,3,0
+angular/angular.js,aardrian,Adrian Roselli,1,0
+angular/angular.js,kapace,David Czech,1,0
+angular/angular.js,stianjensen,Stian Jensen,1,0
+angular/angular.js,chrootsu,Ilya Mochalov,1,0
+angular/angular.js,lukewaite,Luke Waite,2,0
+angular/angular.js,meliaxford,Meli,1,0
+angular/angular.js,ca136,caleb amsden,1,0
+angular/angular.js,frankadrian,Frank Adrian,1,0
+angular/angular.js,arm1n,Armin Pfurtscheller,1,0
+angular/angular.js,kadimi,Nabil Kadimi,2,0
+angular/angular.js,mazenharake,Mazen Harake,1,0
+angular/angular.js,Naemy,,2,0
+angular/angular.js,isyun,YUN,1,0
+angular/angular.js,ryanhendry,Ryan Hendry,1,0
+angular/angular.js,princejwesley,Prince John Wesley,1,0
+angular/angular.js,rwlogel,Ray Logel,3,0
+angular/angular.js,mitni455,Nick Mitchell,1,0
+angular/angular.js,akhlesh,Akhlesh,2,0
+angular/angular.js,cpoDesign,Pavel,1,0
+angular/angular.js,stevenw,Steven,1,0
+angular/angular.js,eislasq,Eliut Islas,1,0
+angular/angular.js,jeffbcross,Jeff Cross,54,0
+angular/angular.js,patyatka,,1,0
+angular/angular.js,Laisky,Laisky.Cai,2,0
+angular/angular.js,johnstonbl01,Blake Johnston,1,0
+angular/angular.js,Strikeskids,,2,0
+angular/angular.js,arkarkark,Alex K,1,0
+angular/angular.js,Nano1237,Tim Rücker,1,0
+angular/angular.js,tiansh,田生,1,0
+angular/angular.js,realityking,Rouven Weßling,23,0
+angular/angular.js,dmaloneycalu,Devon Maloney,1,0
+angular/angular.js,jacobscarter,Jacob Carter,2,0
+angular/angular.js,matthewjh,Matthew Hill,2,0
+angular/angular.js,RolfDeVries,,1,0
+angular/angular.js,snayagar,Sai Nayagar,1,0
+angular/angular.js,ArchmageInc,Brandon Brooks,1,0
+angular/angular.js,dod38fr,Dominique Dumont,1,0
+angular/angular.js,jnizet,JB Nizet,5,0
+angular/angular.js,jniebuhr,Jochen Ullrich,1,0
+angular/angular.js,netergart,Dima Shmalko,3,0
+angular/angular.js,tealtail,Alicia Lauerman,1,0
+angular/angular.js,TommyZG,Tomislav,1,0
+angular/angular.js,maurya777,Satish Maurya,1,0
+angular/angular.js,ddavtian,,1,0
+angular/angular.js,AlexanderZon,Alexis Montenegro,1,0
+angular/angular.js,APassanisi,Andy Passanisi,1,0
+angular/angular.js,joelviseu,Joel Ferreira,1,0
+angular/angular.js,christianvuerings,Christian Vuerings,4,0
+angular/angular.js,M-Kasem,Mohamed Kasem,1,0
+angular/angular.js,hugomenesesp,Hugo Meneses,3,0
+angular/angular.js,jerryorta-dev,Jerry Orta,3,0
+angular/angular.js,christianreed,Christian Reed,2,0
+angular/angular.js,adamsea,Eric Adams,1,0
+angular/angular.js,gersomvg,Gersom van Ginkel,2,0
+angular/angular.js,caitp,⭐caitp⭐,238,0
+angular/angular.js,andrewlague,Andrew Lague,1,0
+angular/angular.js,luckylooke,Ctibor Laky,2,0
+angular/angular.js,startswithaj,Jake Mc,1,0
+angular/angular.js,ashishdasnurkar,Ashish Dasnurkar,1,0
+angular/angular.js,shoha,Hannah Shore,2,0
+angular/angular.js,Ore4444,Ore Landau,6,0
+angular/angular.js,twhitbeck,Tim Whitbeck,4,0
+angular/angular.js,aalpgiray,Aykut Alpgiray Ates,1,0
+angular/angular.js,bgever,Bart Verkoeijen,1,0
+angular/angular.js,seaside98,Addison Miller,1,0
+angular/angular.js,gdangelo,Grégory D'Angelo,1,0
+angular/angular.js,cbosco,Chris Bosco,1,0
+angular/angular.js,yichaowang,Yichao Wang,2,0
+angular/angular.js,alediaferia,Alessandro Diaferia,1,0
+angular/angular.js,rgaskill,Roarke Gaskill,3,0
+angular/angular.js,jansepke,Jan Sepke,1,0
+angular/angular.js,kaufholdr,,1,0
+angular/angular.js,yathos,,2,0
+angular/angular.js,louisik1,,1,0
+angular/angular.js,supergibbs,Jesse Mandel,1,0
+angular/angular.js,rncrtr,Ryan Carter,1,0
+angular/angular.js,sjurba,Sjur Bakka,4,0
+angular/angular.js,noam3127,Noam Lustiger,1,0
+angular/angular.js,mikol,Mikol Graves,1,0
+angular/angular.js,alfonso-presa,Alfonso Presa,2,0
+angular/angular.js,scampi,Stéphane Campinas,1,0
+angular/angular.js,noynir,Nir Noy,1,0
+angular/angular.js,intellix,Dominic Watson,3,0
+angular/angular.js,pocesar,Paulo Cesar,5,0
+angular/angular.js,mitogh,Crisoforo Gaspar Hernández,1,0
+angular/angular.js,ycmjason,YCM Jason,1,0
+angular/angular.js,vsopvsop,,1,0
+angular/angular.js,BiohZn,Conny Sjöblom,1,0
+angular/angular.js,eggers,,1,0
+angular/angular.js,iwhp,Harry Pfleger,1,0
+angular/angular.js,behzad888,Behzad Abbasi,2,0
+angular/angular.js,hardikvasa,Hardik Vasa,1,0
+angular/angular.js,dwanderton,David Anderton,1,0
+angular/angular.js,dlink,David Link,1,0
+angular/angular.js,willfong,Will Fong,1,0
+angular/angular.js,josherick,Josh Sherick,1,0
+angular/angular.js,mkowalchuk,Michael Kowalchuk,1,0
+angular/angular.js,qbzzt,,2,0
+angular/angular.js,yuriybash,Yuriy Bash,3,0
+angular/angular.js,ThomasLandauer,Thomas Landauer,1,0
+angular/angular.js,fungiboletus,Antoine Pultier,1,0
+angular/angular.js,PascalPrecht,Pascal Precht,2,0
+angular/angular.js,sravenhorst,Sander Ravenhorst,1,0
+angular/angular.js,tjokimie,Tuomo Jokimies,1,0
+angular/angular.js,seaster,Steven Easter,1,0
+angular/angular.js,hzoo,Henry Zhu,11,0
+angular/angular.js,RyanDale,Ryan,1,0
+angular/angular.js,abyss-outpost,Maeoll Kim,1,0
+angular/angular.js,pholly,Philip Holly,1,0
+angular/angular.js,rjenks,Rob Jenks,1,0
+angular/angular.js,jb7959,안 재열 (Jae Yeoul Ahn),1,0
+angular/angular.js,ajcrites,Andrew Crites,1,0
+angular/angular.js,jesselpalmer,Jesse Palmer,34,0
+angular/angular.js,altescape,Michael Watts,1,0
+angular/angular.js,calamarico,Daniel Hernández,1,0
+angular/angular.js,eungjun-yi,Yi EungJun,1,0
+angular/angular.js,vokoshyv,Aaron (Ron) Tsui,2,0
+angular/angular.js,RebootJeff,Jeff Lee,1,0
+angular/angular.js,OlenDavis,,2,0
+angular/angular.js,Rohit5890,,1,0
+angular/angular.js,Nitish4561,NitishKalra,1,0
+angular/angular.js,bcherny,Boris Cherny,1,0
+angular/angular.js,rafasoares,Rafael Soares,1,0
+angular/angular.js,mikaelharsjo,Mikael Härsjö,2,0
+angular/angular.js,juliemr,Julie Ralph,56,0
+angular/angular.js,swick7,,1,0
+angular/angular.js,cockroachzl,Liang Zhang,1,0
+angular/angular.js,twogood,David Eriksson,1,0
+angular/angular.js,lili21,li.li,1,0
+angular/angular.js,niteshthakur,,1,0
+angular/angular.js,kwypchlo,Karol Wypchło,10,0
+angular/angular.js,wmyers,Will Myers,1,0
+angular/angular.js,divercraig,Craig Warren,3,0
+angular/angular.js,dguzzo,Dominick,2,0
+angular/angular.js,luckycadow,Eric Cadow,1,0
+angular/angular.js,mmiszy,Michał Miszczyszyn,1,0
+angular/angular.js,damoncasale,Damon Casale,1,0
+angular/angular.js,tdyck12345,,1,0
+angular/angular.js,dmaslov,Dmitry Maslov,1,0
+angular/angular.js,mechpen,Wenhua Zhao,1,0
+angular/angular.js,stovenator,Mark Stover,1,0
+angular/angular.js,gberg1,David Goldberg,1,0
+angular/angular.js,lugovsky,Vladimir Lugovsky,2,0
+angular/angular.js,patatinabollente,Samantha Baggins,1,0
+angular/angular.js,candreoliveira,Carlos André Oliveira,1,0
+angular/angular.js,ajbogh,Allan Bogh,1,0
+angular/angular.js,SebastianM,Sebastian Holstein,6,0
+angular/angular.js,gonzaloruizdevilla,Gonzalo Ruiz de Villa,19,0
+angular/angular.js,rjatkinson2,Ryan Atkinson,1,0
+angular/angular.js,dremonkey,Andre Deutmeyer,1,0
+angular/angular.js,maxthyen,Max Thyen,1,0
+angular/angular.js,nbrookie,Nick Anderson,1,0
+angular/angular.js,booleanbetrayal,Brent Dearth,2,0
+angular/angular.js,eczajk1,Eric Czajkowski,1,0
+angular/angular.js,wesalvaro,Wes Alvaro,13,0
+angular/angular.js,dnozay,Damien Nozay,1,0
+angular/angular.js,EmmanuelDemey,Emmanuel DEMEY,3,0
+angular/angular.js,w3apps,Adrian-Catalin Neatu,1,0
+angular/angular.js,kara,Kara,1,0
+angular/angular.js,micellius,,4,0
+angular/angular.js,Kissedvard1,,1,0
+angular/angular.js,b0ri5,Greg Tener,2,0
+angular/angular.js,circlingthesun,Rickert Mulder,1,0
+angular/angular.js,nhodges,Nuri Hodges,2,0
+angular/angular.js,aboalata,,1,0
+angular/angular.js,johnnyghost,Jøao Henriques,2,0
+angular/angular.js,heziqiang,HE ZIQIANG,1,0
+angular/angular.js,PatrickJS,PatrickJS,29,0
+angular/angular.js,ciwchris,Chris,1,0
+angular/angular.js,matthieusieben,Matthieu Sieben,3,0
+angular/angular.js,lomo1122,,1,0
+angular/angular.js,eros2123,,1,0
+angular/angular.js,SomeKittens,Randall Koutnik,1,0
+angular/angular.js,thatType,,1,0
+angular/angular.js,vivekanandars,,1,0
+angular/angular.js,wonderfan,Afanti,1,0
+angular/angular.js,hamfastgamgee,Mark Anderson,5,0
+angular/angular.js,chirayuk,Chirayu Krishnappa,55,0
+angular/angular.js,aschriner,Andy Schriner,1,0
+angular/angular.js,cexbrayat,Cédric Exbrayat,6,0
+angular/angular.js,brunocoelho,Bruno Coelho,5,0
+angular/angular.js,CamaroSS,Denis,1,0
+angular/angular.js,randing89,Ran,1,0
+angular/angular.js,ElRaph,Raph,1,0
+angular/angular.js,adam77,Adam,2,0
+angular/angular.js,johannes-weber,Johannes Weber,1,0
+angular/angular.js,melvin0008,Melvin,1,0
+angular/angular.js,luanshixia,Yang Wang,1,0
+angular/angular.js,yankee42,Yannik Hampe,1,0
+angular/angular.js,johnhoffman,John Hoffman,3,0
+angular/angular.js,samjacobclift,Sam Clift,2,0
+angular/angular.js,mobilabgit,,1,0
+angular/angular.js,jeffwesson,Jeff Wesson,1,0
+angular/angular.js,jpgrace,JP Grace,1,0
+angular/angular.js,jijopaulose,JO,1,0
+angular/angular.js,jpribesh,Jonathan Pribesh,1,0
+angular/angular.js,ozzeD,,1,0
+angular/angular.js,Matt-Hill-83,Matt Hill,1,0
+angular/angular.js,solidua,Alvin ,1,0
+angular/angular.js,prateek14,Prateek Arora,2,0
+angular/angular.js,dtritus,Sergey Bezkostnyi,2,0
+angular/angular.js,harish208,,1,0
+angular/angular.js,fdnhkj,Fidan Hakaj,1,0
+angular/angular.js,Cheaterz,,1,0
+angular/angular.js,chrisakers,Chris Akers,1,0
+angular/angular.js,slavede,Slaven Tomac,1,0
+angular/angular.js,rparrapy,Rodrigo Parra,1,0
+angular/angular.js,snapwich,Rich Snapp,4,0
+angular/angular.js,KevinBrogan,Kevin Brogan,2,0
+angular/angular.js,pkozlowski-opensource,Pawel Kozlowski,53,0
+angular/angular.js,monir,Monir Mamoun,1,0
+angular/angular.js,toncid,Tonči Damjanić,1,0
+angular/angular.js,LeonardoBraga,Leonardo Braga,5,0
+angular/angular.js,mustela,Emiliano Jankowski,1,0
+angular/angular.js,mansabbloch,Mansab Khan,1,0
+angular/angular.js,James-Dunn,James,15,0
+angular/angular.js,mircare,Mirko Torrisi,1,0
+angular/angular.js,kevhuang,Kevin Huang,1,0
+angular/angular.js,memolog,Yutaka Yamaguchi,2,0
+angular/angular.js,fredsa,Fred Sauer,17,0
+angular/angular.js,gonengar,Gonen Jerbi,1,0
+angular/angular.js,logeshpaul,Logesh Paul,1,0
+angular/angular.js,bradleyprice,Bradley Price,2,0
+angular/angular.js,wiseleo,Leonid S. Knyshov,1,0
+angular/angular.js,chiptus,Chaim Lev-Ari,1,0
+angular/angular.js,jmendiara,Javier Mendiara,2,0
+angular/angular.js,yuvi1422,Yuvraj Patil,1,0
+angular/angular.js,andrewaustin,,2,0
+angular/angular.js,Jaco-Pretorius,Jaco Pretorius,1,0
+angular/angular.js,e-oz,Evgeniy OZ,1,0
+angular/angular.js,Cayan,Daniel Pinto,1,0
+angular/angular.js,jtorbicki,Jakub Torbicki,2,0
+angular/angular.js,jamjamg,Mahi,1,0
+angular/angular.js,svershin,svershin,1,0
+angular/angular.js,jamestalmage,James Talmage,5,0
+angular/angular.js,jasperSpeicher,Jasper Speicher,1,0
+angular/angular.js,RodneyEbanks,Rodney Ebanks,2,0
+angular/angular.js,tsuyoshizawa,Tsuyoshi Yoshizawa,1,0
+angular/angular.js,diegofss11,Diego Souza,2,0
+angular/angular.js,SyntaxRules,Devyn S,1,0
+angular/angular.js,eeue56,Noah,1,0
+angular/angular.js,rodyhaddad,Rodric Haddad,30,0
+angular/angular.js,davej,Dave Jeffery,1,0
+angular/angular.js,RaphStein,,1,0
+angular/angular.js,RobiFerentz,Robert Ferentz,1,0
+angular/angular.js,wuyiw,,1,0
+angular/angular.js,amZotti,Anthony Zotti,1,0
+angular/angular.js,kjarnet,Øystein Kjærnet,1,0
+angular/angular.js,naterexw,Nate Welling,2,0
+angular/angular.js,neilyoung,,1,0
+angular/angular.js,christopher-ramirez,Christopher Ramírez,1,0
+angular/angular.js,keitoliveira,Keit Oliveira,1,0
+angular/angular.js,eddiejhong,Eddie Hong,1,0
+angular/angular.js,josephmarkus,Joseph Markus,1,0
+angular/angular.js,mikec,Mike Calvanese,3,0
+angular/angular.js,grushetsky,Konstantin Grushetsky,1,0
+angular/angular.js,bborowin,,1,0
+angular/angular.js,BorlandP,,1,0
+angular/angular.js,ejb,Elliot Bentley,1,0
+angular/angular.js,fredrikekelund,Fredrik Rombach Ekelund,1,0
+angular/angular.js,rpadala-nisum-com,ROOP PADALA,1,0
+angular/angular.js,zbycz,Pavel Zbytovský,1,0
+angular/angular.js,jkjustjoshing,Josh Kramer,1,0
+angular/angular.js,felixcoto,,1,0
+angular/angular.js,bendrucker,Ben Drucker,1,0
+angular/angular.js,martellaj,Joe Martella,1,0
+angular/angular.js,gonghaima,Steven Gong,1,0
+angular/angular.js,GregM,Gregory Mazurek,1,0
+angular/angular.js,jparmar,Justin,1,0
+angular/angular.js,edthedev,Edward Delaporte,1,0
+angular/angular.js,tomoyukikashiro,Tomoyuki Kashiro,1,0
+angular/angular.js,ydeshayes,Deshayes Yann,1,0
+angular/angular.js,ElephantRose,Dav,3,0
+angular/angular.js,awdyson,Alex Dyson,1,0
+angular/angular.js,kevdonk,Kevin Mayo,1,0
+angular/angular.js,pankajparkar,Pankaj Parkar,1,0
+angular/angular.js,dbabaioff,David Babaioff,1,0
+angular/angular.js,f1ames0ff,Artem,1,0
+angular/angular.js,Rohit3230,Rohit Kumar,1,0
+angular/angular.js,bhalajin,Bhalaji,1,0
+angular/angular.js,NickClark,Nicholas Clark,1,0
+angular/angular.js,benedictchen,Benedict Chen,2,0
+angular/angular.js,adamdbradley,Adam Bradley,3,0
+angular/angular.js,mboudreau,Michel Boudreau,5,0
+angular/angular.js,AskYous,Yousef Shanawany,2,0
+angular/angular.js,ahmedalejo,Ahmed Aderopo Alejo,1,0
+angular/angular.js,mryan3,Michael Ryan,1,0
+angular/angular.js,HandyAndyShortStack,Andy Short,1,0
+angular/angular.js,HarveyZhang,Haowei Zhang,1,0
+angular/angular.js,ckniffen,Caleb Kniffen,1,0
+angular/angular.js,chrisranderson,Chris Anderson,1,0
+angular/angular.js,joshuamahlum,Joshua Mahlum,1,0
+angular/angular.js,iamchairs,Micah,1,0
+angular/angular.js,rwuebker,Rick Wuebker,1,0
+angular/angular.js,hugomn,Hugo Nogueira,1,0
+angular/angular.js,liuxiaodong,leaf,1,0
+angular/angular.js,zaheerehmad,Zaheer Ahmed,2,0
+angular/angular.js,izeye,Johnny Lim,1,0
+angular/angular.js,HenriqueLimas,Henrique Limas,2,0
+angular/angular.js,morrissinger,Morris Singer,1,0
+angular/angular.js,lukaselmer,Lukas Elmer,1,0
+angular/angular.js,hannahhoward,Hannah Howard,1,0
+angular/angular.js,AnthumChris,,1,0
+angular/angular.js,santialbo,Santi Albo,3,0
+angular/angular.js,iangreenleaf,Ian Young,1,0
+angular/angular.js,rohitkandhal,Rohit Kandhal,1,0
+angular/angular.js,unspike,Nikolay Rudkov,1,0
+angular/angular.js,tameraydin,Tamer Aydın,3,0
+angular/angular.js,vojtajina,Vojta Jina,123,0
+angular/angular.js,cmsdkfz,,1,0
+angular/angular.js,rzschech,Richard Zschech,3,0
+angular/angular.js,Agrumas,,1,0
+angular/angular.js,Yahkob,Jake Harclerode,1,0
+angular/angular.js,mhoffmeyerDC,Mark Hoffmeyer,1,0
+angular/angular.js,dnicolson,Dave Nicolson,2,0
+angular/angular.js,Starojitski,,2,0
+angular/angular.js,MetalMichael,Michael Fiford,1,0
+angular/angular.js,ghoti143,Mike H,1,0
+angular/angular.js,nickvdyck,Nick Van Dyck,5,0
+angular/angular.js,firletka,,1,0
+angular/angular.js,prashantma,Prashant Mahajan,1,0
+angular/angular.js,ozdemirr,Hüseyin Emre Özdemir,1,0
+angular/angular.js,samilamti,Sami Lamti,1,0
+angular/angular.js,spacepluk,Oscar Morante,1,0
+angular/angular.js,robinwassen,Robin Andersson,1,0
+angular/angular.js,espiler,Evan Spiler,1,0
+angular/angular.js,Boshen,Boshen,1,0
+angular/angular.js,KELiON,Alexandr Subbotin,2,0
+angular/angular.js,SekibOmazic,Sekib Omazic,24,0
+angular/angular.js,grubersjoe,Jonathan Gruber,1,0
+angular/angular.js,tleruitte,Thibault Leruitte,7,0
+angular/angular.js,DropsOfSerenity,Justin,1,0
+angular/angular.js,kranrao,Kiran Rao,1,0
+angular/angular.js,guidothekp,,1,0
+angular/angular.js,luisgallon,,1,0
+angular/angular.js,kubawalinski,Kuba Waliński,1,0
+angular/angular.js,bclinkinbeard,Ben Clinkinbeard,2,0
+angular/angular.js,litera,Robert Koritnik,3,0
+angular/angular.js,marcfallows,Marc Fallows,1,0
+angular/angular.js,acegautam,Gautam Mankatti,1,0
+angular/angular.js,kchia,Hou Chia,2,0
+angular/angular.js,Elijen,Petr Peller,1,0
+angular/angular.js,kltk,z,2,0
+angular/angular.js,jDeppen,JSON Deppen,1,0
+angular/angular.js,praxeo,Benjamin J. Thompson,1,0
+angular/angular.js,bluepnume,Daniel Brain,1,0
+angular/angular.js,omsmith,Owen Smith,1,0
+angular/angular.js,ajoslin,Andrew Joslin,4,0
+angular/angular.js,hrodic,Rodrigo,1,0
+angular/angular.js,mmouterde,Martin Mouterde,1,0
+angular/angular.js,cookfront,张敏,1,0
+angular/angular.js,mtr,Martin Thorsen Ranang,2,0
+angular/angular.js,osimosu,Emmanuel Osimosu,1,0
+angular/angular.js,mkllnk,Maikel,1,0
+angular/angular.js,karlcoelho,Karl,1,0
+angular/angular.js,FrankReDo,,1,0
+angular/angular.js,brycehanscomb,Bryce Hanscomb,1,0
+angular/angular.js,kenhtanaka,Ken Tanaka,1,0
+angular/angular.js,fealaer,Andrey Pushkarev,2,0
+angular/angular.js,richardaday,Richard Aday,1,0
+angular/angular.js,anyong,Edward Greve,1,0
+angular/angular.js,FarSeeing,Mikhail Sidorov,2,0
+angular/angular.js,rluba,Raphael Luba,1,0
+angular/angular.js,rus0000,Ruslan Iusupov,1,0
+angular/angular.js,sdtsui,Daniel Tsui,1,0
+angular/angular.js,lbm,Lachlan Mitchell,1,0
+angular/angular.js,mjfroehlich,,3,0
+angular/angular.js,ccschmitz,Chris Schmitz,1,0
+angular/angular.js,jowusu837,Victor James Owusu,1,0
+angular/angular.js,HAKASHUN,HAKASHUN,1,0
+angular/angular.js,OKNoah,Noah,1,0
+angular/angular.js,toastynerd,Tyler Morgan,1,0
+angular/angular.js,DavidSouther,David Souther,2,0
+angular/angular.js,ravikrali,RAVI RALI,1,0
+angular/angular.js,jwmu,,1,0
+angular/angular.js,evoluteur,Olivier Giulieri,3,0
+angular/angular.js,alextsg,Alexander Tseung,3,0
+angular/angular.js,gokulkrishh,Gokulakrishnan Kalaikovan,2,0
+angular/angular.js,m7r,Martin,1,0
+angular/angular.js,kxprim,Kevin Primat,4,0
+angular/angular.js,leticialozano,Leticia Lozano,1,0
+angular/angular.js,dancancro,Dan Cancro,1,0
+angular/angular.js,SunJieMing,Ben Nelson,1,0
+angular/angular.js,saan1984,sandeep kumar patel,1,0
+angular/angular.js,prettycode,Chris,1,0
+angular/angular.js,operatino,Robert Haritonov,1,0
+angular/angular.js,pertrai1,Rob Simpson,1,0
+angular/angular.js,olexme,,1,0
+angular/angular.js,toddskinner,Todd Skinner,5,0
+angular/angular.js,gercheq,Gercek Karakus,1,0
+angular/angular.js,lolmaus,Andrey Mikhaylov (lolmaus),1,0
+angular/angular.js,mcknell,Mark Knell,1,0
+angular/angular.js,jkingsman,Jack Kingsman,1,0
+angular/angular.js,jacksonhoose,Jackson Hoose,1,0
+angular/angular.js,chikeichan,Chi Kei Chan,4,0
+angular/angular.js,zdlopez,Zachary Lopez,1,0
+angular/angular.js,ebradyjobory,Essam B.,1,0
+angular/angular.js,bcbcb,,1,0
+angular/angular.js,Alexsey,Aleksey Bobyr,1,0
+angular/angular.js,ruben1,Ruben Vicario Gonzalez,1,0
+angular/angular.js,wesleysmyth,Wesley Smith,1,0
+angular/angular.js,teachrdan,Dan Tennery-Spalding,1,0
+angular/angular.js,djindjic,Aleksandar Djindjic,1,0
+angular/angular.js,caseyhoward,Casey Howard,2,0
+angular/angular.js,QuentinFchx,Quentin,1,0
+angular/angular.js,Dr4K4n,Stefan Ortgies,1,0
+angular/angular.js,richtmat,Matthias Richter,1,0
+angular/angular.js,sshawuk,Stephen Shaw,1,0
+angular/angular.js,shuhei,Shuhei Kagawa,1,0
+angular/angular.js,dannycallaghan,Danny Callaghan,1,0
+angular/angular.js,joshkurz,Josh Kurz,7,0
+angular/angular.js,brianjscoles,Brian Scoles,1,0
+angular/angular.js,grzim,Grzegorz,1,0
+angular/angular.js,saibotsivad,Tobias Davis,1,0
+angular/angular.js,Rowanto,Rowanto,1,0
+angular/angular.js,blawblaw,,1,0
+angular/angular.js,clarkduvall,Clark DuVall,1,0
+angular/angular.js,gregjhogan,Greg Hogan,3,0
+angular/angular.js,carusog,Giuseppe Caruso,1,0
+angular/angular.js,poppinlp,PoppinL,1,0
+angular/angular.js,jhoguet,Jonathan Hoguet,1,0
+angular/angular.js,madskonradsen,Mads Konradsen,1,0
+angular/angular.js,tobyee,Toby Zheng,1,0
+angular/angular.js,duraik3,durai pandiyan k,1,0
+angular/angular.js,yannickadam,Yannick Adam,1,0
+angular/angular.js,philippd,Philipp Denzler,1,0
+angular/angular.js,whayler1,Justin,1,0
+angular/angular.js,hartz89,Ryan Hartzfeld,1,0
+angular/angular.js,darul75,Julien Valéry,2,0
+angular/angular.js,chasefleming,Chase Fleming,1,0
+angular/angular.js,carsonmcdonald,Carson McDonald,1,0
+angular/angular.js,marclaval,Marc Laval,1,0
+angular/angular.js,irfanevrens,İrfan Evrens,1,0
+angular/angular.js,askuzminov,Kuzminov Alexander,1,0
+angular/angular.js,arbus,Subra,3,0
+angular/angular.js,PoetsRock,Chris Tanseer,1,0
+angular/angular.js,hgorbyk,,1,0
+angular/angular.js,sagar-ranglani,Sagar Ranglani,1,0
+angular/angular.js,atesgoral,Ates Goral,1,0
+angular/angular.js,erictheise,Eric Theise,1,0
+angular/angular.js,dannyid,Dank,1,0
+angular/angular.js,gildas-lormeau,Gildas,2,0
+angular/angular.js,ostap1010,,1,0
+angular/angular.js,kostat,Konstantin Triger,1,0
+angular/angular.js,oneeman,Or Neeman,1,0
+angular/angular.js,sricc,Steve Ricciardelli,1,0
+angular/angular.js,rynz,Ryan Johnston,3,0
+angular/angular.js,thinkingmedia,cgTag,3,0
+angular/angular.js,ajohnston256,Andrew Johnston,1,0
+angular/angular.js,Sija,Sijawusz Pur Rahnama,1,0
+angular/angular.js,jackfranklin,Jack Franklin,2,0
+angular/angular.js,urish,Uri Shaked,1,0
+angular/angular.js,rkirov,Rado Kirov,6,0
+angular/angular.js,Vibhuti,Vibhuti,1,0
+angular/angular.js,shwei,Shang Heng Wei,2,0
+angular/angular.js,dustinboss,Dustin Boss,1,0
+angular/angular.js,thirtyseven,Ted Kaplan,1,0
+angular/angular.js,gyx1000,Guillaume Pannatier,2,0
+angular/angular.js,rupe120,Joshua Russo,1,0
+angular/angular.js,Ryan724,,1,0
+angular/angular.js,bdbais,,1,0
+angular/angular.js,adi-ads,Adi Chikara,2,0
+angular/angular.js,dustinchilson,Dustin Chilson,1,0
+angular/angular.js,trizko,Tony Rizko,2,0
+angular/angular.js,royaldark,Joe Einertson,1,0
+angular/angular.js,samudurand,samuel durand,1,0
+angular/angular.js,jamshid,,2,0
+angular/angular.js,bwestrich,Brian Westrich,4,0
+angular/angular.js,supersonicclay,Clay Anderson,1,0
+angular/angular.js,NevilleS,Neville Samuell,2,0
+angular/angular.js,btelles,Bernie Telles,2,0
+angular/angular.js,IShotTheSheriff,Ernest Nowacki,1,0
+angular/angular.js,eduardoarantes,Eduardo Rodrigues,1,0
+angular/angular.js,terite,David Stensland,1,0
+angular/angular.js,phouri,Pini Houri,3,0
+angular/angular.js,chatchavan,Chat Wacharamanotham,1,0
+angular/angular.js,blaise-io,Blaise Kal,4,0
+angular/angular.js,SanderElias,Sander Elias,1,0
+angular/angular.js,bantu,Andreas Fischer,1,0
+angular/angular.js,dallegoet,Dimitri Allegoet,1,0
+angular/angular.js,marcolino,Marcolino,1,0
+angular/angular.js,EverPresent,Timothy Nelson,1,0
+angular/angular.js,mcjffld,Michael James,3,0
+angular/angular.js,divyang4481,Divyang Panchasara,1,0
+angular/angular.js,habfast,,1,0
+angular/angular.js,justincy,Justin,1,0
+angular/angular.js,codef0rmer,Amit Gharat,1,0
+angular/angular.js,HeberLZ,Heber Jairo Lopez Zalba,2,0
+angular/angular.js,AdirAmsalem,Adir Amsalem,1,0
+angular/angular.js,NotBobTheBuilder,Jack Wearden,3,0
+angular/angular.js,tdebroc,Thibaut de Broca,1,0
+angular/angular.js,tk120404,Arjunkumar,2,0
+angular/angular.js,rwson,小宋,1,0
+angular/angular.js,yarsh,Yaron,1,0
+angular/angular.js,danielmbarlow,Daniel M Barlow,3,0
+angular/angular.js,devsoftweb,Devin Lafreniere,2,0
+angular/angular.js,skywalker0110,,1,0
+angular/angular.js,gampleman,Jakub Hampl,1,0
+angular/angular.js,randombk,David Li,1,0
+angular/angular.js,sagens42,Sergei Z.,5,0
+angular/angular.js,rsperberg,rsperberg,2,0
+angular/angular.js,teux,Andrey Koperskiy,1,0
+angular/angular.js,alexanderchan,Alex Chan,2,0
+angular/angular.js,loringdodge,Loring Dodge,1,0
+angular/angular.js,monirmamoun,,1,0
+angular/angular.js,Sakib1500,Mohammad Ahsanul Kabir,1,0
+angular/angular.js,mathisjay,,1,0
+angular/angular.js,pavlovich,Peter Pavlovich,1,0
+angular/angular.js,inphovore,,1,0
+angular/angular.js,abelorian,Abel O'Rian,1,0
+angular/angular.js,ryansmith94,Ryan Smith,1,0
+angular/angular.js,cades,hong-jen kao,1,0
+angular/angular.js,space-mvc,Space-MVC,1,0
+angular/angular.js,Urigo,Uri Goldshtein,21,0
+angular/angular.js,nalbion,Nicholas Albion,1,0
+angular/angular.js,philosoralphter,Ralph Samuel,2,0
+angular/angular.js,kboutsen,Koen Boutsen,1,0
+angular/angular.js,coderbyheart,Markus Tacker,1,0
+angular/angular.js,EspenHolmen,Espen Holmen,1,0
+angular/angular.js,ChristianKohler,Christian Kohler,1,0
+angular/angular.js,MarkTraceur,Mark Holmquist,1,0
+angular/angular.js,christianliebel,Christian Liebel,2,0
+angular/angular.js,devote,Dmitrii Pakhtinov,1,0
+angular/angular.js,judytuna,Judy Tuan,1,0
+angular/angular.js,flezen,Fle,1,0
+angular/angular.js,doshprompt,Rahul Doshi,4,0
+angular/angular.js,samccone,Sam Saccone,1,0
+angular/angular.js,luruke,Luigi De Rosa,1,0
+angular/angular.js,alindberg,,1,0
+angular/angular.js,juangabreil,Juan Gabriel Jiménez,2,0
+angular/angular.js,clakech,Cyril Lakech,1,0
+angular/angular.js,jacksonrayhamilton,Jackson Ray Hamilton,1,0
+angular/angular.js,nehiljain,Nehil Jain,1,0
+angular/angular.js,cmichal,mC,2,0
+angular/angular.js,aderholdst,,1,0
+angular/angular.js,amrynsky,Alex Mrynsky,1,0
+angular/angular.js,Hotell,Martin Hochel,1,0
+angular/angular.js,psysp,Florian Bernstein,1,0
+angular/angular.js,douglasduteil,Douglas Duteil,1,0
+angular/angular.js,vasileorza,,1,0
+angular/angular.js,mgcrea,Olivier Louvignes,3,0
+angular/angular.js,ocombe,Olivier Combe,1,0
+angular/angular.js,princemaple,Po Chen,2,0
+angular/angular.js,dwayne,Dwayne Crooks,1,0
+angular/angular.js,lguyot,Luc Guyot,1,0
+angular/angular.js,Augustukas,Augustas,1,0
+angular/angular.js,hmullen,,1,0
+angular/angular.js,Juanmcuello,Juan Manuel Cuello,2,0
+angular/angular.js,wedneyyuri,Wédney Yuri,1,0
+angular/angular.js,dmytroyarmak,Dmytro Yarmak,1,0
+angular/angular.js,Francisc,Francisc,1,0
+angular/angular.js,jonlemmon,Jon Lemmon,2,0
+angular/angular.js,mernen,Daniel Luz,9,0
+angular/angular.js,Taritsyn,Andrey Taritsyn,2,0
+angular/angular.js,wilgert,Wilgert Velinga,1,0
+angular/angular.js,alexnorton,Alex Norton,1,0
+angular/angular.js,cvn,,1,0
+angular/angular.js,websiddu,Siddhartha,1,0
+angular/angular.js,afshinator,Afshin Mokhtari,1,0
+angular/angular.js,dlongley,Dave Longley,1,0
+angular/angular.js,williamliangdev,,1,0
+angular/angular.js,jimmywarting,Jimmy Wärting,3,0
+angular/angular.js,AdrianJMartin,Adrian Martin,1,0
+angular/angular.js,LegalizeAdulthood,Richard Thomson,1,0
+angular/angular.js,ahmed-hamdy90,ahmed hamdy,1,0
+angular/angular.js,attila226,Attila,1,0
+angular/angular.js,lukasolson,Lukas Olson,2,0
+angular/angular.js,lnmunhoz,Lucas N. Munhoz,1,0
+angular/angular.js,tbosch,Tobias Bosch,64,0
+angular/angular.js,heyjustin,Justin Walsh,8,0
+angular/angular.js,brocksamson,Matthew Miller,2,0
+angular/angular.js,sersor,,1,0
+angular/angular.js,ddoronin,Dima Doronin,2,0
+angular/angular.js,oefirouz,,1,0
+angular/angular.js,shufrich,,1,0
+angular/angular.js,rangoo94,Dawid Rusnak,1,0
+angular/angular.js,az7arul,Azharul Islam,1,0
+angular/angular.js,coditect,Nicholas Rawlings,1,0
+angular/angular.js,ksheedlo,Ken Sheedlo,35,0
+angular/angular.js,Izhaki,,6,0
+angular/angular.js,benharold,Ben Harold,1,0
+angular/angular.js,stonebraker,stonebreaker,1,0
+angular/angular.js,drjokepu,Tamas Czinege,2,0
+angular/angular.js,ajwhite,Atticus White,1,0
+angular/angular.js,erikrahm,Erik Rahm,1,0
+angular/angular.js,timkendrick,Tim Kendrick,1,0
+angular/angular.js,bullgare,,2,0
+angular/angular.js,tiff,Christopher Blum,1,0
+angular/angular.js,Southward,Ma Xinyu,1,0
+angular/angular.js,bijanbwb,Bijan Boustani,1,0
+angular/angular.js,palermo4,J. Michael Palermo IV,1,0
+angular/angular.js,agamrafaeli,Agam Rafaeli,1,0
+angular/angular.js,SharpMax,Maxime Charpentier,1,0
+angular/angular.js,tommyangelo,,1,0
+angular/angular.js,ananthasharma,Anantha Sharma,1,0
+angular/angular.js,clinch,Chris Inch,1,0
+angular/angular.js,mykolaharmash,Mykola Harmash,3,0
+angular/angular.js,lucasconstantino,Lucas Constantino Silva,1,0
+angular/angular.js,jameskleeh,James Kleeh,2,0
+angular/angular.js,brianfeister,Brian Feister,1,0
+angular/angular.js,JakubZych,,1,0
+angular/angular.js,elgalu,Leo Gallucci,1,0
+angular/angular.js,sterlingw,Sterling Whitley,1,0
+angular/angular.js,schmitch,Schmitt Christian,1,0
+angular/angular.js,caseyg1204,Casey Garland,1,0
+angular/angular.js,santiycr,Santiago Suarez Ordoñez,1,0
+angular/angular.js,VictorQueiroz,Victor Queiroz,4,0
+angular/angular.js,userpixel,Alex Ewerlöf,1,0
+angular/angular.js,biversen21,Brian Iversen,1,0
+angular/angular.js,JensGabe,Jens Gabe,2,0
+angular/angular.js,therajumandapati,Raju Mandapati,1,0
+angular/angular.js,panda-sandeep,Sandeep Panda,1,0
+angular/angular.js,janv,Jan Varwig,3,0
+angular/angular.js,skwakman,Sannie Kwakman,2,0
+angular/angular.js,floydpink,Hari Pachuveetil,1,0
+angular/angular.js,gersakbogdan,,2,0
+angular/angular.js,adzample,Adam Humphrey,1,0
+angular/angular.js,artch,Artem Chivchalov,2,0
+angular/angular.js,renatoluna,Renato Luna,1,0
+angular/angular.js,evilaliv3,Giovanni Pellerano,1,0
+angular/angular.js,bocharsky-bw,Victor Bocharsky,2,0
+angular/angular.js,krusty,Lucas Sallovitz,1,0
+angular/angular.js,a8m,Ariel Mashraki,1,0
+angular/angular.js,yozo1984,Zak Tsai,1,0
+angular/angular.js,maartenst,Maarten Stolte,3,0
+angular/angular.js,Christopher-Rains,Christopher Rains,2,0
+angular/angular.js,alexandremello,Alexandre Mello,1,0
+angular/angular.js,benjamingr,Benjamin Gruenbaum,2,0
+angular/angular.js,spencerhandley,Spencer Handley,2,0
+angular/angular.js,wwwillchen,Will Chen,1,0
+angular/angular.js,shanswami,Shan Swaminathan,1,0
+angular/angular.js,kashjs,Kash Patel,1,0
+angular/angular.js,jamesanthonyferguson,James Ferguson,1,0
+angular/angular.js,dragosrususv,Dragos Rusu,1,0
+angular/angular.js,gregfedirko,Greg Fedirko,1,0
+angular/angular.js,nofatclips,DeK,1,0
+angular/angular.js,Trendy,Jeremiah Hoyet,1,0
+angular/angular.js,jeffavis,,1,0
+angular/angular.js,calidion,Eric,1,0
+angular/angular.js,jorgecasar,Jorge del Casar,3,0
+angular/angular.js,ltfschoen,Luke Schoen,3,0
+angular/angular.js,atav32,Brian Zhang,1,0
+angular/angular.js,callado4,Jose Martinez,1,0
+angular/angular.js,mattphoto,Matt Kim,1,0
+angular/angular.js,mrcoles,Peter Coles,2,0
+angular/angular.js,ahmerafzal,Ahmer Afzal,1,0
+angular/angular.js,maip,Melissa Ip,1,0
+angular/angular.js,deveshkrsingh,,1,0
+angular/angular.js,Zizzamia,Leonardo Zizzamia,3,0
+angular/angular.js,tborisova,Tsvetelina Borisova,1,0
+angular/angular.js,tanx,Tankred Hase,1,0
+angular/angular.js,guisouza,Guilherme ( coder ) de Souza,2,0
+angular/angular.js,bolasblack,c4605,7,0
+angular/angular.js,mbildner,Moshe Bildner,1,0
+angular/angular.js,chandramuralis,Murali Srinivasan,1,0
+angular/angular.js,simonbengtsson,Simon Bengtsson,1,0
+angular/angular.js,mgallag,Michael Gallagher,1,0
+angular/angular.js,zahid,Zahid,1,0
+angular/angular.js,balmychan,Ayumi Goto,2,0
+angular/angular.js,ltrillaud,Laurent Trillaud,1,0
+angular/angular.js,celiao,Celia Oakley,1,0
+angular/angular.js,harrastia,Carlos Arrastia,1,0
+angular/angular.js,dfalgout,Dustin Falgout,1,0
+angular/angular.js,dbinit,David Bennett,12,0
+angular/angular.js,dblackdblack,,1,0
+angular/angular.js,fmagnan,Franck Magnan,1,0
+angular/angular.js,tsevan,Vitali Tsevan,1,0
+angular/angular.js,hjast,Reuben Doetsch,1,0
+angular/angular.js,amjadHossain,,1,0
+angular/angular.js,BenoitCharret,,1,0
+angular/angular.js,thammin,Paul Young,1,0
+angular/angular.js,spunkypanda,Chinmay Bag,1,0
+angular/angular.js,mdeady,Matt Deady,1,0
+angular/angular.js,esarbanis,Efthymis Sarmpanis,4,0
+angular/angular.js,nimamehanian,Nima Mehanian,1,0
+angular/angular.js,fixe,Tiago Ribeiro,2,0
+angular/angular.js,klimentLambevski,Kliment,1,0
+angular/angular.js,sathify,Satheesh Kumar,3,0
+angular/angular.js,gitMbar,Michael Barton,1,0
+angular/angular.js,zymsys,Vic Metcalfe,1,0
+angular/angular.js,deddytremonti,,1,0
+angular/angular.js,krinchai,,1,0
+angular/angular.js,rayray,Raymond Edwards,1,0
+angular/angular.js,amoskane,,1,0
+angular/angular.js,zzmp,Zach Pomerantz,2,0
+angular/angular.js,yperevoznikov,Yuriy Perevoznikov,1,0
+angular/angular.js,timkindberg,Tim Kindberg,1,0
+angular/angular.js,ryanwooten6,Ryan Wooten,1,0
+angular/angular.js,danbergman,proggrockcode,3,0
+angular/angular.js,twwwt,Thorsten Möller,1,0
+angular/angular.js,ajayparsana,,1,0
+angular/angular.js,johnnyreilly,John Reilly,1,0
+angular/angular.js,dennishall1,Dennis Hall,1,0
+angular/angular.js,nicolaiskogheim,Nicolai Skogheim,1,0
+angular/angular.js,takeshi,takeshi,1,0
+angular/angular.js,patelvin,,1,0
+angular/angular.js,smilli,Smitha Milli,2,0
+angular/angular.js,tobias74,Tobias Gassmann,2,0
+angular/angular.js,deckar01,Jared Deckard,1,0
+angular/angular.js,mackenco,Colin MacKenzie,1,0
+angular/angular.js,zahragh,,1,0
+angular/angular.js,jsgoupil,Jean-Sébastien Goupil,1,0
+angular/angular.js,standup75,Stan Duprey,4,0
+angular/angular.js,rush340,Michael Silver,1,0
+angular/angular.js,cflynn07,Casey Flynn,1,0
+angular/angular.js,misutkame,,1,0
+angular/angular.js,alexeykudinkin,Alexey Kudinkin,1,0
+angular/angular.js,mekane,Marty Kane,1,0
+angular/angular.js,bfontaine,Baptiste Fontaine,1,0
+angular/angular.js,henrik,Henrik Nyh,1,0
+angular/angular.js,RichardLitt,Richard Littauer,10,0
+angular/angular.js,jeffsheets,Jeff Sheets,1,0
+angular/angular.js,gratco,,1,0
+angular/angular.js,benlesh,Ben Lesh,11,0
+angular/angular.js,pablopda,Pablo Perez De Angelis,1,0
+angular/angular.js,tomkadwill,Tom Kadwill,1,0
+angular/angular.js,BartoGabriel,Gabriel,1,0
+angular/angular.js,wheatking,,1,0
+angular/angular.js,marneborn,Mikael Arneborn,1,0
+angular/angular.js,NicolaeNMV,Nicolae Namolovan,2,0
+angular/angular.js,mcmar,Mike Martin,1,0
+angular/angular.js,ChristopheBoucaut,Christophe Boucaut,1,0
+angular/angular.js,wuxutao,Xutao,1,0
+angular/angular.js,neilfarted,Neil Soult,1,0
+angular/angular.js,basarat,Basarat Ali Syed,7,0
+angular/angular.js,theLearningChan,TLChan,1,0
+angular/angular.js,edhedges,Eddie Hedges,3,0
+angular/angular.js,yannickoo,Yannick,1,0
+angular/angular.js,derrickmar,Derrick Mar,2,0
+angular/angular.js,pdebaets,,1,0
+angular/angular.js,juampynr,Juampy NR,2,0
+angular/angular.js,jgoeglein,,1,0
+angular/angular.js,ruffrey,ruffrey,1,0
+angular/angular.js,johnrapp,John Rapp,1,0
+angular/angular.js,sixinli,,1,0
+angular/angular.js,jchadwick,Jess Chadwick,1,0
+angular/angular.js,paranoidandroid522,,1,0
+angular/angular.js,zhanglingkang,张凌康,2,0
+angular/angular.js,asilluron,Andrew G. Silluron,2,0
+angular/angular.js,hankduan,Hank Duan,1,0
+angular/angular.js,drewbarbs,Drew Barbarello,2,0
+angular/angular.js,Kapaacius,Kaspar Falkenberg,2,0
+angular/angular.js,jsdevel,Joe Spencer,1,0
+angular/angular.js,stephenbunch,Stephen Bunch,1,0
+angular/angular.js,guzart,Arturo Guzman,2,0
+angular/angular.js,stvortiz,Steve Ortiz,1,0
+angular/angular.js,k-funk,Kevin Funk,1,0
+angular/angular.js,dsgkirkby,Dylan Kirkby,1,0
+angular/angular.js,daniellegonzalez,Danielle Gonzalez,1,0
+angular/angular.js,winsontam,,2,0
+angular/angular.js,nwiebe,Nathan Wiebe,2,0
+angular/angular.js,moroshko,Misha Moroshko,8,0
+angular/angular.js,rajabe2008,Ramalingam,1,0
+angular/angular.js,Andrew-Fam,Andrew Pham,1,0
+angular/angular.js,dbwhddn10,jongwoo Yoo,3,0
+angular/angular.js,shengt,,2,0
+angular/angular.js,chirag04,Chirag Jain,2,0
+angular/angular.js,amyboyd,Amy Boyd,1,0
+angular/angular.js,sherm008,,1,0
+angular/angular.js,c-dave,Dave Carroll,1,0
+angular/angular.js,ssergio198,Sergio Sanguanini,2,0
+angular/angular.js,amfarrell,Andrew Farrell,1,0
+angular/angular.js,danielkrainas,Danny Krainas,1,0
+angular/angular.js,olslash,Mitch Robb,1,0
+angular/angular.js,tinusn,Tinus Aamand Norstved,1,0
+angular/angular.js,amo12937,amo,1,0
+angular/angular.js,hppycoder,Chad Smith,1,0
+angular/angular.js,yangshuan,Yang Shuan,1,0
+angular/angular.js,hanstest,David Z. Han,1,0
+angular/angular.js,zorec,Gabriel,1,0
+angular/angular.js,treyhunner,Trey Hunner,2,0
+angular/angular.js,garetht,Gareth,1,0
+angular/angular.js,Dan-Nolan,Dan Nolan,1,0
+angular/angular.js,swisstofu,ckrebser,3,0
+angular/angular.js,caguillen214,Carlos Guillen,3,0
+angular/angular.js,thenikso,Nicola Peduzzi,3,0
+angular/angular.js,JoshSchreuder,Josh Schreuder,1,0
+angular/angular.js,ealtenho,Erin Altenhof-Long,3,0
+angular/angular.js,Almar,Almar Schouten,1,0
+angular/angular.js,kasoban,,2,0
+angular/angular.js,fogonthedowns,JZ,1,0
+angular/angular.js,mxab,Max Fröhlich,1,0
+angular/angular.js,timraymond,Timothy J. Raymond,1,0
+angular/angular.js,t0mtaylor,Tom Taylor,1,0
+angular/angular.js,avdv,Claudio Bley,1,0
+angular/angular.js,sylvain-hamel,Sylvain Hamel,3,0
+angular/angular.js,HaoWu,,1,0
+angular/angular.js,jincdream,锦此,1,0
+angular/angular.js,vikramsoni2,Vikram,1,0
+angular/angular.js,danbarua,Dan Barua,1,0
+angular/angular.js,raghumaddali,raghzz,1,0
+angular/angular.js,MrJH,Jan-Henning Wegener,1,0
+angular/angular.js,skeller88,Shane Keller,1,0
+angular/angular.js,sqdk,Christian Probst,1,0
+angular/angular.js,sank,,1,0
+angular/angular.js,andrewtarry,Andrew Tarry,1,0
+angular/angular.js,mjhamm75,Jason Hamm,1,0
+angular/angular.js,psakar,,1,0
+angular/angular.js,deathbob,Bob Larrick,1,0
+angular/angular.js,sdbondi,Stan Bondi,1,0
+angular/angular.js,guilbep,Guilbert Pierre,1,0
+angular/angular.js,fuqcool,Chiang Fu,3,0
+angular/angular.js,ionut-ardelean,Ionut Ardelean,1,0
+angular/angular.js,burdiuz,Oleg Galaburda,1,0
+angular/angular.js,priyanka311,,1,0
+angular/angular.js,wcn3,Bill Neubauer,1,0
+angular/angular.js,chriskuehl,Chris Kuehl,1,0
+angular/angular.js,delikat,Andrew Delikat,1,0
+angular/angular.js,dmatteo,Domenico Matteo,1,0
+angular/angular.js,nicoabie,Nico Gallinal,2,0
+angular/angular.js,jpsimons,,1,0
+angular/angular.js,mikehaas763,Mike Haas,1,0
+angular/angular.js,tlewin,Thiago Lewin,1,0
+angular/angular.js,gentooboontoo,Julien Sanchez,3,0
+angular/angular.js,myitcv,Paul Jolly,4,0
+angular/angular.js,vaibhavkhl,vaibhav kohli,3,0
+angular/angular.js,Burgov,Bart van den Burg,2,0
+angular/angular.js,ncuillery,Nicolas Cuillery,3,0
+angular/angular.js,OnkelTem,Artiom Neganov,1,0
+angular/angular.js,elnur,Elnur Abdurrakhimov,1,0
+angular/angular.js,krom-xr,,1,0
+angular/angular.js,archer308,,2,0
+angular/angular.js,cranesandcaff,Patrick Cauley,1,0
+angular/angular.js,khellang,Kristian Hellang,2,0
+angular/angular.js,rolfyone,Paul Harris,1,0
+angular/angular.js,m-tretyak,m-tretyak,1,0
+angular/angular.js,b1rdex,Anatoly Pashin,1,0
+angular/angular.js,domenic,Domenic Denicola,2,0
+angular/angular.js,spidgorny,Slawa Pidgorny,1,0
+angular/angular.js,huarse,Pluto Cai,1,0
+angular/angular.js,Hartimer,Joao Peixoto,1,0
+angular/angular.js,laurentqro,Laurent,2,0
+angular/angular.js,gdennie,George,13,0
+angular/angular.js,nakhli,Chaker Nakhli,1,0
+angular/angular.js,DarthVanger,Darth Vanger,1,0
+angular/angular.js,saifanam,"Saif ""WJ"" Anam",1,0
+angular/angular.js,ephigabay,Ephi Gabay,1,0
+angular/angular.js,aaani,Ani Mishra,1,0
+angular/angular.js,sndsgn,sndsgn,1,0
+angular/angular.js,fabiancook,Fabian Cook,1,0
+angular/angular.js,bali182,Balázs Édes,1,0
+angular/angular.js,dlavoieb,David Lavoie-Boutin,1,0
+angular/angular.js,alexm,Alex Muntada,1,0
+angular/angular.js,hoosin,XIN HU,5,0
+angular/angular.js,tinne,Karsten Tinnefeld,1,0
+angular/angular.js,MichaelSp,Michael,1,0
+angular/angular.js,amccausl,Alex McCausland,1,0
+angular/angular.js,buster84,Yasuki Okumura,1,0
+angular/angular.js,LiquidFlux,,1,0
+angular/angular.js,neilsmind,Neil Giarratana,1,0
+angular/angular.js,groner,Kai Groner,7,0
+angular/angular.js,bernhard-hofmann,Bernhard Hofmann,1,0
+angular/angular.js,ckknight,Cameron Knight,1,0
+angular/angular.js,joeyyang,Joey Yang,1,0
+angular/angular.js,airato,Airat Aminev,3,0
+angular/angular.js,marchbox,Zacky Ma,1,0
+angular/angular.js,jameshfisher,Jim Fisher,1,0
+angular/angular.js,Charca,Maxi Ferreira,1,0
+angular/angular.js,cquillen2003,,1,0
+angular/angular.js,mantisfilms,Mantis Films,1,0
+angular/angular.js,jca258,Juan Carlos Arévalo,1,0
+angular/angular.js,iuliust,,1,0
+angular/angular.js,XrXr,Alan Wu,1,0
+angular/angular.js,ukyo,Syu Kato,1,0
+angular/angular.js,ahmad-moussawi,Ahmad Moussawi,1,0
+angular/angular.js,btesser,Ben Tesser,3,0
+angular/angular.js,ifalvarez,Ivan Alvarez,1,0
+angular/angular.js,zsong,Doraemon,4,0
+angular/angular.js,cwclark,Chris Clark,1,0
+angular/angular.js,eyedean,Aideen Nasirishargh,1,0
+angular/angular.js,alexandrevoilab,Alexandre,1,0
+angular/angular.js,shawkinaw,Dave Wells,1,0
+angular/angular.js,cra-rgourley,,1,0
+angular/angular.js,xi,Tobias Bengfort,1,0
+angular/angular.js,wayne-o,Wayne Douglas,1,0
+angular/angular.js,corytheboyd,Cory Boyd,1,0
+angular/angular.js,igorzg,Igor Ivanovic,3,0
+angular/angular.js,ChrisRose,Christopher Rose,5,0
+angular/angular.js,tuchk4,Valerii Sorokobatko,1,0
+angular/angular.js,AlexKarpan,Alexander Karpan,1,0
+angular/angular.js,fvanderwielen,,1,0
+angular/angular.js,Crozin,Krzysztof Łabuś,1,0
+angular/angular.js,mattjay,Matt Johansen,1,0
+angular/angular.js,mkawalec,Michal Kawalec,1,0
+angular/angular.js,inancgumus,İnanç Gümüş,1,0
+angular/angular.js,timschlechter,Tim Schlechter,1,0
+angular/angular.js,NV,Nikita Vasilyev,1,0
+angular/angular.js,otac0n,John Gietzen,1,0
+angular/angular.js,mauritzhansen,,1,0
+angular/angular.js,joshuawoodward,Joshua Woodward,1,0
+angular/angular.js,srats,Samuel Rats,2,0
+angular/angular.js,winescout,Matt,1,0
+angular/angular.js,gergelyke,Gergely Nemeth,1,0
+angular/angular.js,danse,Francesco Occhipinti,1,0
+angular/angular.js,evankroske,Evan Kroske,1,0
+angular/angular.js,kevinwestern,Kevin Western,3,0
+angular/angular.js,dsem,Dylan Semler,1,0
+angular/angular.js,TEHEK,TEHEK Firefox,8,0
+angular/angular.js,oivvio,Oivvio Polite,2,0
+angular/angular.js,execat,Anuj More,1,0
+angular/angular.js,sharppanda,,1,0
+angular/angular.js,gsc-leticia,GSC Leticia,2,0
+angular/angular.js,jmpalacios,Juan Manuel Palacios,3,0
+angular/angular.js,Steve-Fenton,Steve Fenton,1,0
+angular/angular.js,JMRodriguez24,,1,0
+angular/angular.js,chadoh,Chad Ostrowski,1,0
+angular/angular.js,janek109,Jan,1,0
+angular/angular.js,pussinboots,Frank,2,0
+angular/angular.js,aschokking,Alex Schokking,1,0
+angular/angular.js,HNygard,Hallvard Nygård,1,0
+angular/angular.js,toddmotto,Todd Motto,1,0
+angular/angular.js,ImaginaryDevelopment,,1,0
+angular/angular.js,ahmednuaman,Ahmed Nuaman,2,0
+angular/angular.js,dumpweed,,2,0
+angular/angular.js,dkentw,Dken,1,0
+angular/angular.js,ventice,venticello,2,0
+angular/angular.js,dalinaum,LYK,1,0
+angular/angular.js,garbles,Gabe Scholz,1,0
+angular/angular.js,nsaichand,Saichand Neelapala,1,0
+angular/angular.js,genuinefafa,Facundo Donato,1,0
+angular/angular.js,camsong,Cam Song,1,0
+angular/angular.js,philwestwell,westwell,1,0
+angular/angular.js,amarpatel,Amar Patel,1,0
+angular/angular.js,buob,Jake Buob,1,0
+angular/angular.js,4vanger,Andrew Kulinich,1,0
+angular/angular.js,silverbux,Alex Quiambao,1,0
+angular/angular.js,willrstern,Will Stern,1,0
+angular/angular.js,vnesterovsky,Vladimir Nesterovsky,1,0
+angular/angular.js,kevinji,Kevin Ji,1,0
+angular/angular.js,clark-pan,Clark Pan,2,0
+angular/angular.js,sdornan,Sam Dornan,5,0
+angular/angular.js,wouteeckhout,,1,0
+angular/angular.js,kamilkp,Kamil Pękala,6,0
+angular/angular.js,codenameEli,Tim Dalbey,2,0
+angular/angular.js,rillian,Ralph Giles,1,0
+angular/angular.js,Firexion,Sasha Dresden,2,0
+angular/angular.js,bedabliu,Tiago Braccialli,1,0
+angular/angular.js,pixmin,Gaëtan PRIOUR,2,0
+angular/angular.js,Kebabpizza,,1,0
+angular/angular.js,slavafomin,Slava Fomin II,1,0
+angular/angular.js,NVTechAU,,1,0
+angular/angular.js,nCrazed,Edvin Malinovskis,1,0
+angular/angular.js,jensaug,Jempa,1,0
+angular/angular.js,malko,Jonathan Gotti,1,0
+angular/angular.js,ErichBSchulz,Erich,1,0
+angular/angular.js,andretges,Andrei Sidorov,1,0
+angular/angular.js,trevordowdle,,1,0
+angular/angular.js,markau,Mark Andrews,1,0
+angular/angular.js,danieljsinclair,,1,0
+angular/angular.js,jeffwhelpley,Jeff Whelpley,2,0
+angular/angular.js,fwielstra,Freek Wielstra,3,0
+angular/angular.js,Kristof-Mattei,Kristof Mattei,1,0
+angular/angular.js,stephenjudkins,Stephen Judkins,1,0
+angular/angular.js,orlando,Orlando Del Aguila,1,0
+angular/angular.js,trodrigues,Tiago Rodrigues,1,0
+angular/angular.js,kalvn,kalvn,1,0
+angular/angular.js,yhippa,Richard Yhip,1,0
+angular/angular.js,NateRedding,,1,0
+angular/angular.js,yaronuliel,Yaron Uliel,1,0
+angular/angular.js,cioddi,Max Tobias Weber,1,0
+angular/angular.js,stakach,Stephen von Takach,3,0
+angular/angular.js,kanhirun,Kel Kanhirun,1,0
+angular/angular.js,TimvdEijnden,Tim van den Eijnden,3,0
+angular/angular.js,GrizzlyMcBear,Ronen Cohen,1,0
+angular/angular.js,conechan,Charlie Chen,1,0
+angular/angular.js,FGRibreau,Francois-Guillaume Ribreau,1,0
+angular/angular.js,gwgguy,,1,0
+angular/angular.js,412andrewmortimer,Andrew Mortimer,1,0
+angular/angular.js,thomastuts,Thomas Tuts,5,0
+angular/angular.js,taylorhutchison,Taylor Hutchison,1,0
+angular/angular.js,dolymood,doly mood,3,0
+angular/angular.js,sbstp,Simon Bernier St-Pierre,1,0
+angular/angular.js,TylerEich,Tyler Eich,3,0
+angular/angular.js,barcahead,,1,0
+angular/angular.js,obaydmir,,1,0
+angular/angular.js,Zorigt,Zorigt Baz,1,0
+angular/angular.js,nathanredblur,Jonathan Rico,1,0
+angular/angular.js,Joe8Bit,Joe Pettersson,1,0
+angular/angular.js,sap9433,Saptarshi (@sapto_c),1,0
+angular/angular.js,spacemigas,Miguel Fernandes,1,0
+angular/angular.js,jaysoo,Jack Hsu,1,0
+angular/angular.js,giodamelio,Gio d'Amelio,1,0
+angular/angular.js,mrjamesriley,James Riley,1,0
+angular/angular.js,Fresheyeball,Isaac Shapira,1,0
+angular/angular.js,albertboada,Albert Boada,1,0
+angular/angular.js,jessehouchins,Jesse Houchins,1,0
+angular/angular.js,djsmith42,Dave Smith,1,0
+angular/angular.js,lee-elenbaas,Lee Elenbaas,2,0
+angular/angular.js,wmill,Walter Miller,1,0
+angular/angular.js,jamiekrug,Jamie Krug,4,0
+angular/angular.js,stickel,Stickel,1,0
+angular/angular.js,arigoldx,Ari Gold,1,0
+angular/angular.js,cilice,Alexander Plavinski,1,0
+angular/angular.js,mihai-tatar,Mihai Tatar,1,0
+angular/angular.js,mstachniuk,Marcin Stachniuk,1,0
+angular/angular.js,mickeywu,Mickey Wu,1,0
+angular/angular.js,marcelto,,1,0
+angular/angular.js,rousisk,Konstantinos Rousis,1,0
+angular/angular.js,breyed,Edward Brey,3,0
+angular/angular.js,adrianenriquez,Adrian Enriquez,1,0
+angular/angular.js,orlandobrent,Brent Richardson,2,0
+angular/angular.js,karolmajta,Karol Libardi,1,0
+angular/angular.js,plentz,Diego Plentz,3,0
+angular/angular.js,grisendo,Francisco José Cruz Romanos,1,0
+angular/angular.js,benighted,Michael Payne,1,0
+angular/angular.js,722C,,1,0
+angular/angular.js,toymachiner62,Tom Caflisch,1,0
+angular/angular.js,rocketraman,Raman Gupta,1,0
+angular/angular.js,joelhooks,Joel Hooks,1,0
+angular/angular.js,nnennajohn,Nnenna John,1,0
+angular/angular.js,mdaif,Mohamed Daif,1,0
+angular/angular.js,MizaelGalvez,@MizaelGalvez,1,0
+angular/angular.js,alluriprasad,Shiva Alluri,1,0
+angular/angular.js,daviesgeek,Matthew Davies,1,0
+angular/angular.js,tjunghans,Thomas Junghans,1,0
+angular/angular.js,tomyam1,Tom Yam,1,0
+angular/angular.js,nitulkukadia,Nitul Kukadia,2,0
+angular/angular.js,ttam3d0,,1,0
+angular/angular.js,robwormald,Rob Wormald,2,0
+angular/angular.js,srt32,Simon Taranto,1,0
+angular/angular.js,aminRX,Amin Ogarrio,2,0
+angular/angular.js,AnirbanKundu,Anirban Kundu,1,0
+angular/angular.js,jbdeboer,James deBoer,13,0
+angular/angular.js,rhuynh,Rick Huynh,2,0
+angular/angular.js,TracesOfNut,,1,0
+angular/angular.js,magoswiat,,3,0
+angular/angular.js,jeremymfinch,,1,0
+angular/angular.js,aljafor,Alain F.J. Forte,1,0
+angular/angular.js,TheMrSteve,,1,0
+angular/angular.js,thom801,Thom Allen,1,0
+angular/angular.js,vinaymavi,Vinay Mavi,1,0
+angular/angular.js,LaurentTardif,Laurent T.,2,0
+angular/angular.js,mbosch,Mike Bosch,1,0
+angular/angular.js,Eleeleth,Anthony Clever,1,0
+angular/angular.js,starr0stealer,Mason Mize,1,0
+angular/angular.js,aenmeyk,Kevin Aenmey,1,0
+angular/angular.js,darojuv,Venu Daroju,2,0
+angular/angular.js,CodisRedding,Rocky Assad,1,0
+angular/angular.js,hallipr,Patrick Hallisey,1,0
+angular/angular.js,afreeland,Aaron Freeland,1,0
+angular/angular.js,hbiao68,,1,0
+angular/angular.js,expilo,,1,0
+angular/angular.js,wojciechfornal,Wojciech Fornal,1,0
+angular/angular.js,RobertKielty,Robert Kielty,1,0
+angular/angular.js,sin,Mateusz Sienkan,1,0
+angular/angular.js,malixsys,Martin Alix,1,0
+angular/angular.js,lukaszprus,,1,0
+angular/angular.js,chrisdwheatley,Chris Draycott-Wheatley,1,0
+angular/angular.js,fijimunkii,Harrison Powers,1,0
+angular/angular.js,edmondhuoxiang,Xiang Huo,1,0
+angular/angular.js,AntouanK,Antonis Karamitros,1,0
+angular/angular.js,vvvvalvalval,Valentin Waeselynck,2,0
+angular/angular.js,rspeicher,Robert Speicher,1,0
+angular/angular.js,abhiroyg,Abhilash Roy .G,1,0
+angular/angular.js,stephennancekivell,Stephen Nancekivell,1,0
+angular/angular.js,lefos987,Eleftherios Paraskevas,2,0
+angular/angular.js,sbenjamin,Steven Benjamin,1,0
+angular/angular.js,Rosseyn,,2,0
+angular/angular.js,volnt,Florent Espanet,1,0
+angular/angular.js,zeropaper,Valentin Vago,1,0
+angular/angular.js,thomaswicker,Thomas Wicker,1,0
+angular/angular.js,corburn,Jason Travis,1,0
+angular/angular.js,jonathansampson,Sampson,1,0
+angular/angular.js,specialorange,Chris Frisina,1,0
+angular/angular.js,LukeLin,Luke,2,0
+angular/angular.js,lrlopez,Luis Ramón López,14,0
+angular/angular.js,thicolares,Thiago Colares,2,0
+angular/angular.js,smsohan,SM Sohan,1,0
+angular/angular.js,alcedo,Victor,1,0
+angular/angular.js,carver,Jason Carver,1,0
+angular/angular.js,trusktr,Joe Pea,5,0
+angular/angular.js,sorahn,Daryl Roberts,1,0
+angular/angular.js,akiani,Amirhossein Kiani,2,0
+angular/angular.js,jayvan,Justin Vanderheide,1,0
+angular/angular.js,pr4v33n,Praveen,1,0
+angular/angular.js,nickeddy,Nick Eddy,1,0
+angular/angular.js,dearfrankg,Frank Gutierrez,1,0
+angular/angular.js,stephnacios,Stephanie Staub,1,0
+angular/angular.js,woodardj,Jonathan Woodard,1,0
+angular/angular.js,martinjezek,Martin Jezek,1,0
+angular/angular.js,b9chris,,1,0
+angular/angular.js,thynctank,Nick Carter,2,0
+angular/angular.js,bricejlin,Brice Lin,1,0
+angular/angular.js,aeharding,Alexander Harding,1,0
+angular/angular.js,awilliams199009,,1,0
+angular/angular.js,co0lsky,Sky Chin,1,0
+angular/angular.js,viniciuspires,Vinicius da Costa Pires,1,0
+angular/angular.js,mormegil-cz,Petr Kadlec,1,0
+angular/angular.js,Nipol,yoonsung.eth,1,0
+angular/angular.js,mikaraento,Mika Raento,2,0
+angular/angular.js,Bobdina,,1,0
+angular/angular.js,wolfstevent,,1,0
+angular/angular.js,AKST,Angus Thomsen,1,0
+angular/angular.js,martco,Martin Cortez,4,0
+angular/angular.js,troch,Thomas Roch,2,0
+angular/angular.js,4kochi,Andreas Krummsdorf,1,0
+angular/angular.js,WardMe,Ward Meremans,2,0
+angular/angular.js,anant-sogani,,1,0
+angular/angular.js,davidlehn,David I. Lehn,1,0
+angular/angular.js,winkler1,Jeff Winkler,2,0
+angular/angular.js,jvans1,James Vanneman,1,0
+angular/angular.js,jerryfan,,2,0
+angular/angular.js,alexsanford,Alex Sanford,2,0
+angular/angular.js,ccfontes,Carlos,1,0
+angular/angular.js,jfortunato,,1,0
+angular/angular.js,klyrr,Tina Umlandt,1,0
+angular/angular.js,linclark,Lin Clark,3,0
+angular/angular.js,AJCraddock,,1,0
+angular/angular.js,LorDOniX,Roman Makudera,1,0
+angular/angular.js,bartoszhernas,Bartosz Hernas,1,0
+angular/angular.js,teddywing,,1,0
+angular/angular.js,mahopa,Alex Miller,2,0
+angular/angular.js,renatus,Renat Yakubov,1,0
+angular/angular.js,basvandenberg,Bastiaan van den Berg,1,0
+angular/angular.js,tomByrer,Tom Byrer,1,0
+angular/angular.js,johnkpaul,John K. Paul,1,0
+angular/angular.js,fchastanet,François Chastanet,2,0
+angular/angular.js,Argentum88,Андреев Павел,1,0
+angular/angular.js,emmaguo,Emma Guo,2,0
+angular/angular.js,oboxodo,Diego Algorta,1,0
+angular/angular.js,carlosV2,Carlos Ortega,1,0
+angular/angular.js,jvandemo,Jurgen Van de Moere,3,0
+angular/angular.js,alexgarrettsmith,Alex Garrett-Smith,1,0
+angular/angular.js,robinboehm,Robin Böhm,9,0
+angular/angular.js,sqren,Søren Louv-Jansen,2,0
+angular/angular.js,tewen,Trevor Ewen,3,0
+angular/angular.js,alexdmiller,Alexander Miller,1,0
+angular/angular.js,dankohn,Dan Kohn,2,0
+angular/angular.js,frandroid,François Villeneuve,2,0
+angular/angular.js,metaweta,Mike Stay,2,0
+angular/angular.js,brettporter,Brett Porter,2,0
+angular/angular.js,chalin,Patrice Chalin,1,0
+angular/angular.js,poshest,,1,0
+angular/angular.js,mccloskey,,1,0
+angular/angular.js,jayliu50,Jay Liu,1,0
+angular/angular.js,al-the-x,"David Rogers AKA ""AL the X""",1,0
+angular/angular.js,VipSaran,Robert Šarić,1,0
+angular/angular.js,Brianmanden,Brian Juul Andersen,3,0
+angular/angular.js,x-cray,Denys Parchenko,1,0
+angular/angular.js,recurrence,Tyler Kellogg,1,0
+angular/angular.js,andytompkins,Andy Tompkins,3,0
+angular/angular.js,auser,Ari,4,0
+angular/angular.js,neiljohnston,Neil Johnston,1,0
+angular/angular.js,probablyup,Evan Jacobs,4,0
+angular/angular.js,davidmichaelkarr,David M. Karr (fullname at gmail.com),1,0
+angular/angular.js,csa-bee,,1,0
+angular/angular.js,emilesilvis,Emile Silvis,4,0
+angular/angular.js,heymatthew,Matthew,1,0
+angular/angular.js,NickHeiner,Nick Heiner,1,0
+angular/angular.js,serzh,serzh,1,0
+angular/angular.js,n0nick,Sagie Maoz,1,0
+angular/angular.js,takashi,Takashi Nakagawa,3,0
+angular/angular.js,meredrica,,1,0
+angular/angular.js,albyrock87,Alberto Aldegheri,1,0
+angular/angular.js,sriram-dev,Sriram,1,0
+angular/angular.js,forresst,Forresst,24,0
+angular/angular.js,IamAnn,,1,0
+angular/angular.js,rexwang,Rex Wang,1,0
+angular/angular.js,Basemm,Basem Mostafa,1,0
+angular/angular.js,lhaussknecht,Louis Haußknecht,1,0
+angular/angular.js,gsklee,G. Kay Lee,15,0
+angular/angular.js,drbitslayer,K. S. Templer,1,0
+angular/angular.js,chadfennell,Chad M Fennell,1,0
+angular/angular.js,bradwheel,,1,0
+angular/angular.js,JackEllis,Jack Ellis,1,0
+angular/angular.js,mark0978,Mark Jones,3,0
+angular/angular.js,UnicodeSnowman,Christopher Caplinger,1,0
+angular/angular.js,HeNine,,1,0
+angular/angular.js,jrftrifork,Jakob Færch,1,0
+angular/angular.js,jsouthard,James Southard,1,0
+angular/angular.js,jarrettch,Jarrett Harris,3,0
+angular/angular.js,peleteiro,Jose Peleteiro,1,0
+angular/angular.js,tarjei,Tarjei Huse,1,0
+angular/angular.js,pabloalonsos,Pablo Alonso,1,0
+angular/angular.js,zakj,Zak Johnson,1,0
+angular/angular.js,mgerstenblatt,Mike Gerstenblatt,1,0
+angular/angular.js,askundervisning,Ask,1,0
+angular/angular.js,doodeec,Dusan Bartos,2,0
+angular/angular.js,tonybergeron,Tony Bergeron,1,0
+angular/angular.js,TimotheeJeannin,Timothée Jeannin,1,0
+angular/angular.js,Traxmaxx,Alexander Rösel,1,0
+angular/angular.js,r3m0t,Tomer Chachamu,1,0
+angular/angular.js,atomrc,Thomas Belin,2,0
+angular/angular.js,mfield,Marty Field,2,0
+angular/angular.js,hollingberry,Casper Hollingberry,1,0
+angular/angular.js,OleMchls,Ole Michaelis,1,0
+angular/angular.js,deini,Daniel Almaguer,2,0
+angular/angular.js,manuel-woelker,Manuel Woelker,2,0
+angular/angular.js,4name,Maksim,2,0
+angular/angular.js,enfk,Ken Fujii,1,0
+angular/angular.js,longoria,Ben Longoria,1,0
+angular/angular.js,amagee,Andrew Magee,1,0
+angular/angular.js,maciek134,Maciej Sopyło,1,0
+angular/angular.js,bbrown,Bill Brown,1,0
+angular/angular.js,frederic-bonjour,Frédéric Bonjour,2,0
+angular/angular.js,MikeMcElroy,,4,0
+angular/angular.js,nderoche,,1,0
+angular/angular.js,vlajos,Lajos Veres,2,0
+angular/angular.js,desertapple,,1,0
+angular/angular.js,ashleygwilliams,ashley williams,1,0
+angular/angular.js,bradw2k,Brad Williams,4,0
+angular/angular.js,albert-cyberhulk,Albert Cyberhulk,1,0
+angular/angular.js,speedyankur,,1,0
+angular/angular.js,maurovitale,Mauro ,1,0
+angular/angular.js,adeelcap15,,1,0
+angular/angular.js,hugueschabot,Hugues Chabot,1,0
+angular/angular.js,richardcrichardc,Richard Collins,5,0
+angular/angular.js,sgrif,Sage Griffin,2,0
+angular/angular.js,escalant3,Diego Muñoz Escalante,2,0
+angular/angular.js,abahgat,Alessandro Bahgat,2,0
+angular/angular.js,atogata,,1,0
+angular/angular.js,gitnik,Nik Karbaum,1,0
+angular/angular.js,gogotanaka,Kazuki Tanaka,1,0
+angular/angular.js,gnomeontherun,Jeremy Wilken,2,0
+angular/angular.js,SAFAD,Sadaoui Abderrahim,2,0
+angular/angular.js,jennifersong,,1,0
+angular/angular.js,RefuX,James Roome,1,0
+angular/angular.js,quazzie,Tommy Jonsson,7,0
+angular/angular.js,kuldipem,KULDIP PIPALIYA,1,0
+angular/angular.js,cnlevy,,1,0
+angular/angular.js,panarasi,Parashuram N,2,0
+angular/angular.js,stevenpetryk,Steven Petryk,1,0
+angular/angular.js,ejholmes,Eric Holmes,1,0
+angular/angular.js,khepin,Sebastien Armand,3,0
+angular/angular.js,kbanman,Kelly Banman,1,0
+angular/angular.js,njs50,Nick Shearer,1,0
+angular/angular.js,mllrjb,Jason Miller,1,0
+angular/angular.js,brettshollenberger,Brett Shollenberger,1,0
+angular/angular.js,brutasse,Bruno Renié,2,0
+angular/angular.js,nolazybits,Xavier Martin,2,0
+angular/angular.js,cconstantin,Chris Constantin,1,0
+angular/angular.js,shairez,Shai Reznik,4,0
+angular/angular.js,carab,Camille Rabatel,1,0
+angular/angular.js,pauldijou,Paul Dijou,1,0
+angular/angular.js,wibron,Patrik Wibron,1,0
+angular/angular.js,arcanous,Harijs Deksnis,1,0
+angular/angular.js,louis-reed,Louis A. Reed Jr.,1,0
+angular/angular.js,plmetz,Paul Metzler,1,0
+angular/angular.js,ahliddin,Ahliddin Ibragimov,1,0
+angular/angular.js,d4rkr00t,Stanislav Sysoev,1,0
+angular/angular.js,gregkowalski,Greg Kowalski,1,0
+angular/angular.js,bradyisom,Brady Isom,2,0
+angular/angular.js,tamakisquare,,1,0
+angular/angular.js,cesutherland,Carl Sutherland,1,0
+angular/angular.js,brianhall,Brian Hall,1,0
+angular/angular.js,vrutberg,Viktor Rutberg,1,0
+angular/angular.js,cgwyllie,,1,0
+angular/angular.js,anton000,Anthony Chua,1,0
+angular/angular.js,jamiebuilds,Jamie Kyle,1,0
+angular/angular.js,MathieuTricoire,Mathieu Tricoire,1,0
+angular/angular.js,inetfuture,Aaron Wang,1,0
+angular/angular.js,yono38,Jason Schapiro,1,0
+angular/angular.js,Sequoia,Sequoia McDowell,3,0
+angular/angular.js,vicb,Victor Berchet,2,0
+angular/angular.js,attodorov,Angel Todorov,1,0
+angular/angular.js,negativetwelve,Mark Miyashita,1,0
+angular/angular.js,ZeeStorm,James Wagoner,1,0
+angular/angular.js,JeremyLikness,Jeremy Likness,1,0
+angular/angular.js,davidpope,David Pope,1,0
+angular/angular.js,poum,poum,1,0
+angular/angular.js,feedmypixel,Ben Chidgey,1,0
+angular/angular.js,fofo1808,,1,0
+angular/angular.js,renz45,Adam Rensel,2,0
+angular/angular.js,rorymadden,Rory Madden,1,0
+angular/angular.js,quakehead,Mustafa,1,0
+angular/angular.js,githubjeka,Evgeniy Tkachenko,1,0
+angular/angular.js,jasonswearingen,Jason Swearingen,1,0
+angular/angular.js,kasparasg,Kasparas Galdikas,1,0
+angular/angular.js,Qambar,Qambar Raza,1,0
+angular/angular.js,asif22,Asif Newaz,1,0
+angular/angular.js,kanyuga,Topher,1,0
+angular/angular.js,sunderls,,1,0
+angular/angular.js,aalvarado,Adan Alvarado,1,0
+angular/angular.js,stephenleicht,Stephen Leicht,1,0
+angular/angular.js,lookfirst,Public Profile,2,0
+angular/angular.js,peteygao,Peter Gao,1,0
+angular/angular.js,fdomig,Franziskus Domig,1,0
+angular/angular.js,Hopiu,Benedikt Willi,1,0
+angular/angular.js,ada-lovecraft,Ada Lovecraft,1,0
+angular/angular.js,GiffenGood,,1,0
+angular/angular.js,fbenz,Florian Benz,2,0
+angular/angular.js,PCASME,Pedro Castro Mellado,1,0
+angular/angular.js,dluxemburg,Daniel Luxemburg,1,0
+angular/angular.js,amj,Andrew Jackson,2,0
+angular/angular.js,Guern,Marco,1,0
+angular/angular.js,alanrubin,Alan Rubin,1,0
+angular/angular.js,nicolasleger,,1,0
+angular/angular.js,JohnKurlak,John Kurlak,1,0
+angular/angular.js,ProLoser,Dean Sofer,9,0
+angular/angular.js,dagingaa,Dag-Inge Aas,2,0
+angular/angular.js,panuhorsmalahti,Panu Horsmalahti,1,0
+angular/angular.js,smorele,smorele_,1,0
+angular/angular.js,JianbaoTao,Jim Tao,1,0
+angular/angular.js,dukehoops-zz,Nikita Tovstoles,1,0
+angular/angular.js,mananbharara,Manan,1,0
+angular/angular.js,edrpls,Eder Sánchez,1,0
+angular/angular.js,bcamp1973,Brian,1,0
+angular/angular.js,climboid,Oscar Villarreal,1,0
+angular/angular.js,sflahave,Shawn Flahave,2,0
+angular/angular.js,vitorlopez,Vitor López,1,0
+angular/angular.js,egobrain,Yakov,1,0
+angular/angular.js,jbalboni,Jeff Balboni,1,0
+angular/angular.js,davidjnelson,David Nelson,2,0
+angular/angular.js,tpiere,,1,0
+angular/angular.js,janhancic,Jan Hancic,3,0
+angular/angular.js,gjvc,George Cox,3,0
+angular/angular.js,jnoconor,Joe O'Conor,1,0
+angular/angular.js,StevenInc,Steven Benjamin,3,0
+angular/angular.js,ParvSangha,,1,0
+angular/angular.js,glix,Danny Glix,1,0
+angular/angular.js,siddii,Siddique Hameed,8,0
+angular/angular.js,allonhadaya,Allon Hadaya,1,0
+angular/angular.js,alvindu,Alvin Du,1,0
+angular/angular.js,gabrielbrasil,,1,0
+angular/angular.js,matthewhintzen,,2,0
+angular/angular.js,JasonCust,Jason Cust,3,0
+angular/angular.js,canvaspixels,,1,0
+angular/angular.js,minznerjosh,Josh Minzner,1,0
+angular/angular.js,guanbo,Guan Bo,2,0
+angular/angular.js,gurdiga,Vlad GURDIGA,9,0
+angular/angular.js,letsmakesense,,1,0
+angular/angular.js,joshuaflanagan,Joshua Flanagan,1,0
+angular/angular.js,houlu,,1,0
+angular/angular.js,jeffjewiss,Jeff Jewiss,1,0
+angular/angular.js,kulikov,Dmitry Kulikov,1,0
+angular/angular.js,yentheo,,2,0
+angular/angular.js,apolishch,Abraham,1,0
+angular/angular.js,neil-rubens,Neil Rubens,1,0
+angular/angular.js,marshall007,Marshall Cottrell,1,0
+angular/angular.js,leniel,Leniel Maccaferri,3,0
+angular/angular.js,twchapman,Travis Chapman,1,0
+angular/angular.js,Petrie,petrie,1,0
+angular/angular.js,Das-Loop,Das Loop,1,0
+angular/angular.js,dmvt,Dan Matthews,1,0
+angular/angular.js,jtangelder,J. Tangelder,7,0
+angular/angular.js,sgronblo,Sam Grönblom,1,0
+angular/angular.js,darkoverlordofdata,Bruce Davidson,1,0
+angular/angular.js,lannon,John Lannon,1,0
+angular/angular.js,CWSpear,Cameron Spear,3,0
+angular/angular.js,blakewest,Blake,1,0
+angular/angular.js,nosideeffects,Jacob,1,0
+angular/angular.js,Maxim-Filimonov,tpaktop,1,0
+angular/angular.js,mgechev,Minko Gechev,2,0
+angular/angular.js,royling,Roy Ling,9,0
+angular/angular.js,perek,Pere,1,0
+angular/angular.js,biohazardpb4,,1,0
+angular/angular.js,bwiklund,Ben Wiklund,9,0
+angular/angular.js,MehulATL,Mehul Patel,2,0
+angular/angular.js,bigblind,Frederik Creemers,1,0
+angular/angular.js,Parziphal,Renzo,1,0
+angular/angular.js,marcwright,Marc Wright,1,0
+angular/angular.js,kimwz,Karl Woojung Kim,2,0
+angular/angular.js,mc7244,Michele Beltrame,1,0
+angular/angular.js,pyriand3r,,1,0
+angular/angular.js,Hendrixer,Scott Moss,1,0
+angular/angular.js,Pasvaz,Pasquale Vazzana,3,0
+angular/angular.js,sethstone,Seth Stone,2,0
+angular/angular.js,lazaruslarue,lazarus,2,0
+angular/angular.js,theredpea,Nate,1,0
+angular/angular.js,gorakhargosh,Yesudeep Mangalapilly,1,0
+angular/angular.js,rwilhelm,René,2,0
+angular/angular.js,cyounkins,Craig Younkins,1,0
+angular/angular.js,gillius,Jason Winnebeck,1,0
+angular/angular.js,stucash,QiuxiaoMu,1,0
+angular/angular.js,simpulton,Lukas Ruebbelke,3,0
+angular/angular.js,dlukez,Daniel Zimmermann,1,0
+angular/angular.js,jorgt,Jorg,1,0
+angular/angular.js,park9140,Jonathan Park,3,0
+angular/angular.js,johnpapa,John Papa,1,0
+angular/angular.js,johnsoftek,,1,0
+angular/angular.js,zhongliangong,Zhong Liang Ong,1,0
+angular/angular.js,numediaweb,Abdessamad Idrissi,2,0
+angular/angular.js,andreas-gruenbacher,Andreas Gruenbacher,1,0
+angular/angular.js,kennethlynne,Kenneth Lynne,1,0
+angular/angular.js,jrupac,Ajay Roopakalu,1,0
+angular/angular.js,arty-name,Tom Adler,4,0
+angular/angular.js,drewp,Drew Perttula,1,0
+angular/angular.js,caiotoon,Caio Cunha,5,0
+angular/angular.js,dburrows,David Burrows,1,0
+angular/angular.js,dozingcat,Brian Nenninger,1,0
+angular/angular.js,chrispaul8484,,1,0
+angular/angular.js,andresilveirah,André Herculano,2,0
+angular/angular.js,sinelaw,Noam Lewis,2,0
+angular/angular.js,metamatt,Matt Ginzton,2,0
+angular/angular.js,Sean-Der,Sean DuBois,1,0
+angular/angular.js,akerekes,Andras Kerekes,1,0
+angular/angular.js,nvie,Vincent Driessen,1,0
+angular/angular.js,jaygoldman,Jay Goldman,1,0
+angular/angular.js,jbruni,J Bruni,5,0
+angular/angular.js,rafallo,Rafał Jagoda,1,0
+angular/angular.js,VTJamie,,1,0
+angular/angular.js,willthefirst,,1,0
+angular/angular.js,igorlima,Igor Ribeiro Lima,3,0
+angular/angular.js,laurent22,Laurent,3,0
+angular/angular.js,blakeblackshear,Blake Blackshear,1,0
+angular/angular.js,Uplink03,,1,0
+angular/angular.js,benmccann,Ben McCann,5,0
+angular/angular.js,leog,Leo Giovanetti,2,0
+angular/angular.js,mjomble,Andres Kalle,2,0
+angular/angular.js,cburgdorf,Christoph Burgdorf,9,0
+angular/angular.js,mkolodny,Michael Kolodny,6,0
+angular/angular.js,sanfords,,1,0
+angular/angular.js,bripkens,Ben Blackmore,6,0
+angular/angular.js,bc-luke,Luke Eller,1,0
+angular/angular.js,lkweiss,Levi K. Weiss,2,0
+angular/angular.js,plalx,Alexandre Potvin Latreille,1,0
+angular/angular.js,oojerryoo,Jerry Chen,1,0
+angular/angular.js,kseamon,Karl Seamon,17,0
+angular/angular.js,alabid,Daniel Alabi,1,0
+angular/angular.js,ronnieoverby,Ronnie Overby,1,0
+angular/angular.js,jridgewell,Justin Ridgewell,1,0
+angular/angular.js,sethflowers,,1,0
+angular/angular.js,zbabtkis,Zachary Babtkis,2,0
+angular/angular.js,halloffame,Ryan Hall,1,0
+angular/angular.js,mikepro,Michael,1,0
+angular/angular.js,delaman,Pedro de la Cruz Jr.,1,0
+angular/angular.js,markjszy,Mark Szymanski,1,0
+angular/angular.js,mike-schenk,Mike Schenk,1,0
+angular/angular.js,moretti,Paolo Moretti,1,0
+angular/angular.js,kevinsimper,Kevin Simper,1,0
+angular/angular.js,eunomie,Yves Brissaud,1,0
+angular/angular.js,dtabuenc,Daniel Tabuenca,3,0
+angular/angular.js,snicolai,,2,0
+angular/angular.js,squirly,Tyler Jones,1,0
+angular/angular.js,kimpettersen,Kim Pettersen,3,0
+angular/angular.js,TonyCronin,Tony Cronin,1,0
+angular/angular.js,justmiaotou,Macon,1,0
+angular/angular.js,munet9,,1,0
+angular/angular.js,jdhiro,Jason Farnsworth,1,0
+angular/angular.js,Sharondio,Sharon DiOrio,2,0
+angular/angular.js,JamesWatling,James Watling,1,0
+angular/angular.js,olostan,Valentyn Shybanov,3,0
+angular/angular.js,gesellix,Tobias Gesellchen,2,0
+angular/angular.js,istarkov,Ivan Starkov,1,0
+angular/angular.js,pawelrychlik,Paweł Rychlik,1,0
+angular/angular.js,evictor,Ezekiel Victor,1,0
+angular/angular.js,chovy,Anthony Ettinger,1,0
+angular/angular.js,jesse-browne,Jesse Browne,2,0
+angular/angular.js,kurtfunai,Kurt Funai,1,0
+angular/angular.js,michalc,Michal Charemza,1,0
+angular/angular.js,nairb774,Brian Atkinson,1,0
+angular/angular.js,unclejustin,Justin Boyson,1,0
+angular/angular.js,gbezyuk,Grigoriy Beziuk,1,0
+angular/angular.js,codejet,Oliver Schmidt,1,0
+angular/angular.js,ludinov,Volodymyr Ludinov,1,0
+angular/angular.js,mbrookes,Matt,1,0
+angular/angular.js,juwalter,Jürgen Walter,1,0
+angular/angular.js,matjed,,1,0
+angular/angular.js,mattiash,Mattias Holmlund,1,0
+angular/angular.js,miknsh5,Mike Nash,1,0
+angular/angular.js,shanepelletier,Shane M. Pelletier,2,0
+angular/angular.js,hambyiii,,1,0
+angular/angular.js,tmho,Tim,1,0
+angular/angular.js,whyvez,Yves Richard,2,0
+angular/angular.js,andyferra,Andy Ferra,1,0
+angular/angular.js,gerstnr,Claudius,1,0
+angular/angular.js,santosh79,Santosh Kumar,1,0
+angular/angular.js,g00fy-,Piotrek Majewski,1,0
+angular/angular.js,bloublou,Blop Blop,1,0
+angular/angular.js,rainboxx,Matthias Dietrich,1,0
+angular/angular.js,jstrachan,James Strachan,2,0
+angular/angular.js,drozzy,Andriy Drozdyuk,1,0
+angular/angular.js,joscha,Joscha Feth,1,0
+angular/angular.js,jfroffice,J.Fischer,1,0
+angular/angular.js,esgy,Sorin Gitlan,1,0
+angular/angular.js,RodolpheGohard,Rodolphe,1,0
+angular/angular.js,revolunet,Julien Bouquillon,5,0
+angular/angular.js,baens,Erik Lindblom,1,0
+angular/angular.js,ilkka-rautiainen,Ilkka Rautiainen,1,0
+angular/angular.js,hswolff,Harry Wolff,1,0
+angular/angular.js,elwinarens,Elwin Arens,1,0
+angular/angular.js,lolripgg,James Brewer,1,0
+angular/angular.js,ammarAlrefai,Ammar,1,0
+angular/angular.js,leon,Leon Radley,1,0
+angular/angular.js,deepak-kapoor,Deepak Kapoor,2,0
+angular/angular.js,bcaudan,Bastien Caudan,1,0
+angular/angular.js,salzig,Ben Rexin,1,0
+angular/angular.js,wjtk,Wojtek Krak,1,0
+angular/angular.js,ewinslow,Evan Winslow,1,0
+angular/angular.js,korzha,Andrei Korzhevskii,2,0
+angular/angular.js,skoszuta,Sebastian,1,0
+angular/angular.js,marclipovsky,Marc Lipovsky,1,0
+angular/angular.js,scribblet,Ross Cousens,2,0
+angular/angular.js,davemo,David Mosher,2,0
+angular/angular.js,mwq27,Marques Woodson,1,0
+angular/angular.js,scottywakefield,,1,0
+angular/angular.js,xenosoz,Taihyun Hwang,1,0
+angular/angular.js,adoconnection,Alexander Selishchev,1,0
+angular/angular.js,dimirc,Wladimir Coka,1,0
+angular/angular.js,dysfunc,Kieran Boyle,1,0
+angular/angular.js,erubboli,Enrico Rubboli,1,0
+angular/angular.js,wizardwerdna,Andrew Greenberg,3,0
+angular/angular.js,jeffsmohan,Jeff Mohan,1,0
+angular/angular.js,ryanseddon,Ryan Seddon,3,0
+angular/angular.js,slobo,Slobodan Mišković,1,0
+angular/angular.js,pyprism,Ashutosh Das,1,0
+angular/angular.js,bbaia,Bruno Baia,1,0
+angular/angular.js,dmkc,Dmitry Kichenko,2,0
+angular/angular.js,gipsy86147,gipsy,1,0
+angular/angular.js,davegaeddert,Dave Gaeddert,2,0
+angular/angular.js,rhysbrettbowen,Rhys Brett-Bowen,1,0
+angular/angular.js,chanced,Chance,1,0
+angular/angular.js,vin,Vineet Kumar,6,0
+angular/angular.js,danielx12,,1,0
+angular/angular.js,Hypercubed,Jayson Harshbarger,1,0
+angular/angular.js,burrows,Corey Burrows,1,0
+angular/angular.js,michelsalib,Michel Salib,1,0
+angular/angular.js,glepretre,Gilles Lepretre,1,0
+angular/angular.js,ysulyma,Yuri Sulyma,1,0
+angular/angular.js,aevange,andre evangelesta,4,0
+angular/angular.js,runxc1,runxc1(Bret Ferrier),1,0
+angular/angular.js,smarigowda,Santosh Marigowda,3,0
+angular/angular.js,jantoebes,Jan Toebes,1,0
+angular/angular.js,ulfryk,Jakub Strojewski,2,0
+angular/angular.js,hupf,Mathis Hofer,1,0
+angular/angular.js,EnGassa,,1,0
+angular/angular.js,thomasguillory,Thomas Guillory,1,0
+angular/angular.js,phillipalexander,Phillip Alexander,1,0
+angular/angular.js,theRobinator,Robin Keller,1,0
+angular/angular.js,matthughes,Matt Hughes,1,0
+angular/angular.js,thenickcox,Nick Cox,1,0
+angular/angular.js,jcompagner,Johan Compagner,1,0
+angular/angular.js,xdhmoore,Daniel Moore,1,0
+angular/angular.js,deakster,,1,0
+angular/angular.js,maxwellium,,1,0
+angular/angular.js,sebastienroul,ROUL,1,0
+angular/angular.js,Waterfish,Peter Kosa,1,0
+angular/angular.js,iamedu,Eduardo Díaz,2,0
+angular/angular.js,jackcviers,Jack Viers,1,0
+angular/angular.js,maurocarrero,Mauro Carrero,1,0
+angular/angular.js,boneskull,Christopher Hiller,3,0
+angular/angular.js,nelsonpecora,Nelson Pecora,1,0
+angular/angular.js,nbrustein,Nate Brustein,1,0
+angular/angular.js,mbenford,Michael Benford,1,0
+angular/angular.js,tathamoddie,Tatham Oddie,2,0
+angular/angular.js,eddiemonge,Eddie Monge Jr,7,0
+angular/angular.js,maxhq,Jens Berthold,2,0
+angular/angular.js,derekpeterson,Derek Peterson,1,0
+angular/angular.js,ztamizzen,Mats Lindblad,1,0
+angular/angular.js,swarajban,swa,1,0
+angular/angular.js,talwai,Aaditya Talwai,1,0
+angular/angular.js,bfanger,Bob Fanger,1,0
+angular/angular.js,runk,Dmitry Shirokov,2,0
+angular/angular.js,CGenie,,1,0
+angular/angular.js,mlunoe,Michael Lunøe,2,0
+angular/angular.js,bendowski,Michal Bendowski,1,0
+angular/angular.js,svenanders,Sven Anders Robbestad,4,0
+angular/angular.js,forivall,Emily Marigold Klassen,1,0
+angular/angular.js,rthomson83,Robert Thomson,1,0
+angular/angular.js,granteagon,Grant Eagon,1,0
+angular/angular.js,bigcmos,Daniel Aden,1,0
+angular/angular.js,jure,Jure Triglav,1,0
+angular/angular.js,joshbowdoin,,1,0
+angular/angular.js,webuniverseio,Sergey Zarovskiy,1,0
+angular/angular.js,ttsiodras,Thanassis Tsiodras,1,0
+angular/angular.js,janbaer,Jan Baer,1,0
+angular/angular.js,timgraham,Tim Graham,1,0
+angular/angular.js,mofas,Chung Yen Li,2,0
+angular/angular.js,farolfo,Franco Arolfo,1,0
+angular/angular.js,grabus,,1,0
+angular/angular.js,adamnbowen,Adam Bowen,1,0
+angular/angular.js,xtrasmal, Xander Smalbil,1,0
+angular/angular.js,renanivo,Renan Ivo,1,0
+angular/angular.js,OKJulian,Julian,1,0
+angular/angular.js,cleyshan,,1,0
+angular/angular.js,gaborcs,Gabor Csizmadia,1,0
+angular/angular.js,jolealdoneto,José Leal Domingues Neto,1,0
+angular/angular.js,bilogub,Yuriy Bilogub,1,0
+angular/angular.js,douglascalhoun,,2,0
+angular/angular.js,ettysekhon,Etty Sekhon,1,0
+angular/angular.js,pgilad,Gilad Peleg,1,0
+angular/angular.js,casebeer,Christopher Casebeer,1,0
+angular/angular.js,netpoetica,Keith Rosenberg,1,0
+angular/angular.js,manuelpradal,Manuel PRADAL,1,0
+angular/angular.js,hsablonniere,Hubert SABLONNIÈRE,2,0
+angular/angular.js,fmoggia,,1,0
+angular/angular.js,supercobra,@supercobra,1,0
+angular/angular.js,jgrund,Joe Grund,1,0
+angular/angular.js,andrewvida,Andrew Vida,2,0
+angular/angular.js,bbhoss,Preston Marshall,1,0
+angular/angular.js,georgebonnr,George Bonner,2,0
+angular/angular.js,andrewstuart,Andrew Stuart,1,0
+angular/angular.js,seanfahey,Sean Fahey,1,0
+angular/angular.js,rjferguson21,Rob Ferguson,1,0
+angular/angular.js,ganarajpr,Ganaraj P R,2,0
+angular/angular.js,oller,David Ollerhead,1,0
+angular/angular.js,mattisfrommars,Matt Jewell,1,0
+angular/angular.js,mcfedr,Fred Cox,1,0
+angular/angular.js,KevinSheedy,Kevin Sheedy,1,0
+angular/angular.js,jorganisak,Joey Organisak,1,0
+angular/angular.js,micole,Michael Cole,1,0
+angular/angular.js,jrencz,Jarek Rencz,1,0
+angular/angular.js,gabriel-tessier,,1,0
+angular/angular.js,BrainCrumbz,BrainCrumbz,1,0
+angular/angular.js,gregolsky,Grzegorz Lachowski,1,0
+angular/angular.js,steelsojka,Steven Sojka,3,0
+angular/angular.js,komputist,Leif Halvard Silli,2,0
+angular/angular.js,ahamal,Ashwin,1,0
+angular/angular.js,tkothe,Till Kothe,1,0
+angular/angular.js,sudodoki,"Джон, просто Джон",2,0
+angular/angular.js,alexander-paukste,Alexander Paukste,1,0
+angular/angular.js,smessing,Samuel Messing,1,0
+angular/angular.js,dound,David Underhill,1,0
+angular/angular.js,greenie,Joe Green,1,0
+angular/angular.js,sanketsaurav,Sanket Saurav,1,0
+angular/angular.js,lucipacurar,Lucian Pacurar,1,0
+angular/angular.js,RomanManz,,1,0
+angular/angular.js,c0rrupt,Corrupt,1,0
+angular/angular.js,suhajdab,Balázs Suhajda,1,0
+angular/angular.js,jamesandersen,James Andersen,1,0
+angular/angular.js,cqr,Chris Quamme Rhoden,3,0
+angular/angular.js,floyd-may,Floyd May,2,0
+angular/angular.js,DanS,,2,0
+angular/angular.js,Augus,Augus,2,0
+angular/angular.js,arunisrael,Arun Israel,1,0
+angular/angular.js,grantyb,Grant Berridge,1,0
+angular/angular.js,phamdt,,1,0
+angular/angular.js,mmieszek,Marcin Mieszek,1,0
+angular/angular.js,bradlygreen,Brad Green,3,0
+angular/angular.js,clouddueling,clouddueling,2,0
+angular/angular.js,hammerdr,Derek Hammer,1,0
+angular/angular.js,joshschumacher,Josh Schumacher,1,0
+angular/angular.js,mvanroon,Michiel van Roon,1,0
+angular/angular.js,walterhiggins,Walter Higgins,1,0
+angular/angular.js,nicolasbrugneaux,Nicolas Brugneaux,1,0
+angular/angular.js,jdavisp3,Dave Peticolas,22,0
+angular/angular.js,buunguyen,Buu Nguyen,4,0
+angular/angular.js,lord2800,Jeff Hubbard,1,0
+angular/angular.js,gh-naylor,G.H. Naylor,1,0
+angular/angular.js,victorb,Victor Bjelkholm,1,0
+angular/angular.js,ryanzec,Ryan Zec,2,0
+angular/angular.js,joshmcadams,Josh McAdams,1,0
+angular/angular.js,mfo,mfo,1,0
+angular/angular.js,sunnylost,sunnylost,1,0
+angular/angular.js,davegonzalez,David Gonzalez,2,0
+angular/angular.js,patreeceeo,Patrick Canfield,2,0
+angular/angular.js,colonelchlorine,Mike Murkovic,1,0
+angular/angular.js,commonlisp,George Kuan,1,0
+angular/angular.js,capaj,Jiri Spac,1,0
+angular/angular.js,willmendesneto,Will Mendes,3,0
+angular/angular.js,poeticninja,Saul Maddox,1,0
+angular/angular.js,liebeskind,Daniel Liebeskind,1,0
+angular/angular.js,jeffkile,Jeff Kile,1,0
+angular/angular.js,felixcriv,Felix,1,0
+angular/angular.js,TheAustinMunro,,1,0
+angular/angular.js,demike,,1,0
+angular/angular.js,mjtko,Mark J. Titorenko,1,0
+angular/angular.js,tolgaek,Tolga Ekmen,1,0
+angular/angular.js,henry-hz,Henry Hz,1,0
+angular/angular.js,artur-trzesiok,,1,0
+angular/angular.js,purcell,Steve Purcell,2,0
+angular/angular.js,frapontillo,Francesco Pontillo,2,0
+angular/angular.js,stsvilik,Simon Tsvilik,7,0
+angular/angular.js,frankamp,,1,0
+angular/angular.js,mbonaci,Marko Bonaći,1,0
+angular/angular.js,ransha,,1,0
+angular/angular.js,shidhincr,Shidhin,1,0
+angular/angular.js,mjtamlyn,Marc Tamlyn,1,0
+angular/angular.js,akent,Adam Kent,1,0
+angular/angular.js,buddhamagnet,Dave Goodchild,1,0
+angular/angular.js,jelling,Jon Elling,1,0
+angular/angular.js,mrmrs,murmurs,1,0
+angular/angular.js,L8D,Tenor,1,0
+angular/angular.js,kzar,Dave Vandyke,3,0
+angular/angular.js,thinklarge,Eric Large,1,0
+angular/angular.js,agentcooper,Artem Tyurin,2,0
+angular/angular.js,bourey,Jen Bourey,1,0
+angular/angular.js,ilovecomputers,Tom Elovi Spruce,1,0
+angular/angular.js,jankuca,Jan Kuča,16,0
+angular/angular.js,adamdonahue,Adam Donahue,1,0
+angular/angular.js,mtaran-google,,1,0
+angular/angular.js,jhanink,Joe Hanink,1,0
+angular/angular.js,simeonwillbanks,Simeon Willbanks,1,0
+angular/angular.js,mstaessen,Michiel Staessen,1,0
+angular/angular.js,ojacquemart,Olivier Jacquemart,1,0
+angular/angular.js,antoniopuero,Anton Savchenko,1,0
+angular/angular.js,akagr,Akash Agrawal,1,0
+angular/angular.js,trask,Trask Stalnaker,1,0
+angular/angular.js,geddski,Dave Geddes,6,0
+angular/angular.js,jamesdaily,James Daily,6,0
+angular/angular.js,rcullito,Rob Culliton,1,0
+angular/angular.js,sarahkevinking,Sarah King,1,0
+angular/angular.js,jokeyrhyme,Ron Waldon,1,0
+angular/angular.js,jeserkin,Eugene Serkin,2,0
+angular/angular.js,SebC99,SebC.,6,0
+angular/angular.js,rixrix,Richard Sentino,1,0
+angular/angular.js,bstruthers,Ben Struthers,1,0
+angular/angular.js,sjmulder,Sijmen J. Mulder,1,0
+angular/angular.js,colincasey,Colin Casey,5,0
+angular/angular.js,builtbylane,Lane Goldberg,1,0
+angular/angular.js,fotomut,Matthew Kleiman,1,0
+angular/angular.js,MQuy,Minh Quy,1,0
+angular/angular.js,MichaelKueller,Michael Küller,1,0
+angular/angular.js,lorint,,1,0
+angular/angular.js,MrRaindrop,Parzival,1,0
+angular/angular.js,janhartigan,Jan Hartigan,1,0
+angular/angular.js,ishanray,,1,0
+angular/angular.js,blai,Brian Lai,1,0
+angular/angular.js,ashaffer,Andrew Shaffer,4,0
+angular/angular.js,pahlers,Peter Ahlers,1,0
+angular/angular.js,lastnico,Nicolas Ternisien,2,0
+angular/angular.js,ruparocks,Rupa Sharma,1,0
+angular/angular.js,ts-web,Matthias,3,0
+angular/angular.js,anilgulecha,Anil Gulecha,1,0
+angular/angular.js,JamieMason,Jamie Mason,3,0
+angular/angular.js,manuelkiessling,Manuel Kießling,2,0
+angular/angular.js,firstdoit,Guilherme Rodrigues,1,0
+angular/angular.js,bryanrsmith,Bryan Smith,1,0
+angular/angular.js,kulte,Zachary Friedman,1,0
+angular/angular.js,jroper,James Roper,1,0
+angular/angular.js,atomAltera,Konstantin Alikhanov,1,0
+angular/angular.js,themihai,Mihai,1,0
+angular/angular.js,jamie-pate,,1,0
+angular/angular.js,ptsurko,PT,1,0
+angular/angular.js,wakandan,Dang Nguyen Anh Khoa,1,0
+angular/angular.js,Pitel,Ing. Jan Kaláb,1,0
+angular/angular.js,jogloran,Daniel Tse,2,0
+angular/angular.js,ream88,Mario Uher,1,0
+angular/angular.js,umurkontaci,Umur Kontacı,2,0
+angular/angular.js,kierenhughes90,Kieren Hughes,1,0
+angular/angular.js,brakon,Brian Bergendahl,1,0
+angular/angular.js,Silwing,Rand Hillerøe,1,0
+angular/angular.js,paxtonhare,Paxton Hare,1,0
+angular/angular.js,cjmling,Chandrajeet Maurya,1,0
+angular/angular.js,bsiddiqui,Basil Siddiqui,1,0
+angular/angular.js,butchpeters,Butch Peters,1,0
+angular/angular.js,daniellmb,Danny Lamb,1,0
+angular/angular.js,isabo,Itzy Sabo,1,0
+angular/angular.js,jakub-bochenski,,2,0
+angular/angular.js,naorye,,1,0
+angular/angular.js,dahlb,Brendan Dahl,1,0
+angular/angular.js,EpokK,Richard,1,0
+angular/angular.js,anthonypt87,Anthony Tran,1,0
+angular/angular.js,willfarrell,will Farrell,1,0
+angular/angular.js,d-simon,David Simon,1,0
+angular/angular.js,hrbonz,"Stefan ""hr"" Berder (白峰)",2,0
+angular/angular.js,gunn,Arthur Gunn,1,0
+angular/angular.js,muratcorlu,Murat Çorlu,1,0
+angular/angular.js,davincho,David Madner,1,0
+angular/angular.js,baconmania,Gowtam Lal,1,0
+angular/angular.js,woahdae,Woody Peterson,1,0
+angular/angular.js,sparty02,Ryan Dunckel,1,0
+angular/angular.js,ricardohbin,Ricardo Bin,5,0
+angular/angular.js,snowyu,Riceball LEE,1,0
+angular/angular.js,mhicauber,Mathieu Hicauber,1,0
+angular/angular.js,clee704,Chungmin Lee,1,0
+angular/angular.js,draptik,Patrick Drechsler,1,0
+angular/angular.js,tstatler,Tim Statler,4,0
+angular/angular.js,nterray,Nicolas Terray,2,0
+angular/angular.js,NicholasBoll,Nicholas Boll,1,0
+angular/angular.js,willtj,Will Taylor-Jackson,2,0
+angular/angular.js,jaredly,Jared Forsyth,4,0
+angular/angular.js,cleberdantas,Cleber Dantas,1,0
+angular/angular.js,rbonvall,Roberto Bonvallet,1,0
+angular/angular.js,madaz,Adam,1,0
+angular/angular.js,fscofield,Forrest Scofield,1,0
+angular/angular.js,martijndwars,Martijn Dwars,1,0
+angular/angular.js,vitalets,Vitaliy Potapov,1,0
+angular/angular.js,jtward,James Ward,1,0
+angular/angular.js,tomazy,tomazy,1,0
+angular/angular.js,colinfrei,Colin Frei,3,0
+angular/angular.js,edconolly,Ed,1,0
+angular/angular.js,iammerrick,Merrick Christensen,2,0
+angular/angular.js,choxi,Roshan Choxi,1,0
+angular/angular.js,jquadrino,Joe Q,2,0
+angular/angular.js,CalvinFernandez,Calvin Fernandez,1,0
+angular/angular.js,ajnietup,Andrew Nietupski,1,0
+angular/angular.js,chronick,Nick Donohue,1,0
+angular/angular.js,powtac,Simon Brüchner,1,0
+angular/angular.js,hteek,Henning Teek,1,0
+angular/angular.js,Pindar,Simon Dittlmann,1,0
+angular/angular.js,spamdaemon,,4,0
+angular/angular.js,twil,Alexander Kaidalov,2,0
+angular/angular.js,czechdude,Petr Diviš,1,0
+angular/angular.js,CatInRl,Ypc,1,0
+angular/angular.js,jmnarloch,Jakub Narloch,1,0
+angular/angular.js,Nepoxx,,1,0
+angular/angular.js,adamdecaf,Adam Shannon,1,0
+angular/angular.js,pelme,Andreas Pelme,2,0
+angular/angular.js,justinrknowles,Justin,2,0
+angular/angular.js,allaud,Anton Pleshivtsev,1,0
+angular/angular.js,rodbv,Rodrigo Vieira,1,0
+angular/angular.js,kramretak,Mark Kater,1,0
+angular/angular.js,jelbourn,Jeremy Elbourn,1,0
+angular/angular.js,aeby,Reto Aebersold,2,0
+angular/angular.js,jasonm23,Jason Milkins,1,0
+angular/angular.js,brettle,Dean Brettle,2,0
+angular/angular.js,robdodson,Rob Dodson,1,0
+angular/angular.js,mjc-gh,Michael Coyne,1,0
+angular/angular.js,jussik,Jussi Kosunen,1,0
+angular/angular.js,chicoxyzzy,Sergey Rubanov,2,0
+angular/angular.js,tomdcc,Tom Dunstan,1,0
+angular/angular.js,leefernandes,Lee Fernandes,1,0
+angular/angular.js,kirstein,Mikk Kirstein,2,0
+angular/angular.js,warnerandy,Andy Warner,1,0
+angular/angular.js,ebeal,Elle Beal,1,0
+angular/angular.js,marcelmorgan,Marcel Morgan,1,0
+angular/angular.js,joshrtay,Josh Taylor,5,0
+angular/angular.js,jasonals,Jason Als,2,0
+angular/angular.js,zivc,Ash,1,0
+angular/angular.js,bleggett,Ben Leggett,1,0
+angular/angular.js,ghodss,Sam Ghods,1,0
+angular/angular.js,alexurdea,Alex Urdea,1,0
+angular/angular.js,kpolitowicz,Kamil Politowicz,1,0
+angular/angular.js,niallsmart,Niall Smart,4,0
+angular/angular.js,angelcabo,Angel Balcarcel,1,0
+angular/angular.js,notNotDaniel,Daniel Keller,1,0
+angular/angular.js,pheuter,Mark Fayngersh,1,0
+angular/angular.js,AntiTalent,,1,0
+angular/angular.js,AndyHitchman,Andy Hitchman,1,0
+angular/angular.js,hcientist,Michael Stewart,1,0
+angular/angular.js,perymimon,pery mimon,1,0
+angular/angular.js,neilmcgibbon,Neil McGibbon,1,0
+angular/angular.js,Nitrodist,Mark Campbell,1,0
+angular/angular.js,ethanli83,Ethan.Li,2,0
+angular/angular.js,joscarsson,Jonas Oscarsson,1,0
+angular/angular.js,whuhacker,Zeng Xi,1,0
+angular/angular.js,slundberg,Scott Lundberg,1,0
+angular/angular.js,etiennebarrie,Étienne Barrié,1,0
+angular/angular.js,OpherV,Opher Vishnia,1,0
+angular/angular.js,eillarra,Eneko,1,0
+angular/angular.js,natefaubion,Nathan Faubion,1,0
+angular/angular.js,ddcast,,1,0
+angular/angular.js,manikantag,Manikanta G,1,0
+angular/angular.js,shepheb,Braden Shepherdson,11,0
+angular/angular.js,Roland1975,Roland,5,0
+angular/angular.js,nateabele,Nate Abele,1,0
+angular/angular.js,jardilio,Jeff Ardilio,1,0
+angular/angular.js,andimarek,Andreas Marek,2,0
+angular/angular.js,RobbinHabermehl,Robbin Habermehl,1,0
+angular/angular.js,vsviridov,Vasili Sviridov,1,0
+angular/angular.js,nspaeth,Nathan,1,0
+angular/angular.js,sdesmond,Spencer,5,0
+angular/angular.js,richardjohn,Richard John,1,0
+angular/angular.js,ctrahey,Chris Trahey,2,0
+angular/angular.js,davesque,David Sanders,2,0
+angular/angular.js,brooksbp,Brian Brooks,1,0
+angular/angular.js,jfache,Jérémy Fache,1,0
+angular/angular.js,npup,P. Envall,1,0
+angular/angular.js,carldanley,Carl Danley,1,0
+angular/angular.js,pdf,Peter Fern,1,0
+angular/angular.js,mamzellejuu,,1,0
+angular/angular.js,colllin,Collin Donahue-Oponski,1,0
+angular/angular.js,simonsparks,Simon Sparks,1,0
+angular/angular.js,neenhouse,Chris Nienhuis,1,0
+angular/angular.js,Dolmio,Juho Salmio,1,0
+angular/angular.js,lichenhao,,1,0
+angular/angular.js,KJTsanaktsidis,Konstantinos Tsanaktsidis,1,0
+angular/angular.js,leandromoreira,Leandro Moreira,1,0
+angular/angular.js,skaterdav85,David Tang,1,0
+angular/angular.js,gdamjan,Дамјан Георгиевски,1,0
+angular/angular.js,kkartch,,2,0
+angular/angular.js,srfrnk,Srfrnk,2,0
+angular/angular.js,benolee,Ben Holley,1,0
+angular/angular.js,rpanjwani,Riz Panjwani,1,0
+angular/angular.js,clbn,Alex Olshansky,2,0
+angular/angular.js,joshball,Joshua Ball,2,0
+angular/angular.js,jtymes,Jeremy Tymes,6,0
+angular/angular.js,fauverism,Robert Fauver,1,0
+angular/angular.js,mavimo,Marco Vito Moscaritolo,2,0
+angular/angular.js,rctay,Ray,2,0
+angular/angular.js,machielg,Machiel Groeneveld,1,0
+angular/angular.js,LaurentMox,Laurent,1,0
+angular/angular.js,michaeltaranto,Michael Taranto,1,0
+angular/angular.js,tgkokk,,1,0
+angular/angular.js,dhbaird,David Baird,2,0
+angular/angular.js,jsyrjala,Juha Syrjälä,2,0
+angular/angular.js,sergiopantoja,Sergio Pantoja,3,0
+angular/angular.js,mstriemer,Mark Striemer,1,0
+angular/angular.js,jojosati,,1,0
+angular/angular.js,AndrewO,Andrew O'Brien,1,0
+angular/angular.js,damrbaby,Matthew Windwer,1,0
+angular/angular.js,itamarro,Itamar Rogel,1,0
+angular/angular.js,sappleg,Spencer Applegate,1,0
+angular/angular.js,joaomsa,Joao Sa,1,0
+angular/angular.js,xjamundx,Jamund Ferguson,1,0
+angular/angular.js,RobertLowe,Robert Lowe,1,0
+angular/angular.js,Gwash3189,Adam Beck,1,0
+angular/angular.js,mbyio,Michael Younkin,1,0
+angular/angular.js,nelsonblaha,Ben Nelson,1,0
+angular/angular.js,emhagman,Eric Hagman,3,0
+angular/angular.js,jsjant,,2,0
+angular/angular.js,exexzian,exex zian,1,0
+angular/angular.js,ndp,Andrew Peterson,2,0
+angular/angular.js,JeffreyPalmer,Jeffrey Palmer,1,0
+angular/angular.js,xdissent,Greg Thornton,1,0
+angular/angular.js,penfold,Paul Lunt,1,0
+angular/angular.js,cwerner87,,1,0
+angular/angular.js,brianmarco,Brian Marco,1,0
+angular/angular.js,NimaVaziri,Nima Vaziri,1,0
+angular/angular.js,vavd,Vadim Vdovin,1,0
+angular/angular.js,JensRantil,Jens Rantil,7,0
+angular/angular.js,wilsonjackson,Majid Burney,1,0
+angular/angular.js,ledbettj,John Ledbetter,1,0
+angular/angular.js,sarkasm,Steve Robillard,1,0
+angular/angular.js,JanLaussmann,Jan Laußmann,1,0
+angular/angular.js,kenspirit,Ken Chen,1,0
+angular/angular.js,andi1984,Andreas Sander,1,0
+angular/angular.js,jjbohn,John Bohn,1,0
+angular/angular.js,fessyfoo,Fess,1,0
+angular/angular.js,gdunkle,Galen Dunkleberger,1,0
+angular/angular.js,ericsubach,Eric Subach,1,0
+angular/angular.js,jnaous,Jad Naous,1,0
+angular/angular.js,pmeskers,Paul Meskers,1,0
+angular/angular.js,jpalumbo,,2,0
+angular/angular.js,deanapeterson,Dean Peterson,1,0
+angular/angular.js,scardine,Paulo Scardine,1,0
+angular/angular.js,JogoShugh,Josh Gough,1,0
+angular/angular.js,il-juggler,AlonsoSoto,1,0
+angular/angular.js,leemicw,Michael Lee,1,0
+angular/angular.js,mbrevoort,Mike Brevoort,2,0
+angular/angular.js,alexdemers,Alex Demers,1,0
+angular/angular.js,its-your-favorite,Alex R,1,0
+angular/angular.js,appsforartists,Brenton Simpson,3,0
+angular/angular.js,jmpicnic,Miguel,1,0
+angular/angular.js,roypeled,Roy Peled,1,0
+angular/angular.js,kashifw,Kashif Wasim,1,0
+angular/angular.js,aleksabl,Aleksander Blomskøld,1,0
+angular/angular.js,Smerity,Stephen Merity,1,0
+angular/angular.js,jimmydivvy,James,1,0
+angular/angular.js,darvin,Sergey Klimov,1,0
+angular/angular.js,robbieferrero,Robbie Ferrero,1,0
+angular/angular.js,meenie,Cody Lundquist,1,0
+angular/angular.js,dogweather,Robb Shecter,2,0
+angular/angular.js,alanklement,Alan Klement,1,0
+angular/angular.js,happygiraffe,Dominic Mitchell,1,0
+angular/angular.js,cgrayson,Chris Grayson,1,0
+angular/angular.js,mjaric,Milan Jaric,1,0
+angular/angular.js,mrlucmorin,Luc Morin,3,0
+angular/angular.js,worrel,Rory Douglas,1,0
+angular/angular.js,pvasek,,2,0
+angular/angular.js,mlarcher,Matthieu Larcher,4,0
+angular/angular.js,kierans,Kieran Simpson,1,0
+angular/angular.js,gnashe,Ehsan Ghandhari,1,0
+angular/angular.js,ostera,Leandro Ostera,2,0
+angular/angular.js,NathanWalker,Nathan Walker,1,0
+angular/angular.js,mgonto,Martin Gontovnikas,1,0
+angular/angular.js,jasadams,Jason Adams,1,0
+angular/angular.js,adamshaylor,Adam Shaylor,2,0
+angular/angular.js,alexyoung,Alex Young,1,0
+angular/angular.js,mjeanroy,Mickael Jeanroy,1,0
+angular/angular.js,thewarpaint,Eduardo Garcia,2,0
+angular/angular.js,dkvasnicka,Daniel Kvasnička,1,0
+angular/angular.js,prajwalkman,Prajwal Manjunath,1,0
+angular/angular.js,david-geo-holmes,David Geo Holmes,1,0
+angular/angular.js,tebriel,Chris M,1,0
+angular/angular.js,iffy,Matt Haggard,2,0
+angular/angular.js,tilgovi,Randall Leeds,1,0
+angular/angular.js,jamesBrennan,James Brennan,1,0
+angular/angular.js,jimlyndon,Jim Lyndon,1,0
+angular/angular.js,OrenAvissar,Oren Avissar,4,0
+angular/angular.js,danielstockton,Daniel Stockton,1,0
+angular/angular.js,torgeir,Torgeir Thoresen,1,0
+angular/angular.js,veselinn,Veselin Nikolov,1,0
+angular/angular.js,shikolay,Anatoly Shikolay,1,0
+angular/angular.js,tamtakoe,tamtakoe,4,0
+angular/angular.js,hamstu,Hamish Macpherson,1,0
+angular/angular.js,andershessellund,Anders Hessellund Jensen,1,0
+angular/angular.js,web36m,Shilov Vasily,1,0
+angular/angular.js,alexpods,Alexey Podskrebyshev,1,0
+angular/angular.js,alnutile,Alfred Nutile,2,0
+angular/angular.js,alexspurling,Alex Spurling,2,0
+angular/angular.js,chrisnicola,Chris Nicola,2,0
+angular/angular.js,yegeniy,Eugene Wolfson,2,0
+angular/angular.js,colinkahn,Colin Kahn,2,0
+angular/angular.js,savcha,Anton Savchenko,1,0
+angular/angular.js,jkingyens,Jeff Kingyens,1,0
+angular/angular.js,jamierytlewski,Jamie R. Rytlewski,1,0
+angular/angular.js,demoive,Paulo Ávila,2,0
+angular/angular.js,A-Gochnio,Arkadiusz Gochnio,1,0
+angular/angular.js,pattern,Jeff Pickelman,1,0
+angular/angular.js,zachsnow,,1,0
+angular/angular.js,piranha,Alexander Solovyov,1,0
+angular/angular.js,ryang-sfdc,Ron Yang,1,0
+angular/angular.js,keir,Keir Mierle,2,0
+angular/angular.js,mleveck,Matt LeVeck,1,0
+angular/angular.js,n1cholasv,Nick Van Weerdenburg,1,0
+angular/angular.js,alonbardavid,Alon Bar David,1,0
+angular/angular.js,dereksantos,Derek Santos,1,0
+angular/angular.js,TimothyAhong,Timothy Ahong,2,0
+angular/angular.js,fidian,Tyler Akins,1,0
+angular/angular.js,jeado,jeado ko,1,0
+angular/angular.js,shyamseshadri,Shyam Seshadri,10,0
+angular/angular.js,leesei,leesei,1,0
+angular/angular.js,reichertm,Michal Reichert,1,0
+angular/angular.js,gorkunov,Alexander Gorkunov,1,0
+angular/angular.js,JakobJingleheimer,Jacob Smith,1,0
+angular/angular.js,jaredbeck,Jared Beck,1,0
+angular/angular.js,yaroslav-ulanovych,Yaroslav Ulanovych,1,0
+angular/angular.js,es128,Elan Shanker,1,0
+angular/angular.js,fbiville,Florent Biville,2,0
+angular/angular.js,frosas,Francesc Rosas,1,0
+angular/angular.js,ksperling,Karsten Sperling,1,0
+angular/angular.js,romiem,,1,0
+angular/angular.js,yeonsh,Seunghoon Yeon,1,0
+angular/angular.js,brandonjp,brandonjp,1,0
+angular/angular.js,uberspeck,Brian Campbell,3,0
+angular/angular.js,gockxml,Gock,1,0
+angular/angular.js,davidchang,David Chang,5,0
+angular/angular.js,chadwhitacre,Chad Whitacre,1,0
+angular/angular.js,patrickkettner,patrick kettner,1,0
+angular/angular.js,kowskis,steve kowski,1,0
+angular/angular.js,tojochacko,Tojo Chacko,1,0
+angular/angular.js,brent-morrow,Brent Morrow,8,0
+angular/angular.js,emilienco,Emilien Coquard,1,0
+angular/angular.js,zetay,玉黍,1,0
+angular/angular.js,lazybean,ludo,1,0
+angular/angular.js,tmatsuo,Takashi Matsuo,1,0
+angular/angular.js,hlobil,Pavel Hlobil,1,0
+angular/angular.js,ejain,Eric Jain,1,0
+angular/angular.js,wzr1337,Patrick,1,0
+angular/angular.js,austingreco,Austin Greco,1,0
+angular/angular.js,ben-carson,Ben Carson,1,0
+angular/angular.js,jrschumacher,Ryan Schumacher,1,0
+angular/angular.js,kevin-wells-iq4bis,,1,0
+angular/angular.js,thiloplanz,,1,0
+angular/angular.js,alexlamsl,Alex Lam S.L.,2,0
+angular/angular.js,urenmj,,1,0
+angular/angular.js,aostrega,Artur Ostrega,2,0
+angular/angular.js,joelwreed,Joel Reed,1,0
+angular/angular.js,heath,,1,0
+angular/angular.js,maxisam,Sam Lin,1,0
+angular/angular.js,scomma,Prathan Thananart,2,0
+angular/angular.js,theoreticaLee,Lee Leathers,1,0
+angular/angular.js,FelipeLahti,Felipe,2,0
+angular/angular.js,kamagatos,Mohamed Kamagate,2,0
+angular/angular.js,Tuch,Alex Afonin,1,0
+angular/angular.js,houqp,QP Hou,1,0
+angular/angular.js,eval,Gert Goet,1,0
+angular/angular.js,skusunam,Srini Reddy,1,0
+angular/angular.js,MattMcComb,Matthew McComb,1,0
+angular/angular.js,markdalgleish,Mark Dalgleish,1,0
+angular/angular.js,pborreli,Pascal Borreli,1,0
+angular/angular.js,yang-qu,Yang Qu,1,0
+angular/angular.js,henrikhulgaard,Henrik Hulgaard,2,0
+angular/angular.js,mchapman,Mark Chapman,1,0
+angular/angular.js,kivikakk,Asherah Connor,3,0
+angular/angular.js,millette,Robin Millette,1,0
+angular/angular.js,pdswan,Peter Swan,2,0
+angular/angular.js,MihaiValentin,Mihai Valentin,1,0
+angular/angular.js,ineedfat,Trinh Ho,1,0
+angular/angular.js,De-Luxis,Stepan I.,2,0
+angular/angular.js,sujeetpillai,Sujeet Pillai,1,0
+angular/angular.js,florianorben,Florian Orben,3,0
+angular/angular.js,mbarzeev,Matti Bar-Zeev,1,0
+angular/angular.js,jasonm,Jason Morrison,1,0
+angular/angular.js,lancevo,Lance Vo,1,0
+angular/angular.js,Schibum,,1,0
+angular/angular.js,nieldlr,Niel de la Rouviere,1,0
+angular/angular.js,marknadig,Mark Nadig,3,0
+angular/angular.js,satchmorun,Arun Srinivasan,1,0
+angular/angular.js,ashtuchkin,Alexander Shtuchkin,3,0
+angular/angular.js,ruprict,Glenn Goodrich,1,0
+angular/angular.js,Andrew-McLeod,Andrew McLeod,1,0
+angular/angular.js,jrief,Jacob Rief,2,0
+angular/angular.js,bholmberg,,1,0
+angular/angular.js,damycra,Steven Davidson,1,0
+angular/angular.js,felixebert,Felix Ebert,1,0
+angular/angular.js,provegard,Per Rovegård,3,0
+angular/angular.js,dylanpyle,Dylan Pyle,1,0
+angular/angular.js,ThomasDeutsch,Thomas Deutsch,1,0
+angular/angular.js,trotter,Trotter Cashion,1,0
+angular/angular.js,dbrans,Derek Brans,1,0
+angular/angular.js,jc00ke,Jesse Cooke,1,0
+angular/angular.js,ewen,Ewen Cumming,1,0
+angular/angular.js,kkruit,Kury,2,0
+angular/angular.js,cedricss,Cédric Soulas,3,0
+angular/angular.js,matasaru,mata saru,4,0
+angular/angular.js,Ivshti,Ivo Georgiev,1,0
+angular/angular.js,jorgenfb,Jørgen Borgesen,1,0
+angular/angular.js,theotheo,,1,0
+angular/angular.js,sam-mccall,Sam McCall,1,0
+angular/angular.js,iknite,Enrique Paredes,1,0
+angular/angular.js,PowerKiKi,Adrien Crivelli,1,0
+angular/angular.js,maciejblinkbox,,1,0
+angular/angular.js,pascalm,Pascal,1,0
+angular/angular.js,daspecster,Thomas Schultz,1,0
+angular/angular.js,latentflip,Philip Roberts,2,0
+angular/angular.js,raftalks,Raf,1,0
+angular/angular.js,fredrikbonander,Fredrik Bonander,3,0
+angular/angular.js,kkurni,Kurniawan Kurniawan,1,0
+angular/angular.js,gaiottino,Daniel,1,0
+angular/angular.js,guillaume86,Guillaume Lecomte,2,0
+angular/angular.js,annavester,Anna Vester,3,0
+angular/angular.js,KamranMackey,Kamran,2,0
+angular/angular.js,bingomanatee,Dave Edelhart,1,0
+angular/angular.js,wgriffiths,William Griffiths,2,0
+angular/angular.js,sja,Sebastian Janzen,1,0
+angular/angular.js,jmaynier,jmaynier,2,0
+angular/angular.js,bitliner,Giovanni Gaglione,1,0
+angular/angular.js,danilsomsikov,Danil Somsikov,2,0
+angular/angular.js,kofalt,Nathaniel Kofalt,1,0
+angular/angular.js,thelvey,,1,0
+angular/angular.js,chieffancypants,Wes Cruver,1,0
+angular/angular.js,ashishgithub,ashish,2,0
+angular/angular.js,willthemoor,Will Moore,2,0
+angular/angular.js,tdarsan,,1,0
+angular/angular.js,mbrowne,Matt Browne,1,0
+angular/angular.js,robot-head,Matthew Stone,1,0
+angular/angular.js,amirhhz,Amir H. Hajizamani,2,0
+angular/angular.js,vincentdieltiens,Vincent Dieltiens,1,0
+angular/angular.js,mking,Matthew King,1,0
+angular/angular.js,kanwei,Kanwei Li,1,0
+angular/angular.js,patgannon,,1,0
+angular/angular.js,pavelgj,Pavel Jbanov,1,0
+angular/angular.js,kmayer,Ken Mayer,2,0
+angular/angular.js,viilaismonster,Viila,1,0
+angular/angular.js,bignall,Rosina Bignall,1,0
+angular/angular.js,klokoy,Kim Lokøy,1,0
+angular/angular.js,mghardy,Matt Hardy,1,0
+angular/angular.js,imageoptimiser,,1,0
+angular/angular.js,jayzeng,Jay Zeng,3,0
+angular/angular.js,Keyamoon,,2,0
+angular/angular.js,langdonx,Langdon Oliver,1,0
+angular/angular.js,fletchgqc,John Fletcher,1,0
+angular/angular.js,justmoon,Stefan Thomas,1,0
+angular/angular.js,imrehg,Gergely Imreh,1,0
+angular/angular.js,jonbcard,Jon Card,1,0
+angular/angular.js,flazz,Franco Lazzarino,1,0
+angular/angular.js,inukshuk,Sylvester Keil,1,0
+angular/angular.js,ggoodman,Geoff Goodman,1,0
+angular/angular.js,evjan,Peter Evjan,1,0
+angular/angular.js,maur8ino,Mauro Verrocchio,1,0
+angular/angular.js,gregwebs,Greg Weber,1,0
+angular/angular.js,case,Eric Case,2,0
+angular/angular.js,zdexter,Zach Dexter,2,0
+angular/angular.js,janosrusiczki,János Rusiczki,1,0
+angular/angular.js,romainneutron,Romain Neutron,1,0
+angular/angular.js,cakesifu,,2,0
+angular/angular.js,MathRobin,Mathieu KIM ROBIN,1,0
+angular/angular.js,lanterndev,,2,0
+angular/angular.js,xealot,Trey Long,1,0
+angular/angular.js,murilobr,Murilo da Silva,1,0
+angular/angular.js,nlaplante,Nicolas Laplante,1,0
+angular/angular.js,sudhirj,Sudhir Jonathan,5,0
+angular/angular.js,krisajenkins,Kris Jenkins,1,0
+angular/angular.js,JohannesEH,Johannes Hansen,1,0
+angular/angular.js,freshtonic,James Sadler,1,0
+angular/angular.js,taralx,JP Sugarbroad,2,0
+angular/angular.js,stephanebisson,Stephane Bisson,3,0
+angular/angular.js,neocris,,1,0
+angular/angular.js,partap,Partap Davis,1,0
+angular/angular.js,refractalize,Tim Macfarlane,2,0
+angular/angular.js,treasonx,James Morrin,1,0
+angular/angular.js,knewter,Josh Adams,2,0
+angular/angular.js,PeteAppleton,,2,0
+angular/angular.js,adam33,Adam,1,0
+angular/angular.js,paul-hammant,Paul Hammant,1,0
+angular/angular.js,sqwishy,,1,0
+angular/angular.js,jamesreggio,James Reggio,2,0
+angular/angular.js,rewritten,Saverio Trioni,1,0
+angular/angular.js,hkdobrev,Haralan Dobrev,2,0
+angular/angular.js,jergason,Jamison Dance,1,0
+angular/angular.js,peroksid,Alexander Pugachev,1,0
+angular/angular.js,duelinmarkers,John Hume,1,0
+angular/angular.js,prognostikos,Matt Rohrer,1,0
+angular/angular.js,gabrielf,Gabriel Falkenberg,1,0
+angular/angular.js,deviousdodo,Adrian Gheorghe,1,0
+angular/angular.js,pedrodelgallego,Pedro Del Gallego,2,0
+angular/angular.js,Iristyle,Ethan J. Brown,1,0
+angular/angular.js,davedx,Dave Clayton,3,0
+angular/angular.js,petrovalex,Aleksandr Petrov,5,0
+angular/angular.js,daaain,Daniel Demmel,1,0
+angular/angular.js,tdavis,Tom Davis,1,0
+angular/angular.js,zhenbzha,Zhenbo,2,0
+angular/angular.js,zhuomingliang,Jimmy Zhuo,1,0
+angular/angular.js,ghsyeung,Gary Yeung,1,0
+angular/angular.js,godmar,,1,0
+angular/angular.js,iwein,Iwein Fuld,2,0
+angular/angular.js,camshaft,Cameron Bytheway,1,0
+angular/angular.js,travislwatson,Travis Watson,1,0
+angular/angular.js,applmak,Matt Handley,1,0
+angular/angular.js,grevory,Gregory Pike,1,0
+angular/angular.js,jzacsh,Jonathan Zacsh,2,0
+angular/angular.js,csugden,,1,0
+angular/angular.js,johnlindquist,John Lindquist,3,0
+angular/angular.js,pmanijak,Philip Manijak,2,0
+angular/angular.js,recht,Joakim Recht,3,0
+angular/angular.js,benjamine,Benjamín Eidelman,1,0
+angular/angular.js,AlexGalays,Alexandre Galays,1,0
+angular/angular.js,pixshatterer,German Galvis,1,0
+angular/angular.js,camwest,,1,0
+angular/angular.js,unirgy,Boris Gurvich,1,0
+angular/angular.js,tyson-benson,Tyson Benson,1,0
+angular/angular.js,fran6co,Francisco Facioni,1,0
+angular/angular.js,briceburg,Brice Burgess,2,0
+angular/angular.js,calvinhuang,Calvin,1,0
+angular/angular.js,sahat,Sahat Yalkabov,1,0
+angular/angular.js,thughes,Tom Hughes,1,0
+angular/angular.js,sgtpep,Danil Semelenov,1,0
+angular/angular.js,brettcannon,Brett Cannon,22,0
+angular/angular.js,cristatus,Amit Mendapara,1,0
+angular/angular.js,andresmoschini,Andres Moschini,2,0
+angular/angular.js,Alex-D,Alexandre Demode,1,0
+angular/angular.js,fernandoacorreia,Fernando Correia,1,0
+angular/angular.js,xrchen,Xiangru Chen,1,0
+angular/angular.js,sjhernes,Sjur Hernes,1,0
+angular/angular.js,beatscode,Alex Casanova,1,0
+angular/angular.js,lascap,,1,0
+angular/angular.js,m6w6,Michael Wallner,1,0
+angular/angular.js,rishabh-ink,Rishabh,1,0
+angular/angular.js,m5m1th,Matt Smith,1,0
+angular/angular.js,kevinold,Kevin Old,1,0
+angular/angular.js,xrd,Chris Dawson,2,0
+angular/angular.js,witoldsz,Witold Szczerba,2,0
+angular/angular.js,floydwch,floydwch,1,0
+angular/angular.js,maxmart,Max Martinsson,5,0
+angular/angular.js,alimills,Ali Mills,1,0
+angular/angular.js,oori,Oori,1,0
+angular/angular.js,steinjak,Stein Jakob Nordbø,1,0
+angular/angular.js,michaelmoussa,Michael Moussa,1,0
+angular/angular.js,YeFFreY,,1,0
+angular/angular.js,mknecht,Murat Knecht,1,0
+angular/angular.js,dcsg,Daniel Gomes,1,0
+angular/angular.js,mkotsur,Mike Kotsur,3,0
+angular/angular.js,danielzen,Daniel Zen,3,0
+angular/angular.js,alkis,Alkis Evlogimenos,10,0
+angular/angular.js,ysiadf,Ysiad Ferreiras,1,0
+angular/angular.js,robertjd,,1,0
+angular/angular.js,marcenuc,Marcello Nuccio,5,0
+angular/angular.js,kstep,Konstantin Stepanov,3,0
+angular/angular.js,ludicast,Nate Kidwell,1,0
+angular/angular.js,msgilligan,Sean Gilligan,1,0
+angular/angular.js,dmanek,,8,0
+angular/angular.js,mhansen,Mark Hansen,1,0
+angular/angular.js,bartes,Bartosz,8,0
+angular/angular.js,Codier,Di Peng,36,0
+angular/angular.js,nateflink,Nate Flink,1,0
+angular/angular.js,ijonlester,Jon Lester,1,0
+angular/angular.js,dandoyon,Dan Doyon,4,0
+angular/angular.js,hekke,Henrik Jørgensen,1,0
+angular/angular.js,tonitt,,1,0
+angular/angular.js,mdolk,Mårten Dolk,1,0
+angular/angular.js,knapo,Krzysztof Knapik,1,0
+angular/angular.js,krculp,Kenneth R. Culp,2,0
+angular/angular.js,ctataryn,Craig Tataryn,1,0
+angular/angular.js,arantius,arantius,3,0
+angular/angular.js,idosela,Ido Sela,1,0
+angular/angular.js,eljobe,Pepper Lebeck-Jobe,3,0
+angular/angular.js,elfgoh,,1,0
+angular/angular.js,esprehn,Elliott Sprehn,21,0
+angular/angular.js,aornelas,Andrés Ornelas,1,0
+angular/angular.js,bolu,,1,0
