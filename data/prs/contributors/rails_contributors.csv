@@ -1,0 +1,3327 @@
+repository_url,user_login,user_name,n_pr_before_coc,n_pr_after_coc
+rails/rails,ghiculescu,Alex Ghiculescu,0,104
+rails/rails,dark-panda,J,0,3
+rails/rails,jhawthorn,John Hawthorn,0,154
+rails/rails,ceritium,Jose Galisteo,0,2
+rails/rails,supersam654,Sam Marder,0,1
+rails/rails,santib,Santiago Bartesaghi,0,42
+rails/rails,marcelolx,Marcelo Lauxen,0,2
+rails/rails,crawler,Anton Topchii,0,4
+rails/rails,zzak,Zachary Scott,0,23
+rails/rails,ur5us,Juri Hahn,0,1
+rails/rails,casperisfine,Jean byroot Boussier,0,221
+rails/rails,GuillaumeWrobel,Guillaume Wrobel,0,3
+rails/rails,aka47,Tim Aßmann,0,1
+rails/rails,nvasilevski,Nikita Vasilevsky,0,3
+rails/rails,brunvez,Bruno Vezoli,0,7
+rails/rails,DRSisco,Don Sisco,0,1
+rails/rails,cjlarose,Chris LaRose,0,4
+rails/rails,fedeagripa,,0,3
+rails/rails,HParker,Adam Hess,0,25
+rails/rails,chrisbloom7,Chris Bloom,0,1
+rails/rails,odlp,Oliver Peate,0,1
+rails/rails,nfedyashev,Nikita Fedyashev,0,1
+rails/rails,mehanoid,Oleg Grigoriev,0,1
+rails/rails,abhaynikam,Abhay Nikam,0,134
+rails/rails,yoones,Younes Serraj,0,12
+rails/rails,smt116,Maciej Malecki,0,1
+rails/rails,OuYangJinTing,ouyangjinting,0,4
+rails/rails,AdamMusa,AdamMusa,0,3
+rails/rails,Flixt,Felix Tscheulin,0,1
+rails/rails,brenogazzola,Breno Gazzola,0,13
+rails/rails,stefannibrasil,Stefanni Brasil,0,3
+rails/rails,ledermann,Georg Ledermann,0,2
+rails/rails,robertomiranda,Roberto Miranda,0,17
+rails/rails,adrianna-chang-shopify,Adrianna Chang,0,11
+rails/rails,unixmonkey,David Jones,0,1
+rails/rails,virolea,Vincent Rolea,0,1
+rails/rails,fatkodima,,0,60
+rails/rails,lsylvester,,0,31
+rails/rails,joelhawksley,Joel Hawksley,0,17
+rails/rails,theanirudhvyas,Anirudh Vyas,0,1
+rails/rails,p8,Petrik de Heus,0,114
+rails/rails,martinjaimem,Martin Jaime,0,18
+rails/rails,SkipKayhil,Hartley McGuire,0,10
+rails/rails,choncou,Unathi Chonco,0,3
+rails/rails,BerkhanBerkdemir,Berkhan Berkdemir,0,1
+rails/rails,razum2um,Vlad Bokov,0,2
+rails/rails,malclocke,Malcolm Locke,0,7
+rails/rails,ashokallu,Ashok Allu,0,1
+rails/rails,keeran,Keeran Raj Hawoldar,0,3
+rails/rails,olivierlacan,Olivier Lacan,0,18
+rails/rails,yshmarov,Yaroslav Shmarov,0,2
+rails/rails,anderslemke,Anders Lemke-Holstein,0,1
+rails/rails,beauraF,Florent Beaurain,0,2
+rails/rails,kevinsjoberg,Kevin Sjöberg,0,5
+rails/rails,imlonghao,imlonghao,0,1
+rails/rails,Bhacaz,Jean-Francis Bastien,0,1
+rails/rails,federicoaldunate,Federico Aldunate,0,3
+rails/rails,dzhlobo,Dmitry Zhlobo,0,1
+rails/rails,kamipo,Ryuta Kamizono,0,1074
+rails/rails,ChaelCodes,Rachael Wright-Munn,0,2
+rails/rails,jdufresne,Jon Dufresne,0,3
+rails/rails,lulalala,lulalala,0,6
+rails/rails,kddeisz,Kevin Newton,0,26
+rails/rails,seanpdoyle,Sean Doyle,0,43
+rails/rails,artplan1,‮Artem Kozaev,0,1
+rails/rails,schnika,Patrick Nüser,0,2
+rails/rails,aeroastro,Takumasa Ochi,0,10
+rails/rails,diegotoral,Diego Toral,0,1
+rails/rails,benoror,Ben Orozco,0,1
+rails/rails,giovannibonetti,Giovanni Kock Bonetti,0,2
+rails/rails,seejohnrun,John Crepezzi,0,34
+rails/rails,arielj,Ariel Juodziukynas,0,1
+rails/rails,aishbuilds,Aishwarya,0,1
+rails/rails,rbgrouleff,Rasmus Bang Grouleff,0,1
+rails/rails,chriscz,Chris Coetzee,0,1
+rails/rails,pixeltrix,Andrew White,0,59
+rails/rails,jbampton,John Bampton,0,95
+rails/rails,jacobherrington,Jacob Herrington,0,13
+rails/rails,intrip,Jacopo Beschi,0,36
+rails/rails,mnacos,Michael Nacos,0,1
+rails/rails,ccutrer,Cody Cutrer,0,3
+rails/rails,MSNexploder,Stefan Stüben,0,1
+rails/rails,efatsi,Eli Fatsi,0,1
+rails/rails,jonathanhefner,Jonathan Hefner,0,186
+rails/rails,evsasse,Evandro Sasse,0,1
+rails/rails,rainerborene,Rainer Borene,0,2
+rails/rails,ayushn21,Ayush Newatia,0,1
+rails/rails,benoittgt,Benoit Tigeot,0,9
+rails/rails,phuongvu,Phuong Vu,0,1
+rails/rails,alvir,Alexander Rjazantsev,0,2
+rails/rails,kemenaran,Pierre de La Morinerie,0,1
+rails/rails,rafaelsales,Rafael Sales,0,4
+rails/rails,mateusluizfb,Mateus Luiz,0,1
+rails/rails,steventux,Steve Laing,0,3
+rails/rails,ricardotk002,Ricardo Díaz,0,37
+rails/rails,csutter,Christian Sutter,0,5
+rails/rails,djmortonShopify,Daniel Morton,0,3
+rails/rails,skryukov,Svyatoslav Kryukov,0,3
+rails/rails,patriotphoenix,Patriot Phoenix,0,1
+rails/rails,dbussink,Dirkjan Bussink,0,5
+rails/rails,bibstha,Bibek Shrestha,0,4
+rails/rails,xtr3me,,0,1
+rails/rails,anilmaurya,Anil Kumar Maurya,0,1
+rails/rails,ylecuyer,Yoann Lecuyer,0,2
+rails/rails,dsounded,Kiril Dokh,0,4
+rails/rails,xronos-i-am,Sergey Malykh,0,1
+rails/rails,vfonic,Viktor,0,6
+rails/rails,bitfurry,Sahil Kharb,0,1
+rails/rails,aliismayilov,Ali Ismayilov,0,4
+rails/rails,dylanahsmith,Dylan Thacker-Smith,0,27
+rails/rails,ohbarye,Masato Ohba,0,6
+rails/rails,spinosa,Dan Spinosa,0,1
+rails/rails,gmcgibbon,Gannon McGibbon,0,137
+rails/rails,rsanheim,Rob Sanheim,0,1
+rails/rails,yahonda,Yasuo Honda,0,191
+rails/rails,bf4,Benjamin Fleischer,0,16
+rails/rails,brunoarueira,Bruno Arueira,0,1
+rails/rails,Sudrien,Sudrien,0,1
+rails/rails,RolandStuder,Roland Studer,0,1
+rails/rails,benedikt,Benedikt Deicke,0,1
+rails/rails,joaomangilli,João Luís Silva Mangilli,0,1
+rails/rails,jtracey,Justin Tracey,0,1
+rails/rails,condef5,Frank Condezo,0,1
+rails/rails,tomprats,Tom Prats,0,4
+rails/rails,zedtux,Guillaume Hain,0,1
+rails/rails,mikecmpbll,Mike Campbell,0,3
+rails/rails,ritikesh,Ritikesh,0,11
+rails/rails,GuptaManan100,Manan Gupta,0,1
+rails/rails,ibrahimab,Ibrahim,0,2
+rails/rails,erikbrannstrom,Erik Brännström,0,1
+rails/rails,psoldier,,0,2
+rails/rails,piecehealth,Zhang Kang,0,7
+rails/rails,Juice10,Justin Halsall,0,1
+rails/rails,kaspernj,Kasper Stöckel,0,1
+rails/rails,eliotsykes,Eliot Sykes,0,9
+rails/rails,SampsonCrowley,Sampson Crowley,0,3
+rails/rails,etiennebarrie,Étienne Barrié,0,26
+rails/rails,laserlemon,Steve Richert,0,1
+rails/rails,morgoth,Wojciech Wnętrzak,0,33
+rails/rails,jakubzelazny,Jakub Żelazny,0,1
+rails/rails,chrisrbnelson,Christopher Nelson,0,1
+rails/rails,TheMasterCado,TheMasterCado,0,1
+rails/rails,frantisekrokusekpa,Franti,0,1
+rails/rails,maximus335,,0,1
+rails/rails,brianthoman,,0,2
+rails/rails,allcentury,Anthony Ross,0,5
+rails/rails,wbotelhos,Washington Botelho,0,1
+rails/rails,Envek,Andrey Novikov,0,9
+rails/rails,agrobbin,Alex Robbin,0,8
+rails/rails,ojab,Slava Kardakov,0,15
+rails/rails,wongwf82,Fai Wong,0,2
+rails/rails,GustavoCaso,Gustavo Caso,0,2
+rails/rails,tadas-s,Tadas Sasnauskas,0,1
+rails/rails,gerrywastaken,Gerry,0,2
+rails/rails,ankane,Andrew Kane,0,1
+rails/rails,fsateler,Felipe Sateler,0,4
+rails/rails,00dav00,David Revelo,0,1
+rails/rails,composerinteralia,Daniel Colson,0,43
+rails/rails,mbijon,Mike Bijon,0,1
+rails/rails,tgxworld,Alan Guo Xiang Tan,0,57
+rails/rails,hahmed,Haroon Ahmed,0,32
+rails/rails,c960657,Christian Schmidt,0,9
+rails/rails,chrisandreae,Chris Andreae,0,2
+rails/rails,palkan,Vladimir Dementyev,0,33
+rails/rails,udan11,Dan Ungureanu,0,1
+rails/rails,betesh,,0,9
+rails/rails,tenderlove,Aaron Patterson,0,67
+rails/rails,fanfilmu,Michał Begejowicz,0,1
+rails/rails,bobf,,0,3
+rails/rails,lfv89,Luis Vasconcellos,0,4
+rails/rails,LukasSkywalker,Lukas Diener,0,3
+rails/rails,sedubois,Sébastien Dubois,0,5
+rails/rails,jorgemanrubia,Jorge Manrubia,0,27
+rails/rails,flanger001,David Shaffer,0,4
+rails/rails,DmitryTsepelev,Dmitry Tsepelev,0,5
+rails/rails,davidtaylorhq,David Taylor,0,1
+rails/rails,senny,Yves Senn,0,3
+rails/rails,tbuehl,Torsten Bühl,0,3
+rails/rails,eikes,Eike Send,0,4
+rails/rails,avit,Andrew Vit,0,6
+rails/rails,swanson,matt swanson,0,2
+rails/rails,vlado,Vlado Cingel,0,5
+rails/rails,GermanDZ,GermanDZ,0,2
+rails/rails,alipman88,Aaron Lipman,0,8
+rails/rails,erichmachado,Erich Soares Machado,0,2
+rails/rails,itsWill,Guilherme Mansur,0,19
+rails/rails,sebastians,Sebastian Sogamoso,0,1
+rails/rails,dhh,David Heinemeier Hansson,0,47
+rails/rails,Borzik,Felix Borzik,0,1
+rails/rails,zealot128,Stefan Wienert,0,3
+rails/rails,dinahshi,Dinah Shi,0,10
+rails/rails,ioquatix,Samuel Williams,0,5
+rails/rails,kv109,Kacper Walanus,0,6
+rails/rails,killthekitten,Nikolay Shebanov,0,1
+rails/rails,rafal-brize,Rafał Brize,0,2
+rails/rails,piotrj,Piotr Jakubowski,0,11
+rails/rails,TheSmartnik,Nikita Misharin,0,4
+rails/rails,repinel,Roque Pinel,4,4
+rails/rails,jenseng,Jon Jensen,1,0
+rails/rails,alkesh26,alkesh26,0,26
+rails/rails,bensheldon,Ben Sheldon [he/him],0,4
+rails/rails,diegodauri,,0,2
+rails/rails,philiplambok,Philip Lambok,0,2
+rails/rails,AdityaBhutani,adib,0,28
+rails/rails,eileencodes,Eileen M. Uchitelle,0,179
+rails/rails,maleblond,Marc-Antoine Leblond,0,4
+rails/rails,ashiksp,Ashik Salman,0,28
+rails/rails,rafaelfranca,Rafael França,0,39
+rails/rails,tristanoneil,Tristan O'Neil,0,2
+rails/rails,josegomezr,Jose D. Gomez R.,0,2
+rails/rails,Tonkpils,Leo Correa,0,6
+rails/rails,kuroponzu,,0,2
+rails/rails,MathurUtkarsh,Utkarsh Mathur,0,2
+rails/rails,brendon,Brendon Muir,0,6
+rails/rails,EmmaB,Emma,0,4
+rails/rails,Wittiest,Dustin Pearson,0,2
+rails/rails,drnic,Dr Nic Williams,0,3
+rails/rails,nateberkopec,Nate Berkopec,0,10
+rails/rails,daven97,Dave Nuttall,0,2
+rails/rails,bpo,Brian O'Rourke,0,2
+rails/rails,dorianmarie,Dorian Marié,0,2
+rails/rails,guillermoap,Guillermo Aguirre,0,2
+rails/rails,flomosq,Florencia Mosquera,0,2
+rails/rails,HenriqueMorato,Henrique Morato,0,5
+rails/rails,Kevinrob,Kevin Robatel,0,3
+rails/rails,aki77,,0,5
+rails/rails,shioyama,Chris Salzberg,0,28
+rails/rails,metamoni,Monica Mateiu,0,2
+rails/rails,bubba,Luke Lau,0,2
+rails/rails,leastbad,leastbad,0,4
+rails/rails,djpowers,Dave Powers,0,7
+rails/rails,willianveiga,Willian Gustavo Veiga,0,6
+rails/rails,sunny,Sunny Ripert,0,5
+rails/rails,engwan,Heinrich Lee Yu,0,3
+rails/rails,andynguyenshopify,Andy Nguyen,0,2
+rails/rails,dverrier,David Verrier,0,4
+rails/rails,sampokuokkanen,Sampo Kuokkanen,0,2
+rails/rails,adityapandit17,Aditya Pandit,0,29
+rails/rails,georgeclaghorn,George Claghorn,0,67
+rails/rails,abb-becode,Abdelilah Benghadda,0,2
+rails/rails,eregon,Benoit Daloze,0,18
+rails/rails,cthornton,Christopher Thornton,0,2
+rails/rails,kwiliarty,Kevin Wiliarty,0,2
+rails/rails,maximeg,Maxime Garcia,0,3
+rails/rails,boardfish,Simon Fish,0,2
+rails/rails,russell,Russell Sim,0,2
+rails/rails,bishwahang,Bishwa Hang Rai,0,2
+rails/rails,markokajzer,Marko Kajzer,0,2
+rails/rails,byroot,Jean Boussier,1,10
+rails/rails,kbrock,Keenan Brock,0,12
+rails/rails,eugeneius,Eugene Kenny,0,134
+rails/rails,nrogap,Pagorn Phusaisakul,0,2
+rails/rails,MichaelLutaaya,Michael Lutaaya,0,2
+rails/rails,volmer,Volmer Campos Soares,0,6
+rails/rails,severin,Severin Schoepke,0,2
+rails/rails,jithindasad,Jithin Das,0,2
+rails/rails,flavorjones,Mike Dalessio,0,5
+rails/rails,lfalcao,,0,4
+rails/rails,devengn,Daniel,0,2
+rails/rails,Saiprasad16,Saiprasad Kale,0,2
+rails/rails,okuramasafumi,OKURA Masafumi,0,25
+rails/rails,bogdanvlviv,Bogdan,0,378
+rails/rails,MarcusRiemer,Marcus Riemer,0,2
+rails/rails,sholden,Scott Holden,0,4
+rails/rails,artero,Juan Artero,0,2
+rails/rails,gonzaloriestra,Gonzalo Riestra,0,2
+rails/rails,pocke,Masataka Pocke Kuwabara,0,7
+rails/rails,wonda-tea-coffee,ねず,0,4
+rails/rails,roramirez,Rodrigo Ramírez Norambuena,0,16
+rails/rails,rthbound,Ryan T. Hosford,0,12
+rails/rails,jean-francois-labbe,Jean-Francois Labbé,0,4
+rails/rails,ghost,Deleted user,0,42
+rails/rails,BeckyMarvin,Becky Marvin,0,2
+rails/rails,jadeforrest,Jade Rubick,0,2
+rails/rails,mperham,Mike Perham,0,7
+rails/rails,jharrilim,Joe,0,2
+rails/rails,alberto-mota,Alberto Mota,0,2
+rails/rails,cheshire137,Sarah Vessels,0,4
+rails/rails,jtmkrueger,John Krueger,0,5
+rails/rails,ahmedsayedabdelsalam,Ahmed Sayed,0,2
+rails/rails,igor-drozdov,Igor Drozdov,0,2
+rails/rails,syystunturi,Jari Lammi,0,2
+rails/rails,MatheusRich,Matheus Richard,0,5
+rails/rails,aidanharan,Aidan Haran,0,5
+rails/rails,caffkane,Logan,0,4
+rails/rails,chaymaeBZ,chaymae bazzaoui,0,2
+rails/rails,hato-poppo,,0,2
+rails/rails,siaw23,Emmanuel Hayford,0,3
+rails/rails,iridakos,Lazarus Lazaridis,0,3
+rails/rails,kennyadsl,Alberto Vena,0,3
+rails/rails,mgodwin,Mark Godwin,0,2
+rails/rails,itsaphel,aphel,0,2
+rails/rails,aturkewi,Avidor Turkewitz,0,2
+rails/rails,MarcelEeken,Marcel Eeken,0,2
+rails/rails,ccastillop,Cristiam Castillo,0,2
+rails/rails,sebastian-palma,Sebastián,0,4
+rails/rails,oliverklee,Oliver Klee,0,2
+rails/rails,stevepolitodesign,Steve Polito,0,3
+rails/rails,paulRbr,Paul B.,0,2
+rails/rails,CGA1123,Christian Gregg,0,5
+rails/rails,NobodysNightmare,Jan Sandbrink,0,4
+rails/rails,jaredbeck,Jared Beck,0,14
+rails/rails,henrik,Henrik Nyh,0,28
+rails/rails,sampatbadhe,Sampat Badhe,0,2
+rails/rails,rokbot,Roderick Bompart,0,2
+rails/rails,leequarella,Lee Quarella,0,6
+rails/rails,bbuchalter,Brian Buchalter,0,8
+rails/rails,Tietew,Tietew,0,3
+rails/rails,benkoshy,Ben Koshy,0,11
+rails/rails,pbstriker38,Daniel Alfaro,0,2
+rails/rails,JasonBarnabe,Jason Barnabe,0,3
+rails/rails,coding-bunny,Arne De Herdt,0,2
+rails/rails,AlexB52,Alexandre Barret,0,2
+rails/rails,lairtonmendes,Lairton Mendes,0,3
+rails/rails,ags,Alex Smith,0,2
+rails/rails,dzunk,Matt Duszynski,0,3
+rails/rails,shunichi,Shunichi Ikegami,0,2
+rails/rails,OtherCroissant,Christiaan,0,2
+rails/rails,javawizard,Alex Boyd,0,4
+rails/rails,ElMassimo,Máximo Mussini,0,2
+rails/rails,Parkyes90,Gavin,0,2
+rails/rails,mollerhoj,Jens Dahl Møllerhøj,0,2
+rails/rails,akaspick,Andrew Kaspick,0,3
+rails/rails,BrentWheeldon,Brent Wheeldon,0,9
+rails/rails,gwincr11,Cory Gwin ,0,16
+rails/rails,NielsKSchjoedt,Niels Kristian Schjødt,0,2
+rails/rails,wowinter13,Vladislav,0,2
+rails/rails,ermolaev,Ermolaev Andrey,0,2
+rails/rails,tjschuck,T.J. Schuck,0,36
+rails/rails,ted-hanson,Ted Hanson,0,4
+rails/rails,bradleypriest,Bradley Priest,0,4
+rails/rails,ttanimichi,Tsukuru Tanimichi,0,22
+rails/rails,coding-chimp,Bastian Bartmann,0,2
+rails/rails,angdraug,Dmitry Borodaenko,0,2
+rails/rails,NatMorcos,Nat Morcos,0,4
+rails/rails,sohaibbhatti,Sohaib Bhatti,0,2
+rails/rails,ivan-denysov,Ivan Denysov,0,3
+rails/rails,tagliala,Geremia Taglialatela,0,2
+rails/rails,paracycle,Ufuk Kayserilioglu,0,4
+rails/rails,tkusuki,Thais Kusuki,0,3
+rails/rails,GabrielMalakias,Gabriel Malaquias,0,2
+rails/rails,ryu39,ryu39,0,2
+rails/rails,dmilburn,Debbie Milburn,0,1
+rails/rails,austenmadden,Austen Madden,0,2
+rails/rails,debanne,,0,1
+rails/rails,mathieugagne,Mathieu Gagné,0,1
+rails/rails,MikeRogers0,Mike Rogers,0,3
+rails/rails,joshleblanc,Josh LeBlanc,0,1
+rails/rails,robotfelix,Felix Kenton,0,2
+rails/rails,MmKolodziej,,0,1
+rails/rails,kassio,Kassio Borges,0,2
+rails/rails,m-antis,Michael A,0,1
+rails/rails,radar,Ryan Bigg,0,14
+rails/rails,eltongo,Elton,0,1
+rails/rails,gretch,Gretch Gapol,0,1
+rails/rails,97jaz,,0,4
+rails/rails,Yegorov,Artem,0,1
+rails/rails,fredplante,Frédéric Planté,0,1
+rails/rails,Roriz,Radamés Roriz,0,1
+rails/rails,vtamara,Vladimir Támara Patiño,0,1
+rails/rails,A7madXatab,Ahmad khatab,0,1
+rails/rails,GlenCrawford,Glen Crawford,0,1
+rails/rails,soartec-lab,Shodai Suzuki,0,35
+rails/rails,nickborromeo,Nick Borromeo,0,2
+rails/rails,skipchris,Chris Stainthorpe,0,2
+rails/rails,websebdev,Sebastien Auriault,0,1
+rails/rails,smartygus,Michael Smart,0,1
+rails/rails,schmijos,Josua Schmid,0,7
+rails/rails,calleluks,Calle Luks,0,1
+rails/rails,ayrton,Ayrton De Craene,0,2
+rails/rails,f6p,,0,4
+rails/rails,afrase,Aaron Frase,0,2
+rails/rails,movermeyer,Michael Overmeyer,0,1
+rails/rails,aweglteo,yu kimura,0,1
+rails/rails,andrehjr,André Luis Leal Cardoso Junior,0,11
+rails/rails,vipulnsward,Vipul A M,0,186
+rails/rails,MGPalmer,Martin Tepper,0,1
+rails/rails,bryanmikaelian,Bryan Mikaelian,0,1
+rails/rails,lordon,Elias Saalmann,0,1
+rails/rails,johndbritton,John Britton,0,1
+rails/rails,orhantoy,Orhan Toy,0,11
+rails/rails,almostwhitehat,Matt Metzger,0,1
+rails/rails,damiann,Damian Nelson,0,1
+rails/rails,PChambino,Pedro Chambino,0,1
+rails/rails,CodingAnarchy,Matt Tanous,0,3
+rails/rails,ajesler,Andrew Esler,0,1
+rails/rails,jamesbrooks,James Brooks,0,2
+rails/rails,tywhang,Ted,0,1
+rails/rails,kentakag,Kenzaburo Takagi,0,1
+rails/rails,RobinDaugherty,Robin Daugherty,0,1
+rails/rails,msroot,Yannis Kolovos,0,1
+rails/rails,kuldeepaggarwal,Kuldeep Aggarwal,0,4
+rails/rails,arjan0307,,0,1
+rails/rails,ttilberg,Tim Tilberg,0,2
+rails/rails,st0012,Stan Lo,0,45
+rails/rails,inopinatus,Josh Goodall,0,8
+rails/rails,euxx,eux,0,1
+rails/rails,sambostock,Sam Bostock,0,11
+rails/rails,samjewell,Sam Jewell,0,2
+rails/rails,bjfish,Brandon Fish,0,2
+rails/rails,andrewculver,Andrew Culver,0,1
+rails/rails,ttibensky,Tomáš Tibenský,0,1
+rails/rails,robinroestenburg,Robin,0,1
+rails/rails,cveneziani,Cecile Veneziani,0,1
+rails/rails,yboulkaid,Youssef Boulkaid,0,2
+rails/rails,t27duck,Tony Drake,0,1
+rails/rails,houhoulis,Chris Houhoulis,0,5
+rails/rails,janko,Janko Marohnić,0,5
+rails/rails,Vin0uz,Vinhas Kevin,0,1
+rails/rails,Aguardientico,Gustavo Gonzalez,0,1
+rails/rails,jmalcic,Justin Malčić,0,1
+rails/rails,wout,Wout,0,1
+rails/rails,ijlee2,Isaac Lee,0,1
+rails/rails,meinac,Mehmet Emin İNAÇ,0,42
+rails/rails,lxxxvi,Mario,0,6
+rails/rails,raydleemsc,"Raymond D. Lee, M. Sc.",0,1
+rails/rails,davidstosik,David Stosik,0,5
+rails/rails,alpaca-tc,alpaca-tc,0,16
+rails/rails,goatatwork,The Goat,0,1
+rails/rails,markvanlan,Mark VanLandingham,0,1
+rails/rails,alexandreruban,Alexandre Ruban,0,1
+rails/rails,guillaumebriday,Guillaume Briday,0,2
+rails/rails,aaronlahey,Aaron Lahey,0,1
+rails/rails,malomalo,Jon Bracy,0,1
+rails/rails,bencgreenberg,Ben Greenberg,0,1
+rails/rails,stevecondylios,Steve Condylios,0,1
+rails/rails,carloshdelreal,Carlos Del Real,0,1
+rails/rails,pdcribeiro,Diogo Ribeiro,0,1
+rails/rails,cbothner,Cameron Bothner,0,5
+rails/rails,srt32,Simon Taranto,0,2
+rails/rails,jjb,John Bachir,0,2
+rails/rails,by-robots,Dan,0,1
+rails/rails,lukegit,Lukkk,0,1
+rails/rails,ankurp,Ankur Patel,0,2
+rails/rails,diasks2,Kevin Dias,0,1
+rails/rails,gobijan,Bijan Rahnema,0,1
+rails/rails,alea12,Kimiyasu Morikawa,0,1
+rails/rails,mkasztelnik,Marek Kasztelnik,0,2
+rails/rails,wbharding,Bill Harding,0,1
+rails/rails,chaffeqa,Quinn Chaffee,0,3
+rails/rails,utilum,utilum,0,117
+rails/rails,uxxman,Muhammad Usman,0,2
+rails/rails,theojulienne,Theo Julienne,0,3
+rails/rails,mpapis,Michal Papis,0,3
+rails/rails,openbl,Brian Lesperance,0,1
+rails/rails,chechsp,,0,1
+rails/rails,danini-the-panini,Danielle Smith,0,2
+rails/rails,justin-robinson,Justin Robinson,0,1
+rails/rails,buncis,buncis,0,1
+rails/rails,garrettdimon,Garrett Dimon,0,1
+rails/rails,Gajendarkodela,Gajendar Kodela,0,2
+rails/rails,kivikakk,Asherah Connor,0,6
+rails/rails,alecclarke,Alec Clarke,0,3
+rails/rails,sandip-mane,Sandip Mane,0,3
+rails/rails,mansakondo,mansakondo,0,2
+rails/rails,doits,Markus,0,5
+rails/rails,mrpinsky,Nate Pinsky,0,2
+rails/rails,luk4s,Lukas Pokorny,0,1
+rails/rails,metisigor,,0,1
+rails/rails,corsonknowles,Dave Corson-Knowles,0,1
+rails/rails,kylekeesling,Kyle Keesling,0,5
+rails/rails,duartemvix,Matt,0,2
+rails/rails,islue,Hu Hailin,0,1
+rails/rails,johnisom,John Isom,0,1
+rails/rails,ivgiuliani,Ivan Giuliani,0,3
+rails/rails,janklimo,Jan Klimo,0,1
+rails/rails,cseelus,Chrıs Seelus,0,7
+rails/rails,artur-beljajev,Artur Beljajev,0,3
+rails/rails,msespos,Mike Esposito,0,1
+rails/rails,chao-xian,Kelvin Gan,0,1
+rails/rails,kevinjalbert,Kevin Jalbert,0,2
+rails/rails,8398a7,839,0,1
+rails/rails,Nowaker,Damian Nowak,0,1
+rails/rails,glaszig,,0,5
+rails/rails,connorshea,Connor Shea,0,10
+rails/rails,PhilCoggins,Phil Coggins,0,3
+rails/rails,johnwilliams,,0,1
+rails/rails,aar0nr,aaron,0,1
+rails/rails,gedorinku,Ryota Egusa,0,1
+rails/rails,alan-pie,Alan Savage,0,2
+rails/rails,mziwisky,Michael Ziwisky,0,1
+rails/rails,alican92,,0,1
+rails/rails,leoarnold,Leo Arnold,0,1
+rails/rails,pftg,Paul Keen,0,4
+rails/rails,david-eom,Yan Xiaozhi (David),0,1
+rails/rails,pedropb,Pedro Baracho,0,1
+rails/rails,fitodic,Filip Todic,0,1
+rails/rails,rossta,Ross Kaffenberger,0,6
+rails/rails,westoque,William Estoque,0,1
+rails/rails,nertzy,Grant Hutchins,0,3
+rails/rails,juliosantos,Júlio Santos,0,1
+rails/rails,mullermp,Matt Muller,0,2
+rails/rails,michelson,Miguel Michelson Martinez,0,1
+rails/rails,feliperaul,flprben,0,1
+rails/rails,mikker,Mikkel Malmberg,0,3
+rails/rails,stevecrozz,Stephen Crosby,0,3
+rails/rails,jasl,Jun Jiang,0,8
+rails/rails,msducheminjr,Michael Duchemin,0,3
+rails/rails,dotLou,Louis Cloutier,0,1
+rails/rails,tricknotes,Ryunosuke Sato,0,8
+rails/rails,Fonsan,Erik Fonselius,0,1
+rails/rails,semaperepelitsa,Simon Perepelitsa,0,3
+rails/rails,clayton-shopify,Clayton Smith,0,1
+rails/rails,d12,Nathaniel Woodthorpe,0,3
+rails/rails,cindygshopify,,0,1
+rails/rails,francois-ferrandis,François Ferrandis,0,1
+rails/rails,tahsin352,Tahsin Hasan,0,35
+rails/rails,dputtick,Dan Puttick,0,1
+rails/rails,quatauta,Daniel Schömer,0,1
+rails/rails,kaspth,Kasper Timm Hansen,0,39
+rails/rails,cacheflow,Lex Alexander,0,1
+rails/rails,olimart,Olivier,0,8
+rails/rails,timfjord,Tim Masliuchenko,0,9
+rails/rails,kirs,Kir Shatrov,0,77
+rails/rails,bipashant,Bibek Sharma Chapagain,0,1
+rails/rails,amatsuda,Akira Matsuda,0,8
+rails/rails,ColinDKelley,Colin Kelley,0,4
+rails/rails,rheasunshine,Rhea Morrison,0,1
+rails/rails,umarsheikh,umar,0,1
+rails/rails,vaporyhumo,Rodrigo Andrés Contreras Vilina,0,2
+rails/rails,luccafort,luccafort,0,1
+rails/rails,ktmouk,,0,1
+rails/rails,the-spectator,Akshay Birajdar,0,6
+rails/rails,raghubetina,Raghu Betina,0,1
+rails/rails,dcangulo,David Angulo,0,1
+rails/rails,Bahanix,Julien,0,2
+rails/rails,DougEdey,Doug Edey,0,1
+rails/rails,kvokka,kvokka,0,3
+rails/rails,ionut998,Alexandru Anca,0,1
+rails/rails,edudepetris,Edu Depetris,0,5
+rails/rails,sj26,Samuel Cochran,0,7
+rails/rails,jamesmacwilliam,James Mac William,0,1
+rails/rails,sekiyama58,Tomoki Sekiyama,0,4
+rails/rails,stephannv,Stephann Vasconcelos,0,1
+rails/rails,brchristian,,0,14
+rails/rails,caueguerra,Cauê Guerra,0,1
+rails/rails,jahfer,Jahfer Husain,0,4
+rails/rails,vbalazs,Balazs Varga,0,1
+rails/rails,caws,Charles Washington,0,1
+rails/rails,nburwell,Nick Burwell,0,1
+rails/rails,vandux,Shaun Russell,0,1
+rails/rails,sinsoku,Takumi Shotoku,0,10
+rails/rails,akinomaeni,akinomaeni,0,8
+rails/rails,subdigital,Ben Scheirman,0,1
+rails/rails,tbrisker,Tomer Brisker,0,2
+rails/rails,juanmanuelramallo,Juan Manuel Ramallo,0,1
+rails/rails,inliketim,Tim Rozycki,0,3
+rails/rails,lowski,Lucas Mendelowski,0,1
+rails/rails,foton,Petr Mlčoch,0,1
+rails/rails,bobmazanec,Bob Mazanec,0,5
+rails/rails,btriller,Bastian Triller,0,1
+rails/rails,tmikoss,Toms Mikoss,0,1
+rails/rails,lzap,Lukáš Zapletal,0,7
+rails/rails,miguelsolano,Miguel Solano,0,2
+rails/rails,geeknees,Masumi Kawasaki,0,2
+rails/rails,OmriSama,Omri Gabay,0,1
+rails/rails,Schwad,Nick Schwaderer,0,5
+rails/rails,filipe-sabella,Filipe Sabella,0,1
+rails/rails,natematykiewicz,Nate Matykiewicz,0,1
+rails/rails,robin-drexler,Robin Drexler,0,1
+rails/rails,sergey-alekseev,Sergey Alekseev,0,5
+rails/rails,ayamomiji,ayaya zhao,0,1
+rails/rails,pothibo,Pier-Olivier Thibault,0,1
+rails/rails,SUMAR7,Sajjad Umar,0,1
+rails/rails,excid3,Chris Oliver,0,7
+rails/rails,artfuldodger,Jon Evans,0,4
+rails/rails,cgriego,Chris Griego,0,1
+rails/rails,dmitry,Dmitry Polushkin,0,4
+rails/rails,alexrs,Alejandro Rodríguez Salamanca,0,1
+rails/rails,shouichi,Shouichi Kamiya,0,1
+rails/rails,will89,,0,1
+rails/rails,weiserma,,0,1
+rails/rails,jrochkind,Jonathan Rochkind,0,2
+rails/rails,filipebarcos,Filipe Costa,0,1
+rails/rails,ksilex,,0,1
+rails/rails,ajw725,Andrew Weinstein,0,1
+rails/rails,iarobinson,Ian Robinson,0,5
+rails/rails,mh-mobile,mh-mobile,0,1
+rails/rails,SebouChu,Sébastien Gaya,0,1
+rails/rails,kyoshidajp,YOSHIDA Katsuhiko,0,1
+rails/rails,lazyatom,James Adam,0,2
+rails/rails,robinboening,Robin Böning,0,2
+rails/rails,cindysx89,Cindy,0,1
+rails/rails,mfts,Marc Seitz,0,1
+rails/rails,brenthaas,Brent Haas,0,1
+rails/rails,kylerdmoore,Kyler Moore,0,1
+rails/rails,pietromoro,Pietro Moro,0,3
+rails/rails,albus522,David Genord II,0,2
+rails/rails,asavageiv,Alan Savage,0,1
+rails/rails,RicardoTrindade,Ricardo Trindade,0,5
+rails/rails,grosser,Michael Grosser,0,23
+rails/rails,cnees,Clara Nees,0,1
+rails/rails,vinistock,Vinicius Stock,0,33
+rails/rails,prateekkish,Prateek Choudhary,0,1
+rails/rails,marksiemers,Mark,0,2
+rails/rails,lorennorman,Loren Norman,0,2
+rails/rails,nepalez,Andrew Kozin,0,1
+rails/rails,aaqibqadeer,Aaqib Qadeer Soomro,0,1
+rails/rails,genezys,Vincent Robert,0,1
+rails/rails,tilo,Tilo,0,1
+rails/rails,hubertjakubiak,Hubert Jakubiak,0,2
+rails/rails,ChrisBr,Christian Bruckmayer,0,6
+rails/rails,latinadeveloper,Isis Harris,0,1
+rails/rails,jasonhl,Jason Hiltz-Laforge,0,4
+rails/rails,KapilSachdev,Kapil Sachdev,0,6
+rails/rails,MajedBojan,MaJeD BoJaN,0,1
+rails/rails,utkarsh2102,Utkarsh Gupta,0,1
+rails/rails,igor04,Igor Guzak,0,2
+rails/rails,taylorkearns,Taylor Kearns,0,1
+rails/rails,abepetrillo,Abraham Petrillo,0,1
+rails/rails,frizbee,AndreAntonov,0,1
+rails/rails,pirj,Phil Pirozhkov,0,3
+rails/rails,pedrosmmoreira,Pedro Moreira,0,2
+rails/rails,sandstrom,,0,1
+rails/rails,maschwenk,Max Schwenk,0,5
+rails/rails,pauloancheta,Paulo Ancheta,0,5
+rails/rails,danielricecodes,Daniel Rice,0,1
+rails/rails,fleck,Jonathan Fleckenstein,0,2
+rails/rails,brandondrew,Brandon Zylstra,0,1
+rails/rails,lmojzis,,0,1
+rails/rails,chiraggshah,Chirag Shah,0,7
+rails/rails,gregoriokusowski,Gregório Chalinski Kusowski,0,1
+rails/rails,bharget,Benjamin Hargett,0,1
+rails/rails,nathanallen,Nathan Allen,0,1
+rails/rails,jeffmcaffer,Jeff McAffer,0,1
+rails/rails,mikong,Michael Galero,0,5
+rails/rails,zachahn,Zach Ahn,0,2
+rails/rails,bentranter,Ben Tranter,0,1
+rails/rails,mehagar,Michael Hagar,0,21
+rails/rails,tlatsas,Tasos Latsas,0,3
+rails/rails,dpep,Daniel Pepper,0,1
+rails/rails,jaredmoody,Jared Moody,0,1
+rails/rails,Korkey128k,Corey Smith,0,2
+rails/rails,perezperret,Santiago Perez,0,1
+rails/rails,savin-alexey,Alexey Savin,0,1
+rails/rails,assain,Assain,0,12
+rails/rails,jk779,Michael Berg,0,1
+rails/rails,victorperez,Víctor Pérez,0,4
+rails/rails,sumanranjanpanda,Suman Ranjan Panda,0,1
+rails/rails,Edouard-chin,Edouard Chin,0,107
+rails/rails,sohymg,Yu Ming,0,1
+rails/rails,javiercr,Javier Cuevas,0,2
+rails/rails,lanzhiheng,Lan,0,10
+rails/rails,exterm,Philip Müller,0,4
+rails/rails,maxgurewitz,Max Gurewitz,0,3
+rails/rails,marcrohloff,Marc Rohloff,0,2
+rails/rails,caius,Caius Durling,0,1
+rails/rails,sakuraineed,Sakurai Kenji,0,1
+rails/rails,choznerol,Lawrence Chou,0,1
+rails/rails,tgrushka,Tom Grushka,0,1
+rails/rails,chiaraani,Chiara Núñez,0,5
+rails/rails,lolychee,,0,1
+rails/rails,mhssmnn,Mark Haussmann,0,1
+rails/rails,hennevogel,Henne Vogelsang,0,2
+rails/rails,paneq,Robert Pankowecki,0,1
+rails/rails,simi,Josef Šimánek,0,20
+rails/rails,fig,,0,1
+rails/rails,mhartl,Michael Hartl,0,1
+rails/rails,deepredsky,Rajesh Sharma,0,1
+rails/rails,Madogiwa0124,madogiwa,0,5
+rails/rails,ogennadi,Oge Nnadi,0,1
+rails/rails,elfassy,Michael Elfassy,0,3
+rails/rails,hugopeixoto,Hugo Peixoto,0,2
+rails/rails,manuelmeurer,Manuel Meurer,0,2
+rails/rails,dragosv,Dragos Varovici,0,1
+rails/rails,kajisha,kajisha,0,4
+rails/rails,mstroming,,0,2
+rails/rails,Beuc,,0,1
+rails/rails,gvpmahesh,,0,1
+rails/rails,snuggs,Ahmid,0,1
+rails/rails,milesmcc,R. Miles McCain,0,1
+rails/rails,dsazup,Dainius Pužas,0,1
+rails/rails,rience,Krzysztof Adamski,0,1
+rails/rails,rimian,Rimian Perkins,0,1
+rails/rails,maryammouse,Maryam Syed,0,1
+rails/rails,richardkmichael,Richard Michael,0,1
+rails/rails,dduugg,Douglas Eichelberger,0,1
+rails/rails,stevenweber,Steve Weber,0,1
+rails/rails,harirajv,Hariraj Venkatesan,0,2
+rails/rails,khustochka,Vitalii Khustochka,0,2
+rails/rails,ahorek,Pavel Rosický,0,13
+rails/rails,arthurschreiber,Arthur Schreiber,0,1
+rails/rails,colorbox,colorbox,0,4
+rails/rails,ericpayneclio,,0,1
+rails/rails,dogweather,Robb Shecter,0,1
+rails/rails,f-mer,Fabian Mersch,0,2
+rails/rails,evgeniy-r,Evgeniy Rashchepkin,0,1
+rails/rails,JuarezLustosa,Juarez Lustosa,0,1
+rails/rails,2017kamb,Raj Kumar,0,1
+rails/rails,marvinthepa,Martin Sander,0,1
+rails/rails,adamzolotarev,Adam Zolotarev,0,1
+rails/rails,ruyrocha,Ruy Rocha,0,3
+rails/rails,yggqa,,0,2
+rails/rails,robin850,Robin Dupret,0,19
+rails/rails,smriti154,,0,1
+rails/rails,pawurb,Paweł Urbanek,0,3
+rails/rails,EduardoGHdez,Eduardo Hernandez,0,1
+rails/rails,TylerRick,Tyler Rick,0,2
+rails/rails,timcraft,,0,2
+rails/rails,JuanitoFatas,Juanito Fatas,0,15
+rails/rails,waruboy,Taufiq Muhammadi,0,1
+rails/rails,joeytepp,Joey Tepperman,0,2
+rails/rails,stephenchen13,Stephen Chen,0,1
+rails/rails,yuki24,Yuki Nishijima,0,8
+rails/rails,kerolloz,Kerollos Magdy,0,1
+rails/rails,rynonl,Ryan O'Neill,0,1
+rails/rails,prograhamer,Graham Brereton,0,1
+rails/rails,archferns,Arlston Fernandes,0,1
+rails/rails,yskkin,Yoshiyuki Kinjo,0,27
+rails/rails,Ecco,Ecco,0,1
+rails/rails,f3ndot,Justin Bull,0,2
+rails/rails,fylooi,fylooi,0,2
+rails/rails,xrav3nz,,0,2
+rails/rails,montdidier,Chris Kruger,0,1
+rails/rails,rolandasb,Rolandas Barysas,0,4
+rails/rails,coorasse,Alessandro Rodi,0,10
+rails/rails,getaaron,Aaron Brager,0,1
+rails/rails,swaggermeister,,0,1
+rails/rails,EzraShimon,Ezra-Shimon Rosenfeld,0,1
+rails/rails,AlexKVal,Alexander Shemetovskiy,0,1
+rails/rails,codergeek121,Niklas Häusele,0,2
+rails/rails,quintrino,Nick Wolf,0,1
+rails/rails,imtayadeway,Tim Wade,0,5
+rails/rails,froodian,Ian Leue,0,1
+rails/rails,omegahm,Mads Ohm Larsen,0,1
+rails/rails,myno940,,0,1
+rails/rails,zenspider,Ryan Davis,0,2
+rails/rails,BlakeWilliams,Blake Williams,0,1
+rails/rails,jfeaver,Nathan,0,1
+rails/rails,aried3r,Anton Rieder,0,10
+rails/rails,blaze182,Paul Blaze,0,1
+rails/rails,hashwin,Ashwin Hegde,0,1
+rails/rails,jaynetics,Janosch Müller,0,2
+rails/rails,wwahammy,Eric Schultz,0,1
+rails/rails,Jberczel,Jamie,0,1
+rails/rails,leetie,Jesse Parsons,0,1
+rails/rails,rhuanbarreto,Rhuan,0,2
+rails/rails,trevorrjohn,Trevor,0,1
+rails/rails,vinibrsl,Vini Brasil,0,2
+rails/rails,dustym,Dusty Matthews,0,1
+rails/rails,mariuz,Popa Marius Adrian,0,1
+rails/rails,davidauza-engineer,David Auza,0,6
+rails/rails,f19ps,Franco Pariani,0,1
+rails/rails,tannakartikey,Kartikey Tanna,0,2
+rails/rails,jamesnakagawa,,0,1
+rails/rails,4geru,koichi uchinishi ,0,2
+rails/rails,alassek,Adam Lassek,0,1
+rails/rails,paul-mannino,Paul,0,2
+rails/rails,hayesr,Eric Hayes,0,3
+rails/rails,prathamesh-sonpatki,प्रथमेश Sonpatki,0,239
+rails/rails,Yinfei,Yohan Piron,0,1
+rails/rails,abdelp,Abdel Pérez Téllez,0,1
+rails/rails,aivenaivenaiven,Aiven Song,0,1
+rails/rails,estani,estani,0,1
+rails/rails,bogdan,Bogdan Gusiev,0,37
+rails/rails,jhadeepakkumar14,Deepak Kumar Jha,0,1
+rails/rails,hotatekaoru,Kaoru Hotate,0,1
+rails/rails,JackMc,Jack McCracken,0,7
+rails/rails,duncanjbrown,Duncan Brown,0,1
+rails/rails,gudata,,0,1
+rails/rails,smondal,sandip mondal,0,3
+rails/rails,muan,muan,0,1
+rails/rails,albertoalmagro,Alberto Almagro,0,51
+rails/rails,RKushnir,,0,1
+rails/rails,nimish-mehta,Nimish Mehta,0,3
+rails/rails,tiendo1011,Tien,0,2
+rails/rails,danieldimitrov,Daniel Dimitrov,0,1
+rails/rails,mathieujobin,Mathieu Jobin,0,3
+rails/rails,colto,Colton Fent,0,1
+rails/rails,mikelkew,Mikel Kew,0,1
+rails/rails,krzysiek1507,Krzysztof Rybka,0,3
+rails/rails,davidmoseler,,0,1
+rails/rails,fa11enangel,Konstantin,0,1
+rails/rails,atombrella,Mads Jensen,0,1
+rails/rails,YehudaGold,Yehuda Goldberg,0,1
+rails/rails,jmks,Jason Schweier,0,1
+rails/rails,ka8725,Andrei Kaleshka,0,6
+rails/rails,chancancode,Godfrey Chan,0,12
+rails/rails,yalab,yalab,0,8
+rails/rails,brendo,Brendan Abbott,0,2
+rails/rails,zvkemp,Zach Kemp,0,4
+rails/rails,islam-taha,Islam Taha,0,1
+rails/rails,jvhaperen,Jeroen van Haperen,0,2
+rails/rails,ar31an,Arslan Javed,0,1
+rails/rails,prodev81,prodev810 ,0,1
+rails/rails,andreleoni,André Leoni,0,5
+rails/rails,tejasbubane,Tejas Bubane,0,2
+rails/rails,marlabrizel,Marla Brizel Zeschin,0,1
+rails/rails,liroyleshed,Liroy Leshed,0,3
+rails/rails,Lewiscowles1986,Lewis Cowles,0,2
+rails/rails,springerigor,Igor Springer,0,1
+rails/rails,ukolovda,Dmitry Ukolov,0,1
+rails/rails,cjilbert504,,0,1
+rails/rails,nav16,Navneet Pandey,0,1
+rails/rails,alimi,,0,8
+rails/rails,vipul-vinsol,Vipul Bhardwaj,0,1
+rails/rails,joshmn,Josh Brody,0,4
+rails/rails,hammerdr,Derek Hammer,0,2
+rails/rails,stefkin,Vsevolod,0,1
+rails/rails,farukaydin,Ömer Faruk Aydın,0,1
+rails/rails,y-yagi,y-yagi,1,653
+rails/rails,BoboFraggins,Peter Fry,0,1
+rails/rails,dereknahman,dereknahman,0,1
+rails/rails,ykpythemind,Yukito Ito,0,1
+rails/rails,dukaev,Aslan Dukaev,0,1
+rails/rails,londonoliver,,0,1
+rails/rails,groeneman,Michael Groeneman,0,2
+rails/rails,olleolleolle,Olle Jonsson,0,1
+rails/rails,AubinWinddle,Aubin LORIEUX,0,1
+rails/rails,cbisnett,Chris Bisnett,0,2
+rails/rails,ak15,Atul Kanswal,0,2
+rails/rails,aubinlrx,Aubin LORIEUX,0,1
+rails/rails,AnomalousBit,Jason Crossfield,0,2
+rails/rails,rishav-csenitjsr,Rishav Kumar,0,4
+rails/rails,ecbrodie,Evan Brodie,0,1
+rails/rails,c-w,Clemens Wolff,0,1
+rails/rails,mechanicles,Santosh Wadghule,0,41
+rails/rails,nvick,Nate Vick,0,1
+rails/rails,maciek-rr,Maciek Dubiński,0,1
+rails/rails,cromulus,Bill Cromie,0,1
+rails/rails,gauravtiwari,Gaurav Tiwari,0,3
+rails/rails,jpventura,JP Ventura,0,1
+rails/rails,rubenochiavone,Ruben Oliveira Chiavone,0,1
+rails/rails,dixpac,Dino Maric,0,28
+rails/rails,rmacklin,Richard Macklin,0,25
+rails/rails,stevenjackson,,0,2
+rails/rails,gentcys,Cong Chen,0,1
+rails/rails,modosc,jonathan schatz,0,2
+rails/rails,yoelblum,Joel,0,1
+rails/rails,bb,Benjamin Bock,0,2
+rails/rails,timdorr,Tim Dorr,0,2
+rails/rails,d-m-u,d-m-u,0,2
+rails/rails,nburns,Nick Burns,0,1
+rails/rails,yashLadha,Yash Ladha,0,4
+rails/rails,benny-burkhart,Benjamin Burkhart,0,1
+rails/rails,rikkipitt,Rikki Pitt,0,2
+rails/rails,BhumikaSaini,Bhumika Saini,0,1
+rails/rails,iagus,santiago,0,1
+rails/rails,mrhaddad,Michael Haddad,0,1
+rails/rails,lukeredpath,Luke Redpath,0,1
+rails/rails,jeremy,Jeremy Daer,0,45
+rails/rails,johansmitsnl,Johan Smits,0,1
+rails/rails,aditya-vector,Aditya Narsapurkar,0,2
+rails/rails,OsamaSayegh,Osama Sayegh,0,1
+rails/rails,seiyeah78,karasu,0,1
+rails/rails,jasonyork,Jason York,0,1
+rails/rails,kwerle,Kurt Werle,0,1
+rails/rails,frenesim,Humberto,0,2
+rails/rails,harrisonmalone,Harrison Malone,0,1
+rails/rails,headius,Charles Oliver Nutter,0,15
+rails/rails,qubis741,qubis741,0,1
+rails/rails,geoffharcourt,Geoff Harcourt,0,1
+rails/rails,L-as,Las,0,1
+rails/rails,alextrueman,Alex Golubenko,0,1
+rails/rails,hachi8833,Shozo Hatta,0,1
+rails/rails,slavadev,Slava Korolev,0,1
+rails/rails,fanktom,Thomas Fankhauser,0,2
+rails/rails,dylnclrk,Dylan Clark,0,2
+rails/rails,kylekthompson,Kyle Thompson,0,3
+rails/rails,ekremkaraca,Ekrem Karaca,0,2
+rails/rails,kytrinyx,Katrina Owen,0,10
+rails/rails,stevenmichaelthomas,Steven Thomas,0,2
+rails/rails,drogus,Piotr Sarnacki,0,1
+rails/rails,Matthijsy,Matthijs Vos,0,1
+rails/rails,jpcody,Joshua Cody,0,1
+rails/rails,OlajumokeFaj,Jumoke Adegoke,0,1
+rails/rails,shime,Hrvoje Šimić,0,7
+rails/rails,Hellfar,Pierre Louchet,0,1
+rails/rails,elia,Elia Schito,0,3
+rails/rails,dhiachou,Dhia Eddine Chouchane,0,1
+rails/rails,dewey,Philipp Defner,0,1
+rails/rails,felixbuenemann,Felix Bünemann,0,1
+rails/rails,etagwerker,Ernesto Tagwerker,0,1
+rails/rails,indyarocks,Chandan Jhunjhunwal,0,1
+rails/rails,rockymeza,Rocky Meza,0,1
+rails/rails,milosivanovic,Milos Ivanovic,0,1
+rails/rails,nahi,Hiroshi Nakamura,0,1
+rails/rails,SValkanov,Stanislav Valkanov,0,1
+rails/rails,ricvillagrana,Ricardo Villagrana,0,1
+rails/rails,sikachu,Prem Sichanugrist,0,16
+rails/rails,sferik,Erik Berlin,0,3
+rails/rails,stevenpetryk,Steven Petryk,0,1
+rails/rails,javiyu,Javier Jiménez,0,1
+rails/rails,bdurand,Brian Durand,0,2
+rails/rails,mibradev,Muhammad Muhammad Ibrahim,0,2
+rails/rails,bknarendra,Narendra Rajput,0,2
+rails/rails,Atul9,Atul Bhosale,0,3
+rails/rails,peterb,Peter Baker,0,2
+rails/rails,edocabhi,Abhishek Bahadur Niraula,0,1
+rails/rails,ordinaryzelig,Jared Ning,0,2
+rails/rails,thoran,thoran,0,1
+rails/rails,sonicdoe,Jakob Krigovsky,0,1
+rails/rails,lcreid,Larry Reid,0,2
+rails/rails,LeandroRezendeCoutinho,Leandro Rezende,0,1
+rails/rails,katafrakt,Paweł Świątkowski,0,1
+rails/rails,dr-itz,Daniel Ritz,0,6
+rails/rails,thiaguerd,Thiago Feitosa,0,1
+rails/rails,vikasvr,Vikas Verma,0,3
+rails/rails,1990prashant,Prashant Kumar Mishra,0,1
+rails/rails,januszm,Janusz Mordarski,0,1
+rails/rails,josephgrossberg,Joe Grossberg,0,1
+rails/rails,jdpaterson,J Paterson,0,1
+rails/rails,xuanxu,Juanjo Bazán,0,4
+rails/rails,doooby,Ondřej Želazko,0,1
+rails/rails,Gurrium,Gurrium,0,1
+rails/rails,rosa,Rosa Gutierrez,0,7
+rails/rails,ianfleeton,Ian Fleeton,0,3
+rails/rails,douglara,Douglas Lara,0,1
+rails/rails,enowmbi,Enow B. Mbi,0,1
+rails/rails,thoratprashant,Prashant Thorat,0,1
+rails/rails,wasabigeek,Nicholas,0,1
+rails/rails,tsuka,,0,3
+rails/rails,apauly,Alex Pauly,0,2
+rails/rails,vishaltelangre,Vishal Telangre,0,28
+rails/rails,hegyi,Adam Hegyi,0,1
+rails/rails,stuyam,Stuart Yamartino,0,1
+rails/rails,gsamokovarov,Genadi Samokovarov,0,58
+rails/rails,jules2689,Julian Nadeau,0,6
+rails/rails,dlt,Dalto Curvelano,0,2
+rails/rails,mengqing,Jimmy Zhang,0,1
+rails/rails,giraffate,Takayuki Nakata,0,39
+rails/rails,KNejad,Keeyan Nejad,0,1
+rails/rails,igorkasyanchuk,Igor Kasyanchuk,0,7
+rails/rails,tom-lord,Tom Lord,0,2
+rails/rails,ring-nsoracco,,0,1
+rails/rails,onk,Takafumi ONAKA,0,1
+rails/rails,mvastola,Mike Vastola,0,2
+rails/rails,sponomarev,Sergey Ponomarev,0,11
+rails/rails,weilandia,Nick Weiland,0,2
+rails/rails,mkrfowler,Michael Fowler,0,1
+rails/rails,nicolasdular,Nicolas Dular,0,1
+rails/rails,martijn,Martijn Storck,0,3
+rails/rails,jfine,Jared Fine,0,1
+rails/rails,mltsy,Joe Marty,0,3
+rails/rails,ugisozols,Uģis Ozols,0,1
+rails/rails,stgm,Martijn Stegeman,0,1
+rails/rails,yhirano55,yhirano55,0,213
+rails/rails,asok,Adam Sokolnicki,0,1
+rails/rails,benubois,Ben Ubois,0,1
+rails/rails,sullis,,0,1
+rails/rails,krainboltgreene,Kurtis Rainbolt-Greene,0,6
+rails/rails,abcang,abcang,0,1
+rails/rails,zucaritask,Mariano Vallés,0,1
+rails/rails,jfragoulis,John Fragoulis,0,3
+rails/rails,jackkinsella,Jack Kinsella,0,2
+rails/rails,fxn,Xavier Noria,0,9
+rails/rails,notapatch,not-a-patch,0,3
+rails/rails,cpruitt,Cliff Pruitt,0,17
+rails/rails,UlrichThomasGabor,Ulrich Thomas Gabor,0,1
+rails/rails,r7kamura,Ryo Nakamura,0,8
+rails/rails,H4NG-MAN,tnnz.x®,0,1
+rails/rails,peterzhu2118,Peter Zhu,0,18
+rails/rails,HassanAkbar,,0,1
+rails/rails,Manfred,Manfred Stienstra,0,1
+rails/rails,t0yohei,t0yohei,0,1
+rails/rails,liljack,Kevin Jacoby,0,1
+rails/rails,sarcas,James Bell,0,1
+rails/rails,scd31,,0,1
+rails/rails,f-teruhisa,Teruhisa Fukumoto,0,1
+rails/rails,s-mori,,0,1
+rails/rails,itohiro73,Hiroshi Ito,0,1
+rails/rails,hmtanbir,Tanbir Hasan,0,4
+rails/rails,joshuaflanagan,Joshua Flanagan,0,2
+rails/rails,tabakazu,Kazuma Taba,0,2
+rails/rails,kirikiriyamama,,0,1
+rails/rails,snyff,Louis Nyffenegger,0,1
+rails/rails,Vasfed,Vasily Fedoseyev,0,3
+rails/rails,lizdeika,Deividas J.,0,2
+rails/rails,swrobel,Stefan Wrobel,0,6
+rails/rails,nard-tech,Shu Fujita,0,1
+rails/rails,pierredemilly,Pierre de Milly,0,1
+rails/rails,tomily1,Tomilayo Israel,0,1
+rails/rails,javan,Javan Makhmali,0,28
+rails/rails,nkondratyev,Nikolay Kondratyev,0,2
+rails/rails,hectorbus,Hector Bustillos,0,1
+rails/rails,pwim,Paul McMahon,0,9
+rails/rails,MONIIE1,BrattyBae,0,1
+rails/rails,schlick,Michael MacDonald,0,1
+rails/rails,orien,Orien Madgwick,0,2
+rails/rails,Nondv,Dmitry Non,0,1
+rails/rails,Widdershin,Nick Johnstone,0,2
+rails/rails,guycall,,0,1
+rails/rails,Austio,Austin Story,0,1
+rails/rails,mrhead,Patrik Bóna,0,8
+rails/rails,bradrees,Brad Rees,0,1
+rails/rails,atcruice,Alex Cruice,0,1
+rails/rails,willtcarey,William Carey,0,1
+rails/rails,larskanis,Lars Kanis,0,10
+rails/rails,kkitadate,,0,1
+rails/rails,chalofa,Chalo Fernandez,0,2
+rails/rails,plentz,Diego Plentz,0,3
+rails/rails,andrewhaines,Andrew Haines,0,1
+rails/rails,printfinn,finn,0,1
+rails/rails,bradleyprice,Bradley Price,0,1
+rails/rails,bquorning,Benjamin Quorning,0,17
+rails/rails,anderscarling,Anders Carling,0,1
+rails/rails,prashuchaudhary,Prashu Chaudhary,0,1
+rails/rails,dferrazm,Daniel Ferraz,0,1
+rails/rails,wagenet,Peter Wagenet,0,6
+rails/rails,peritpatrio,Petri Partio,0,1
+rails/rails,sidonath,Damir,0,2
+rails/rails,victor-am,Victor Marques,0,1
+rails/rails,rommehta30,Romil Mehta,0,1
+rails/rails,kamillle,kamillle,0,2
+rails/rails,andreynering,Andrey Nering,0,2
+rails/rails,vvo,Vincent Voyer,0,1
+rails/rails,LaurensN,,0,2
+rails/rails,BelenRemedi,,0,1
+rails/rails,rsmything,Roman Suleymanov,0,1
+rails/rails,tatsuyafw,Tatsuya Hoshino,0,2
+rails/rails,deivid-rodriguez,David Rodríguez,0,18
+rails/rails,imaharu,ryohta.ochi,0,1
+rails/rails,ryan-robeson,Ryan Robeson,0,1
+rails/rails,bradleyjucsc,Brad Bennett,0,1
+rails/rails,MarkyMarkMcDonald,Mark McDonald,0,1
+rails/rails,xenyal,Vincent Li,0,1
+rails/rails,artinboghosian,Artin Boghosian,0,1
+rails/rails,qnighy,Masaki Hara,0,2
+rails/rails,boblail,Bob Lail,0,5
+rails/rails,jatindhankhar,Jatin Dhankhar,0,1
+rails/rails,sandrew,Andrei Shaidurov,0,2
+rails/rails,systemnate,Nate Dalo,0,3
+rails/rails,lordofthedanse,Dan Brown,0,1
+rails/rails,michdsouza,,0,1
+rails/rails,louim,Louis-Michel Couture,0,5
+rails/rails,fwuensche,Flavio Wuensche,0,1
+rails/rails,QWYNG,Hiroaki Osawa,0,2
+rails/rails,Sean0628,Sho Ito,0,3
+rails/rails,SummitCollie,Summit,0,1
+rails/rails,rafadc,Rafa de Castro,0,1
+rails/rails,jmschneider,Joel Schneider,0,2
+rails/rails,flyerhzm,Richard Huang,0,1
+rails/rails,BakiVernes,Vernes,0,1
+rails/rails,SinanMujan,,0,7
+rails/rails,brookjordan,Brook Jordan,0,1
+rails/rails,iagopiimenta,Iago Pimenta,0,1
+rails/rails,chrisbutcher,christopher butcher,0,1
+rails/rails,nursoltan-s,Nursoltan Saipolda,0,1
+rails/rails,flivni,Felix Livni,0,1
+rails/rails,matthewd,Matthew Draper,0,70
+rails/rails,guledali,,0,1
+rails/rails,chrismo,chrismo,0,1
+rails/rails,kmasuda050,Kazuhiro Masuda,0,1
+rails/rails,rahulpuroht,Rahul Purohit,0,1
+rails/rails,siddhantbajaj,Siddhant Bajaj,0,1
+rails/rails,rhiroshi,Rafael H.F.S.,0,1
+rails/rails,shugo,Shugo Maeda,0,2
+rails/rails,huacnlee,Jason Lee,0,10
+rails/rails,martinbjeldbak,Martin Bjeldbak Madsen,0,1
+rails/rails,cineron,Ron Wilson,0,1
+rails/rails,willnet,Shinichi Maeshima,0,20
+rails/rails,JunichiIto,Junichi Ito,0,2
+rails/rails,urkle,Edward Rudd,0,3
+rails/rails,jonathankwok,Jonathan Kwok,0,1
+rails/rails,mdelaossa,Mario de la Ossa,0,1
+rails/rails,eZii-jester-data,,0,3
+rails/rails,fffx,fangxing,0,1
+rails/rails,akeyhero,Akihiro Katsura,0,1
+rails/rails,mladenilic,Mladen Ilić,0,2
+rails/rails,mistpointz,,0,1
+rails/rails,Shinpeim,Shinpei Maruyama,0,1
+rails/rails,thomas-mcdonald,Thomas McDonald,0,1
+rails/rails,tegon,Leonardo Tegon,0,3
+rails/rails,ryuchan00,Ryutaro Yamakawa,0,1
+rails/rails,normprovost,Norm Provost,0,1
+rails/rails,deiay,David,0,1
+rails/rails,tekin,Tekin Süleyman,0,6
+rails/rails,lazaronixon,Nixon,0,2
+rails/rails,ztmeyer,Zach Meyer,0,1
+rails/rails,BookOfGreg,Greg Myers,0,3
+rails/rails,ramonpm,Ramon Marques,0,1
+rails/rails,dmdropkick,Dmitry Voronov,0,1
+rails/rails,aldhsu,Allen Hsu,0,2
+rails/rails,meganemura,meganemura,0,5
+rails/rails,mpospelov,Mikhail Pospelov,0,1
+rails/rails,DmytroVasin,Dmytro Vasin,0,6
+rails/rails,codeodor,Sammy Larbi,0,3
+rails/rails,schneems,Richard Schneeman,1,65
+rails/rails,kobsy,Matt Kobs,0,1
+rails/rails,zachhaitz,,0,1
+rails/rails,masarakki,masarakki,0,1
+rails/rails,greysteil,Grey Baker,0,20
+rails/rails,nobu,Nobuyoshi Nakada,0,4
+rails/rails,ksylvest,Kevin Sylvestre,0,1
+rails/rails,tracyloisel,LOISEL,0,1
+rails/rails,carlosantoniodasilva,Carlos Antonio da Silva,0,1
+rails/rails,sushantmittal,Sushant Mittal,0,3
+rails/rails,ribordy,Kyle Ribordy,0,1
+rails/rails,jonhyman,Jonathan Hyman,0,3
+rails/rails,d3d1rty,RV Davis,0,1
+rails/rails,SamSaffron,Sam,0,6
+rails/rails,gcentauri,Grant Shangreaux,0,1
+rails/rails,glacials,Ben Carlsson,0,1
+rails/rails,BClark88,Brady,0,1
+rails/rails,pond,Andrew Hodgkinson,0,1
+rails/rails,Yama-Tomo,,0,1
+rails/rails,adammw,Adam Malcontenti-Wilson,0,1
+rails/rails,jasonkarns,Jason Karns,0,1
+rails/rails,lmansur,Lucas Mansur,0,1
+rails/rails,nanaya,Edho Arief,0,3
+rails/rails,shivabhusal,Shiva Bhusal,0,3
+rails/rails,unasuke,Yusuke Nakamura,0,3
+rails/rails,rofreg,Ryan Laughlin,0,1
+rails/rails,iainbeeston,Iain Beeston,0,8
+rails/rails,npras,Prasanna Natarajan,0,2
+rails/rails,enriikke,Enrique Gonzalez,0,1
+rails/rails,bmedenwald,Brandon Medenwald,0,2
+rails/rails,gentooboontoo,Julien Sanchez,0,1
+rails/rails,ipepe,Patryk Ptasiński,0,1
+rails/rails,woahdae,Woody Peterson,0,2
+rails/rails,wangguoqin1001,WANG Guoqin,0,1
+rails/rails,akshaymohite,Akshay Mohite,0,12
+rails/rails,quanon,QUANON,0,1
+rails/rails,dvandersluis,Daniel Vandersluis,0,3
+rails/rails,JeremiahChurch,Jeremiah,0,1
+rails/rails,kunal6673,,0,1
+rails/rails,tjwp,Tim Perkins,0,1
+rails/rails,ttakuru88,ttakuru88,0,1
+rails/rails,betogrun,Alberto Rocha,0,1
+rails/rails,Jamedjo,James EdJo,0,1
+rails/rails,haberbyte,Jan,0,9
+rails/rails,alexeiemam,,0,1
+rails/rails,danglduy,,0,1
+rails/rails,tarellel,Brandon Hicks,0,1
+rails/rails,ahmeij,Andre Meij,0,1
+rails/rails,akshatkedia,Akshat Kedia,0,1
+rails/rails,hyliancoder,ΔNDRΞW,0,1
+rails/rails,pcarn,Peter Carnesciali,0,1
+rails/rails,anmolarora,Anmol Arora,0,2
+rails/rails,ccocchi,Christopher Cocchi-Perrier,0,1
+rails/rails,tgwizard,Adam Renberg Tamm,0,1
+rails/rails,keymastervn,Dat Le-Tien,0,1
+rails/rails,sergioro9,Sergio,0,3
+rails/rails,AhmedKamal20,Ahmed Kamal,0,1
+rails/rails,airdry,George,0,1
+rails/rails,nerzh,OleG.,0,1
+rails/rails,dpogue,Darryl Pogue,0,1
+rails/rails,ardinusawan,I Dewa Putu Ardi Nusawan,0,1
+rails/rails,koic,Koichi ITO,0,81
+rails/rails,ts-3156,ts-3156,0,1
+rails/rails,emp823,Erik Pearson,0,3
+rails/rails,asppsa,Alastair Pharo,0,1
+rails/rails,bugtender,Vincent Lin,0,1
+rails/rails,garethson,Gareth du Plooy,0,2
+rails/rails,tjallingvanderwal,Tjalling van der Wal,0,1
+rails/rails,knu,Akinori MUSHA,0,2
+rails/rails,wjessop,Will Jessop,0,9
+rails/rails,aminamos,Amin,0,1
+rails/rails,zporter,Zach Porter,0,1
+rails/rails,saida,Saida,0,1
+rails/rails,sharang-d,Sharang Dashputre,0,41
+rails/rails,piratebroadcast,Jesse Waites,0,1
+rails/rails,blaedj,blaedj,0,1
+rails/rails,treenewbee,Eric,0,1
+rails/rails,nickrivadeneira,Nick Rivadeneira,0,2
+rails/rails,michaelherold,Michael Herold,0,1
+rails/rails,juliantrueflynn,Julian Flynn,0,1
+rails/rails,gourshete,Swapnil Gourshete,0,1
+rails/rails,alexpooley,Alex Pooley,0,2
+rails/rails,yamato-payforward,hara yamato,0,1
+rails/rails,hc0208,hiroki chida,0,1
+rails/rails,haruyuki97,Haruyuki Hisajima,0,1
+rails/rails,nigh7m4r3,Rifatul Islam Chayon,0,1
+rails/rails,vzvu3k6k,,0,1
+rails/rails,andrewkress,Andrew Kress,0,2
+rails/rails,jamespearson,James Pearson,0,1
+rails/rails,xaviershay,Xavier Shay,0,1
+rails/rails,stevencch99,Steven C.,0,3
+rails/rails,shes50103,Johnson,0,1
+rails/rails,aantix,Jim Jones,0,2
+rails/rails,ershad,Ershad Kunnakkadan,0,1
+rails/rails,ajn123,AJ Norton,0,1
+rails/rails,andre-lgf,André Galatti Faria,0,1
+rails/rails,lazylester,,0,2
+rails/rails,jturkel,Joel Turkel,0,2
+rails/rails,cmrd-senya,Senya,0,1
+rails/rails,rummanhasnayeen,Syed Md Hasnayeen,0,1
+rails/rails,stanhu,Stan Hu,0,3
+rails/rails,ch3rub1m,ch3rub1m,0,2
+rails/rails,masakazutakewaka,Take,0,4
+rails/rails,joequincy,Jon Peterson,0,1
+rails/rails,spk,Laurent Arnoud,0,7
+rails/rails,ypresto,Yuya Tanaka,0,4
+rails/rails,thezed,,0,1
+rails/rails,MityaLiu,Mitya,0,1
+rails/rails,jacobbednarz,Jacob Bednarz,0,9
+rails/rails,amagasu,,0,2
+rails/rails,jbaranov,Eugene Baranov,0,1
+rails/rails,Mike-Yue,Mike Yue,0,1
+rails/rails,Spitsman,Alexander Spitsyn,0,1
+rails/rails,chukitow,Ivan velasquez,0,4
+rails/rails,lachlanjc,Lachlan Campbell,0,3
+rails/rails,vldcmp,,0,1
+rails/rails,ultrawebmarketing,,0,1
+rails/rails,brian-kephart,Brian Kephart,0,2
+rails/rails,jmondo,John Gesimondo,0,3
+rails/rails,gregmolnar,Greg Molnar,0,13
+rails/rails,tr4b4nt,David Hajčiar,0,1
+rails/rails,rodrei,Rodrigo Pavano,0,3
+rails/rails,f1337,Michael R. Fleet,0,1
+rails/rails,mtsmfm,Fumiaki MATSUSHIMA,1,30
+rails/rails,will-in-wi,William Johnston,0,6
+rails/rails,leeourand,Lee Ourand,0,1
+rails/rails,weiyizheng,Weiyi Zheng,0,1
+rails/rails,colszowka,Christoph Olszowka,0,1
+rails/rails,minamijoyo,Masayuki Morita,0,1
+rails/rails,dineshpanda,Dinesh Panda,0,1
+rails/rails,davidjpfeiffer,David Pfeiffer,0,1
+rails/rails,okitan,Kunio Okita,0,1
+rails/rails,tomfakes,Tom Fakes,0,1
+rails/rails,aaron-suarez,Aaron Suarez,0,1
+rails/rails,pblesi,Patrick Blesi,0,1
+rails/rails,quadule,Milo Winningham,0,1
+rails/rails,mcmillan,Josh McMillan,0,1
+rails/rails,jiroshin,Shinjiro Sugita,0,1
+rails/rails,benthorner,Ben Thorner,0,1
+rails/rails,jeffdoering,,0,1
+rails/rails,lucasprag,Lucas Arantes,0,2
+rails/rails,wbnns,Will Binns,0,1
+rails/rails,madding,Eugene Gavrilov,0,1
+rails/rails,kojoma,Masaru Kojo,0,1
+rails/rails,th-ad,Thad Sauter,0,1
+rails/rails,holyketzer,Alex Emelyanov,0,1
+rails/rails,mthurman,Mark Thurman,0,1
+rails/rails,malept,Mark Lee,0,2
+rails/rails,sudara,Sudara Williams,0,1
+rails/rails,moveson,Mark Oveson,0,1
+rails/rails,alexgomez54,Alex Gomez,0,1
+rails/rails,duleorlovic,Dusan Orlovic,0,3
+rails/rails,notentered,Zlatko Zahariev,0,1
+rails/rails,Aupajo,Pete Nicholls,0,1
+rails/rails,robotdana,Dana Sherson,0,4
+rails/rails,steiley,Steiley,0,1
+rails/rails,mrschuster,,0,1
+rails/rails,guigs,Guilherme Goettems Schneider,0,7
+rails/rails,jmarianer,Joey Marianer,0,1
+rails/rails,ptoomey3,Patrick Toomey,0,5
+rails/rails,tarv7,Thales Augusto,0,1
+rails/rails,sebroeder,Sebastian Röder,0,1
+rails/rails,corprew,Corprew Reed,0,3
+rails/rails,causztic,yaojie,0,1
+rails/rails,XrXr,Alan Wu,0,8
+rails/rails,nogtini,Joey Di Nardo,0,1
+rails/rails,agraul,Alexander Graul,0,1
+rails/rails,0xK4d1r,,0,1
+rails/rails,gaotongfei,Tongfei Gao,0,1
+rails/rails,shioimm,Misaki Shioi,0,2
+rails/rails,gustavogr,Gustavo Gutierrez,0,1
+rails/rails,flocela,Flo Maldonado,0,1
+rails/rails,CASIXx1,Yosuke,0,1
+rails/rails,tomafro,Tom Ward,0,1
+rails/rails,absk1317,abhishek verma,0,1
+rails/rails,shekhar-patil,ShekharPatil,0,2
+rails/rails,panckreous,Dan,0,1
+rails/rails,oneiros,David Roetzel,0,1
+rails/rails,guilleiguaran,Guillermo Iguaran,0,14
+rails/rails,jamesdabbs,James Dabbs,0,1
+rails/rails,sshaw,Skye Shaw,0,1
+rails/rails,natesholland,Nate Holland,0,1
+rails/rails,alexcameron89,Alex Kitchens,0,47
+rails/rails,ssendev,,0,2
+rails/rails,spuyet,Sébastien Puyet,0,1
+rails/rails,thomasdarde,Thomas Darde,0,1
+rails/rails,Euphoreka7,Emily,0,3
+rails/rails,szb512,szb512,0,2
+rails/rails,ksolo,Kevin Solorio,0,2
+rails/rails,pustomytnyk,Roman Sokhan,0,1
+rails/rails,carlesjove,Carles Jove i Buxeda,0,1
+rails/rails,zoras,Saroj Maharjan,0,1
+rails/rails,robinjfisher,Robin Fisher,0,1
+rails/rails,suretrust,Saheed Oladele,0,2
+rails/rails,r6e,Rob Trame,0,1
+rails/rails,samsarge,Sam Sargent,0,1
+rails/rails,garside,Eric Garside,0,2
+rails/rails,lanej,Josh Lane,0,2
+rails/rails,jordanthomas,Jordan Thomas,0,1
+rails/rails,michaelrbock,Michael R. Bock,0,1
+rails/rails,imechemi,Tenzin Chemi,0,2
+rails/rails,blakestoddard,Blake Stoddard,0,1
+rails/rails,yfxie,Yi Feng Xie,0,1
+rails/rails,stevenharman,Steven Harman,0,4
+rails/rails,aricwalker,Aric Walker,0,1
+rails/rails,MPM10223,Mike Monteiro,0,1
+rails/rails,dreyks,Roman Usherenko,0,1
+rails/rails,WoH,Wolfgang Hobmaier,0,4
+rails/rails,iggant,Anton Kolodii,0,1
+rails/rails,JosieMcClellan,Josie McClellan,0,1
+rails/rails,jamieYou,jamie,0,1
+rails/rails,tjoyal,Thierry Joyal,0,5
+rails/rails,jduff,John Duff,0,1
+rails/rails,furkanaydinn,,0,1
+rails/rails,takakuda,Kei Takakuda,0,2
+rails/rails,xithan,Philipp Kühl,0,1
+rails/rails,ryohashimoto,Ryo Hashimoto,0,11
+rails/rails,localhostdotdev,dot,0,3
+rails/rails,dv,David Verhasselt,0,6
+rails/rails,oystersauce8,Sam Weerasinghe,0,1
+rails/rails,YuezhiLi,Clivia,0,1
+rails/rails,arbox,Andrei Beliankou,0,1
+rails/rails,michaelglass,Michael Glass,0,1
+rails/rails,bernardoamc,Bernardo Araujo,0,1
+rails/rails,baweaver,Brandon Weaver,0,3
+rails/rails,dgfitch,Dan Fitch,0,1
+rails/rails,pingortle,Kaleb Lape,0,2
+rails/rails,nipe0324,Shojiro Yanagisawa,0,2
+rails/rails,BatedUrGonnaDie,,0,1
+rails/rails,jlw,Jeremy Weathers,0,1
+rails/rails,rafalcymerys,Rafał Cymerys,0,1
+rails/rails,larouxn,Nicholas La Roux,0,3
+rails/rails,hlcfan,Alex Shi,0,1
+rails/rails,davingee,Scott Smith,0,1
+rails/rails,saiqulhaq,Saiqul Haq,0,1
+rails/rails,leboshi,Ryan Kerr,0,1
+rails/rails,shailesh-kalamkar,शैलेश कळमकर (Shailesh Kalamkar),0,8
+rails/rails,owst,Owen Stephens,0,1
+rails/rails,ericmatte,Eric Matte,0,1
+rails/rails,timoschilling,Timo Schilling,0,2
+rails/rails,kengreeff,Ken Greeff,0,3
+rails/rails,Shigeyuki-fukuda,fuqda,0,1
+rails/rails,nisusam,Nishant Samel,0,3
+rails/rails,WaKeMaTTa,Mohamed Ziata,0,1
+rails/rails,ashish91,Ashish Gaur,0,1
+rails/rails,zinosama,Zino,0,1
+rails/rails,sebjacobs,Seb Jacobs,0,2
+rails/rails,CumbersomeFugly,,0,1
+rails/rails,Kukunin,Sergiy Kukunin,0,1
+rails/rails,jeremyevans,Jeremy Evans,0,3
+rails/rails,t-richards,Tom Richards,0,1
+rails/rails,razh,razh,0,3
+rails/rails,al3rez,Alireza Bashiri,0,10
+rails/rails,ashishprajapati,Ashish Prajapati,0,5
+rails/rails,natesire,Nathan Sire,0,1
+rails/rails,RTJ,Eugeniu Tambur,0,1
+rails/rails,vaihtovirta,Emil Shakirov,0,1
+rails/rails,mattyoho,Matt Yoho,0,1
+rails/rails,Kazhuu,Mauri Mustonen,0,1
+rails/rails,richardmonette,Richard Monette,0,2
+rails/rails,sloneorzeszki,Krzysztof P.,0,1
+rails/rails,enewbury,Eric Newbury,0,1
+rails/rails,EverybodyKurts,Kurt Mueller,0,1
+rails/rails,audiolion,Ryan Castner,0,2
+rails/rails,KaanOzkan,Kaan,0,1
+rails/rails,bdewater,Bart de Water,0,22
+rails/rails,alexander-lazarov,Alexander Lazarov,0,1
+rails/rails,Rodrigora,Rodrigo R Aquino,0,1
+rails/rails,tight,François D,0,1
+rails/rails,N0xFF,Maxim Perepelitsa,0,2
+rails/rails,samjohn,Samantha,0,1
+rails/rails,sobrinho,Gabriel Sobrinho,0,4
+rails/rails,irlcatgirl,Catgirl,0,1
+rails/rails,robertoz-01,Roberto Zanon,0,1
+rails/rails,takanamito,takahiro kiso,0,1
+rails/rails,pjrebsch,Patrick Rebsch,0,2
+rails/rails,jonabc,Jon Ruskin,0,1
+rails/rails,muneebaahmad,Muneeb Ahmad,0,1
+rails/rails,zachwalton,Zach Walton,0,1
+rails/rails,Korri,Hugo Vacher,0,1
+rails/rails,Benjamin-Dobell,Benjamin Dobell,0,3
+rails/rails,petejohansonxo,Pete Johanson,0,1
+rails/rails,abhchand,,0,3
+rails/rails,PNixx,Sergey Odintsov,0,1
+rails/rails,aglushkov,Andrey Glushkov,0,1
+rails/rails,rawrafox,Aurora,0,1
+rails/rails,airhorns,Harry Brundage,0,2
+rails/rails,shivamvinsol,Shivam Jain,0,4
+rails/rails,ashmaroli,Ashwin Maroli,0,1
+rails/rails,jvillarejo,Juani Villarejo,0,1
+rails/rails,tjwallace,Jeff Wallace,0,1
+rails/rails,ClearlyClaire,Claire,0,1
+rails/rails,christos,Christos Zisopoulos,0,3
+rails/rails,byellokore,Gabriel Fontoura Dos Santos,0,1
+rails/rails,messanjah,Tyler Naumu,0,1
+rails/rails,MaxLap,Maxime Lapointe,0,9
+rails/rails,jdiago,Josef Diago,0,1
+rails/rails,user-tony,艾小童,0,1
+rails/rails,ollieh-m,Ollie Haydon-Mulligan,0,2
+rails/rails,erose,Eli Rose,0,1
+rails/rails,yhara,Yutaka HARA,0,1
+rails/rails,tinogomes,Celestino Gomes,0,1
+rails/rails,FunkyloverOne,Nazar Matus,0,1
+rails/rails,conradbeach,Conrad Beach,0,3
+rails/rails,matthewdunbar,,0,1
+rails/rails,hatch-carl,,0,1
+rails/rails,rjlynch,Richard Lynch,0,1
+rails/rails,parasew,Matthias Tarasiewicz,0,1
+rails/rails,jcoleman,James Coleman,0,9
+rails/rails,aidandamerell,,0,1
+rails/rails,CHTJonas,Charlie Jonas,0,1
+rails/rails,murkyFirefox,,0,1
+rails/rails,chiastolite,Hiroyuki Morita,0,2
+rails/rails,mlt,Mikhail Titov,0,1
+rails/rails,josepegea,Josep Egea,0,1
+rails/rails,tevio,Steve Martin,0,1
+rails/rails,pascalbetz,Pascal Betz,0,1
+rails/rails,Jakenberg,Jake Peterson,0,1
+rails/rails,lifo,Pratik,0,6
+rails/rails,rchekaluk,,0,2
+rails/rails,drn,Darren Cheng,0,1
+rails/rails,betterzega,Chris Zega,0,1
+rails/rails,znz,Kazuhiro NISHIYAMA,0,4
+rails/rails,silppuri,Petri Avikainen,0,1
+rails/rails,Gaurav2728,Gaurav Sharma,0,43
+rails/rails,scpike,Stephen Pike,0,1
+rails/rails,qinmingyuan,MingyuanQin,0,1
+rails/rails,7coAim,kurosawat,0,1
+rails/rails,andyw8,Andy Waite,0,1
+rails/rails,ethervoid,Mario de Frutos Dieguez,0,1
+rails/rails,chenkovsky,Chongchen Chen,0,1
+rails/rails,bradleybuda,Bradley Buda,0,2
+rails/rails,minvs1,Tomas Achmedovas,0,1
+rails/rails,bdunne,Brandon Dunne,0,3
+rails/rails,randoum,Benjamin Bouchet,0,2
+rails/rails,garytaylor,,0,1
+rails/rails,saxxi,Adit Saxena,0,1
+rails/rails,sos4nt,Stefan Schüßler,0,2
+rails/rails,Samemura,Masaki Murano,0,1
+rails/rails,carlosramireziii,Carlos Ramirez III,0,2
+rails/rails,seanabrahams,Sean Abrahams,0,1
+rails/rails,bughit,,0,2
+rails/rails,schuetzm,Marc Schütz,0,5
+rails/rails,simoleone,Simo Leone,0,1
+rails/rails,mimimalizam,Milana Stojadinov,0,1
+rails/rails,calasyr,Alan Brown,0,1
+rails/rails,weedySeaDragon,Ashley Engelund,0,3
+rails/rails,khiav223577,Rumble Huang,0,1
+rails/rails,v1z4,v,0,1
+rails/rails,jameshfisher,Jim Fisher,0,1
+rails/rails,takeyuweb,Yuichi Takeuchi,0,3
+rails/rails,markedmondson,Mark Edmondson,0,1
+rails/rails,mdesantis,Maurizio De Santis,0,1
+rails/rails,dasch,Daniel Schierbeck,0,5
+rails/rails,ikepon,Tatsuya Ikeda,0,1
+rails/rails,waymondo,justin talbott,0,1
+rails/rails,davidalee,David Lee,0,1
+rails/rails,robzolkos,Rob Zolkos,0,3
+rails/rails,tomazy,tomazy,0,1
+rails/rails,gregnavis,Greg Navis,0,1
+rails/rails,bannzai,bannzai,0,1
+rails/rails,zenizh,Hiroki Zenigami,0,10
+rails/rails,cbandy,Chris Bandy,0,1
+rails/rails,mikegee,Michael Gee,0,2
+rails/rails,toshimaru,Toshimaru,0,4
+rails/rails,christianblais,Christian Blais,0,4
+rails/rails,chopraanmol1,Anmol Chopra,0,7
+rails/rails,reckerswartz,Recker Swartz,0,1
+rails/rails,arunagw,Arun Agrawal,0,9
+rails/rails,danapoklepovich,Dana Poklepovich,0,1
+rails/rails,julik,Julik Tarkhanov,0,2
+rails/rails,snpd25,Sneha Prasad,0,1
+rails/rails,lucianosousa,Luciano Sousa,0,3
+rails/rails,summera,Ari Summer,0,1
+rails/rails,mqchau,Quan Chau,0,1
+rails/rails,philr,Phil Ross,0,3
+rails/rails,dorner,Daniel Orner,0,1
+rails/rails,dsantosmerino,David Santos Merino,0,2
+rails/rails,kossnocorp,Sasha Koss,0,1
+rails/rails,md5,Mike Dillon,0,2
+rails/rails,emcoding,Maud de Vries,0,1
+rails/rails,elebow,Eddie Lebow,0,5
+rails/rails,zdx0923,,0,1
+rails/rails,marcotc,Marco Costa,0,2
+rails/rails,jvdp,Jaap van der Plas,0,1
+rails/rails,carlosipe,Carlos I. Peña,0,1
+rails/rails,tomrossi7,Tom Rossi,0,4
+rails/rails,mikkovedru,Mikko Vedru,0,1
+rails/rails,djezzzl,Evgeniy Demin,0,1
+rails/rails,rccassity,,0,1
+rails/rails,ps0305,Pankaj Singh,0,1
+rails/rails,tbuehlmann,Tobias Bühlmann,0,1
+rails/rails,skateman,Halász Dávid,0,2
+rails/rails,mjsommer,Martin Sommer,0,2
+rails/rails,xlts,Mariusz Hausenplas,0,2
+rails/rails,ysksn,ysksn,0,16
+rails/rails,ugnius-s,Ugnius Skučas,0,1
+rails/rails,shoy75,sho,0,1
+rails/rails,haruelico,Harue Lico,0,1
+rails/rails,got2be,Ilia Kasianenko,0,2
+rails/rails,abhisheksarka,Abhishek Sarkar,0,3
+rails/rails,jemminger,Jeff Emminger,0,4
+rails/rails,toy,Ivan Kuchin,0,1
+rails/rails,mudphone,Kyle Oba,0,1
+rails/rails,rantler,Randy Antler,0,1
+rails/rails,PuercoWork,Javier Olaechea,0,1
+rails/rails,azimux,Miles Georgi,0,2
+rails/rails,mariusz-blaszczak,Mariusz Błaszczak,0,1
+rails/rails,evexoio,Evexoio,0,2
+rails/rails,colby-swandale,Colby Swandale,0,2
+rails/rails,blahed,Travis Dunn,0,1
+rails/rails,alfie-max,Alfred Dominic,0,1
+rails/rails,frodsan,Francesco Rodríguez,0,15
+rails/rails,guizmaii,Jules Ivanic,0,2
+rails/rails,marceloperini,Marcelo Perini Veloso,0,7
+rails/rails,vbrazo,Vitor Oliveira,0,4
+rails/rails,ys,Yannick Schutz,0,2
+rails/rails,jaggederest,Justin George,0,2
+rails/rails,toncid,Tonči Damjanić,0,2
+rails/rails,ruralocity,Aaron Sumner,0,3
+rails/rails,sergioisidoro,Sérgio,0,3
+rails/rails,mjtko,Mark J. Titorenko,0,1
+rails/rails,mogulla3,Hiroki Sanpei,0,1
+rails/rails,ahawrylak,Adrian Hawrylak,0,1
+rails/rails,nbdavies,Nick Davies,0,1
+rails/rails,claasz,Claas Z,0,2
+rails/rails,tnantoka,Tatsuya Tobioka,0,2
+rails/rails,EByrdS,Emmanuel,0,2
+rails/rails,BenjaminKim,Benjamin Kim,0,1
+rails/rails,TomSpencerLondon,Tom Spencer ,0,1
+rails/rails,jpawlyn,Jolyon Pawlyn,0,3
+rails/rails,gingerlime,,0,3
+rails/rails,ThomBian,Thomas,0,1
+rails/rails,6temes,Daniel,0,3
+rails/rails,alfonsojimenez,Alfonso Jiménez,0,3
+rails/rails,mullican,Lyle Mullican,0,1
+rails/rails,tamarr,Tamar Rucham,0,1
+rails/rails,iguchi1124,Shota Iguchi,0,7
+rails/rails,JacobEvelyn,Jacob Evelyn,0,2
+rails/rails,MarieVibbert,,0,1
+rails/rails,NARKOZ,Nihad Abbasov,0,2
+rails/rails,minimalweb,Maurice Kühlborn,0,1
+rails/rails,kpumuk,Dmytro Shteflyuk,0,1
+rails/rails,husam212,Husam Bilal,0,1
+rails/rails,esparta,Espartaco Palma,0,2
+rails/rails,mcary,Marcel M. Cary,0,1
+rails/rails,davidpiegza,David Piegza,0,1
+rails/rails,tubbo,Tom Scott,0,1
+rails/rails,r3trofitted,Ronan Limon Duparcmeur,0,1
+rails/rails,Ana06,Ana María Martínez Gómez,0,3
+rails/rails,zuchmanski,Sebastian Zuchmanski,0,1
+rails/rails,bion,Bion,0,1
+rails/rails,DialBird,Dialbird,0,1
+rails/rails,chrismaximin,Chris Maximin,0,2
+rails/rails,nickcoyne,Nick Coyne,0,1
+rails/rails,shiroginne,Evgeny Sugakov,0,1
+rails/rails,cabello,Danilo Cabello,0,1
+rails/rails,Tashows,Tasos Maschalidis,0,1
+rails/rails,esquith,Esquith Allen,0,2
+rails/rails,afn,Tony Novak,0,2
+rails/rails,lokeshh,Lokesh Sharma,0,1
+rails/rails,BanMasanobu,,0,1
+rails/rails,bkuhlmann,Brooke Kuhlmann,0,5
+rails/rails,yazumoto,Yassu,0,4
+rails/rails,GeniusStorm,Raghu Kamat (RK)      ,0,2
+rails/rails,oliverguenther,Oliver Günther,0,1
+rails/rails,tessereth,Tessa Bradbury,0,1
+rails/rails,aergonaut,Chris Fung,0,4
+rails/rails,tzmfreedom,Makoto Tajitsu,0,1
+rails/rails,jschulenklopper,Jochem Schulenklopper,0,1
+rails/rails,JoshCheek,Josh Cheek,0,1
+rails/rails,OvidiuToma,,0,1
+rails/rails,matildasmeds,Matilda Smeds,0,3
+rails/rails,anthonygharvey,Anthony Harvey,0,1
+rails/rails,RonnyLV,Ronalds Breikšs,0,1
+rails/rails,AdamDemirel,Adam Demirel,0,3
+rails/rails,etcook,E.T.Cook,0,2
+rails/rails,ameft,,0,1
+rails/rails,zinefer,James Kiefer,0,1
+rails/rails,wilddima,Dmitrii Topornin,0,1
+rails/rails,staugaard,Mick Staugaard,0,1
+rails/rails,zzz6519003,Snowmanzzz(Zhengzhong Zhao),0,3
+rails/rails,ConfusedVorlon,,0,1
+rails/rails,SantiMunin,Santiago Munín,0,1
+rails/rails,yukideluxe,Julia López,0,8
+rails/rails,joeltaylor,Joel Taylor,0,2
+rails/rails,conzett,Graham Conzett,0,1
+rails/rails,saksham7778,saksham agarwal,0,1
+rails/rails,berniechiu,Bernie Chiu,0,1
+rails/rails,kule,Luke Pearce,0,1
+rails/rails,brunoocasali,Bruno Casali,0,1
+rails/rails,baerjam,James Baer,0,4
+rails/rails,AJDoubleW,AJDoubleW,0,1
+rails/rails,cllns,Sean Collins,0,15
+rails/rails,hakusaro,Lucas Nicodemus,0,1
+rails/rails,prodion23,Donnie,0,1
+rails/rails,kamina-zzz,Kaito Minatoya,0,1
+rails/rails,acro5piano,Kay Gosho,0,1
+rails/rails,CaDs,Carlos Donderis,0,1
+rails/rails,rtlechow,R.T. Lechow,0,1
+rails/rails,prostko,Eric Prostko,0,1
+rails/rails,reitermarkus,Markus Reiter,0,1
+rails/rails,ianrandmckenzie,Ian McKenzie,0,1
+rails/rails,runephilosof,Rune Philosof,0,2
+rails/rails,gaurish,Gaurish Sharma,0,6
+rails/rails,eatwithforks,Jye Lee,0,1
+rails/rails,consti,Constantin Hofstetter,0,1
+rails/rails,tgturner,Graham Turner,0,6
+rails/rails,spickermann,Martin Spickermann,0,1
+rails/rails,abraham-chan,Abraham Chan,0,2
+rails/rails,simonc,Simon Courtois,0,1
+rails/rails,MatthiasWinkelmann,Matthias Winkelmann,0,1
+rails/rails,matt17r,Matthew LS,0,1
+rails/rails,p-mongo,Oleg Pudeyev,0,1
+rails/rails,marshall-lee,Vladimir Kochnev,0,2
+rails/rails,alaz,Alexander Azarov,0,1
+rails/rails,pskl,pskl,0,1
+rails/rails,rien,Rien,0,1
+rails/rails,febeling,Florian Ebeling,0,1
+rails/rails,wagurano,wagurano,0,1
+rails/rails,abartov,Asaf Bartov,0,1
+rails/rails,sjain1107,Sakshi Jain,2,1
+rails/rails,victorhazbun,Victor Hazbun Anuff,0,1
+rails/rails,faucct,,0,8
+rails/rails,davidcelis,David Celis,0,2
+rails/rails,printercu,Max Melentiev,1,16
+rails/rails,vaibhavatul47,,0,1
+rails/rails,andrewr224,Andrew,0,1
+rails/rails,tkoyama1988,Takayuki Koyama,0,1
+rails/rails,jgorman,John Gorman,0,2
+rails/rails,mberlanda,Mauro Berlanda,0,2
+rails/rails,robbertbrak,Robbert Brak,0,1
+rails/rails,gkemmey,Gray Kemmey,0,2
+rails/rails,nydame,Felicia Betancourt,0,1
+rails/rails,LucasBrandt,Lucas Brandt,0,1
+rails/rails,rigani,,0,1
+rails/rails,chumakoff,Anton Chumakov,0,7
+rails/rails,nickstanish,Nick Stanish,0,1
+rails/rails,duduribeiro,Cadu Ribeiro,0,1
+rails/rails,manhnt2,Nguyen Tien Manh,0,2
+rails/rails,stoodfarback,stoodfarback,0,1
+rails/rails,paulhenri-l,Paul-Henri Leobon,0,1
+rails/rails,kevindew,Kevin Dew,0,1
+rails/rails,fidalgo,Paulo Fidalgo,0,1
+rails/rails,itsbagpack,Yumin Wong,0,1
+rails/rails,songjiz,Zeng SongJi,0,1
+rails/rails,mikhailov,Anatoly Mikhaylov,0,2
+rails/rails,mcnelson,Michael Nelson,0,2
+rails/rails,arturictus,Artur,0,1
+rails/rails,FX-HAO,Fuxin Hao,0,2
+rails/rails,al2o3cr,Matt Jones,0,3
+rails/rails,nicolasmlv,Nicolas Maloeuvre,0,1
+rails/rails,sgrif,Sage Griffin,0,28
+rails/rails,steves,Steve S,0,3
+rails/rails,steakknife,BA,0,2
+rails/rails,tleneveu,Thibaut Leneveu,0,1
+rails/rails,speckins,,0,1
+rails/rails,stve,Steve Agalloco,0,3
+rails/rails,thuyihan1206,Evan Chan,0,1
+rails/rails,Antronin,Peter Nagy,0,1
+rails/rails,songhuangcn,Song Huang,0,2
+rails/rails,rob-race,Rob Race,0,1
+rails/rails,arku,Arun Kumar Mohan,0,1
+rails/rails,minaslater,Mina Slater,0,1
+rails/rails,tiegz,Tieg Zaharia,0,1
+rails/rails,rrosenblum,Ryan Rosenblum,0,1
+rails/rails,jonathan-wheeler,JWheel,0,1
+rails/rails,fjg,fjg,0,1
+rails/rails,jychen7,Rich,0,4
+rails/rails,arye-dov-eidelman,Arye Eidelman,0,2
+rails/rails,gatorjuice,Jamie,0,1
+rails/rails,darwin67,Darwin,0,1
+rails/rails,eric-hemasystems,Eric Anderson,0,2
+rails/rails,wjordan,Will Jordan,0,9
+rails/rails,mjc-gh,Michael Coyne,0,9
+rails/rails,anniecodes,Annie-Claude Côté,0,6
+rails/rails,jasonroelofs,Jason Roelofs,0,2
+rails/rails,Larochelle,Martin Larochelle,0,3
+rails/rails,davispuh,Dāvis,0,1
+rails/rails,darren987469,Darren,0,1
+rails/rails,Bodacious,Gavin Morrice,0,1
+rails/rails,iainbryson,Iain Bryson,0,1
+rails/rails,ybakos,Yong Joseph Bakos,0,5
+rails/rails,oniofchaos,Dillon Welch,0,13
+rails/rails,mohitnatoo,Mohit Natoo,0,33
+rails/rails,CristopherVidalMachado,Cristopher Vidal Machado,0,1
+rails/rails,saveriomiroddi,Saverio Miroddi,0,3
+rails/rails,seratch,Kazuhiro Sera,0,1
+rails/rails,araslanov-e,Araslanov Evgeny,0,1
+rails/rails,ZASMan,Zane,0,1
+rails/rails,suyesh,Suyesh Ram Bhandari,0,1
+rails/rails,realglebivanov,,0,1
+rails/rails,spikeheap,Ryan Brooks,0,1
+rails/rails,staring-frog,Nikolay Epifanov,0,1
+rails/rails,twitnithegirl,Britni Alexander,0,3
+rails/rails,jackc,Jack Christensen,0,1
+rails/rails,pinksynth,Sammy Taylor,0,1
+rails/rails,lukesarnacki,Łukasz Sarnacki,0,1
+rails/rails,aditya-kapoor,Aditya Kapoor,0,21
+rails/rails,DylanReile,,0,1
+rails/rails,da-edra,安丹梅,0,1
+rails/rails,thepoho,poho,0,1
+rails/rails,thetizzo,Jason Taylor,0,1
+rails/rails,robertasg,Robertas Godelis,0,2
+rails/rails,jaspervanbrian,Jasper Martin,0,1
+rails/rails,damireh,Daniel Amireh,0,2
+rails/rails,jaymuk,Jacob M,0,1
+rails/rails,krmannix,K. Rodman Mannix,0,1
+rails/rails,ycherniavskyi,Yurii Cherniavskyi,0,1
+rails/rails,ptolts,Philip Tolton,0,2
+rails/rails,Berardpi,Pierre Berard,0,1
+rails/rails,varyonic,Piers Chambers,0,1
+rails/rails,numbata,Andrei Subbota,0,1
+rails/rails,gridar,Julien Girard,0,1
+rails/rails,jhubert,Jeremy Baker,0,2
+rails/rails,jedrekdomanski,,0,1
+rails/rails,davidpdrsn,David Pedersen,0,1
+rails/rails,georgewambold,George Wambold,0,1
+rails/rails,MattiaMalonni,Mattia Malonni,0,2
+rails/rails,Jcambass,Joel Ambass,0,2
+rails/rails,hpetru,Petru Hincu,0,1
+rails/rails,remofritzsche,Remo,0,3
+rails/rails,claudiob,Claudio B.,0,70
+rails/rails,MdreW,Andrea Ranaldi,0,1
+rails/rails,boazsegev,Bo,0,1
+rails/rails,am-trinity,Andrei Makarov,0,1
+rails/rails,ph3t,Juan Broullon,0,2
+rails/rails,LikitSaeLee,Likit Sae Lee,0,1
+rails/rails,waiterw,sohopro,0,1
+rails/rails,zoso10,Tyler Ewing,0,1
+rails/rails,benpickles,Ben Pickles,0,2
+rails/rails,gsmnv,George Semenov,0,1
+rails/rails,ilkkao,Ilkka Oksanen,0,1
+rails/rails,StanBoyet,Stanislas Boyet,0,1
+rails/rails,Raileanv,Vladimir Railean,0,1
+rails/rails,anthonycrumley,Anthony Crumley,0,5
+rails/rails,derosm2,Mike DeRosa,0,1
+rails/rails,milgner,Marcus Ilgner,0,3
+rails/rails,brasic,Carl Brasic,0,1
+rails/rails,dikond,Denis Kondratenko,0,1
+rails/rails,Bartuz,Filip Bartuzi,0,1
+rails/rails,r3cha,Roman,0,1
+rails/rails,mikepmunroe,Mike Munroe,0,1
+rails/rails,DimitriosLisenko,,0,2
+rails/rails,ebihara99999,Yusuke Ebihara,0,1
+rails/rails,ishanray,,0,1
+rails/rails,andrewblum,Andrew Blum,0,1
+rails/rails,aarongough,Aaron Gough,0,1
+rails/rails,jayqui,Jay Quigley,0,1
+rails/rails,thomasdziedzic-pd,,0,2
+rails/rails,fmd,Fareed Dudhia,0,1
+rails/rails,cgunther,Chris Gunther,0,1
+rails/rails,vaidehijoshi,Vaidehi Joshi,0,2
+rails/rails,nsgc,Naoki Nishiguchi,0,2
+rails/rails,zac7272,Palash Singh Chauhan,0,1
+rails/rails,Meekohi,Michael Holroyd,0,1
+rails/rails,WilliamMaia,William Maia,0,1
+rails/rails,mohsen-alizadeh,Mohsen Alizadeh,0,2
+rails/rails,gr8distance,the_fury,0,1
+rails/rails,searls,Justin Searls,0,2
+rails/rails,siasmj,Matt Sias,0,1
+rails/rails,dan-jensen,Dan Jensen,0,2
+rails/rails,michaeldever,Michael Dever,0,2
+rails/rails,nandishchetty,,0,1
+rails/rails,marcandre,Marc-André Lafortune,0,1
+rails/rails,suginoy,,0,5
+rails/rails,g13ydson,Gleydson Tavares,0,2
+rails/rails,fedxgibson,Federico Martinez,0,2
+rails/rails,j3pic,,0,2
+rails/rails,mattwkeith,,0,1
+rails/rails,sasurai-usagi3,sasurai_usagi3,0,2
+rails/rails,cliffcrosland,Cliff Crosland,0,1
+rails/rails,paulanunda,Paul Anunda,0,1
+rails/rails,jboler,Jonathan Boler,0,1
+rails/rails,multiplegeorges,Georges Gabereau,0,1
+rails/rails,kenchan,Kenichi Takahashi,0,1
+rails/rails,joshpencheon,Josh Pencheon,0,2
+rails/rails,chrisfintech,,0,1
+rails/rails,torce,,0,1
+rails/rails,Hamada92,Ahmad Al-kheat,0,1
+rails/rails,kevgathuku,Kevin Gathuku,0,2
+rails/rails,oamado,Oscar Amado,0,2
+rails/rails,frewsxcv,Corey Farwell,0,2
+rails/rails,jrgriffiniii,James R. Griffin III,0,1
+rails/rails,coryjb,Cory Becker,0,1
+rails/rails,jacobsmith,Jacob Smith,0,1
+rails/rails,Linuus,Linus Marton,0,1
+rails/rails,gstark,Gavin Stark,0,1
+rails/rails,awlamb,,0,1
+rails/rails,joshsusser,Josh Susser,0,1
+rails/rails,lucfranken,Luc Franken,0,1
+rails/rails,DavidJRobertson,David Robertson,0,1
+rails/rails,Jeremip11,Jeremi Taylor,0,1
+rails/rails,atitan,Sh Lin,0,1
+rails/rails,urbanautomaton,Simon Coffey,0,2
+rails/rails,wata727,Kazuma Watanabe,0,1
+rails/rails,tylerhunt,Tyler Hunt,0,4
+rails/rails,tarebyte,Mark Tareshawty,0,3
+rails/rails,beyond,,0,2
+rails/rails,niko-pax-uofa,,0,1
+rails/rails,psenet,Paul Senet,0,1
+rails/rails,rakio1234,Yuta Uchida,0,1
+rails/rails,alexmorten,Alexander Martin,0,1
+rails/rails,trezona-lecomte,Kieran Trezona-le Comte,0,1
+rails/rails,isamankumara,Saman Kumara,0,1
+rails/rails,sagarkt,Sagar Kamble,0,1
+rails/rails,jessetilro,Jesse Tilro,0,1
+rails/rails,gmalette,Guillaume Malette,0,2
+rails/rails,stefansundin,Stefan Sundin,0,1
+rails/rails,takp,Takayoshi Nishida,0,1
+rails/rails,pyromaniac,Arkadiy Zabazhanov,0,1
+rails/rails,jroes,Jon Roes,0,1
+rails/rails,pvalena,Pavel Valena,0,6
+rails/rails,abaldwin88,Alex Baldwin,0,1
+rails/rails,broeder,malan,0,1
+rails/rails,pradyumna2905,Pradyumna Shembekar,0,3
+rails/rails,simonjamain,,0,1
+rails/rails,asianmack,Jamie Dihiansan,0,1
+rails/rails,nikolai-b,Nikolai,0,4
+rails/rails,lifejuggler,Tom Choi,0,1
+rails/rails,rfrm,Robinson Rodriguez,0,1
+rails/rails,francois2metz,François de Metz,0,1
+rails/rails,born4new,David Dieulivol,0,1
+rails/rails,derekprior,Derek Prior,0,9
+rails/rails,maneframe,James Williams,0,1
+rails/rails,ftovaro,Felipe Tovar,0,2
+rails/rails,swanmatch,swanmatch,0,1
+rails/rails,londerson,Londerson,0,1
+rails/rails,jlduran,Jose Luis Duran,0,1
+rails/rails,stephendolan,Stephen Dolan,0,1
+rails/rails,seanprashad,Sean Prashad,0,1
+rails/rails,gazayas,Gabriel Zayas,0,1
+rails/rails,cassidycodes,Cassidy Scheffer K,0,2
+rails/rails,glebm,Gleb Mazovetskiy,0,1
+rails/rails,dsander,Dominik Sander,0,1
+rails/rails,thoughtless,Paul,0,1
+rails/rails,meetme2meat,Viren Negi,0,1
+rails/rails,yaroslav,Yaroslav Markin,0,1
+rails/rails,sdhull,Steve,0,1
+rails/rails,poseido12,,0,1
+rails/rails,chloerei,Rei,0,1
+rails/rails,n350071,n350071,0,1
+rails/rails,chrisarcand,Chris Arcand,0,8
+rails/rails,domangi,Domenico Angilletta,0,1
+rails/rails,szTheory,,0,1
+rails/rails,TheAssailant,Paul Borges,0,1
+rails/rails,sabunt,Aleksandr,0,1
+rails/rails,gfx,FUJI Goro,0,2
+rails/rails,raderj89,Jared Rader,0,1
+rails/rails,belgoros,Serguei Cambour,0,1
+rails/rails,stephensolis,Stephen Solis,0,1
+rails/rails,vladimirkhramkov,,0,1
+rails/rails,teddywing,,0,1
+rails/rails,sergiogomez,Sergio Gómez,0,2
+rails/rails,284km,Kazuma Furuhashi,0,1
+rails/rails,yagudaev,Michael Yagudaev,0,1
+rails/rails,yxhuvud,Linus Sellberg,0,1
+rails/rails,danhuynhdev,Huynh Tan,0,2
+rails/rails,arkaitzgarro,Arkaitz Garro,0,1
+rails/rails,sigmen,Roman,0,1
+rails/rails,samdec,Sam DeCesare,0,1
+rails/rails,floehopper,James Mead,0,1
+rails/rails,mohamed-essam,Mohamed Essam,0,1
+rails/rails,yujideveloper,Yuji Hanamura,0,2
+rails/rails,hderms,Dermot Haughey,0,1
+rails/rails,EiNSTeiN-,Francois Chagnon,0,1
+rails/rails,darkstego,,0,1
+rails/rails,matrinox,Geoffrey Lee,0,4
+rails/rails,Otterpocket,Ben Hamment,0,1
+rails/rails,EarthSchlange,Michael Hiiva,0,2
+rails/rails,murb,Maarten Brouwers,0,1
+rails/rails,wshpoon,Wazir Shpoon,0,1
+rails/rails,zoltankiss,Zoltan Kiss,0,3
+rails/rails,mathieumahe,Mathieu Mahé,0,1
+rails/rails,LYCrachel,LinkedRach,0,1
+rails/rails,riseshia,Shia,0,10
+rails/rails,Mangara,Sander Verdonschot,0,1
+rails/rails,malikolivier,Malik Olivier Boussejra,0,1
+rails/rails,ignatiusreza,Ignatius Reza,0,9
+rails/rails,opkk4005,,0,1
+rails/rails,rmosolgo,Robert Mosolgo,0,5
+rails/rails,ZipoKing,Paweł Smoliński,0,1
+rails/rails,iorme1,Isaac Orme,0,1
+rails/rails,nicolaslechenic,Nicolas Le Chenic,0,2
+rails/rails,vincedevendra,Vince DeVendra,0,1
+rails/rails,JordanPag,Jordan Paglione,0,1
+rails/rails,cpunion,Li Jie,0,1
+rails/rails,dwightwatson,Dwight Watson,0,6
+rails/rails,sodabrew,Aaron Stone,0,2
+rails/rails,badosu,Amadeus Folego,0,2
+rails/rails,jagthedrummer,Jeremy Green,0,3
+rails/rails,dzirtusss,Sergey Tarasov,0,1
+rails/rails,SGospodinov,Stanislav Gospodinov ,0,2
+rails/rails,charlesrocket,-k,0,1
+rails/rails,elainefang,Elaine Fang,0,1
+rails/rails,brianknight10,Brian Knight,0,1
+rails/rails,M-Sayed,Mahmoud Sayed,0,2
+rails/rails,catkhuu,Catherine Khuu,0,1
+rails/rails,edenthecat,Eden Rohatensky,0,1
+rails/rails,aganov,Alex Ganov,0,1
+rails/rails,shouya,,0,1
+rails/rails,zwass,Zach Wasserman,0,1
+rails/rails,timdiggins,Tim Diggins,0,3
+rails/rails,zinovyev,Zinovyev Ivan,0,2
+rails/rails,vishthemenon,Vishnu R Menon,0,1
+rails/rails,as3richa,Adam Richardson,0,1
+rails/rails,mikekytyzov,Mike,0,1
+rails/rails,ydakuka,Yauheni Dakuka,0,34
+rails/rails,dharamgollapudi,Dharam Gollapudi,0,10
+rails/rails,kmiyake,Kota Miyake,0,1
+rails/rails,cjolly,Chad Jolly,0,1
+rails/rails,pavel-jurasek-hypofriend-de,Pavel Jurašek,0,1
+rails/rails,visshaljagtap,Vishal Jagtap,0,4
+rails/rails,liwii,Koki Ryu,0,1
+rails/rails,nholden,Nick Holden,0,1
+rails/rails,bnauta,Brad,0,3
+rails/rails,twalpole,Thomas Walpole,0,3
+rails/rails,abhikanojia,Abhishek Kanojia,0,1
+rails/rails,kazu9su,Kazushige Tominaga,0,1
+rails/rails,okkez,okkez,0,2
+rails/rails,zamith,Luís Ferreira,0,1
+rails/rails,fegorodscy,Fernando Gorodscy,0,1
+rails/rails,avneetmalhotra,Avneet Singh Malhotra,0,3
+rails/rails,Tensho,Andrew Babichev,0,2
+rails/rails,kshnurov,Kirill Shnurov,0,2
+rails/rails,dimameshcharakou,Dzmitry Meshcharakou,0,1
+rails/rails,Ruffeng,Ruffeng,0,1
+rails/rails,fakenine,Samy Kacimi,0,1
+rails/rails,prikha,Sergey Prikhodko,0,1
+rails/rails,buehmann,Andreas Bühmann,0,2
+rails/rails,adamnoto,Adam,0,1
+rails/rails,dixitp012,,0,16
+rails/rails,eagletmt,Kohei Suzuki,0,1
+rails/rails,andyjeffries,Andy Jeffries,0,1
+rails/rails,l0b0,Victor Engmark,0,1
+rails/rails,parhs,,0,2
+rails/rails,JPrevost,Jeremy Prevost,0,1
+rails/rails,wojtodzio,Wojtek Wrona,0,1
+rails/rails,josephpage,Joseph Page,0,1
+rails/rails,kg8m,kg8m,0,1
+rails/rails,nicholasshirley,Nicholas,0,1
+rails/rails,jameslovejoy,James Lovejoy,0,3
+rails/rails,equivalent,Tomas Valent,0,3
+rails/rails,armcburney,Andrew McBurney,0,1
+rails/rails,iamjwc,Justin Camerer,0,1
+rails/rails,youngbrioche,Robert Glaser,0,3
+rails/rails,jdelStrother,Jonathan del Strother,0,2
+rails/rails,jvans1,James Vanneman,0,1
+rails/rails,rywall,Ryan Wallace,0,1
+rails/rails,hone,Terence Lee,0,1
+rails/rails,yewton,Yuto SASAKI,0,1
+rails/rails,savroff,Nick Savrov,0,3
+rails/rails,eki,Eric K Idema,0,1
+rails/rails,gfvcastro,Gustavo Villa,0,4
+rails/rails,wbreeze,Douglas Lovell,0,1
+rails/rails,halo,,0,1
+rails/rails,renchap,Renaud Chaput,0,2
+rails/rails,ishigo974,Maxime,0,2
+rails/rails,jjuliano,Joel Bryan Juliano,0,1
+rails/rails,sotayamashita,Sam Yamashita,0,1
+rails/rails,miketheman,Mike Fiedler,0,1
+rails/rails,mistydemeo,Misty De Meo,0,1
+rails/rails,bpohoriletz,Bohdan Pohorilets,0,1
+rails/rails,shuheiktgw,Shuhei Kitagawa,0,6
+rails/rails,rubyonme,,0,2
+rails/rails,rlue,Ryan Lue,0,3
+rails/rails,mbrickn,Maxwell Paul Brickner,0,1
+rails/rails,justjake,Jake Teton-Landis,0,2
+rails/rails,antoniobg,Antonio Borrero Granell,0,2
+rails/rails,abudevops,DevOps Abutours,0,1
+rails/rails,htanata,Hendy Tanata,0,3
+rails/rails,yoreek,Yuriy Ustushenko,0,1
+rails/rails,morygonzalez,Hitoshi Nakashima,0,2
+rails/rails,rajesh38,Rajesh Paul,0,2
+rails/rails,johnnyshields,Johnny Shields,0,3
+rails/rails,roberts1000,,0,4
+rails/rails,tcopeland,Tom Copeland,0,7
+rails/rails,orekyuu,orekyuu,0,1
+rails/rails,grantbdev,Grant Bourque,0,1
+rails/rails,aellispierce,Ashley Ellis Pierce,0,3
+rails/rails,loothunter1,,0,1
+rails/rails,glupo,Philip,0,1
+rails/rails,barbolo,Rafael Barbolo,0,1
+rails/rails,maxime-carbonneau,,0,1
+rails/rails,fgo,Francis Go,0,9
+rails/rails,sevenelevenlee,JKlee,0,1
+rails/rails,ckoenig,,0,2
+rails/rails,afcapel,Alberto Fernández-Capel,0,1
+rails/rails,cben,Beni Cherniavsky-Paskin,0,1
+rails/rails,cyb-ahmadh,Ahmad hamza,0,1
+rails/rails,julien-meichelbeck,Julien Meichelbeck,0,1
+rails/rails,loop23,Luca Simone Gatta de Marinis,0,1
+rails/rails,capripot,Ronan,0,1
+rails/rails,MarkFChavez,Mark,0,5
+rails/rails,Aquaj,Jérémie Bonal,0,1
+rails/rails,Fudoshiki,Yuri S.,0,2
+rails/rails,aleksandrs-ledovskis,Aleksandrs Ļedovskis,0,1
+rails/rails,hsbt,Hiroshi SHIBATA,0,5
+rails/rails,loingh,,0,1
+rails/rails,JanBussieck,Jan,0,1
+rails/rails,10io,David Fernandez,0,2
+rails/rails,scande3,Steven Anderson,0,1
+rails/rails,camertron,Cameron Dutro,0,1
+rails/rails,TeTiRoss,Rostyslav Semanyshyn,0,1
+rails/rails,tompng,tomoya ishida,0,1
+rails/rails,ravishrivastava,Ravi Shrivastava,0,1
+rails/rails,LanceOlsen,Lance Olsen,0,1
+rails/rails,zhouguangming,zhouguangming,0,1
+rails/rails,Sayanc93,Sayan Chakraborty,0,4
+rails/rails,iamvery,Jay Hayes,0,4
+rails/rails,phedkvist,Pierre Hedkvist,0,6
+rails/rails,ebeigarts,Edgars Beigarts,0,2
+rails/rails,jessedoyle,Jesse Doyle,0,2
+rails/rails,jordan-brough,Jordan Brough,0,2
+rails/rails,codevedas,vj_baski,0,1
+rails/rails,5t111111,Hirofumi Wakasugi,0,4
+rails/rails,lonre,Lonre Wang,0,1
+rails/rails,aderyabin,Andrey Deryabin,0,1
+rails/rails,spdawson,Simon Dawson,0,7
+rails/rails,danillop,Danillo Pereira,0,1
+rails/rails,maciej-ka,Maciej Kasprzyk,0,1
+rails/rails,lostapathy,Joe Francis,0,6
+rails/rails,johnnymugs,Jonathan Mukai-Heidt,0,1
+rails/rails,gtyanchev,Georgi Georgiev,0,1
+rails/rails,kinnrot,,0,2
+rails/rails,rono23,rono23,0,3
+rails/rails,noahd1,Noah Davis,0,1
+rails/rails,cdpalmer,Cody Palmer,0,1
+rails/rails,dmitri-d,Dmitri Dolguikh,0,1
+rails/rails,Yanchek99,Matt Yanchek,0,1
+rails/rails,fatosmorina,Fatos Morina,0,2
+rails/rails,neumayr,Matt Neumayr,0,3
+rails/rails,ignat-z,Ignat Zakrevsky,0,4
+rails/rails,atul-shimpi,Atul Shimpi,0,4
+rails/rails,flori,Florian Frank,0,1
+rails/rails,romankovt,Roman,0,2
+rails/rails,tsukasaoishi,Tsukasa OISHI,0,3
+rails/rails,kwstannard,Kelly Stannard,0,2
+rails/rails,sprestel,Sebastian Prestel,0,1
+rails/rails,emaxi,Gonzalez Maximiliano,0,1
+rails/rails,aycabta,aycabta,0,1
+rails/rails,starcharles,Naoto,0,1
+rails/rails,Geesu,Josh Becker,0,2
+rails/rails,hisas,Hisashi Kamezawa,0,2
+rails/rails,zavan,Felipe Zavan,0,1
+rails/rails,pedantic-git,Quinn (they/them),0,1
+rails/rails,bbonislawski,Bartosz Bonisławski,0,1
+rails/rails,rolftimmermans,Rolf Timmermans,0,1
+rails/rails,danott,Dan Ott,0,1
+rails/rails,Leyka,Skander,0,1
+rails/rails,shindonghoooon,,0,1
+rails/rails,ta1kt0me,,0,3
+rails/rails,danielma,Daniel Ma,0,2
+rails/rails,jeffreyguenther,Jeffrey Guenther,0,1
+rails/rails,haneru,haneru,0,1
+rails/rails,mwoods79,Micah Woods,0,1
+rails/rails,xxDENxx,Denis Kudravtsev,0,1
+rails/rails,dgynn,Dave Gynn,0,4
+rails/rails,ota42y,ota42y,0,4
+rails/rails,williamch94,William Chow,0,1
+rails/rails,tscoville2012,Tyler Scoville,0,1
+rails/rails,joevandyk,Joe Van Dyk,0,2
+rails/rails,lugray,Lisa Ugray,0,15
+rails/rails,k0kubun,Takashi Kokubun,0,13
+rails/rails,jcmfernandes,João Fernandes,0,1
+rails/rails,rohitpaulk,Paul Kuruvilla,0,2
+rails/rails,inventiphGuru,Sammy Ammy,0,1
+rails/rails,gurgelrenan,Renan Gurgel,0,1
+rails/rails,kmanzana,Kelton Manzanares,0,1
+rails/rails,JohnLoza,Loza Bucio Erick Jonatan,0,1
+rails/rails,CJStadler,Chris Stadler,0,1
+rails/rails,berlintam,Tam,0,1
+rails/rails,achrafmontage,,0,1
+rails/rails,EPecherkin,Evgenii Pecherkin ,0,1
+rails/rails,maxfelsher,Max Felsher,0,1
+rails/rails,Alamoz,Adrien Lamothe,0,1
+rails/rails,Altech,Sohei Takeno,0,1
+rails/rails,jamiemccarthy,Jamie McCarthy,0,2
+rails/rails,seanlinsley,Sean Linsley,0,2
+rails/rails,KeyaJohn,kayejohn,0,1
+rails/rails,jzruscio,Jory Ruscio,0,1
+rails/rails,brendanthomas1,Brendan Thomas,0,1
+rails/rails,yukihirop,yukihirop,0,3
+rails/rails,robwold,,0,1
+rails/rails,dimroc,Dimitri Roche,0,1
+rails/rails,jalapl,Jacek Lachowski,0,1
+rails/rails,kyanagi,Kouhei Yanagita,0,1
+rails/rails,meb236,Matt B,0,1
+rails/rails,sideshowdave7,David Hurst,0,1
+rails/rails,boone,Mike Boone,0,2
+rails/rails,shartep,Alex Petrash,0,2
+rails/rails,akshay-vishnoi,Akshay Vishnoi,0,32
+rails/rails,MatthiasRMS,Matthias Richard,0,1
+rails/rails,masatooba,Masato Oba,0,1
+rails/rails,sebastiandeutsch,Sebastian Deutsch,0,1
+rails/rails,droptheplot,Sergei Novikov,0,4
+rails/rails,michaeltaras,Michael Taras,0,1
+rails/rails,GBH,Oleg,0,3
+rails/rails,pedroadame,Pedro Adame,0,3
+rails/rails,erkde,,0,2
+rails/rails,khall,,0,5
+rails/rails,felipecvo,Felipe Oliveira,0,1
+rails/rails,untidy-hair,Yukio Mizuta,0,4
+rails/rails,themoonofendor,Eugene,0,1
+rails/rails,NickLaMuro,Nick LaMuro,0,3
+rails/rails,mcmire,Elliot Winkler,0,1
+rails/rails,tiagonbotelho,Tiago Botelho,0,1
+rails/rails,atd,Antonio Tapiador,0,1
+rails/rails,ishmaelthehunter,Ishmael,0,1
+rails/rails,serihiro,Kazuhiro Serizawa,0,1
+rails/rails,patrickdavey,Patrick Davey,0,2
+rails/rails,jocubeit,Dom Jocubeit,0,1
+rails/rails,k2nr,Kazunori Kajihiro,0,1
+rails/rails,foostan,Kosuke Adachi,0,1
+rails/rails,tonyta,Tony Ta,0,3
+rails/rails,nikhilthombare,Nikhil Thombare,0,5
+rails/rails,oreoshake,Neil Matatall,0,5
+rails/rails,tcannonfodder,Thomas Cannon,0,1
+rails/rails,hupfis,,0,1
+rails/rails,pavan93,,0,1
+rails/rails,nachokb,Ignacio Carrera,0,1
+rails/rails,travisofthenorth,Travis Hunter,0,2
+rails/rails,rmachielse,Richard Machielse,0,1
+rails/rails,michaldarda,Michał Darda,0,1
+rails/rails,pawlik,Grzegorz Pawlik,0,1
+rails/rails,metaskills,Ken Collins,0,8
+rails/rails,harrykiselev,Harry V. Kiselev,0,3
+rails/rails,alecspopa,Alecs Popa,0,1
+rails/rails,artofhuman,Semyon Pupkov,0,3
+rails/rails,prognostikos,Matt Rohrer,0,1
+rails/rails,kuzukuzu,kuzukuzu,0,1
+rails/rails,gerardc,Gerard Cahill,0,1
+rails/rails,manojmj92,Manoj M J,0,3
+rails/rails,rinmu,Tomoyuki Suzuki,0,2
+rails/rails,aalvrz,Andrés Álvarez,0,1
+rails/rails,le0pard,Alexey Vasiliev,0,1
+rails/rails,rajgurung,Raj Gurung,0,1
+rails/rails,kmayer,Ken Mayer,0,2
+rails/rails,wshihadeh,Al-Waleed Shihadeh,0,1
+rails/rails,mockdeep,Robert Fletcher,0,1
+rails/rails,pwnall,Victor Costan,0,3
+rails/rails,fnando,Nando Vieira,0,2
+rails/rails,ryanfox1985,Guillermo Guerrero Ibarra,0,1
+rails/rails,leonelgalan,Leonel Galán,0,2
+rails/rails,adamdilek,Adam Dilek,0,1
+rails/rails,iaptsiauri,Ilia Aphtsiauri,0,1
+rails/rails,skatkov,Stanislav (Stas) Katkov,0,1
+rails/rails,IlkhamGaysin,Ilkham Gaysin,0,1
+rails/rails,emanuil-tolev,Emanuil Tolev,0,1
+rails/rails,Persola,Luke Persola,0,1
+rails/rails,nicday,Nic Day,0,1
+rails/rails,yogahp,Yoga Hapriana,0,4
+rails/rails,niclin,Nic,0,1
+rails/rails,wassimk,Wassim Metallaoui,0,1
+rails/rails,dansteele,Daniel Steele,0,2
+rails/rails,zapo,Antoine Niek,0,1
+rails/rails,arthurnn,Arthur Nogueira Neves,0,12
+rails/rails,jbourassa,Jimmy Bourassa,0,2
+rails/rails,shayonj,Shayon Mukherjee,0,2
+rails/rails,keepcosmos,Jaehyun Shin,0,5
+rails/rails,dustMason,Jordan Sitkin,0,1
+rails/rails,mfo,mfo,0,1
+rails/rails,gcourtemanche,Gabriel Courtemanche,0,1
+rails/rails,zokioki,Zoran Pesic,0,1
+rails/rails,maclover7,Jon Moss,3,244
+rails/rails,DNNX,Viktar Basharymau,0,4
+rails/rails,DmitryBochkarev,Dmitry Bochkarev,0,1
+rails/rails,boykoc,Cody Boyko,0,2
+rails/rails,wpolicarpo,Wanderson Policarpo,0,1
+rails/rails,msimonborg,m. simon borg,0,1
+rails/rails,nvalchanov96,Nikolay Valchanov,0,1
+rails/rails,lourenci,Leandro Lourenci,0,1
+rails/rails,padi,Marc Ignacio,0,9
+rails/rails,ckundo,Cameron Cundiff,0,1
+rails/rails,colorfulfool,Anton Khamets,0,5
+rails/rails,zverok,Victor Shepelev,0,1
+rails/rails,marinapopovic,,0,1
+rails/rails,KentaYoshitani,KentaYoshitani,0,1
+rails/rails,qsona,qsona,0,2
+rails/rails,awortham,Aaron Wortham,0,1
+rails/rails,begrif,,0,1
+rails/rails,yui-knk,Yuichiro Kaneko,0,141
+rails/rails,trev,Trevor,0,2
+rails/rails,mgiagante,mgiagante,0,1
+rails/rails,onyxblade,,0,1
+rails/rails,CvX,Jarek Radosz,0,1
+rails/rails,thovt93,Tho Vo,0,1
+rails/rails,wpp,Philipp,0,1
+rails/rails,ytbryan,Bryan Lim,0,1
+rails/rails,lfekson,Lyuba Fexon,0,1
+rails/rails,mchaisse,Maxime Chaisse-Leal,0,1
+rails/rails,bslobodin,Boris Slobodin,0,2
+rails/rails,lucivaldo,Lucivaldo Castro Castelo Branco,0,1
+rails/rails,guilherme,Guilherme Campos,0,3
+rails/rails,lozhn,Nikita Lozhnikov,0,1
+rails/rails,norman,Norman Clarke,0,1
+rails/rails,weppos,Simone Carletti,0,1
+rails/rails,hin101,Hinesh ,0,1
+rails/rails,naw,Nathan,0,3
+rails/rails,xlymian,Paul Mylchreest,0,1
+rails/rails,kaanklky,Kaan Kölköy,0,1
+rails/rails,nrser,Neil Souza,0,1
+rails/rails,xtina-starr,Christina,0,3
+rails/rails,arthurchui,Arthur Chui,0,1
+rails/rails,Jaco-Pretorius,Jaco Pretorius,0,1
+rails/rails,jagdeepsingh,Jagdeep Singh,0,1
+rails/rails,yulia-che,Yulia Chepurna,0,1
+rails/rails,pawandubey,Pawan Dubey,0,1
+rails/rails,pat,Pat Allan,0,2
+rails/rails,BenMusch,Ben Muschol,0,1
+rails/rails,mjansing,Marc Jansing,0,1
+rails/rails,fschwahn,Fabian Schwahn,0,2
+rails/rails,PhilibertDugas,Philibert Dugas,0,1
+rails/rails,saizai,Sai,0,1
+rails/rails,chovaism,chova,0,1
+rails/rails,che-burashco,Kyrylo Shegeda,0,2
+rails/rails,strika,Nebojša Stričević,0,1
+rails/rails,cswilliams,Chris Williams,0,1
+rails/rails,mrj,Mark R. James,0,2
+rails/rails,janpieper,Jan Pieper,0,1
+rails/rails,glaucocustodio,Glauco Custódio,0,3
+rails/rails,RyanEdwardHall,Ryan Hall,0,1
+rails/rails,castrodd,Daniel D. Castro,0,1
+rails/rails,ragesoss,Sage Ross,0,2
+rails/rails,pdebelak,Peter Debelak,0,1
+rails/rails,Empact,Ben Woosley,0,12
+rails/rails,moeabdol,Mohammed Abdullah,0,1
+rails/rails,fimmtiu,Dennis Taylor,0,1
+rails/rails,gen1321,Boris Beginin,0,1
+rails/rails,k3rni,Krzysztof Zych,0,2
+rails/rails,ayanko,Andriy Yanko,0,1
+rails/rails,raggi,James Tucker,0,1
+rails/rails,wilson,Wilson Bilkovich,0,1
+rails/rails,sai29,Sai Prashanth,0,2
+rails/rails,diasjorge,Jorge Dias,0,1
+rails/rails,tolien,,0,1
+rails/rails,jameshbush,James Bush,0,1
+rails/rails,mlarraz,Matt Larraz,0,3
+rails/rails,ahazem,Ahmed Hemdan,0,1
+rails/rails,kratob,Tobias Kraze,0,1
+rails/rails,sreekanthgs,Sreekanth G S,0,1
+rails/rails,davidrv,David Ramirez,0,1
+rails/rails,Erol,Erol Fornoles,0,19
+rails/rails,amingilani,Amin Shah Gilani,0,1
+rails/rails,tyrollins,Tyler Rollins,0,1
+rails/rails,penelopezone,Penelope Phippen,0,2
+rails/rails,tuzz,Chris Patuzzo,0,1
+rails/rails,philsturgeon,Phil Sturgeon,0,1
+rails/rails,lcpriest,Lachlan Priest,0,2
+rails/rails,deeeki,,0,1
+rails/rails,asmsuechan,asmsuechan,0,1
+rails/rails,sushil-negi,,0,1
+rails/rails,DavidNV,David Valderrama,0,1
+rails/rails,Voker57,Voker57,0,1
+rails/rails,fpolliop,Francisco Pollio,0,1
+rails/rails,santhu3064,santhosh  ruttala,0,1
+rails/rails,halogenandtoast,Matthew Mongeau,0,2
+rails/rails,AaronCowan,,0,2
+rails/rails,shotat,Shota Terashita,0,1
+rails/rails,npezza93,Nick Pezza,0,3
+rails/rails,hw676018683,Mechanicwei,0,1
+rails/rails,gxespino,Glenn Espinosa,0,3
+rails/rails,yasulab,Yohei Yasukawa,0,3
+rails/rails,edgartheunready,Jared Menard,0,1
+rails/rails,coreyward,Corey Ward,0,3
+rails/rails,edwardmp,Edward Poot,0,3
+rails/rails,fahchen,Phil Chen,0,1
+rails/rails,valerauko,,0,1
+rails/rails,dfaulken,David McCourt,0,2
+rails/rails,lucascaton,Lucas Caton,0,1
+rails/rails,Gargron,Eugen Rochko,0,1
+rails/rails,tim-millar,Tim Millar,0,1
+rails/rails,monkeygq,,0,2
+rails/rails,morganatwishpond,,0,1
+rails/rails,mariochavez,Mario Alberto Chavez,0,1
+rails/rails,dskecse,Dzianis Dashkevich,0,4
+rails/rails,burke,Burke Libbey,0,1
+rails/rails,vergenzt,Tim Vergenz,0,1
+rails/rails,akfernun,Adam Fernung,0,1
+rails/rails,ojiry,Ryoji Yoshioka,0,10
+rails/rails,codeforkjeff,Jeff Chiu,0,2
+rails/rails,clupprich,Christoph Lupprich,0,2
+rails/rails,yawboakye,Yaw Boakye,0,4
+rails/rails,nihemak,,0,3
+rails/rails,ashishg-qburst,,0,1
+rails/rails,wiiikiii,,0,1
+rails/rails,andyatkinson,Andy Atkinson,0,2
+rails/rails,maicher,Krzysztof Maicher,0,2
+rails/rails,lovitt,Michael Lovitt,0,1
+rails/rails,hobodave,David Abdemoulaie,0,1
+rails/rails,RasPat1,Rasesh Patel,0,2
+rails/rails,kevinhyunilkim,Kevin Kim,0,1
+rails/rails,alainravet,Alain Ravet,0,1
+rails/rails,akihikodaki,Akihiko Odaki,0,1
+rails/rails,djforth,Adrian Stainforth,0,1
+rails/rails,onemanstartup,Dmitriy Plekhanov,0,1
+rails/rails,notEthan,Ethan,0,1
+rails/rails,Nerian,Gonzalo Rodríguez-Baltanás Díaz,0,1
+rails/rails,joshaidan,Brian Jones,0,1
+rails/rails,wnm,Wolfram Müller,0,1
+rails/rails,spohlenz,Sam Pohlenz,0,1
+rails/rails,grhansen,Greg Hansen,0,2
+rails/rails,djcp,Dan Collis-Puro,0,1
+rails/rails,mijoharas,Michael Hauser-Raspe,0,1
+rails/rails,etdev,Eric Turner,0,5
+rails/rails,fringify,Dan Rey Oquindo,0,1
+rails/rails,ccarruitero,César Carruitero,0,1
+rails/rails,windyuuy,,0,1
+rails/rails,EilisHamilton,Eilis Hamilton,0,1
+rails/rails,squeemishly,Squee Mueller,0,1
+rails/rails,vschs007,Vivek Kumar Singh,0,1
+rails/rails,sepehr500,Sepehr Sobhani,0,1
+rails/rails,rustygeldmacher,Rusty Geldmacher,0,1
+rails/rails,dpisarewski,Dieter Pisarewski,0,1
+rails/rails,juliusdelta,JD Gonzales,0,1
+rails/rails,peterjm,Peter McCracken,0,1
+rails/rails,timolehto,,0,1
+rails/rails,stevenchanin,Steven Chanin,0,1
+rails/rails,willbryant,Will Bryant,0,1
+rails/rails,jcoyne,Justin Coyne,0,6
+rails/rails,snood1205,Eli Sadoff,0,1
+rails/rails,jimbert,Jim Fung,0,1
+rails/rails,csmuc,Christian Seiler,0,1
+rails/rails,koshigoe,Masataka SUZUKI,0,1
+rails/rails,pschambacher,Pierre Schambacher,0,5
+rails/rails,royratcliffe,Roy Ratcliffe,0,1
+rails/rails,voxik,Vít Ondruch,0,5
+rails/rails,jtrost,Jarred Trost,0,4
+rails/rails,aviav,aviav,0,1
+rails/rails,george-carlin,George,0,3
+rails/rails,kyuden,Masahiro Kyuden,0,1
+rails/rails,benglewis,Ben Lewis,0,1
+rails/rails,pendletons,Shanthi Pendleton,0,1
+rails/rails,fphilipe,Philipe Fatio,0,2
+rails/rails,mylake,mylake,0,2
+rails/rails,joshnuss,Joshua Nussbaum,0,1
+rails/rails,halfbyte,Jan Krutisch,0,1
+rails/rails,jklina,Josh Klina,0,1
+rails/rails,oiorain,Marion Kamoike-Bouguet,0,1
+rails/rails,kieraneglin,Kieran,0,1
+rails/rails,TomK32,Thomas R. Koll,0,1
+rails/rails,wvanbergen,Willem van Bergen,0,1
+rails/rails,bradgessler,Brad Gessler,0,1
+rails/rails,vishalzambre,Vishal Zambre,0,5
+rails/rails,thadeu,thadeu,0,1
+rails/rails,fakefarm,Dad Zoo,0,1
+rails/rails,henziger,Eric Henziger,0,1
+rails/rails,doughsay,Chris Dosé,0,1
+rails/rails,yensaki,Saki,0,1
+rails/rails,edwardloveall,Edward Loveall,0,1
+rails/rails,nasa42,Vikrant Chaudhary,0,1
+rails/rails,keithpitty,Keith Pitty,0,1
+rails/rails,alexmuller,Alex Muller,0,1
+rails/rails,DHunter313,Darius Hunter,0,1
+rails/rails,quixoten,Devin Christensen,0,1
+rails/rails,evserykh,Evgeniy Serykh,0,1
+rails/rails,pawa-,pawa,0,1
+rails/rails,yubele,yusuke,0,1
+rails/rails,guyviner,,0,1
+rails/rails,unfunco,Daniel Morris,1,1
+rails/rails,kmcphillips,Kevin McPhillips,0,13
+rails/rails,konstantin-ryzhov,,0,1
+rails/rails,hedgesky,Anton Chuchkalov,0,1
+rails/rails,devonestes,Devon Estes,0,2
+rails/rails,cupakromer,Aaron Kromer,0,2
+rails/rails,afdev82,Antonio Facciolo,0,1
+rails/rails,aledalgrande,Alessandro Dal Grande,0,1
+rails/rails,bglusman,Brian Glusman,0,1
+rails/rails,diazruy,Ruy Diaz,0,2
+rails/rails,marklocklear,J. Mark Locklear,0,1
+rails/rails,bkeepers,Brandon Keepers,0,2
+rails/rails,Danilo-Araujo-Silva,Danilo Araújo Silva,0,1
+rails/rails,zach-taylor,Zach Taylor,0,1
+rails/rails,domcleal,Dominic Cleal,0,9
+rails/rails,sngeth,Sid Ngeth,0,2
+rails/rails,mikeastock,Michael Stock,0,2
+rails/rails,rst,Robert Thau,0,2
+rails/rails,winfred,Winfred Nadeau,0,1
+rails/rails,3wille,Frederik Wille,0,1
+rails/rails,aguspina,Agustin Pina,0,1
+rails/rails,sbull,Steven Bull,0,1
+rails/rails,HarryCollins,,0,1
+rails/rails,kanpou0108,Junpei Ihara,0,1
+rails/rails,samirovic1992,,0,1
+rails/rails,zerimar,Bryan Ramirez,0,1
+rails/rails,joker1007,Tomohiro Hashidate,0,1
+rails/rails,rachel-carvalho,Rachel Carvalho,0,1
+rails/rails,jess,Jess Brown,0,1
+rails/rails,odedniv,Oded Niv,0,1
+rails/rails,jmgarnier,Jean-Michel Garnier,0,1
+rails/rails,jeremyf,Jeremy Friesen,0,2
+rails/rails,quantumlicht,Philippe,0,1
+rails/rails,jkowens,Jordan Owens,0,4
+rails/rails,mubashirhanif,Mubashir Hanif,0,2
+rails/rails,azeezahmed,Shaik Azeez Ahmed,0,2
+rails/rails,adamgamble,Adam Gamble,0,1
+rails/rails,denniszelada,Dennis Zelada,0,1
+rails/rails,budnik,Dmytro Budnyk,0,1
+rails/rails,kou,Sutou Kouhei,0,2
+rails/rails,jkuchta,Jeff Kuchta,0,3
+rails/rails,tangposmarvin,Marvin Tangpos,0,1
+rails/rails,MMercieca,Matt Mercieca,0,1
+rails/rails,godfat,Lin Jen-Shin (godfat),0,1
+rails/rails,alkevintan,Keboy Tan,0,1
+rails/rails,rngtng,Tobias Bielohlawek,0,4
+rails/rails,ashishwadekar,Ashish Wadekar,0,1
+rails/rails,kawayuta,Yuta Kawaguchi,0,1
+rails/rails,sidot3291,Colin Sidoti,0,1
+rails/rails,cfabianski,Cédric Fabianski,0,1
+rails/rails,jun68ykt,jun68ykt,0,1
+rails/rails,dijonkitchen,Jonathan (JC) Chen,0,3
+rails/rails,mmangino,Mike Mangino,0,1
+rails/rails,paulcsmith,Paul Smith,0,1
+rails/rails,0oneo,0oneo,0,1
+rails/rails,ChakreshwarSharma,,0,1
+rails/rails,acrich,Shay Acrich,0,1
+rails/rails,tzabaman,George Vrettos,0,1
+rails/rails,ixti,Alexey Zapparov,0,3
+rails/rails,kreintjes,,0,1
+rails/rails,kenta-s,kenta-s,0,52
+rails/rails,kasparsj,Kaspars Jaudzems,0,1
+rails/rails,cefigueiredo,Carlos Figueiredo,0,2
+rails/rails,ToruIwashita,Toru Hoyano,0,2
+rails/rails,annejohnson,Anne Johnson,0,1
+rails/rails,sevenseacat,Rebecca Le,0,2
+rails/rails,sorra,Dongqing Hu,0,1
+rails/rails,aripollak,Ari Pollak,0,2
+rails/rails,treiff,Trevor Reiff,0,1
+rails/rails,lucasmazza,Lucas Mazza,0,3
+rails/rails,stouset,Stephen Touset,0,1
+rails/rails,rwz,Pavel Pravosud,0,3
+rails/rails,slamere,,0,1
+rails/rails,LoicAG,Loïc A. Gombeaud,0,1
+rails/rails,bolek,Bolek Kurowski,0,1
+rails/rails,f1sherman,Brian John,0,1
+rails/rails,jerry-tao,Jerry Tao,0,1
+rails/rails,HashNotAdam,Adam Rice,0,2
+rails/rails,fernandes,Celso Fernandes,0,1
+rails/rails,rubys,Sam Ruby,0,7
+rails/rails,MarshP,MarshP,0,1
+rails/rails,ck3g,Vitali Tatarintev,0,1
+rails/rails,laertispappas,L. Papa,0,1
+rails/rails,southwolf,SouthWolf,0,2
+rails/rails,zztczcx,chenxu zhao,0,1
+rails/rails,github0013,,0,1
+rails/rails,andrewhood125,Andrew Hood,0,1
+rails/rails,deraru,Rui Onodera,0,4
+rails/rails,namusyaka,namusyaka,0,5
+rails/rails,fulldecent,William Entriken,0,1
+rails/rails,Sen-Zhang,Sen,0,11
+rails/rails,michald,Michał Dulat,0,1
+rails/rails,hzlu,Lu Haozhao,0,1
+rails/rails,JeffLtz,Jeff,0,2
+rails/rails,ream88,Mario Uher,0,2
+rails/rails,rzane,Ray Zane,0,2
+rails/rails,sinogermany,Daniel Deng,0,2
+rails/rails,newtrat,Nick Yannacone,0,1
+rails/rails,alse,Alex Serban,0,1
+rails/rails,jordanlewis,Jordan Lewis,0,3
+rails/rails,btoews,Ben Toews,0,5
+rails/rails,jasonleonhard,jasonleonhard,0,1
+rails/rails,gavingmiller,Gavin Miller,0,1
+rails/rails,kalleth,Tom Russell,0,1
+rails/rails,meagar,,0,2
+rails/rails,marrsale,Alexander Marrs,0,2
+rails/rails,RichieAHB,Richard Beddington,0,1
+rails/rails,kevinzwhuang,Kevin Huang,0,1
+rails/rails,rbhitchcock,Blake Hitchcock,0,1
+rails/rails,richseviora,Rich Seviora,0,1
+rails/rails,csgavino,Carlos Gavino,0,1
+rails/rails,marutosi,Toshi MARUYAMA,0,1
+rails/rails,etdsoft,Daniel Martin,0,2
+rails/rails,GarouDan,Danilo Araújo Silva,0,1
+rails/rails,scottgonzalez,Scott González,0,6
+rails/rails,monfresh,Moncef Belyamani,0,2
+rails/rails,mikelikesbikes,Mike Busch,0,1
+rails/rails,matrix9180,Chad Ingram,0,4
+rails/rails,Crunch09,Florian Thomas,0,1
+rails/rails,zacharymetz,Zachary Metz,0,1
+rails/rails,thatmffmmisfit,,0,1
+rails/rails,rickypai,Ricky Pai,0,1
+rails/rails,j3ck,Eugene,0,1
+rails/rails,kjg,Kevin Glowacz,0,1
+rails/rails,zhufenggood,,0,1
+rails/rails,avdept,Alex Sinelnikov,0,1
+rails/rails,nhorton,Noah Horton,0,1
+rails/rails,akihiro17,Hiroaki Izu,0,13
+rails/rails,s-jcs,Sho Sundberg,0,1
+rails/rails,ecoologic,ecoologic,0,1
+rails/rails,rsempe,Romain Sempé,0,1
+rails/rails,longkt90,Long Nguyen,0,1
+rails/rails,jnicklas,Jonas Nicklas,0,1
+rails/rails,manvsmachine,Darren Woodley,0,1
+rails/rails,sbleon,Leon Miller-Out,0,1
+rails/rails,jonathan-soifer,Jonathan Soifer,0,1
+rails/rails,klaseskilson,Klas Eskilson,0,1
+rails/rails,BenMorganIO,Ben A. Morgan,0,3
+rails/rails,jarijokinen,Jari Jokinen,0,1
+rails/rails,mpugach,Maksym Pugach,0,1
+rails/rails,davidsherline,David Sherline,0,1
+rails/rails,Le6ow5k1,Konstantin Lazarev,0,1
+rails/rails,msathieu,,0,3
+rails/rails,takkanm,Mitsutaka Mimura,0,2
+rails/rails,shardulparab97,Shardul Parab,0,4
+rails/rails,tarcieri,Tony Arcieri,0,1
+rails/rails,vgonda,Victoria Gonda,0,1
+rails/rails,schleyfox,Ben Hughes,0,1
+rails/rails,cih,Chris Holmes,0,1
+rails/rails,ninjarz,ninjar,0,1
+rails/rails,jsyeo,Jason Yeo,0,2
+rails/rails,legendetm,Raido,0,1
+rails/rails,thewoolleyman,Chad Woolley,0,1
+rails/rails,yachibit,Yuta Yachi,0,1
+rails/rails,niconegoto,Koki Ide,0,3
+rails/rails,itsmeduncan,Duncan Grazier,0,1
+rails/rails,elpic,Pablo Ifrán,0,2
+rails/rails,bianjp,Bian Jiaping,0,1
+rails/rails,mottalrd,Alfredo Motta,0,1
+rails/rails,MSP-Greg,,0,3
+rails/rails,kevinhughes27,Kevin Hughes,0,1
+rails/rails,CamJN,Camden Narzt,0,1
+rails/rails,amaierhofer,Andreas Maierhofer,0,2
+rails/rails,homakov,Egor Homakov,0,2
+rails/rails,saif55582,SAIF ALI,0,1
+rails/rails,avgerin0s,Aggelos Avgerinos,0,1
+rails/rails,lastgabs,Gabi Stefanini,0,3
+rails/rails,koenpunt,Koen Punt,0,4
+rails/rails,xgqfrms-GitHub,anonymous,0,2
+rails/rails,MQuy,Minh Quy,0,2
+rails/rails,calebthompson,Caleb Hearth,0,1
+rails/rails,ianks,Ian Ker-Seymer,0,2
+rails/rails,ezr-ondrej,Ondřej Ezr,0,1
+rails/rails,stefanmb,Stefan Budeanu,0,1
+rails/rails,JoeNyland,Joe Nyland,0,1
+rails/rails,kruppel,Kurt Ruppel,0,1
+rails/rails,phoet,Peter Schröder,0,1
+rails/rails,magnocosta,Magno Costa,0,1
+rails/rails,roryokane,Rory O’Kane,0,1
+rails/rails,dcarral,Daniel Carral,0,1
+rails/rails,chuancf,Dubbox,0,1
+rails/rails,mgm702,Matt Michnal ,0,3
+rails/rails,JessRudder,Jess Rudder,0,1
+rails/rails,nisevi,Nicolas Sebastian Vidal,0,1
+rails/rails,jnoortheen,Noorhteen Raja NJ,0,1
+rails/rails,lgilliam,Luke Gilliam,0,1
+rails/rails,brandonweiss,Brandon Weiss,0,1
+rails/rails,Devinsuit,,0,2
+rails/rails,drewhamlett,Drew Hamlett,0,1
+rails/rails,tjai89,Kirill Zhuravlov,0,8
+rails/rails,sachin21,Satoshi Ohmori,0,5
+rails/rails,supercaracal,Taishi Kasuga,0,3
+rails/rails,Mihoid,Mikhail Morgunov,0,1
+rails/rails,arjes,,0,1
+rails/rails,NuM314,Alexander Sergey,0,1
+rails/rails,sina-s,Sina Sadeghian,0,3
+rails/rails,erickueen,Erick Reyna,0,1
+rails/rails,rubyrider,Irfan Ahmed,0,1
+rails/rails,maxboisvert,Maxime Boisvert,0,1
+rails/rails,courtenay,C o u r t e n a y,0,2
+rails/rails,wynksaiddestroy,Fabian Winkler,0,2
+rails/rails,oranmor,Denis Kurochkin,0,1
+rails/rails,everthis,Nothing,0,1
+rails/rails,alexanderkustov,Alexander Kustov,0,1
+rails/rails,DanielVartanov,Daniel Vartanov,0,1
+rails/rails,buweilv,,0,1
+rails/rails,7dr1v3,Stas,0,2
+rails/rails,Paxa,Pavel Evstigneev,0,2
+rails/rails,rothhound,Gianfranco Montoya,0,1
+rails/rails,vl3,Valentín Sanjuan,0,1
+rails/rails,samsondav,Sam,0,9
+rails/rails,bouk,Bouke van der Bijl,0,2
+rails/rails,SweeD,Markus Schwed,0,1
+rails/rails,colleenmcguckin,Colleen McGuckin,0,1
+rails/rails,vinagrito,Daniel E. Garcia Shulman,0,1
+rails/rails,caramelcat,Benny Ou,0,1
+rails/rails,elorest,Isaac Sloan,0,1
+rails/rails,pinkythalli97,,0,4
+rails/rails,ilasorsa,Ivan Lasorsa,0,1
+rails/rails,Liceth,Liceth Ovalles,0,2
+rails/rails,jniebuhr,Jochen Ullrich,0,1
+rails/rails,j-dexx,James,0,2
+rails/rails,Alwahsh,A,0,1
+rails/rails,miazbikowski,Mia Zbikowski,0,1
+rails/rails,thadeubrito,Thadeu Brito,0,1
+rails/rails,zegomesjf,José Gomes Júnior,0,1
+rails/rails,jdantonio,Jerry D'Antonio,1,4
+rails/rails,brunofacca,Bruno Facca,0,1
+rails/rails,krzcho,Krzysztof Chodak,0,1
+rails/rails,denisovlev,Lev Denisov,0,1
+rails/rails,purintai,Purintai,0,2
+rails/rails,Cohen-Carlisle,Cohen Carlisle,0,1
+rails/rails,gucki,Corin Langosch,0,1
+rails/rails,nathanstitt,Nathan Stitt,0,1
+rails/rails,zachaysan,Zach Aysan,0,2
+rails/rails,plicjo,Joshua Plicque,0,1
+rails/rails,Jesus,Jesús Burgos Maciá,0,1
+rails/rails,gugoiscardoso,,0,1
+rails/rails,beathyate,Gustavo Beathyate,0,1
+rails/rails,georgeu2000,George,0,1
+rails/rails,jstumbaugh,Jason Stumbaugh,0,2
+rails/rails,rmarone,,0,1
+rails/rails,xw19,Sourav Moitra,0,7
+rails/rails,biow0lf,Igor Zubkov,0,1
+rails/rails,hwhelchel,Harry Whelchel,0,1
+rails/rails,Islands5,Islands5,0,1
+rails/rails,Azdaroth,Karol Galanciak,0,1
+rails/rails,schnmudgal,Sachin Mudgal,0,2
+rails/rails,Jerph,Jeff Fendley,0,1
+rails/rails,rvanlieshout,Rene van Lieshout,0,1
+rails/rails,MentalPower,Esteban Santana Santana,0,2
+rails/rails,Neodelf,Andrey Molchanov,0,19
+rails/rails,uaihebert,Hebert Coelho,0,2
+rails/rails,itsNikolay,Nikolay Ponomarev,0,1
+rails/rails,castor4bit,Toru Tanaka,0,1
+rails/rails,tbalthazar,Thomas Balthazar,0,2
+rails/rails,j1wilmot,Jeremy Wilmot,0,1
+rails/rails,nickoki,Nick Oki,0,1
+rails/rails,schpet,Peter Schilling,0,1
+rails/rails,2called-chaos,Sven Pachnit,0,1
+rails/rails,michaellennox,Michael Canden-Lennox,0,1
+rails/rails,lukaselmer,Lukas Elmer,0,1
+rails/rails,mjhoy,Mikey Hoy,0,2
+rails/rails,apepper,Alexander Pepper,0,1
+rails/rails,sb8244,Stephen Bussey,0,1
+rails/rails,adamcrown,Adam Crownoble,0,1
+rails/rails,timrogers,Tim Rogers,0,5
+rails/rails,rutaka-n,vpromzelev,0,1
+rails/rails,philipqnguyen,Philip Q Nguyen,0,2
+rails/rails,rubyfunk,Jakob Kang,0,1
+rails/rails,dukex,Duke,0,1
+rails/rails,tobiashm,Tobias H. Michaelsen,0,1
+rails/rails,knugie,Wolfgang Teuber,0,1
+rails/rails,chriscarter90,Chris Carter,0,1
+rails/rails,mgpnd,Artem Rashev,0,1
+rails/rails,BastianHofmann,,0,1
+rails/rails,rafamanzo,Rafael Reggiani Manzo,0,2
+rails/rails,kangkyu,Kang-Kyu Lee,0,3
+rails/rails,eitoball,Eito Katagiri,0,2
+rails/rails,vassilevsky,Ilya Vassilevsky,0,2
+rails/rails,siegy22,Yves Siegrist,0,4
+rails/rails,Dfenniak,Donald Fenniak,0,2
+rails/rails,FriedSock,Jack Bracewell,0,1
+rails/rails,koppen,Jakob Skjerning,0,1
+rails/rails,triplepointfive,Ilya,0,1
+rails/rails,ux,Nazar Vinnychuk,0,1
+rails/rails,girishso,Girish Sonawane,0,3
+rails/rails,germanescobar,German Escobar,0,1
+rails/rails,bikolya,Nick Bienko,0,1
+rails/rails,ralfebert,Ralf Ebert,0,1
+rails/rails,dracos,M Somerville,0,1
+rails/rails,DanAndreasson,Dan Andréasson,0,1
+rails/rails,wytesk133,Wyte Krongapiradee,0,2
+rails/rails,tunamonster,,0,1
+rails/rails,akicho8,Akira Ikeda,0,1
+rails/rails,SpartaSixZero,Mark Sun,0,1
+rails/rails,andyzheng547,Andy Zheng,0,1
+rails/rails,nazo,nazo,0,1
+rails/rails,natesalisbury,Nate Salisbury,0,1
+rails/rails,duffyjp,Jacob Duffy,0,1
+rails/rails,RoxasShadow,Roxas,0,1
+rails/rails,shingo-nakanishi,,0,2
+rails/rails,MartynasM,Martynas Margis,0,1
+rails/rails,ares,Marek Hulán,0,1
+rails/rails,NishantUpadhyay-BTC,NishantUpadhyay-BTC,0,1
+rails/rails,kjellberg,Rasmus Kjellberg,0,3
+rails/rails,danielrhodes,Daniel Rhodes,0,6
+rails/rails,agx,Guido Günther,0,1
+rails/rails,davydovanton,Anton Davydov,0,3
+rails/rails,ncreuschling,Nicolai Reuschling,0,1
+rails/rails,jmccartie,Jon McCartie,0,4
+rails/rails,ipmsteven,Yunlei Liu,0,1
+rails/rails,nsheridan,Niall Sheridan,0,1
+rails/rails,acaron,Annie Caron,0,1
+rails/rails,danila,,0,1
+rails/rails,scottyantipa,Scott Antipa,0,1
+rails/rails,evanphx,Evan Phoenix,0,1
+rails/rails,taf2,Todd,0,1
+rails/rails,jonatack,Jon Atack,3,13
+rails/rails,kmewhort,Kent Mewhort,0,1
+rails/rails,Burgestrand,Kim Burgestrand,0,1
+rails/rails,philnash,Phil Nash,0,1
+rails/rails,everestmz,Everest Stefan Munro-Zeisberger,0,1
+rails/rails,agibralter,Aaron Gibralter,0,1
+rails/rails,dnagir,Dmytrii Nagirniak,0,2
+rails/rails,mu29,hero,0,3
+rails/rails,leanhdaovn,Dao Le,0,1
+rails/rails,basawyer,Blake Sawyer,0,1
+rails/rails,iancanderson,Ian C. Anderson,0,1
+rails/rails,greenbigfrog,Jonathan,0,2
+rails/rails,oss92,Mohamed Osama,0,4
+rails/rails,achinn,Alex Chinn,0,1
+rails/rails,stomar,Marcus Stollsteimer,0,2
+rails/rails,gabrieltaylor,Gabriel Taylor Russ,0,1
+rails/rails,sfaxon,Seth Faxon,0,1
+rails/rails,Reidasaurus,Reid Lewis,0,1
+rails/rails,bcardarella,Brian Cardarella,0,1
+rails/rails,javierjulio,Javier Julio,0,1
+rails/rails,nathanl,Nathan Long,0,1
+rails/rails,tusharmaroo,Tushar Maroo,0,1
+rails/rails,gammons,Grant Ammons,0,1
+rails/rails,smellsblue,Mike Virata-Stone,0,2
+rails/rails,qinix,Eric Zhang,0,1
+rails/rails,kyatul,Atul,0,3
+rails/rails,cristianbica,Cristian Bica,0,1
+rails/rails,Dagnan,Michel Pigassou,0,1
+rails/rails,kerrizor,Kerri Miller,0,1
+rails/rails,travisoneill,,0,1
+rails/rails,studiovx,,0,1
+rails/rails,yevhene,Yevhen Shemet,0,1
+rails/rails,lorint,,0,2
+rails/rails,siong1987,Siong,0,2
+rails/rails,fidelisrafael,Rafael Fidelis,0,1
+rails/rails,JasonLunn,Jason Lunn,0,2
+rails/rails,monmonmon,Yamada Simon,0,1
+rails/rails,kalrover,Kal,0,2
+rails/rails,vinay-mittal,Vinay Mittal,0,3
+rails/rails,darkbaby123,David Chen,0,1
+rails/rails,rosenfeld,Rodrigo Rosenfeld Rosas,0,4
+rails/rails,nicksieger,Nick Sieger,0,2
+rails/rails,aquajach,Jack,0,2
+rails/rails,bendilley,Ben Dilley,0,1
+rails/rails,kelhusseiny,Karim El-Husseiny,0,4
+rails/rails,harfangk,Bonghyun Kim,0,1
+rails/rails,chetna1726,,0,1
+rails/rails,flood4life,Murad Yusufov,0,1
+rails/rails,akm,Takeshi Akima,0,1
+rails/rails,asteroidsbg,ipcsdemo,0,1
+rails/rails,gburanov,Georgy Buranov,0,1
+rails/rails,axvm,Alexander Marchenko,0,1
+rails/rails,juno,Junya Ogura,0,2
+rails/rails,drhenner,David Henner,0,1
+rails/rails,chen7897499,,0,3
+rails/rails,lukerollans,Luke Rollans,0,1
+rails/rails,mrb,Michael Bernstein,0,2
+rails/rails,macournoyer,Marc-André Cournoyer,0,1
+rails/rails,ryandv,,0,1
+rails/rails,santoshf22,Santosh Wadghule,0,1
+rails/rails,mrageh,Adam Magan,0,3
+rails/rails,CodingItWrong,Josh Justice,0,3
+rails/rails,SamMolokanov,Semjon Molokanov,0,1
+rails/rails,tyamagu2,Tomoki Yamaguchi,0,1
+rails/rails,tangmingxing1988,唐明星,0,1
+rails/rails,jopcode,Jonathan Pérez,0,1
+rails/rails,rbr,René Braun,0,2
+rails/rails,geshafer,Gale Shafer,0,1
+rails/rails,leejarvis,Lee Jarvis,0,1
+rails/rails,mgi166,MOGI Hiromu,0,1
+rails/rails,sbfaulkner,S. Brent Faulkner,0,1
+rails/rails,kei-s,Kei Shiratsuchi,0,1
+rails/rails,fabiolnm,Fábio Luiz Nery de Miranda,0,1
+rails/rails,sblackstone,Stephen Blackstone,0,5
+rails/rails,joseph-mullins,Joseph Mullins,0,1
+rails/rails,junaruga,Jun Aruga,0,2
+rails/rails,yasuyk,Yasuyuki Oka,0,1
+rails/rails,roterski,Piotr Roterski,0,1
+rails/rails,revskill10,Truong Hoang Dung,0,1
+rails/rails,monkey-mas,masaru,0,1
+rails/rails,marcalc,Marcos Alcantara,0,1
+rails/rails,go2null,,0,1
+rails/rails,abhishekjain16,Abhishek Jain,0,17
+rails/rails,mrgilman,Melanie Gilman,0,2
+rails/rails,herminiotorres,Herminio Torres,0,2
+rails/rails,bluehallu,bluehallu,0,4
+rails/rails,fledman,David Feldman,0,1
+rails/rails,johnmeehan,John Meehan,0,1
+rails/rails,mahnunchik,Evgeny,0,1
+rails/rails,Paperback,Paperback,0,1
+rails/rails,waghanza,Marwan Rabbâa,0,1
+rails/rails,kivanio,Kivanio Barbosa,0,1
+rails/rails,HermanHiddema,Herman Hiddema,0,2
+rails/rails,TimPetricola,Tim Petricola,0,1
+rails/rails,tdtran,Trung Duc Tran,0,1
+rails/rails,djudd,David Judd,0,1
+rails/rails,paul,Paul Sadauskas,0,2
+rails/rails,steve981cr,Steve C.,0,2
+rails/rails,tinco,Tinco Andringa,0,2
+rails/rails,sstephenson,Sam Stephenson,0,3
+rails/rails,trevormerritt,Trevor Merritt,0,1
+rails/rails,pan,Pan Gaoyong,0,2
+rails/rails,kenjiszk,Kenji Suzuki,0,2
+rails/rails,phoffer,Paul Hoffer,0,1
+rails/rails,karlentwistle,Karl Entwistle,0,1
+rails/rails,arthurkulchenko,Artur,0,1
+rails/rails,taboularasa,David Elliott,0,4
+rails/rails,brewski,Brian Abreu,0,1
+rails/rails,marekkirejczyk,Marek Kirejczyk,0,5
+rails/rails,PavelPenkov,Pavel Penkov,0,1
+rails/rails,Jxck,Jxck,0,1
+rails/rails,infertux,Cédric Félizard,0,1
+rails/rails,yuriihabrusiev,Yurii Habrusiev,0,1
+rails/rails,MOZGIII,MOZGIII,0,1
+rails/rails,nfm,Nicholas Firth-McCoy,0,2
+rails/rails,robmathews,rob mathews,0,2
+rails/rails,keoghpe,Peter Keogh,0,1
+rails/rails,aarongray,Aaron Gray,0,1
+rails/rails,JoshTGreenwood,Josh Greenwood,0,1
+rails/rails,pedrozath,Pedro Maciel,0,1
+rails/rails,Martin91,Martin,0,1
+rails/rails,sh19910711,Hiroyuki Sano,0,1
+rails/rails,kjeldahl,Jacob Kjeldahl,0,1
+rails/rails,pjscopeland,Patrick Copeland,0,1
+rails/rails,jwgoh,Jun Wan Goh,0,1
+rails/rails,mkdynamic,Mark Dodwell,0,2
+rails/rails,timthez,,0,1
+rails/rails,stevelounsbury,Steve Lounsbury,0,1
+rails/rails,Karunakar,Karunakar (Ruby),0,1
+rails/rails,hanachin,Seiei Miyagi,0,1
+rails/rails,jwworth,Jake Worth,0,10
+rails/rails,JonathonMA,Jonathon M. Abbott,0,1
+rails/rails,ilyakorol,Ilya Korol,0,1
+rails/rails,jhass,Jonne Haß,0,1
+rails/rails,amrani,David Amrani,0,1
+rails/rails,zorbash,Dimitris Zorbas,0,1
+rails/rails,thejamespinto,James Pinto,0,2
+rails/rails,PareshGupta,Parry Gupta,0,4
+rails/rails,bmulvihill,,0,1
+rails/rails,opti,Igor Pstyga,0,1
+rails/rails,arvindvyas,Arvind,0,2
+rails/rails,maltoe,Malte Rohde,0,1
+rails/rails,felguerez,Antonio Felguerez,0,1
+rails/rails,bluesh55,Seunghwan Oh,0,1
+rails/rails,sukesan1984,Kosuke Takami,0,1
+rails/rails,brocktimus,,0,1
+rails/rails,aguynamedben,Ben Standefer,0,1
+rails/rails,rajatbansal93,Rajat Bansal,0,3
+rails/rails,andela-oakinniranye,Oreoluwa,0,1
+rails/rails,akozhemiakin,Artyom Kozhemiakin,0,1
+rails/rails,joseramonc,Jose Ramon C,0,1
+rails/rails,xtian,Christian Wesselhoeft,0,2
+rails/rails,matkoniecz,Mateusz Konieczny,0,3
+rails/rails,JelF,Alexandr Smirnov,0,2
+rails/rails,xhpwn,Anubhav Saxena,0,2
+rails/rails,benjlcox,Ben Cox,0,1
+rails/rails,javierhonduco,Javier Honduvilla Coto,0,1
+rails/rails,beauby,Lucas Hosseini,0,2
+rails/rails,RyanFitzgerald,Ryan Fitzgerald,0,1
+rails/rails,andrii,Andrii Ponomarov,0,1
+rails/rails,charlesskariah,Charles Skariah,0,1
+rails/rails,mattcg,Matthew Caruana Galizia,0,1
+rails/rails,jeffkreeftmeijer,Jeff Kreeftmeijer,0,1
+rails/rails,jeroenvisser101,Jeroen Visser,0,3
+rails/rails,OmkarPatil2510,Omkar Patil,0,2
+rails/rails,binarydev,Jose Santiago,0,1
+rails/rails,josedonizetti,Jose Donizetti,0,1
+rails/rails,ro31337,Roman Pushkin,0,2
+rails/rails,takayukishmz,takayuki shimizu,0,1
+rails/rails,zhuochun,Zhuochun,0,1
+rails/rails,taiki45,Taiki Ono,0,1
+rails/rails,guiruiz,Guilherme Ruiz,0,2
+rails/rails,tlrdstd,Tyler Distad,0,1
+rails/rails,benjaminmathews,Benjamin Mathews Abraham,0,1
+rails/rails,onomojo,Brian McQuay,0,2
+rails/rails,ralinc,Ralin Chimev,0,3
+rails/rails,mmmpa,mmmpa,0,1
+rails/rails,jroith,Johannes Roith,0,1
+rails/rails,slbug,bUg.,0,1
+rails/rails,lvl0nax,Dmitrii Gautsel,0,6
+rails/rails,joemasilotti,Joe Masilotti,0,2
+rails/rails,907th,Alexey Chernenkov,0,1
+rails/rails,m0n9oose,Ilia,0,1
+rails/rails,tomkadwill,Tom Kadwill,0,11
+rails/rails,mwear,Matthew Wear,0,3
+rails/rails,merhard,Matthew Erhard,0,5
+rails/rails,ksykulev,Konstantin Sykulev,0,1
+rails/rails,fertapric,Fernando Tapia Rico,0,3
+rails/rails,zachattack,Zach,0,1
+rails/rails,MichaelSp,Michael,0,2
+rails/rails,sidagshri,Shridhar Agarwal,0,1
+rails/rails,kikyous,chenyunjie,0,1
+rails/rails,bvsatyaram,B V Satyaram,0,2
+rails/rails,tianlu1677,Tianlu,0,1
+rails/rails,javiervidal,Javier Vidal,0,11
+rails/rails,gguerini,Guillermo Guerini,0,1
+rails/rails,jakehow,Jake Howerton,0,1
+rails/rails,walterdavis,Walter Lee Davis,1,1
+rails/rails,HoneyryderChuck,Tiago,0,1
+rails/rails,jrafanie,Joe Rafaniello,0,4
+rails/rails,tarasmatsyk,Taras Matsyk,0,2
+rails/rails,sevaorlov,Seva Orlov,0,4
+rails/rails,Aalanar,Sam Kellogg,0,1
+rails/rails,aharpervc,Andrew Harper,0,4
+rails/rails,mrkn,Kenta Murata,0,2
+rails/rails,aqqaluk,Aqqaluk Holm,0,1
+rails/rails,exAspArk,,0,3
+rails/rails,nbouscal,Nathan Bouscal,0,1
+rails/rails,eacaps,,0,1
+rails/rails,avand,Avand Amiri,0,1
+rails/rails,thedarkone,,0,2
+rails/rails,Fryguy,Jason Frey,0,1
+rails/rails,tijwelch,Tim Welch,0,1
+rails/rails,jvanbaarsen,Jeroen van Baarsen,0,1
+rails/rails,mlainez,Marc Lainez,0,1
+rails/rails,graemeboy,Graeme Boy,0,1
+rails/rails,arktisklada,Clayton Liggitt,0,3
+rails/rails,dtaniwaki,Daisuke Taniwaki,0,1
+rails/rails,Arkanain,Yurii Holubchenko,0,1
+rails/rails,shinofumijp,Shinozuka Fumiya,0,1
+rails/rails,tlynam,Todd Lynam,0,1
+rails/rails,conf,Alexey Shein,0,1
+rails/rails,estolfo,Emily S,0,3
+rails/rails,JustinJruby,Justin,0,1
+rails/rails,atshakil,Tahmid Shakil,0,1
+rails/rails,kelsonic,Kelson Adams,0,1
+rails/rails,somerobots,Some Robots,0,1
+rails/rails,alex-handley,Alex Handley,0,1
+rails/rails,mabras,Mohamad Abras,0,5
+rails/rails,raimo,Raimo Tuisku,0,1
+rails/rails,jeffrafter,Jeff Rafter,0,1
+rails/rails,elcubo,Arndt Kubosch,0,1
+rails/rails,hechen0,何晨,0,1
+rails/rails,tomash,Tomasz Stachewicz,0,1
+rails/rails,przbadu,przbadu,0,1
+rails/rails,BlakeMesdag,Blake Mesdag,0,3
+rails/rails,lihanli,lihan,0,1
+rails/rails,alexmirkhaydarov,Alex Mirkhaydarov,0,2
+rails/rails,nickmalcolm,Nick Malcolm,0,1
+rails/rails,ankit8898,Ankit gupta,0,1
+rails/rails,mfazekas,Miklós Fazekas,0,3
+rails/rails,TikiTDO,TikiTDO,0,1
+rails/rails,sealocal,Mike Taylor,0,3
+rails/rails,djunzu,,0,1
+rails/rails,RochesterinNYC,James Wen,0,5
+rails/rails,strzibny,Josef Strzibny,0,1
+rails/rails,haruska,,0,1
+rails/rails,iangilfillan,Ian Gilfillan,0,1
+rails/rails,harsimranmaan,Harsimran Singh Maan,0,1
+rails/rails,kenaniah,Kenaniah Cerny,0,1
+rails/rails,arthur-vieira,Arthur Vieira,0,1
+rails/rails,grzegorzblaszczyk,Grzegorz Błaszczyk,0,2
+rails/rails,rgm,Ryan McCuaig,0,1
+rails/rails,mkarnebeek,Michiel Karnebeek,0,1
+rails/rails,gioele,Gioele,0,1
+rails/rails,waits,Dylan Waits,0,2
+rails/rails,jch,Jerry Cheung,0,2
+rails/rails,houdl,houdl,0,1
+rails/rails,route,Dmitry Vorotilin,0,1
+rails/rails,silatham99,Scott Latham,0,1
+rails/rails,yukas,Yury Kaspiarovich,0,2
+rails/rails,denqxotl,Denys Papushaiev,0,1
+rails/rails,denofevil,Dennis Ushakov,0,1
+rails/rails,Hugo-Hache,Hugo Hache,0,1
+rails/rails,arekf,Arkadiusz Fal,0,3
+rails/rails,alex-teren,Alexander,0,1
+rails/rails,blackchestnut,Alex,0,1
+rails/rails,xire28,xire28,0,1
+rails/rails,lynnd335,dlx55,0,1
+rails/rails,tessgriffin,Tess Griffin,0,1
+rails/rails,kitop,Esteban Pastorino,0,1
+rails/rails,laurmurclar,Laura Murphy-Clarkin,0,2
+rails/rails,Antiarchitect,Andrey Voronkov,0,1
+rails/rails,robb-crv,Roberto Caravelli,0,1
+rails/rails,tbraun89,Torsten Braun,0,1
+rails/rails,lglove,李戈,0,2
+rails/rails,keram,Marek,0,3
+rails/rails,lukehorvat,Luke Horvat,0,1
+rails/rails,Eric-Guo,Eric Guo,0,6
+rails/rails,vijayagrawal18,Vijay Kumar Agrawal,0,1
+rails/rails,ypxing,,0,1
+rails/rails,bronson,Scott Bronson,0,5
+rails/rails,dewski,Garrett Bjerkhoel,0,2
+rails/rails,hallmatt,,0,1
+rails/rails,trevorturk,Trevor Turk,0,1
+rails/rails,eliasjpr,Elias Perez,0,1
+rails/rails,chewi,James Le Cuirot,0,2
+rails/rails,aaronang,Aaron Ang,0,5
+rails/rails,sand33pn,Sandeep Navghane,0,1
+rails/rails,wiehann,,0,2
+rails/rails,Ladas,Ladislav Smola,0,1
+rails/rails,l4u,Leo Lou,0,1
+rails/rails,exviva,Olek Janiszewski,0,2
+rails/rails,joahking,Joaquin Rivera Padron,0,1
+rails/rails,udaykadaboina,Uday K,0,1
+rails/rails,perceptec,perceptec,0,2
+rails/rails,salmanasiddiqui,Salman Afzal Siddiqui,0,1
+rails/rails,ashish-sjc,Ashish,0,1
+rails/rails,odaata,Mike Olson,0,1
+rails/rails,mcfiredrill,Tony Miller,0,3
+rails/rails,nakulpathak3,Nakul Pathak,0,1
+rails/rails,resure,Gadzhi Gadzhiev,0,1
+rails/rails,msbit,Tom Sullivan,0,2
+rails/rails,jmromer,Jake Romer,0,1
+rails/rails,maxehmookau,Max Woolf,0,1
+rails/rails,nathell,Daniel Janus,0,1
+rails/rails,trliner,Tim Liner,0,1
+rails/rails,teoljungberg,Teo Ljungberg,0,1
+rails/rails,ctm,Clifford T. Matthews,0,1
+rails/rails,chiragsinghal,Chirag Singhal,0,1
+rails/rails,HayleyCAnderson,Hayley Anderson,0,2
+rails/rails,vm00z,VM,0,1
+rails/rails,chashmeetsingh,Chashmeet Singh,0,11
+rails/rails,prajakta-tambe,Prajakta Tambe,0,1
+rails/rails,rplaurindo,Rafael,0,2
+rails/rails,JamesChevalier,James Chevalier,0,1
+rails/rails,kares,Karol Bucek,0,1
+rails/rails,lukelex,Lukas Alexandre,0,1
+rails/rails,zerothabhishek,Abhishek Yadav,0,1
+rails/rails,revans,Robert Evans,0,1
+rails/rails,abhijitsinha,Abhijit Sinha,0,1
+rails/rails,xijo,Johannes Opper,0,1
+rails/rails,sgringwe,Scott Ringwelski,0,2
+rails/rails,qazbnm456,Boik,0,1
+rails/rails,wisetara,Tara,0,2
+rails/rails,gautamsawhney,Gautam Sawhney,0,2
+rails/rails,eval,Gert Goet,0,1
+rails/rails,leonardoprg,Leonardo,0,3
+rails/rails,kdough,Kevin Dougherty,0,1
+rails/rails,sruli,Sruli,0,1
+rails/rails,exagil,Chirag Aggarwal,0,4
+rails/rails,lalithr95,Lalith Rallabhandi,0,2
+rails/rails,fresham,Cody Frazer,0,1
+rails/rails,CyborgMaster,Jeremy Mickelson,0,1
+rails/rails,jesjos,Jesper Josefsson,0,1
+rails/rails,chezou,Aki Ariga,0,1
+rails/rails,kamal-github,Kamal Namdeo,0,1
+rails/rails,ecleel,Abdulaziz Alshetwi,0,1
+rails/rails,jankeesvw,Jankees van Woezik,0,1
+rails/rails,danrabinowitz,Dan Rabinowitz,0,1
+rails/rails,zhangsoledad,zhangsoledad,0,1
+rails/rails,brianstien,Brian,0,1
+rails/rails,vs4vijay,Vizay Soni,0,1
+rails/rails,ShikChen,,0,1
+rails/rails,kachick,Kenichi Kamiya,0,3
+rails/rails,twairball,Jerry Liu,0,1
+rails/rails,diego-silva,Diego Silva,0,3
+rails/rails,bjallen,B.J. Allen,0,1
+rails/rails,tvon,Tom von Schwerdtner,0,1
+rails/rails,rab,Rob Biedenharn,0,1
+rails/rails,lesliev,Leslie Viljoen,0,2
+rails/rails,supremebeing7,Mark J. Lehman,0,1
+rails/rails,wallclockbuilder,Mawu Eli,0,1
+rails/rails,jhcole,John Cole,0,1
+rails/rails,aspirewit,Richard Li,0,1
+rails/rails,clarkware,Mike Clark,0,1
+rails/rails,prayagverma,Prayag Verma ,0,2
+rails/rails,romaimperator,Dan Fox,0,3
+rails/rails,roymoran,Roy Moran,0,1
+rails/rails,grk,Grzesiek Kolodziejczyk,0,1
+rails/rails,coldnebo,Larry Kyrala,0,1
+rails/rails,syamilmj,Syamil MJ,0,1
+rails/rails,alexeyzab,Alexey Zabelin,0,1
+rails/rails,FooBarWidget,Hongli Lai,0,1
+rails/rails,hiveer,Hiveer,0,1
+rails/rails,remomueller,Remo Mueller,0,2
+rails/rails,saoirse-zee,Emma Smith,0,1
+rails/rails,qrush,Nick Quaranto,0,1
+rails/rails,RyanNielson,Ryan Nielson,0,1
+rails/rails,sassygrody,Sasha,0,1
+rails/rails,hackerkid,Vishnu Ks,0,2
+rails/rails,Kache,Kevin C,0,1
+rails/rails,erullmann,Ernst Rullmann,0,1
+rails/rails,tordans,Tobias,0,1
+rails/rails,zarqman,,0,1
+rails/rails,tawan,Tawan Sierek,0,4
+rails/rails,kesha-antonov,Kesha Antonov,0,1
+rails/rails,RickCSong,Rick Song,0,1
+rails/rails,rfmanuel,,0,1
+rails/rails,britg,Brit Gardner,0,3
+rails/rails,nateless,Nate,0,1
+rails/rails,mgrachev,Grachev Mikhail,0,1
+rails/rails,ppworks,Naoto Koshikawa,0,1
+rails/rails,CollinGraves,Collin Graves,0,1
+rails/rails,sbhatore95,Siddharth Bhatore,0,1
+rails/rails,drcapulet,Alex Coomans,0,2
+rails/rails,djoume,Djoume Salvetti,0,2
+rails/rails,eldano,Daniel Gomez de Souza,0,1
+rails/rails,KeithP,Keith Payne,0,1
+rails/rails,hugocorbucci,Hugo Corbucci,0,1
+rails/rails,benternet,Ben R,0,1
+rails/rails,moktin,Hector Satre,0,1
+rails/rails,karlfreeman,Karl Freeman,0,1
+rails/rails,Ferdy89,Fernando Seror Garcia,0,1
+rails/rails,joyvuu-dave,Dave Riddle,0,1
+rails/rails,gchan,Gordon Chan,0,1
+rails/rails,dkniffin,Derek Kniffin,0,1
+rails/rails,davidkuhta,David Kuhta,0,1
+rails/rails,shakib609,Shakib Hossain,0,2
+rails/rails,subhashsaran,Subhash Chandra,0,1
+rails/rails,alxndr,Alexander Quine,0,1
+rails/rails,davekinkead,Dave Kinkead,0,1
+rails/rails,Amit-Thawait,Amit Thawait,0,1
+rails/rails,dougcole,Doug Cole,0,1
+rails/rails,sizix,Simon Szczepankowski,0,1
+rails/rails,maital,Maital Magen,0,1
+rails/rails,amitsuroliya,Amit Kumar Suroliya,2,49
+rails/rails,yebihara,"EBIHARA, Yuichiro",0,1
+rails/rails,huoxito,Washington L Braga Jr,0,1
+rails/rails,tomykaira,Megumi Tomita,0,1
+rails/rails,jkopczyn,Jacob Kopczynski,0,1
+rails/rails,dwmoore,Dave Moore,0,1
+rails/rails,ankit1910,Ankit Bansal,0,2
+rails/rails,nurulazradb,Azrad,0,1
+rails/rails,wingrunr21,Stafford Brunk,0,1
+rails/rails,sliiser,,0,1
+rails/rails,manfrin,Mike Manfrin,0,1
+rails/rails,fabn,Fabio Napoleoni,0,3
+rails/rails,barendt,Greg Barendt,0,1
+rails/rails,k-motoyan,k-motoyan,0,1
+rails/rails,pp,pp,0,1
+rails/rails,arnvald,Gregory Witek,0,2
+rails/rails,eljojo,José Albornoz,0,2
+rails/rails,rabbitt,Carl P. Corliss,0,2
+rails/rails,michaelrkn,Michael Kaiser-Nyman,0,1
+rails/rails,Baron-burton,Brandon,0,2
+rails/rails,j15e,Jean-Philippe Doyle,0,1
+rails/rails,nwjsmith,Nate Smith,0,3
+rails/rails,samsonasu,Brian Samson,0,1
+rails/rails,jmgcrespo,Manu,0,1
+rails/rails,dmgr,,0,1
+rails/rails,vhf,victor felder,0,1
+rails/rails,arcz,Artur Cygan,0,1
+rails/rails,brandonhilkert,Brandon Hilkert,0,1
+rails/rails,kum-deepak,Deepak Kumar,0,1
+rails/rails,raysrashmi,Rashmi Yadav,0,1
+rails/rails,Timmehs,Tim Sandberg,0,1
+rails/rails,rafbm,Rafael Masson,0,1
+rails/rails,sivagollapalli,sivagollapalli,0,4
+rails/rails,jmbejar,Jorge Bejar,0,1
+rails/rails,ma2gedev,Takayuki Matsubara,0,1
+rails/rails,shosti,Emanuel Evans,0,1
+rails/rails,abookyun,David Yun,0,1
+rails/rails,aladh,Alishan Ladhani,0,1
+rails/rails,stevenspiel,Steven Spiel,0,1
+rails/rails,reshleman,Robert Eshleman,0,3
+rails/rails,LaurierMantel,Laurier Mantel,0,1
+rails/rails,paulkoegel,Paul Kögel,0,1
+rails/rails,nettofarah,Netto Farah,0,3
+rails/rails,davidenglishmusic,David English,0,1
+rails/rails,acrogenesis,Adrian Rangel,0,2
+rails/rails,skorfmann,Sebastian Korfmann,0,1
+rails/rails,nning,henning mueller,0,1
+rails/rails,mattreduce,Matthew Conway,0,1
+rails/rails,rajcybage,Rajars,0,1
+rails/rails,pramodshinde,Pramod Shinde,0,1
+rails/rails,omotenko,Oleg Motenko,0,1
+rails/rails,geobde,George Bardi,0,1
+rails/rails,jeyb,Jey Balachandran,0,1
+rails/rails,teknofire,Will Fisher,0,1
+rails/rails,erickrause,Eric Krause,0,1
+rails/rails,seuros,Abdelkader Boudih,0,3
+rails/rails,lpaulmp,Paul Montero,0,1
+rails/rails,caike,Carlos Souza,0,1
+rails/rails,existent-ltd,Existent Ltd,0,1
+rails/rails,marcelor,Marcelo Ramos,0,1
+rails/rails,hirocaster,Hiroki OHTSUKA,0,1
+rails/rails,astrauka,Karolis Astrauka,0,1
+rails/rails,Cleggameg,Paul Clegg,0,1
+rails/rails,imanel,Bernard Potocki,0,1
+rails/rails,jtwarren,Jeffrey Warren,0,1
+rails/rails,tamird,Tamir Duberstein,0,3
+rails/rails,datanoise,,0,1
+rails/rails,jacobat,Jacob Atzen,0,2
+rails/rails,anujaware,Anuja Ware,0,1
+rails/rails,KMontag42,Kyle Montag,0,1
+rails/rails,Friend-LGA,Grigorii Lutkov,0,2
+rails/rails,AndyObtiva,Andy Maleh,0,1
+rails/rails,raq929,Lael Birch,0,2
+rails/rails,ccallebs,Chuck Callebs,1,2
+rails/rails,davidruizrodri,David Ruiz,0,1
+rails/rails,cmoodyEIT,,0,2
+rails/rails,methyl,Lucjan Suski,0,1
+rails/rails,ridiculous,Ryan Buckley,0,1
+rails/rails,tak1n,Benjamin Klotz,0,3
+rails/rails,RobinClowers,Robin Clowers,0,2
+rails/rails,pavlos,Paul Hieromnimon,0,1
+rails/rails,tjblonsk,Tim,0,1
+rails/rails,lxsameer,Sameer Rahmani,0,1
+rails/rails,mmustala,Mika Mustalahti,0,1
+rails/rails,chriskottom,Chris Kottom,0,1
+rails/rails,timbreitkreutz,Tim Breitkreutz,0,5
+rails/rails,abarriga,Andrés Barriga Mozo,0,1
+rails/rails,lakesare,Evgenia Karunus,0,1
+rails/rails,jippeholwerda,Jippe Holwerda,0,1
+rails/rails,siadat,Sina Siadat,0,1
+rails/rails,avokhmin,Vokhmin Aleksei V,0,2
+rails/rails,osheroff,Ben Osheroff,0,1
+rails/rails,phuibonhoa,Philippe Huibonhoa,0,1
+rails/rails,nishantmodak,Nishant Modak,0,1
+rails/rails,Bounga,Nicolas Cavigneaux,0,1
+rails/rails,anvyzhang,Anvy Zhang,0,1
+rails/rails,myrridin,Thomas Hart,3,1
+rails/rails,GUI,Nick Muerdter,0,1
+rails/rails,jeffminnear,Jeff Minnear,0,1
+rails/rails,AlexVPopov,Alex Popov,0,1
+rails/rails,zacharywelch,Zachary Welch,0,1
+rails/rails,mvj3,David Chen,0,1
+rails/rails,krishan,Kristian Hanekamp,0,1
+rails/rails,takatoshiono,Takatoshi Ono,0,1
+rails/rails,hendricius,Hendrik Kleinwaechter,0,1
+rails/rails,the-undefined,Joe,0,1
+rails/rails,poporul,Alexey Pokhozhaev,0,1
+rails/rails,latortuga,Drew Ulmer,0,1
+rails/rails,daisuko,daisuko,0,1
+rails/rails,rymai,Rémy Coutable,0,1
+rails/rails,jgunnink,JK Gunnink,0,1
+rails/rails,reaperhulk,Paul Kehrer,0,1
+rails/rails,chrislintw,Chris,0,1
+rails/rails,donvaughn,Don Vaughn,0,2
+rails/rails,amiryal,Amir Yalon,0,1
+rails/rails,pacso,Jon Pascoe,0,1
+rails/rails,resource11,Kathleen McMahon,0,2
+rails/rails,DavidMikeSimon,David Simon,0,1
+rails/rails,kuinak,Evan Petrie,0,1
+rails/rails,dankreiger,Dan Kreiger,0,2
+rails/rails,danialm,Dan(ial) Moazen,0,1
+rails/rails,ojundt,Oliver Jundt,0,1
+rails/rails,ehsanyou,Ehsan,0,2
+rails/rails,danny-andrews,Danny Andrews,0,1
+rails/rails,1st8,Christoph Geschwind,0,1
+rails/rails,ExMember,Damien Burke,0,1
+rails/rails,tijmenb,Tijmen Brommet,0,1
+rails/rails,jeromedalbert,Jerome Dalbert,0,2
+rails/rails,toddgardner,Todd Gardner,0,1
+rails/rails,brancz,Frederic Branczyk,0,2
+rails/rails,sirupsen,Simon Eskildsen,0,1
+rails/rails,liaden,Joel Johnson,0,1
+rails/rails,hmarr,Harry Marr,0,2
+rails/rails,hnatt,Hnat Kubov,0,2
+rails/rails,oesgalha,Oscar Esgalha,0,1
+rails/rails,claudix,,0,1
+rails/rails,sachinmittal93,Sachin Mittal,0,1
+rails/rails,SpencerCloud,Spencer Cloud,0,1
+rails/rails,gkopylov,German,0,1
+rails/rails,shaqq,Shaker Islam,0,1
+rails/rails,jamis,Jamis Buck,0,1
+rails/rails,piton4eg,Aleksei Markov,2,5
+rails/rails,ajmyers01,Alex Myers ,0,1
+rails/rails,owenbendavies,Owen Ben Davies,0,2
+rails/rails,igrep,YAMAMOTO Yuji,0,1
+rails/rails,mtodd,Matt Todd,0,2
+rails/rails,AnnaErshova,Anna Ershova,0,2
+rails/rails,sebmck,Sebastian,0,1
+rails/rails,hemalijain,hemali jain,0,1
+rails/rails,jbranchaud,Josh Branchaud,0,3
+rails/rails,NelsonScott,Scott Nelson,0,1
+rails/rails,maxjacobson,Max Jacobson,0,1
+rails/rails,jay-clark,Jason Clark,0,1
+rails/rails,garman,Daniel Garman,0,1
+rails/rails,cleverlemming,A Nonymous,0,1
+rails/rails,davidcornu,David Cornu,1,1
+rails/rails,agis,Agis Anastasopoulos,0,3
+rails/rails,DougPuchalski,Doug Puchalski,0,2
+rails/rails,maratgaliev,Marat Galiev,0,3
+rails/rails,ctreatma,Charles Treatman,0,1
+rails/rails,kevbuchanan,Kevin Buchanan,0,1
+rails/rails,Drenmi,Ted Johansson,0,1
+rails/rails,carols10cents,Carol (Nichols || Goulding),0,1
+rails/rails,ronakjangir47,Ronak Jangir,4,35
+rails/rails,fleitz,Fred Leitz,0,1
+rails/rails,zachalewel,Zach,0,2
+rails/rails,tommyblue,Tommaso Visconti,0,1
+rails/rails,brauliobo,Bráulio Bhavamitra,0,1
+rails/rails,madej,,0,1
+rails/rails,mparramont,Miguel Parramón,0,1
+rails/rails,swaathi,Swaathi Kakarla,0,1
+rails/rails,AndyLampert,,0,1
+rails/rails,juanedi,Juan Edi,0,1
+rails/rails,tanmay3011,Tanmay Sinha,0,5
+rails/rails,tarzan,Maarten Jacobs,0,1
+rails/rails,b1nary,Roman Pramberger,0,1
+rails/rails,kentendo,Kenny Cosca,0,1
+rails/rails,neutronz,John Negron,0,3
+rails/rails,acapilleri,Angelo Capilleri,0,1
+rails/rails,esjee,,0,1
+rails/rails,s-aida,Shunsuke Aida,0,2
+rails/rails,prakashlaxkar,Prakash Laxkar,2,5
+rails/rails,pgeyleg,pema geyleg,0,1
+rails/rails,Seralto,Sérgio Toledo,0,1
+rails/rails,nburkley,Niall Burkley,0,1
+rails/rails,gregorym,Gregory,0,1
+rails/rails,sonalkr132,Aditya Prakash,0,1
+rails/rails,puneet24,Puneet Agarwal,0,1
+rails/rails,soutaro,Soutaro Matsumoto,0,1
+rails/rails,brandoncc,Brandon Conway,0,1
+rails/rails,jhsbeat,Hosang Jeon,0,1
+rails/rails,thiagoaugusto,Thiago Augusto,0,3
+rails/rails,mooreniemi,Alex Moore-Niemi,0,1
+rails/rails,keithgabryelski,Keith Gabryelski,0,2
+rails/rails,gdeglin,George Deglin,0,1
+rails/rails,joshuapinter,Joshua Pinter,0,1
+rails/rails,hmistry,Hiren Mistry,0,1
+rails/rails,masolin,Yen-Nan (Maso) Lin,0,1
+rails/rails,defektive,Bradley D,0,1
+rails/rails,v-yarotsky,Vlad Yarotsky,0,1
+rails/rails,anthonyfalzetti,Anthony Falzetti,0,1
+rails/rails,AvnerCohen,Avner Cohen,0,1
+rails/rails,sideshowcoder,Philipp Fehre,0,1
+rails/rails,lfittl,Lukas Fittl,0,2
+rails/rails,subelsky,Mike Subelsky,0,1
+rails/rails,deepj,,0,2
+rails/rails,designgrill,Anshul Agrawal,0,1
+rails/rails,lunks,Pedro Nascimento,0,1
+rails/rails,ihower,Wen-Tien Chang,0,1
+rails/rails,mgwidmann,Matt Widmann,0,2
+rails/rails,esiegel,Eric Siegel,0,1
+rails/rails,ravindrakumawat,Ravindra Kumawat,1,1
+rails/rails,Strech,Sergey Fedorov,0,1
+rails/rails,Vratislav,Vratislav Kalenda,0,1
+rails/rails,arvindmehra,Arvind Mehra,0,1
+rails/rails,codebaker95,Marek Pieczyk,0,2
+rails/rails,rusikf,Ruslan Korolev,0,2
+rails/rails,X0nic,Nathan Lee,0,1
+rails/rails,rodzyn,Marcin Olichwirowicz,7,8
+rails/rails,bernerdschaefer,Bernerd Schaefer,0,1
+rails/rails,benmmurphy,,0,1
+rails/rails,orlandoAppfolio,,0,1
+rails/rails,owenthereal,Owen Ou,0,1
+rails/rails,nicolasblanco,Nicolas Blanco,0,1
+rails/rails,sharmaansh21,Anshul Sharma,0,5
+rails/rails,totzyuta,Yuta Totz,0,1
+rails/rails,MarkMT,,0,1
+rails/rails,nielsbuus,Niels Buus,0,1
+rails/rails,manish-shrivastava,Manish shrivastava,0,1
+rails/rails,pda,Paul Annesley,0,1
+rails/rails,kishore-mohan,Kishore Mohan,0,1
+rails/rails,jashank,Jashank Jeremy,0,1
+rails/rails,EugZol,Eugene Zolotarev,0,1
+rails/rails,toobulkeh,Dan Moore,0,1
+rails/rails,leighhalliday,Leigh Halliday,0,1
+rails/rails,rousisk,Konstantinos Rousis,0,1
+rails/rails,shireeshj,Shireesh Jayashetty,0,2
+rails/rails,sjcoursera,,0,1
+rails/rails,wazery,Wazery,0,1
+rails/rails,mmontossi,Mathías Montossi,0,1
+rails/rails,dilpreet92,,0,1
+rails/rails,NehaGautam,,0,2
+rails/rails,agrimm,Andrew Grimm,0,1
+rails/rails,pik,Alexander Maznev,0,1
+rails/rails,olleicua,Sam Auciello,0,1
+rails/rails,brianhempel,Brian Hempel,0,1
+rails/rails,dirk,Dirk Gadsden,0,1
+rails/rails,EddM,Edd Morgan,0,1
+rails/rails,tylerholien,Tyler Holien,0,2
+rails/rails,ladygrach,Dmitry Grach,0,1
+rails/rails,rhc2104,Ronald Cheng,0,1
+rails/rails,shishi,Shigenobu Nishikawa,0,1
+rails/rails,theunraveler,Jake Bell,0,1
+rails/rails,jonahb,Jonah Burke,0,1
+rails/rails,hbin,Huang Bin,0,1
+rails/rails,CoralineAda,Coraline Ada Ehmke,0,1
+rails/rails,kmarekspartz,Kyle Marek-Spartz,0,1
+rails/rails,satomicchy,satomicchy,2,0
+rails/rails,vincefrancesi,Vince Francesi,1,0
+rails/rails,pdg137,Paul Grayson,1,0
+rails/rails,cmckni3,Chris McKnight,1,0
+rails/rails,akampjes,Andrew Kampjes,1,0
+rails/rails,ixkaito,Kite,2,0
+rails/rails,brooksreese,,1,0
+rails/rails,ferdinandrosario,Ferdy,1,0
+rails/rails,alietz,Andreas Lietz,1,0

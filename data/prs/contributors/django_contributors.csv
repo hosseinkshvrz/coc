@@ -1,0 +1,823 @@
+repository_url,user_login,user_name,n_pr_before_coc,n_pr_after_coc
+django/django,pope1ni,Nick Pope,0,63
+django/django,tvallois,,0,1
+django/django,hramezani,Hasan Ramezani,0,160
+django/django,mateoradman,Mateo Radman,0,2
+django/django,adamchainz,Adam Johnson,0,87
+django/django,fengsp,Shipeng Feng,0,3
+django/django,gmcrocetti,Guilherme Martins Crocetti,0,1
+django/django,jrief,Jacob Rief,0,4
+django/django,Nrestrepo05,Nicolás Restrepo,0,1
+django/django,mbrown1413,Michael Brown,0,2
+django/django,HMaker,Heraldo Lucena,0,1
+django/django,claudep,Claude Paroz,0,62
+django/django,cjerdonek,Chris Jerdonek,0,39
+django/django,smithdc1,David Smith,0,71
+django/django,horpto,,0,1
+django/django,pawl,Paul Brown,0,1
+django/django,jacobtylerwalls,Jacob Walls,0,35
+django/django,Ian-Foote,Ian Foote,0,5
+django/django,coderanger,Noah Kantrowitz,0,2
+django/django,rheard,Ryan Heard,0,3
+django/django,snamiki1212,Nash,0,1
+django/django,KimSoungRyoul,KimSoungRyoul,0,3
+django/django,tomhamiltonstubber,Tom Hamilton Stubber,0,2
+django/django,hannseman,Hannes Ljungberg,0,32
+django/django,tsaklidis,Stefanos I. Tsaklidis,0,1
+django/django,millerthegorilla,James Stewart Miller,0,1
+django/django,abbasidaniyal,Daniyal Abbasi,0,7
+django/django,manav014,,0,11
+django/django,charettes,Simon Charette,0,53
+django/django,tlebrize,tlebrize,0,1
+django/django,ahaywardtvuk,,0,1
+django/django,mlissner,Mike Lissner,0,4
+django/django,lbt,David Greaves,0,1
+django/django,rtpg,Raphael Gaschignard,0,1
+django/django,benwilber,Ben Wilber,0,1
+django/django,cammil,,0,1
+django/django,swright573,Susan Wright,0,4
+django/django,Tijani-Dia,,0,2
+django/django,HSNHK,MR HK,0,1
+django/django,juliangrube1988,jgr88,0,2
+django/django,gmjosack,gary,0,1
+django/django,vshih,Victor Shih,0,1
+django/django,atombrella,Mads Jensen,0,8
+django/django,shaib,Shai Berger,0,1
+django/django,fmwviormv,,0,1
+django/django,arthurio,Arthur Rio,0,3
+django/django,orf,Tom Forbes,0,17
+django/django,kshitijraghav,,0,6
+django/django,agalazis,Andreas Galazis,0,1
+django/django,jonathan-golorry,Jonathan,0,5
+django/django,MarkusH,Markus Holtermann,0,3
+django/django,timoguic,Tim G,0,1
+django/django,diego-lima,Diego Lima,0,2
+django/django,jonnythebard,Jonny Park,0,2
+django/django,manubb,Manuel Baclet,0,1
+django/django,albertosottile,Alberto Sottile,0,1
+django/django,tokibito,Shinya Okano,0,1
+django/django,baidoosik,Jordan Bae,0,3
+django/django,roaldnefs,Roald Nefs,0,1
+django/django,illia-v,Illia Volochii,0,5
+django/django,inglesp,Peter Inglesby,0,2
+django/django,a-feld,Allan Feldman,0,1
+django/django,francoisfreitag,François Freitag,0,26
+django/django,carltongibson,Carlton Gibson,0,70
+django/django,AlexHill,Alex Hill,0,2
+django/django,laymonage,sag᠎e,0,9
+django/django,jdufresne,Jon Dufresne,0,155
+django/django,ryowright,,0,1
+django/django,paveldroo,Pavel Druzhinin,0,1
+django/django,mdamien,Damien,0,2
+django/django,yagoulas,Giannis Adamopoulos,0,2
+django/django,Siburg,,0,1
+django/django,kozzztik,Konstantin Volkov,0,2
+django/django,boxed,Anders Hovmöller,0,5
+django/django,InvalidInterrupt,,0,2
+django/django,Andrew-Chen-Wang,Andrew Chen Wang,0,2
+django/django,apollo13,Florian Apolloner,0,16
+django/django,LomaxOnTheRun,Ben Lomax,0,1
+django/django,atodorov,Alexander Todorov,0,3
+django/django,ethanhowell,Ethan J. Howell,0,1
+django/django,demestav,Demetris Stavrou,0,1
+django/django,lothemar,Ahmad A. Hussein,0,9
+django/django,lsaavedr,Luis Saavedra,0,1
+django/django,antoinehumbert,Antoine Humbert,0,2
+django/django,WoLpH,Rick van Hattem,0,1
+django/django,ramiro,Ramiro Morales,0,3
+django/django,ChihSeanHsu,Chih Sean Hsu,0,1
+django/django,jleclanche,Jerome Leclanche,0,1
+django/django,TapanGujjar,,0,2
+django/django,dulmandakh,Dulmandakh,0,5
+django/django,drewbrew,Drew Winstel,0,1
+django/django,aryan9600,Sanskar Jaiswal,0,8
+django/django,mdisec,Mehmet INCE,0,2
+django/django,rfleschenberg,René Fleschenberg,0,5
+django/django,sanjioh,Fabio Sangiovanni,0,5
+django/django,fallen,Yann Sionneau,0,1
+django/django,blueyed,Daniel Hahler,0,8
+django/django,jwygoda,Jarosław Wygoda,0,1
+django/django,codingjoe,Johannes Maron,0,10
+django/django,v1kku,Victor Munene,0,3
+django/django,codeinthehole,David Winterbottom,0,1
+django/django,czpython,Paulo Alvarado,0,1
+django/django,tim-mccurrach,,0,11
+django/django,martsberger,B Martsberger,0,1
+django/django,cansarigol,Can Sarıgöl,0,5
+django/django,felixxm,Mariusz Felisiak,0,366
+django/django,Parth1811,Parth Patil,0,1
+django/django,ShingenPizza,Piotr Kunicki,0,1
+django/django,graingert,Thomas Grainger,0,2
+django/django,MahdiZareie,Mahdi Zareie,0,1
+django/django,ryanpetrello,Ryan Petrello,0,2
+django/django,bluetech,Ran Benita,0,1
+django/django,EmadMokhtar,Emad Mokhtar Elsayed Habib,0,1
+django/django,mpasternak,Michał Pasternak,0,1
+django/django,alexanderblnf,,0,1
+django/django,imomaliev,Sardorbek Imomaliev,0,1
+django/django,spookylukey,Luke Plant,0,2
+django/django,jannschu,,0,1
+django/django,funkybob,Curtis Maloney,0,2
+django/django,matthijskooijman,Matthijs Kooijman,0,8
+django/django,auvipy,Asif Saif Uddin,0,1
+django/django,tolomea,Gordon Wrigley,0,1
+django/django,dspechnikov,Dmitry Pechnikov,0,1
+django/django,knbk,Marten Kenbeek,0,1
+django/django,ubernostrum,James Bennett,0,1
+django/django,AliMuhammadOfficial,Ali Muhammad,0,1
+django/django,hmajid2301,Haseeb Majid,0,1
+django/django,freakboy3742,Russell Keith-Magee,0,1
+django/django,micro8086,,0,1
+django/django,Edald123,,0,1
+django/django,ekeydar,,0,1
+django/django,abresas,Aleksis Brezas,0,1
+django/django,Lucidiot,,0,1
+django/django,dvarrazzo,Daniele Varrazzo,0,1
+django/django,Pablo849,,0,1
+django/django,dbarnes18,,0,1
+django/django,timgraham,Tim Graham,0,47
+django/django,iurisilvio,Iuri de Silvio,0,8
+django/django,XtremeGood,Vishesh Mangla,0,1
+django/django,0proboy0,,0,1
+django/django,sushantg2001,,0,1
+django/django,saeedblanchette,,0,8
+django/django,kezabelle,Keryn Knight,0,2
+django/django,luzpaz,,0,1
+django/django,aryabartar,Arya Khaligh,0,1
+django/django,cooperlees,Cooper Lees,0,1
+django/django,yukihira1992,Takayuki Hirayama,0,2
+django/django,cHaLkdusT,Julius Lundang,0,1
+django/django,m-aciek,,0,1
+django/django,dsanders11,David Sanders,0,6
+django/django,abhiabhi94,Abhyudai,0,4
+django/django,ddimmich,Damian Dimmich,0,1
+django/django,igorkf,Igor Kuivjogi Fernandes,0,1
+django/django,The-Daishogun,Mohammadreza Varasteh,0,1
+django/django,ehsan-nzn-6,,0,1
+django/django,sih4sing5hong5,Sih Sîng-hông薛丞宏,0,1
+django/django,iamahuman,Jinoh Kang,0,1
+django/django,ngohoangyell,HoangYell,0,1
+django/django,hanbin8269,,0,1
+django/django,quinox,Ceesjan Luiten,0,1
+django/django,niloct,,0,1
+django/django,hyd493493,,0,1
+django/django,BenSturmfels,Ben Sturmfels,0,1
+django/django,yuekui,Yuekui,0,1
+django/django,kaj,Rasmus Kaj,0,1
+django/django,johnthagen,,0,1
+django/django,girishsontakke,Girish Sontakke,0,5
+django/django,nick-traeger,Nick Träger,0,2
+django/django,SlavaSkvortsov,,0,1
+django/django,Itay4,Itay Keren,0,1
+django/django,Chiorufarewerin,Chiorufarewerin,0,3
+django/django,vi3k6i5,Vikash Singh,0,1
+django/django,ventur40,David Ventura,0,1
+django/django,rohithpr,Rohith PR,0,4
+django/django,prechelt,Lutz Prechelt,0,1
+django/django,sabderemane,Sarah Abderemane,0,1
+django/django,jooadam,,0,1
+django/django,hervold,kieran hervold,0,1
+django/django,WheresAlice,Alice,0,1
+django/django,amureki,Rust Saiargaliev,0,1
+django/django,maviva,,0,1
+django/django,austinjhunt,Austin Hunt,0,1
+django/django,awais786,Awais Qureshi,0,1
+django/django,snowman2,Alan D. Snow,0,1
+django/django,simotwo,Simotwo Enock,0,2
+django/django,KangDo96,,0,1
+django/django,kukosk,Jakub Kleň,0,1
+django/django,pythonwood,pythonwood,0,2
+django/django,ecogels,,0,1
+django/django,Adrian-at-CrimsonAuzre,Adrian,0,2
+django/django,JulienPalard,Julien Palard,0,1
+django/django,Cup0fCoffee,,0,1
+django/django,laurent-brisbois,BRISBOIS Laurent,0,1
+django/django,David-Wobrock,David Wobrock,0,14
+django/django,kaushikk25,kaushik kothiya,0,1
+django/django,RyukerLiu,Allen Liu,0,1
+django/django,kalekseev,Konstantin Alekseev,0,3
+django/django,moriyoshi,Moriyoshi Koizumi,0,1
+django/django,Archmonger,,0,1
+django/django,mzjp2,Zain Patel,0,1
+django/django,sgelis,,0,1
+django/django,mmz2000,,0,1
+django/django,dreamfals,,0,1
+django/django,perry,Perry Roper,0,1
+django/django,ktaog6,Clumart.G,0,1
+django/django,dockerlink,,0,4
+django/django,75249,,0,1
+django/django,davidjb,David Beitey,0,3
+django/django,aaronwash99,,0,1
+django/django,superpenguin1000,nemsis,0,1
+django/django,exec-life,,0,1
+django/django,bodbdigr,Valery Jadlovsky,0,1
+django/django,kxtells,Jordi Castells,0,1
+django/django,jaap3,Jaap Roes,0,1
+django/django,paris-ci,Arthur,0,1
+django/django,collinanderson,Collin Anderson,0,4
+django/django,matthiask,Matthias Kestenholz,0,12
+django/django,tirkarthi,Karthikeyan Singaravelan,0,1
+django/django,aryan340,Aryan Iyappan,0,1
+django/django,razeghi71,Mohammad Razeghi,0,2
+django/django,xi,Tobias Bengfort,0,2
+django/django,asadlive84,Asaduzzaman Sohel,0,1
+django/django,uri-rodberg,אורי,0,3
+django/django,mahendrarathore1742,Mahendra Singh Rathore,0,1
+django/django,Ngapa,,0,1
+django/django,asaf-kali,Asaf Kali,0,1
+django/django,saiabhinesh,majety sai abhinesh,0,1
+django/django,mertgunay,Mert Günay,0,1
+django/django,yyyyyyyan,yyyyyyyan,0,1
+django/django,wkschwartz,William Schwartz,0,8
+django/django,Nazzaris,,0,1
+django/django,Salam-cte,,0,1
+django/django,arcanemachine,,0,1
+django/django,makcodeir,abolfazl,0,1
+django/django,thorrak,John,0,1
+django/django,cachitas,Hugo Cachitas,0,1
+django/django,kaocher82,kaocher,0,3
+django/django,sreehari1997,SREEHARI K.V,0,1
+django/django,jnns,Jannis Vajen,0,1
+django/django,simonw,Simon Willison,0,2
+django/django,fdemmer,Florian Demmer,0,3
+django/django,alexdutton,Alex Dutton,0,1
+django/django,devkapilbansal,Kapil Bansal,0,1
+django/django,AdamDonna,,0,4
+django/django,alexdeathway,Alex ,0,1
+django/django,bmispelon,Baptiste Mispelon,0,22
+django/django,knaperek,Jozef,0,1
+django/django,nE0sIghT,Yuri Konotopov,0,1
+django/django,Bookinlog,Oibiv,0,1
+django/django,tiagohonorato,,0,1
+django/django,caramdache,,0,1
+django/django,rpnunez,Raymond Nunez,0,1
+django/django,shinoyasan,,0,1
+django/django,starryrbs,,0,4
+django/django,GitHubDragonFly,,0,1
+django/django,mimi89999,Michel Le Bihan,0,5
+django/django,KommuSoft,Willem Van Onsem,0,3
+django/django,NiyazNz,Niyaz,0,1
+django/django,darynaishchenko,,0,1
+django/django,Men770,Men770,0,1
+django/django,fmalina,F. Malina,0,1
+django/django,jackaitken,Jack,0,3
+django/django,chrisspen,Chris Spencer,0,1
+django/django,mstoncel,Mesut Öncel,0,1
+django/django,Uday-kiran007,,0,12
+django/django,tkoschnick,,0,2
+django/django,camilonova,Camilo Nova,0,1
+django/django,kschingiz,Shynggys,0,1
+django/django,mkjpryor-stfc,Matt Pryor,0,1
+django/django,huakkai,HuaQiang Yan,0,1
+django/django,gasparb16,Bence Gaspar,0,1
+django/django,hakib,Haki Benita,0,1
+django/django,AlexVerschoot,Alex Verschoot,0,1
+django/django,marcgibbons,Marc Gibbons,0,1
+django/django,berycz,BeryCZ,0,2
+django/django,johanneswilm,Johannes Wilm,0,1
+django/django,MajidHeydari,Majid,0,1
+django/django,Garvit-01,,0,2
+django/django,juwaini,Muhammad Juwaini,0,1
+django/django,ramonsaraiva,Ramon Saraiva,0,1
+django/django,egism,,0,1
+django/django,imkaka,Anil Khatri,0,2
+django/django,theSinner,Amir Ajorloo,0,1
+django/django,raysultan,Qais Khan,0,1
+django/django,angusholder,Angus Holder,0,2
+django/django,gabbyprecious,gabbyprecious,0,4
+django/django,CorneelHollebrandse,,0,1
+django/django,Amansingh1202,Amankumar Singh,0,1
+django/django,Jeet-programmer,Jeet Ghosh,0,1
+django/django,trybik,,0,1
+django/django,FireFighterer,ZanQiao,0,1
+django/django,DanielSwain,Dan Swain,0,3
+django/django,kobus-v-schoor,Kobus van Schoor,0,1
+django/django,Uttam-Singhh,Uttam Singh,0,1
+django/django,bsolomon1124,Brad Solomon,0,2
+django/django,myl7,myl7,0,1
+django/django,thomas545,Thomas Adel,0,1
+django/django,vpoulailleau,Vincent Poulailleau,0,1
+django/django,agarwalutkarsh554,Utkarsh Agarwal,0,1
+django/django,Alimov-8,Abdullokh Alimov,0,1
+django/django,rsp2k,,0,2
+django/django,skulden13,Denis Skulimovskiy,0,1
+django/django,jerinpetergeorge,Jerin Peter George,0,2
+django/django,mrseyfi,mehrdad seyfi houjaghan,0,1
+django/django,elmcrest,Marius Räsener,0,1
+django/django,knyghty,Tom Carrick,0,11
+django/django,adontz,,0,2
+django/django,manelclos,Manel Clos,0,2
+django/django,guettli,Thomas Güttler,0,2
+django/django,youguanxinqing,Guan,0,4
+django/django,danielebra,Daniel Ebrahimian,0,1
+django/django,cpina,Carles Pina Estany,0,5
+django/django,sacovo,Sandro Covo,0,1
+django/django,pganssle,Paul Ganssle,0,2
+django/django,MilovanovM,Maxim Milovanov,0,2
+django/django,muskanvaswan,Muskan Vaswan,0,1
+django/django,hashlash,,0,3
+django/django,niauah,,0,1
+django/django,parsampsh,parsa shahmaleki,0,1
+django/django,grabov,Viktor Grabov,0,1
+django/django,gilmrjc,Gildardo Adrian Maravilla Jacome,0,1
+django/django,dpp-name,dpp,0,1
+django/django,trulex,Darko Janković,0,1
+django/django,sujeetkulkarni,Sujeet Kulkarni,0,1
+django/django,chessmaster04,Boris,0,2
+django/django,Akshat1Nar,Akshat Dixit,0,1
+django/django,chinmoy12c,Chinmoy,0,3
+django/django,maxschmi,,0,1
+django/django,craigiansmith,Craig Smith,0,5
+django/django,pauloxnet,Paolo Melchiorre,0,3
+django/django,joshuapatel,,0,1
+django/django,parruc,Matteo Parrucci,0,1
+django/django,mh-firouzjaah,Mahdi Firouzjaah,0,1
+django/django,rdaysky,Roman Odaisky,0,1
+django/django,Abhishek01039,Abhishek Ghaskata,0,1
+django/django,AlexeyNigin,,0,1
+django/django,ayu023ban,Ayush Bansal,0,1
+django/django,kevinmarsh,Kevin Marsh,0,1
+django/django,ghost,Deleted user,0,2
+django/django,jieter,Jan Pieter Waagmeester,0,1
+django/django,cool-hammer,,0,1
+django/django,rolandgeider,Roland Geider,0,1
+django/django,libokj,,0,1
+django/django,qiaoyafeng,qiao yafeng,0,1
+django/django,jimxie28,Qihao(Jim) Xie,0,1
+django/django,reergymerej,ᴙɘɘᴙgYmɘᴙɘj,0,1
+django/django,PetterS,Petter Strandmark,0,5
+django/django,timoludwig,Timo Ludwig,0,1
+django/django,nvn01234,Nguyễn Văn Nhật,0,1
+django/django,imrejonk,Imre Jonk,0,1
+django/django,oduvan,Alexander Lyabah,0,1
+django/django,vainu-arto,,0,1
+django/django,nwjlyons,Neil Lyons,0,1
+django/django,TurnrDev,Jay Turner,0,1
+django/django,An-dz,André Zanghelini,0,1
+django/django,Isaccchoi,JiHyun Choi,0,1
+django/django,changeling,,0,1
+django/django,verhovsky,Борис Верховский,0,3
+django/django,Blackeyeforreal,,0,7
+django/django,Ina02,Ina,0,1
+django/django,hatttfu,Galiya Kamalova,0,1
+django/django,Flimm,David D Lowe,0,1
+django/django,mohsnMohsni,Mohsn Mohsni,0,1
+django/django,seamus-quinn,Seamus Quinn,0,1
+django/django,ryanhunter1836,Ryan Hunter,0,1
+django/django,4geru,koichi uchinishi ,0,1
+django/django,hackerkid,Vishnu Ks,0,1
+django/django,galanteria01,Shoury Sharma,0,1
+django/django,gnbezerra,George Bezerra,0,1
+django/django,itisDouglas,Douglas Cueva Jr,0,1
+django/django,nayan10102,Nayan Sharma,0,1
+django/django,bartonip,Barton Ip,0,2
+django/django,chezihp,,0,1
+django/django,MasonEgger,Mason Egger,0,1
+django/django,shifoumy,Adrien,0,1
+django/django,christopherjwang,Christopher Wang,0,1
+django/django,absci,Sicong,0,1
+django/django,chrisxkeith,Christopher Keith,0,1
+django/django,patrick91,Patrick Arminio,0,1
+django/django,boatcoder,Mark Jones,0,1
+django/django,19mddil,Md.Dilshadul Islam ,0,1
+django/django,bradykieffer,Brady Kieffer,0,1
+django/django,sobolevn,Nikita Sobolev,0,4
+django/django,kwist-sgr,Vitaliy Yelnik,0,4
+django/django,jolob5l,,0,1
+django/django,nan-avan-alla,nan-avan-alla,0,1
+django/django,terrameijar,Vuyisile Ndlovu,0,1
+django/django,kluchrj,Christian Klus,0,1
+django/django,thatnerdjosh,Josh Santos,0,2
+django/django,saemideluxe,Sam,0,1
+django/django,x931890193,saint,0,1
+django/django,zh-artykbay,,0,1
+django/django,xncbf,Joon Hwan 김준환,0,2
+django/django,ojayyezzir,Jae Joon Kim,0,1
+django/django,pandafy,Gagan Deep,0,1
+django/django,JEphron,Jordan Ephron,0,1
+django/django,proggga,Mikhail Fesenko,0,2
+django/django,sulochanaviji,Vijayalakshmi,0,1
+django/django,dokgeppo,,0,1
+django/django,nguyenyou,Nguyen You,0,2
+django/django,stmiller14,,0,1
+django/django,fkoester,Fabian Köster,0,1
+django/django,parsa-rahbari-82,parsa rahbari,0,1
+django/django,operi,,0,2
+django/django,ajaydubeyy,,0,1
+django/django,oba211,Pushpa D kale,0,1
+django/django,tienne-B,Étienne Beaulé,0,2
+django/django,caioariede,Caio Ariede,0,7
+django/django,hpoul,Herbert Poul,0,1
+django/django,Sagnik220,Sagnik Mukherjee,0,1
+django/django,Vijay-Giri,Vijay Giri,0,1
+django/django,FaizalM0317,Faizal Mansuri,0,1
+django/django,jsmrcaga,Jo Colina,0,1
+django/django,ayushigoyal2840,Ayushi goel,0,1
+django/django,vainisha,,0,1
+django/django,ArjunVaskale,,0,1
+django/django,bendavis78,Ben Davis,0,1
+django/django,shivams906,shivam sharma,0,1
+django/django,marcorichetta,Marco Richetta,0,1
+django/django,akx,Aarni Koskela,0,3
+django/django,pallav10,Pallav Parikh,0,2
+django/django,sandes,,0,2
+django/django,dadwalakshay,Akshay Dadwal,0,1
+django/django,mick88,Michal Dabski,0,1
+django/django,alosultan,Sultan,0,5
+django/django,nik258heda,,0,1
+django/django,tim-schilling,Tim Schilling,0,2
+django/django,thomas-riccardi,Thomas Riccardi,0,1
+django/django,yashaggarwal03,Yash Aggarwal,0,1
+django/django,kilrogg,Benjamin Richter,0,1
+django/django,ZhaoQi99,Qi Zhao,0,1
+django/django,graup,Paul Grau,0,1
+django/django,Urth,Harm Geerts,0,1
+django/django,msmolens,Max Smolens,0,1
+django/django,9EOR9,Georg Richter,0,1
+django/django,bobbyrenwick,Bob Renwick,0,1
+django/django,thibaudcolas,Thibaud Colas,0,3
+django/django,cgl,Çağıl,0,1
+django/django,alpuks,,0,1
+django/django,mahima2112,Mahima Chugh,0,1
+django/django,MAHANTH-wq,,0,3
+django/django,1-23-smy,Soumya Ranjan Das,0,1
+django/django,pixamentory,PIXAMENTORY,0,1
+django/django,Codes-Talent,Prashant Kumar Gupta,0,1
+django/django,arkprocoder,,0,1
+django/django,tari,Peter Marheine,0,1
+django/django,Rahul0521,Rahul Kumar Yadav,0,1
+django/django,aalvrz,Andrés Álvarez,0,1
+django/django,bungoume,ume,0,1
+django/django,RigvedBansal,Rigved Bansal,0,1
+django/django,asnelling,Addison Snelling,0,1
+django/django,meghanabhange,meghanabhange,0,1
+django/django,MartinThoma,Martin Thoma,0,1
+django/django,pawelzar,Paweł Zarębski,0,1
+django/django,ben-bitdotio,Ben Brooks,0,1
+django/django,rsalmaso,Raffaele Salmaso,0,2
+django/django,315xiaoyao,,0,1
+django/django,ilyachch,Ilya Chichak,0,1
+django/django,BenAwad95,Abdullah Awad,0,1
+django/django,samiazam00,Samreen Azam,0,1
+django/django,S2606,Shagun Khemka,0,1
+django/django,twocucao,HylaruCoder,0,1
+django/django,janosroden,Janos Roden,0,1
+django/django,kingbuzzman,Javier Buzzi,0,1
+django/django,LivingInABubble,Alek,0,1
+django/django,Awawdi,,0,1
+django/django,jehato47,jehat armanç deniz,0,1
+django/django,me2d09,Petr Čermák,0,1
+django/django,007gzs,,0,10
+django/django,franciscouzo,Francisco Couzo,0,1
+django/django,christasa,Christa,0,1
+django/django,VladMasarik,Vladimir Masarik,0,1
+django/django,plainspooky,Giovanni Nunes,0,1
+django/django,niteshsinha17,Nitesh Sinha,0,1
+django/django,mavriq,,0,1
+django/django,shahshivam058,Shivam shah,0,2
+django/django,tjj021,,0,1
+django/django,jpribyl,Johnny Pribyl,0,1
+django/django,adursun,Abdullah Dursun,0,1
+django/django,timpark0807,Tim Park,0,5
+django/django,joeyjoejoejr,Joe Jackson,0,1
+django/django,alexmv,Alex Vandiver,0,1
+django/django,pdewacht,Peter De Wachter,0,1
+django/django,marcosazcona00,marcosazcona00,0,1
+django/django,Priyansh2001here,,0,2
+django/django,jmfederico,Federico Jaramillo Martínez,0,2
+django/django,koendewit,Koen De Wit,0,1
+django/django,philgyford,Phil Gyford,0,1
+django/django,meggles711,,0,1
+django/django,homm,Alexander Karpinsky,0,1
+django/django,Rombora,,0,1
+django/django,jlaine,Jeremy Lainé,0,1
+django/django,CleitonDeLima,Cleiton de Lima,0,1
+django/django,kmichel2,Kevin Michel,0,1
+django/django,brianhelba,Brian Helba,0,1
+django/django,kc611,Kaustubh,0,2
+django/django,ninad-k,Ninad Kulkarni,0,2
+django/django,mgaller,Michael Galler,0,1
+django/django,fisadev,Juan Pedro Fisanotti,0,2
+django/django,manuelsh,Manuel,0,1
+django/django,endersonmenezes,Enderson Menezes,0,1
+django/django,RJPercival,Rob Percival,0,1
+django/django,maximpetrov,Maxim Petrov,0,1
+django/django,GProst,German Prostakov,0,1
+django/django,ibrag8998,Ibrahim,0,1
+django/django,alvinshaita,Alvin Shaita,0,1
+django/django,sdybreams,Sydney Bermas,0,1
+django/django,edelgm6,Garrett Edel,0,1
+django/django,sjansen,Stuart Jansen,0,1
+django/django,zubairhassan652,Zubair Hassan,0,1
+django/django,vonafor,Yan Mitrofanov,0,1
+django/django,fpoulain,François Poulain,0,1
+django/django,patgarcia,Patricio,0,1
+django/django,michalmit,,0,1
+django/django,wontonst,Roy Zheng,0,1
+django/django,xuxinwen,xinwen,0,1
+django/django,artemowkin,Artyom,0,1
+django/django,danifus,Daniel Hillier,0,1
+django/django,GertBurger,Gert Burger,0,2
+django/django,adamalton,Adam Alton,0,1
+django/django,b0uh,Thomas Loiret,0,1
+django/django,pgjones,Phil Jones,0,1
+django/django,duducp,Carlos Eduardo,0,1
+django/django,rogerlindberg,,0,1
+django/django,marcelovicentegc,Marcelo Cardoso,0,1
+django/django,bellini666,Thiago Bellini Ribeiro,0,1
+django/django,daniloaldm,Danilo Alexandrino,0,1
+django/django,Neob91,Andrzej Bartosiński,0,1
+django/django,sir-sigurd,Sergey Fedoseev,0,30
+django/django,Valerich,Yakov Istomin,0,1
+django/django,alyyasser19,Aly Hegazy,0,1
+django/django,HarpreetSharma07,,0,2
+django/django,v-gar,Viktor Garske,0,1
+django/django,LincolnPuzey,,0,1
+django/django,krystofbe,Krystof Beuermann,0,1
+django/django,parth-verma,Parth Verma,0,1
+django/django,bukowa,Buk Bukowski,0,1
+django/django,rahnama72,,0,1
+django/django,JCiroR,Juan Manuel Ciro,0,1
+django/django,davidchorpash,David Chorpash,0,3
+django/django,Rustam95Ur,Rustam,0,1
+django/django,nimctl,Nima Mashhadi M. Reza,0,1
+django/django,ccatterina,Claudio Catterina,0,1
+django/django,erictheise,Eric Theise,0,1
+django/django,jpic,jpic ∞,0,1
+django/django,KavinKaviarasan1,,0,1
+django/django,kosc,kosc,0,1
+django/django,drzhk,Anton Dorozhko,0,1
+django/django,Ravindar24,Ravindar Sharma,0,1
+django/django,srinivasreddy,Srinivas Reddy Thatiparthy (శ్రీనివాస్  రెడ్డి తాటిపర్తి),0,1
+django/django,resuls,Resul,0,1
+django/django,PluckyPrecious,Kelechi Precious Nwachukwu,0,1
+django/django,priyanshsaxena,Priyansh Saxena,0,1
+django/django,eugene-kulak,Eugene K,0,1
+django/django,mebdivio,Meb,0,1
+django/django,raajtilaksarma,Raaj Tilak Sarma,0,2
+django/django,raman934,Raman Gandhi,0,1
+django/django,jheld,Jason Held,0,1
+django/django,1110sillabo,,0,1
+django/django,Mopsan,,0,1
+django/django,ryanhiebert,Ryan Hiebert,0,1
+django/django,awtimmering,Ad Timmering,0,1
+django/django,tomleo,Tom,0,1
+django/django,saykharng,Shekhar Gyanwali,0,1
+django/django,darakian,Jon Moroney,0,3
+django/django,CheungChan,阿章,0,1
+django/django,axil,Lev Maximov,0,2
+django/django,mistralbkru,Vlad,0,1
+django/django,wxh06,"汪心禾 Wang, Xinhe",0,1
+django/django,knixeur,Guillermo Bonvehí,0,2
+django/django,tsyplakou,,0,1
+django/django,Developermayank,Mayank Singhal,0,1
+django/django,rico-ci,Riccardo,0,1
+django/django,marceltschoppch,Marcel Tschopp,0,1
+django/django,youssef02,Youssef Arrassen,0,1
+django/django,excursus,,0,1
+django/django,thesteve0,Steven Pousty,0,1
+django/django,jayvdb,John Vandenberg,0,1
+django/django,ababic,Andy Babic,0,1
+django/django,orfeasa,Orfeas Antoniou,0,1
+django/django,john-parton,John Parton,0,1
+django/django,ObliviousParadigm,Adarsh Shetty,0,3
+django/django,sebashwa,,0,1
+django/django,tuky,Tobias Krönke,0,1
+django/django,jithintomz,,0,1
+django/django,SergBobrovsky,,0,3
+django/django,sturmf,Fabian Sturm,0,1
+django/django,schyffel,Johan Schiff,0,1
+django/django,wlonk,Kit La Touche,0,1
+django/django,chocobn69,chocobn69,0,1
+django/django,spachev,Sasha Pachev,0,1
+django/django,Zorking,Vadim Fabrichnov,0,1
+django/django,theosotr,Thodoris Sotiropoulos,0,1
+django/django,HarshaVardhan16,Harsha Vardhan Rajanala,0,1
+django/django,ayj412,YJ,0,1
+django/django,Chris-May,Chris May,0,1
+django/django,IT-Anthony,Mairien Anthony,0,1
+django/django,thmsrmbld,thomaskr,0,1
+django/django,alixleger,Alix,0,2
+django/django,alextatarinov,Alexandr Tatarinov,0,2
+django/django,massover,Joshua Massover,0,2
+django/django,lquenti,Lars Quentin,0,1
+django/django,Lotram,Laurent Tramoy,0,1
+django/django,minusf,,0,5
+django/django,Scotchester,Scott Cranfill,0,2
+django/django,manfre,Michael Manfre,0,1
+django/django,xrmx,Riccardo Magliocchetti,0,1
+django/django,DeveshKumar24,DeveshKumar,0,1
+django/django,frnhr,Fran Hrženjak,0,1
+django/django,kjpc-tech,Kyle,0,1
+django/django,mikkac,Mikolaj Kaczmarek,0,1
+django/django,aimanhafeez04,,0,1
+django/django,dinceraslancom,,0,1
+django/django,tapiorantala,Tapio Rantala,0,1
+django/django,OldSneerJaw,Joel,0,1
+django/django,yahya-abou-imran,Alexandre Poitevin,0,1
+django/django,jfbeltran97,,0,2
+django/django,yash-saini275,Yash Saini,0,2
+django/django,drangovski,Bojan Drangovski,0,1
+django/django,ovkulkarni,Omkar Kulkarni,0,2
+django/django,jigneshkotadiya000,Jignesh Kotadiya,0,4
+django/django,scop,Ville Skyttä,0,1
+django/django,rahulkp220,Rahul ,0,1
+django/django,ChrisBurch,Chris Burchhardt,0,1
+django/django,RasmusWL,Rasmus Wriedt Larsen,0,1
+django/django,gqqnbig,QQ喵,0,1
+django/django,pdecol,,0,1
+django/django,psiisyapk,,0,1
+django/django,MyungSeKyo,oliver,0,1
+django/django,thenewguy,,0,5
+django/django,markkorput,Mark,0,2
+django/django,AdrianDAlessandro,Adrian D'Alessandro,0,1
+django/django,crazyzubr,,0,1
+django/django,alasaga,,0,1
+django/django,campenr,Richard Campen,0,1
+django/django,vttn,Victor Ndambakuwa,0,1
+django/django,wtkm11,,0,1
+django/django,chosak,Andy Chosak,0,1
+django/django,tanmayvijay,Tanmay Vijay,0,1
+django/django,dongmyoung6053,DongMyoung KIM,0,1
+django/django,onurmatik,onur mat,0,1
+django/django,artemkonev,Artem Konev,0,1
+django/django,NeoXtreme,Maruti N Sharma,0,1
+django/django,hassaanaliw,Hassaan Ali Wattoo,0,1
+django/django,nanlliu,Nan Liu,0,1
+django/django,leonardotrp,Leonardo Pereira,0,1
+django/django,krnr,,0,1
+django/django,marload,Wansoo Kim,0,1
+django/django,kaedroho,Karl Hobley,0,1
+django/django,intgr,Marti Raudsepp,0,1
+django/django,phith0n,phithon,0,1
+django/django,sunilprasad071998,,0,1
+django/django,samyakgaur,Samyak Gaur,0,1
+django/django,andrewgodwin,Andrew Godwin,0,2
+django/django,rohitjha941,Rohit Jha,0,3
+django/django,ichlaffterlalu,Ichlasul Affan,0,3
+django/django,olivierdalang,Olivier Dalang,0,1
+django/django,vvs31415,,0,1
+django/django,SebCorbin,Sébastien Corbin,0,1
+django/django,dgcgh,,0,2
+django/django,karansthr,Karan Suthar,0,1
+django/django,kravietz,Paweł Krawczyk,0,1
+django/django,fjy202,,0,2
+django/django,ProProgrammer,Deep Sukhwani,0,2
+django/django,GregKaleka,Greg Kaleka,0,2
+django/django,sks444,Shrikrishna Singh,0,2
+django/django,zvolsky,Zvolský,0,1
+django/django,undefinedlau,,0,1
+django/django,c-bata,Masashi Shibata,0,1
+django/django,zriv,,0,1
+django/django,ycv005,Yash Chandra Verma,0,1
+django/django,infosrabah,,0,3
+django/django,victorcmoura,Victor Moura,0,1
+django/django,xanthoc,,0,1
+django/django,likaozheng,Carl Lee,0,1
+django/django,xaircore,Dmitry Dubenets,0,1
+django/django,Dharamvirsingh1,,0,1
+django/django,NonCover,,0,1
+django/django,FlipperPA,Timothy Allen,0,1
+django/django,jay20162016,,0,1
+django/django,evancasey1,Evan Casey,0,1
+django/django,gowthamk63,Gowtham Kommineni,0,3
+django/django,TaTRaTa,Tsvetomir Ivanov,0,1
+django/django,abhijeetviswa,Abhijeet,0,8
+django/django,ChetanKhanna,Chetan Khanna,0,3
+django/django,radwon,Adam Radwon,0,1
+django/django,uskudnik,Urban Škudnik,0,1
+django/django,shankarj67,Shankar Jha,0,1
+django/django,davidszotten,David Szotten,0,1
+django/django,ndtretyak,Nikolay Tretyak,0,1
+django/django,w3b-net-au,James Young,0,2
+django/django,HansAarneLiblik,Hans Aarne Liblik,0,1
+django/django,cmackenziek,Cristóbal Mackenzie,0,1
+django/django,ngotienthang,,0,2
+django/django,dorosch,Andrey Doroschenko,0,2
+django/django,kimbo,Kimball Leavitt,0,1
+django/django,matheuscmotta,Matheus Cunha Motta,0,2
+django/django,jonatron,,0,1
+django/django,cool-RR,Ram Rachum,0,5
+django/django,Taoup,,0,7
+django/django,TheoHd,Octano,0,1
+django/django,YooInKeun,Yoo In Keun,0,1
+django/django,vdboor,Diederik van der Boor,0,1
+django/django,Saduk0,,0,1
+django/django,Qu4tro,Xavier Francisco,0,1
+django/django,PeterZhukov,Peter Zhukov,0,1
+django/django,kinkerl,Dennis Schwertel,0,1
+django/django,yurasavin,Savin,0,1
+django/django,JAugusto42,José Augusto,0,1
+django/django,csandreas1,,0,1
+django/django,Pratik1999,,0,1
+django/django,thewolfcommander,Manoj Pawan Tyagi,0,1
+django/django,Lh4cKg,Lasha Gogua,0,1
+django/django,joeGannuscio,Joe Gannuscio,0,1
+django/django,ad-m,Adam Dobrawy,0,1
+django/django,tnir,Takuya N,0,1
+django/django,kolomenkin,Sergey Kolomenkin,0,1
+django/django,adamb70,Adam Boaler,0,1
+django/django,Vibhu-Agarwal,Vibhu Agarwal,0,2
+django/django,shankarThiyagaraajan,Shankar Thiyagaraajan,0,1
+django/django,keshav2212,Keshav Kumar,0,2
+django/django,coltonbh,Colton Hicks,0,2
+django/django,MinchinWeb,,0,1
+django/django,Hisham-Pak,Hisham Mahmood,0,1
+django/django,MaqOwais,Maq_Owais,0,1
+django/django,frost-nzcr4,Alexander Pervakov,0,1
+django/django,roysmith,Roy Smith,0,1
+django/django,devsaurabhdubey,Saurabh Dubey,0,1
+django/django,mulhollandms,Michael Mulholland,0,1
+django/django,math-a3k,Rodrigo,0,2
+django/django,hs-matt,Matthew Schulkind,0,1
+django/django,HackoDev,Eugene Hatsko,0,1
+django/django,julienr,Julien Rebetez,0,1
+django/django,imrshu,Rishabh Verma,0,1
+django/django,coinclear-uk,coinclear,0,1
+django/django,ferrants,Matt Ferrante,0,3
+django/django,unibamonash,,0,1
+django/django,dbxnr,,0,2
+django/django,AnaelMobilia,Anael Mobilia,0,1
+django/django,amritb,Amrit Bera,0,1
+django/django,bragradon,Brandon Navra,0,1
+django/django,orlnub123,,0,1
+django/django,aaugustin,Aymeric Augustin,0,1
+django/django,owenh000,Owen T. Heisler,0,1
+django/django,mschaffenroth,Moritz Schaffenroth,0,1
+django/django,KHMANJUNATH,KHMANJUNATH,0,3
+django/django,Someoneece,,0,1
+django/django,quique,Enrique Matías Sánchez,0,1
+django/django,codeitTeacher,,0,1
+django/django,ShubhamSingh20,shubham singh ,0,4
+django/django,maryaB-osr,Marya Belanger,0,1
+django/django,aliva,Ali Vakilzade,0,1
+django/django,gpopides,,0,1
+django/django,morugu,Shoya Shiraki,0,1
+django/django,P-Seebauer,,0,1
+django/django,SunshingYang,,0,1
+django/django,leollon,leollon,0,1
+django/django,CodeMonkey-42,Nivedita,0,1
+django/django,suryatejabandlamudi,Surya Teja,0,1
+django/django,myusko,Mykhailo Yusko,0,1
+django/django,Crocmagnon,Gabriel Augendre,0,1
+django/django,Sjbrgsn,,0,1
+django/django,jesusredondo,Jesús Redondo García,0,1
+django/django,eastface,Mark Bailey,0,1
+django/django,ozata,,0,2
+django/django,zeyneloz,zeynel ozdemir,0,1
+django/django,jamesturk,James Turk,0,1
+django/django,botanicvelious,,0,1
+django/django,oysterbank,Kris Laratta,0,1
+django/django,PeteAndersen,Peter Andersen,0,1
+django/django,AliMirlou,Ali Mirlou,0,1
+django/django,iriptheskin,,0,1
+django/django,gizmondo,Alex Aktsipetrov,0,1
+django/django,sunsongpy,Sun Song,0,1
+django/django,jsals1,,0,2
+django/django,farhaanbukhsh,Farhaan Bukhsh,0,5
+django/django,fredrikmalmfors,Fredrik Malmfors,0,1
+django/django,tomturner,Tom Turner,0,1
+django/django,tony,Tony Narlock,0,1
+django/django,Iazzetta,Guilherme IA,0,1
+django/django,uttamk,Uttam Kini,0,1
+django/django,xenomuta,Rilke Petrosky Ulloa,0,1
+django/django,ryancheley,Ryan Cheley,0,2
+django/django,jbowen7,John Bowen,0,1
+django/django,jcushman,Jack Cushman,0,1
+django/django,kevin-brown,Kevin Brown,0,2
+django/django,saad-alsaad,Saad Alsaad,0,2
+django/django,tmszi,Tomas Zigo,0,2
+django/django,farooqaaa,Farooq Azam,0,1
+django/django,philippbosch,Philipp Bosch,0,1
+django/django,StavoR42,Michael Korobov,0,1
+django/django,amnesik,,0,1
+django/django,NewRGB,Amber,0,1
+django/django,rin-amezquita,Rin Amézquita,0,1
+django/django,lucassobfer,,0,1
+django/django,georgemarshall,George Marshall,0,1
+django/django,lukaszb,Lukasz Balcerzak,0,1
+django/django,tale-legend,,0,1
+django/django,schinckel,Matthew Schinckel,0,1
+django/django,stephenrauch,Stephen Rauch,0,1
+django/django,kola-er,Kola Erinoso,0,2
+django/django,danthedeckie,Daniel,0,1
+django/django,countermeasure,Sky,0,1
+django/django,astarrh,,0,1
+django/django,gforcada,Gil Forcada Codinachs,0,1
+django/django,schwtyl,Tyler Schwartz,0,1
+django/django,aericson,André Ericson,0,2
+django/django,bennofs,Benno Fünfstück,0,1
+django/django,alasdairnicol,Alasdair Nicol,0,1
+django/django,ErwinJunge,Erwin Junge,0,1
+django/django,KenWhitesell,Ken Whitesell,0,1
+django/django,pax0r,Bartłomiej Biernacki,0,1
+django/django,paveldedik,Pavel Dedik,0,1
+django/django,nikolas,,0,1
+django/django,Rusox89,Antonio Dudarev,0,1
+django/django,Djailla,Bastien Vallet,0,1
+django/django,kemu3007,k-murakawa,0,1
+django/django,davidfstr,David Foster,0,1
+django/django,pahaz,Pavel White,0,1
+django/django,ethan92429,Ethan Keller,0,1
+django/django,felipe-lee,Felipe Lee,0,1
+django/django,HassanKadhem,,0,3
