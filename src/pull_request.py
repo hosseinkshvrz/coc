@@ -1,4 +1,5 @@
 import json
+import math
 import os
 import pandas as pd
 import numpy as np
@@ -36,12 +37,46 @@ class PullRequest:
 
         return result_df
 
+    def set_periods(self, df):
+        start_dates, end_dates = [], []
+        last_date = datetime.datetime(2021, 6, 8)
+        adoption_dates = df['adoption_date'].tolist()
+        creation_dates = df['creation_date'].tolist()
+        for i in range(len(adoption_dates)):
+            a = adoption_dates[i]
+            c = creation_dates[i]
+            if isinstance(a, str):
+                adoption = datetime.datetime.strptime(a, '%Y-%m-%d %H:%M:%S')
+                creation = datetime.datetime.strptime(c, '%Y-%m-%d %H:%M:%S')
+                if last_date - adoption == adoption - creation:
+                    start_dates.append(creation.strftime('%Y-%m-%d %H:%M:%S'))
+                    end_dates.append(last_date.strftime('%Y-%m-%d %H:%M:%S'))
+                elif last_date - adoption < adoption - creation:
+                    diff = last_date - adoption
+                    start_dates.append((adoption - diff).strftime('%Y-%m-%d %H:%M:%S'))
+                    end_dates.append(last_date.strftime('%Y-%m-%d %H:%M:%S'))
+                else:
+                    diff = adoption - creation
+                    start_dates.append(creation.strftime('%y-%m-%d %H:%M:%S'))
+                    end_dates.append((adoption + diff).strftime('%y-%m-%d %H:%M:%S'))
+
+            else:
+                start_dates.append(np.nan)
+                end_dates.append(np.nan)
+
+        df['start_date'] = start_dates
+        df['end_date'] = end_dates
+        return df
+
 
 if __name__ == '__main__':
     with open(os.path.join(data_path, 'coc_adoption.json')) as file:
         dates = json.load(file)
     pr = PullRequest(dates)
-    for project, _ in dates.items():
-        df = pr.separate_prs(project)
-        df.to_csv(os.path.join(data_path, 'prs/contributors', '{}_contributors.csv'.format(project)), index=False)
+    # for project, _ in dates.items():
+    #     df = pr.separate_prs(project)
+    #     df.to_csv(os.path.join(data_path, 'prs/contributors', '{}_contributors.csv'.format(project)), index=False)
+    df = pd.read_csv(os.path.join(data_path, 'All_Pulls.csv'))
+    df = pr.set_periods(df)
+    df.to_csv(os.path.join(data_path, 'All_Pulls.csv'), index=False)
     print()
