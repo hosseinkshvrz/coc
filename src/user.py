@@ -40,6 +40,8 @@ class User:
                     break
             if len(is_persons) == i:
                 is_persons.append(False)
+            if len(is_persons) % 500 == 0:
+                print('{} records passed.'.format(len(is_persons)))
         self.df['is_person'] = is_persons
         self.df.to_csv('All_Pulls.csv')
         # first_name = [n.split()[0] for n in names]
@@ -98,7 +100,7 @@ class User:
 
 if __name__ == '__main__':
     user = User('All_Pulls.csv')
-    user.store_demographic()
+    # user.store_demographic()
     print('finished.')
     # df = pd.read_csv(os.path.join(data_path, 'All_Pulls.csv'))
     print()

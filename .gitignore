@@ -1,1 +1,11 @@
 .idea
+conf
+Logs
+src/Logs
+Pulls/Logs
+Pulls/Config
+*.out
+*.log
+*/.ipynb_checkpoints
+*/__pycache__
+venv
