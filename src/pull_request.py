@@ -57,8 +57,8 @@ class PullRequest:
                     end_dates.append(last_date.strftime('%Y-%m-%d %H:%M:%S'))
                 else:
                     diff = adoption - creation
-                    start_dates.append(creation.strftime('%y-%m-%d %H:%M:%S'))
-                    end_dates.append((adoption + diff).strftime('%y-%m-%d %H:%M:%S'))
+                    start_dates.append(creation.strftime('%Y-%m-%d %H:%M:%S'))
+                    end_dates.append((adoption + diff).strftime('%Y-%m-%d %H:%M:%S'))
 
             else:
                 start_dates.append(np.nan)
